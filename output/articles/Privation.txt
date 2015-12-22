@@ -1,0 +1,86 @@
+{{Top}}lack of object|privation{{Bottom}}
+
+==Jacques Lacan==
+===Lack of Object===
+In his [[seminar]] of 1956-7, [[Seminar IV|Object Relations]], [[Lacan]] distinguishes between three types of "[[lack of object]]": 
+# [[privation]], 
+# '''[[frustration]]''' and 
+# '''[[castration]]'''. 
+
+Each of these types of [[lack]] is located in a different [[order]], each is brought about by a different kind of [[agent]], and each involves a different kind of [[object]]. 
+
+===Lack in the Real of a Symbolic Object===
+[[Privation]] is defined as a [[lack]] in the [[real]] of a [[symbolic]] [[object]] (the [[symbolic]] [[phallus]]). 
+
+The [[agent]] who brings about this [[lack]] is the [[imaginary]] [[father]].
+
+===Castration Complex===
+[[Privation]] is [[Lacan]]'s attempt to theorize more rigorously [[Freud]]'s concept of [[female]] [[castration]] and [[penis envy]]. 
+
+According to [[Freud]], when [[children]] realize that some people ([[women]]) do not have a [[penis]], this is a [[traumatic]] moment which produces different effects in the [[boy]] and in the [[girl]] (see [[castration complex]]). 
+
+Whereas the [[boy]] develops a [[fear]] of having his [[penis]] cut off, the [[girl]] envies the [[boy]] his possession of the [[penis]], which she sees as a highly desirable organ. 
+
+The [[girl]] blames the [[mother]] for depriving her of a [[penis]], and redirects her affections to the father in the hope that he will provide her with a [[child]] as a [[symbolic]] [[substitute]] for the [[penis]] she [[lacks]].<ref>{{F}} (1924d) ''[[Sigmund Freud:Bibliography|An Autobiographical Study]]''. [[SE]] XX, 3.</ref>
+
+[[Privation]], then, refers to the [[female]]'s [[lack]] of a [[penis]], which is clearly a [[lack]] in the [[Real]]. 
+
+===The Real===
+However, by definition, "the [[real]] is full".
+
+The [[real]] is never [[lacking]] in itself, and thus "the notion of privation ... implies the [[symbolisation]] of the [[object]] in the [[real]]."<ref>{{S4}} p. 218</ref>
+
+In other words, when the [[child]] perceives the [[penis]] (a real organ) as [[absent]], it is only because he has a notion that it somehow should be there, which is to introduce the [[symbolic]] into the [[real]]. 
+
+Thus what is [[lacking]] is not the [[real]] organ, for, [[biologically]] speaking, the vagina is not incomplete without one; what is [[lacking]] is a [[symbolic]] object, the [[symbolic]] [[phallus]]. 
+
+Its [[symbolic]] nature is confirmed by the fact that it can be substituted by a [[child]] in the [[girl]]'s [[unconscious]]; in appeasing her [[penis envy]] by [[desiring]] a [[child]], [[Freud]] argues, the [[girl]] "[[slip]]s - along the lines of a [[symbolic]] equation, one might say - from the [[penis]] to a [[baby]]."<ref>{{F}} (1924d) "[[Sigmund Freud:Bibliography|The Dissolution of the Oedipus Complex]]." [[SE]] XIX, 178-9</ref>
+
+[[Freud]] argues that the little [[girl]] blames her [[mother]] for depriving her of a [[penis]]. 
+
+[[Lacan]], however, argues that it is the [[imaginary]] father who is held to be    the [[agent]] of [[privation]]. 
+
+However, these two accounts are not necessarily incompatible.
+
+===Girl and Mother===
+Even though the [[girl]] may at first resent the [[mother]] for depriving her of a [[penis]] and turn to the [[father]] in the hope that he will provide her with a [[symbolic]] [[substitute]], she later turns her resentment against the [[father]] when he fails to provide her with the desired [[child]].
+
+[[Freud]] argues that [[penis envy]] persists into [[adulthood]], manifesting itself both in the [[desire]] to enjoy the [[penis]] in sexual intercourse, and in the [[desire]] to have a [[child]] (since the [[father]] has failed to provide her with a [[child]], the [[woman]] turns to another [[man]] instead). 
+
+[[Lacan]] argues that even when the [[woman]] has a [[child]], this does not spell the end of her sense of [[privation]]. 
+
+Her [[desire]] for the [[phallus]] remains [[unsatisfied]], no matter how many [[children]] she has. 
+
+The [[mother]]'s basic [[dissatisfaction]] is perceived by the [[child]] from very early on; he  realizes that she has a [[desire]] that aims at something beyond her [[dual relationship]] with him - the [[imaginary]] [[phallus]].<ref>{{S4}} p. 194</ref>
+
+The [[child]] then seeks to fulfil her [[desire]] by [[identifying]] with the [[Imaginary]] [[phallus]]. 
+
+In this way, the [[privation]] of the [[mother]] is responsible for introducing the [[dialectic]] of [[desire]] in the [[child]]'s life for the first time.
+
+==See Also==
+{{See}}
+* [[Castration]]
+* [[Desire]]
+||
+* [[Dialectic]]
+* [[Frustration]]
+||
+* [[Castration]]
+* [[Frustration]]
+||
+* [[Mother]]
+* [[Need]]
+||
+* [[Phallus]]
+* [[Father]]
+{{Also}}
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+[[Category:Freudian psychology]]
+{{OK}}
+
+__NOTOC__

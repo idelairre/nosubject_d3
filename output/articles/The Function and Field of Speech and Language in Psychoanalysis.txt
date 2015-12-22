@@ -1,0 +1,42 @@
+{{Top}}Fonction et champ de la parole et du langage en psychana­lyse{{Bottom}}
+
+
+==Background==
+
+At the Rome Congress of Romance Language Psychoanalysts, on the [[{{Y}}|26th of September, 1953]], [[Lacan]] delivered a paper entitled "[[Fonction et champ de la parole et du langage en psychana­lyse]]" ("[[The function and field of speech and language in psychoanalysis]]").<ref>"[[The Function and Field of Speech and Language in Psychoanalysis|Fonction et champ de la parole et du langage en psychana­lyse]]." ''[[Écrits]]''. Paris: Seuil, 1966: 237-322 ["[[The Function and Field of Speech and Language in Psychoanalysis]]." Trans. [[Alan Sheridan]]. ''[[Écrits: A Selection]]''. London: Tavistock, 1977; New York: W.W. Nortion & Co., 1977: 30-113].
+</ref> This paper, often referred to as the [[Rome Discourse]] marked [[Lacan]]'s break with the analytic establishment and the [[formation]] of his own [[school]] of [[psychoanalytic theory|psychoanalytic thought]]. Also in 1953, [[Lacan]] and a group of colleagues left the '''''[[Société psychanalytique de Paris]]''''' ([[SPP]]) to form the '''''[[Société Française de Psychanalyse]]''''' ([[SFP]]). The [[The Function and Field of Speech and Language in Psychoanalysis|Rome Discourse]] came to be seen as the founding document of the [[SFP]], and of a new direction in [[psychoanalysis]].
+
+==Language==
+The paper, the founding statement of Lacanian theory, defines [[psychoanalysis]] as a practice of [[speech]] and a theory of the [[speech|speaking]] [[subject]].  [[Psychoanalysis]], he asserts, is distinguished from other disciplines in that the [[analyst]] works on the [[subject]]'s [[speech]].  He points out that [[Freud]] often referred to [[language]], particularly when he was focusing on the [[unconscious]].  After all, [[language]] is the "[[talking cure]]".
+
+
+===Three Orders===
+The theory of the three interacting orders, the [[Symbolic]], the [[Imaginary]] and the [[Real]], first appears in detail in this paper.  These orders can be conceived as different planes of existence which, though interconnected, are independent realities, each [[order]] being concerned with different functions.
+
+=====Imaginary=====
+The [[Imaginary]] [[order]] includes the field of [[phantasies]] and [[image]]s.  It evolves out of the [[mirror stage]] but extends into the adult [[subject]]'s relationships with others.  The prototype of the typical imaginary relationship is the infant before the [[mirror]], fascinated with its [[image]].  The [[Imaginary]] [[order]] also seems to include preverbal structures, for example, the various 'primitive' phantasies of children, psycotic and perverse patients.
+
+=====Symbolic=====
+The [[Symbolic]] [[order]] is concerned with the function of [[symbol]]s and symbolic systems.  [[Language]] belongs to the [[Symbolic]] [[order]].  Is is through the symbolic order that the subject is constituted.
+
+The Real order is the most elusive of these categories, and is linked to the dimensions of sexuality and death.  It seems to be the domain outside the subject.  The Real is the domain of the inexpressible, of what cannot be spoken about, for it does not belong to language.  It is the order where the subject meets with inexpressible enjoyment and death.
+
+
+==Summary==
+This paper sets out [[Lacan]]'s major concerns for the following decade:
+
+* the distinction between '''[[speech]]''' and '''[[language]]''',
+* an understanding of the '''[[subject]]''' as distinct from the '''''[[ego|I]]''''', and, above all,
+* the elaboration of the central concepts of the '''[[signifier]]''' and the '''[[symbolic|symbolic order]]'''.
+
+==Notes==
+<references />
+
+
+
+
+
+
+
+
+__NOTOC__

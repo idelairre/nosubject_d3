@@ -1,0 +1,35 @@
+The distinction between doubt as an instrument of rational thought and pathological doubt was known to philosophers (Descartes, Spinoza) long before Freud, and had long been studied as a symptom or syndrome in psychiatry. Théodule Ribot defined doubt as "a conflict between two tendencies in thought, incompatible and antagonistic, without any possible reconciliation, into a succession of positive and negative judgments about the same subject that does not culminate in a conclusion" (1925). In his study on obsessional neurosis, Freud noted that "[a]nother mental need . . . obsessional neurotics . . . is the need for uncertainty in their life, or for doubt" (1909d, p. 232).
+
+Freud first discussed doubt in his work on dreams where he saw it as a mark of resistance and an indication to the analyst of the significance of the repressed element to which it related. But for the most part Freud considered doubt in the context of obsessional neurosis, where it applied to events that had already occurred, and could be seen above all as an expression of ambivalence, a repudiation of the instinct for mastery as sublimated into an instinct for knowledge (1913i, p. 324).
+
+The etiology of doubt as a symptom is analyzed at length in the case history of the "Rat Man" (1909d). Freud summarized it in a letter of April 21, 1918, to Lou Andreas-Salomé: "The tendency to doubt arises not from any occasion for doubt, but is the continuation of the powerful ambivalent tendencies in the pregenital phase, which from then on become attached to every pair of opposites that present themselves" (1966/1972, p. 77).
+
+Obsessional thought, however, to characterize it more accurately, has three somewhat different aspects: uncertainty, hesitation, and doubt. Uncertainty can be viewed as that voluntary blurring of references, which underpins the aversion for watches, for example. Doubt, for its part, is an internal perception of indecision, which just like hesitation is associated with the volitional sphere, whereas uncertainty belongs to the cognitive and doubt to the affective. These three aspects do not necessarily function simultaneously, as witness the fact that we can be certain yet unable to decide on action; at the same time, action can overcome hesitation in the absence of the slightest certainty about the reasonableness of that decision. The essence of wisdom would be to achieve certainty before abandoning hesitation—the precise attribute obsessionals find it so hard to adopt (Mijolla-Mellor, 1992).
+
+Apropos of the Rat Man, Freud mentions the "predilection for uncertainty" of obsessional neurotics who turn their thoughts to "those subjects upon which all mankind are uncertain and upon which our knowledge and judgments must necessarily remain open to doubt" (1909d, p. 232-33). This tendency extends to easily accessible knowledge, seemingly as a form of protection against the risk of knowing. In fact the obsessive neutralizes any idea, any decision, by evoking its opposite. Thus hesitation and the predilection for uncertainty constitute the cognitive aspect of the impossibility of choosing, an attitude that serves to delay action indefinitely. The obsessive is paralyzed by ambivalence, immobilized by two instinctual impulses directed at the same object.
+
+What is the source of this ambivalence? Since it is too general a concept to determine the "choice of neurosis," Freud offered a hypothesis based on constitutional factors: "The sadistic components of love have, from constitutional causes, been exceptionally strongly developed." And in terms of individual history, these "have consequently undergone a premature and all too thorough suppression" (1909d, p. 240).
+
+Serge Leclaire (1971) has made significant contributions to our understanding of the nature of doubt in the obsessive individual, which he sums up rather laconically as "He doubts because he knows."
+
+
+==See Also==
+* [[Certainty]]
+* [[Intellectualization]]
+* [[Mahler, Gustav (meeting with Sigmund Freud)]]
+* [["Notes upon a Case of Obsessional Neurosis" (Rat Man)]]
+* [[Obsession]]
+* [[Obsessional neurosis]]
+
+==References==
+<references/>
+# Freud, Sigmund. (1909d). Notes upon a case of obsessional neurosis. SE, 10: 151-318.
+# ——. (1913i). The disposition to obsessional neurosis: a contribution to the problem of choice of neurosis. SE, 12: 311-326.
+# Freud, Sigmund, and Andreas-Salomé, Lou. (1972). Sigmund Freud and Lou Andreas-Salomé; letters. (Ernst Pfeiffer, Ed. and William and Elaine Robson-Scott, Trans.). New York: Harcourt Brace. (Original work published 1966)
+
+[[Category:New]]
+[[Category:Enotes]]
+[[Category:Psychoanalysis]]
+[[Category:Terms]]
+[[Category:Concepts]]
+[[Category:Sigmund Freud]]

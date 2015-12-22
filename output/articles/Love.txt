@@ -1,0 +1,62 @@
+{{Top}}amour{{Bottom}}
+
+==Jacques Lacan==
+===Symbolic===
+[[Lacan]] argues that it is [[impossible]] to [[speech|say]] anything [[meaning]]ful or [[meaning|sensible]] about [[love]].<ref>{{S8}} p. 57</ref>  Indeed, the moment one starts to [[speech|speak]] about [[love]], one descends into imbecility.<ref>{{S20}} p. 17</ref>  Given these views, it might seem surprising that [[Lacan]] himself dedicates a great deal of his [[seminar]] precisely to [[speech|speaking]] about [[love]].  However, in doing so, [[Lacan]] is merely demonstrating what the [[analysand]] does in [[psychoanalytic treatment]], for "the only thing that we do in the [[analytic discourse]] is [[speech|speak]] about [[love]]."<ref>{{S20}} p. 77</ref>
+
+===Imaginary===
+[[Love]] is located by [[Lacan]] as a purely [[imaginary]] phenomenon, although it has effects in the [[symbolic]] [[order]].<ref>(one of those effects being to produce "a veritable subduction of the symbolic") {{S1}} p. 142</ref>  [[Love]] is [[autoeroticism|autoerotic]], and has a fundamentally [[narcissism|narcissistic]] [[structure]] since "it's one's own ego that one loves in love, one's own ego made real on the imaginary level."<ref>{{S1}} p. 142</ref>  The [[imaginary]] nature of [[love]] leads [[Lacan]] to oppose all those [[analyst]]s who posit [[love]] as an ideal in [[psychoanalytic treatment]].<ref>{{S7}} p. 8</ref>
+
+[[Love]] involves an [[imaginary]] reciprocity, since "to love is, essentially, to wish to be loved."<ref>{{S11}} p. 253</ref>  It is this reciprocity between "loving" and "being loved" that constitutes the illusion of [[love]], and this is what distinguishes it from the [[order]] of the [[drive]]s, in which there is no reciprocity, only pure activity.<ref>{{S11}} p. 200</ref>  [[Love]] is an illusory [[fantasy]] of fusion with the beloved which makes up for the [[absence]] of any [[sexual relationship]].<ref>{{S20}} p. 44</ref>  This is especially clear in the asexual concept of [[courtly love]].<ref>{{S20}} p. 65</ref>
+
+[[Love]] is [[truth|deceptive]].  "As a specular mirage, love is essentially deception."<ref>{{S11}} p. 268</ref>  It is [[lure|deceptive]] because it involves giving what one does not have (i.e. the [[phallus]]); to [[love]] is "to give what one does not have."<ref>{{S8}} p. 147</ref>  [[Love]] is directed not at what the [[object|love-object]] has, but at what he [[lack]]s, at the nothing beyond him. The [[object]] is valued insofar as it comes in the place of that [[lack]].
+<!-- Lacan suggests that when one is in love one is really saying: "I am what is lacking in you, with my devotion to you, with my sacrifice for you, I will fill you out, I will complete you."  The operation of love is therefore double: the [[subject]] fills in his own [[lack]] by offering himself to the [[other]] as the [[object]] filling out the [[lack]] in the [[Other]]. -->
+
+===Love and Desire===
+One of the most complex areas of [[Lacan]]'s [[Jacques Lacan:Bibliography|work]] concerns the relationship between [[love]] and [[desire]].  On the one hand, the two terms are diametrically opposed.  On the other hand, this opposition is problematized by certain similarities between the two:
+
+====Opposition====
+As an [[imaginary]] phenomenon which belongs to the [[order|field]] of the [[ego]], [[love]] is clearly opposed to [[desire]], which is inscribed in the [[symbolic]] [[order]], the [[order|field]] of the [[Other]].<ref>{{S11}} pp. 189-91</ref> [[Love]] is a [[metaphor]], whereas [[desire]] is [[metonymy]].<ref>{{S8}} p. 53</ref> It can even be said that [[love]] kills [[desire]], since [[love]] is based on a [[fantasy]] of oneness with the beloved and this abolishes the difference which gives rise to [[desire]].<ref>{{S20}} p. 46</ref>
+
+====Similarity====
+On the other hand, there are elements in [[Lacan]]'s work which destabilize the neat opposition between [[love]] and [[desire]].
+
+# Firstly, they are both similar in that neither can ever be [[satisfied]].
+# Secondly, the [[structure]] of [[love]] as "the wish to be loved" is identical to the [[structure]] of [[desire]], in which the [[subject]] [[desire]]s to become the [[object]] of the [[Other]]'s [[desire]].
+# Thirdly, in the [[dialectic]] of [[need]]/[[demand]]/[[desire]], [[desire]] is born precisely from the unsatisfied part of [[demand]], which is the [[demand]] for [[love]].
+
+[[Lacan]]'s own [[discourse]] on [[love]] is thus often complicated by the same substitution of "[[desire]]" for "[[love]]" which he himself highlights in the text of [[Plato]]'s ''[[Plato|Symposium]]''.<ref>{{S8}} p. 141</ref>
+
+===Courtly Love===
+Courtly love "is an altogether refined way of making up for the absence of sexual relation by pretending that it is we who put an obstacle to it." Courtly love is a love of the impossible, a love for the obstacle which forever thwarts love - an elegant way of coming to terms with the [[absence]] of [[sexual relationship|sexual relations]].
+
+==See Also==
+{{See}}
+* [[Analysand]]
+* [[Analyst]]
+* [[Demand]]
+||
+* [[Desire]]
+* [[Dialectic]]
+* [[Discourse]]
+||
+* [[Lack]]
+* [[Lure]]
+* [[Metaphor]]
+||
+* [[Metonymy]]
+* [[Need]]
+* [[Signification]]
+||
+* [[Speech]]
+* [[Structure]]
+* [[Treatment]]
+{{Also}}
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+{{OK}}
+[[Category:Imaginary]]
+__NOTOC__

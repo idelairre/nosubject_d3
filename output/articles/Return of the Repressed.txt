@@ -1,0 +1,54 @@
+The return of the repressed is the process whereby repressed elements, preserved in the unconscious, tend to reappear, in consciousness or in behavior, in the shape of secondary and more or less unrecognizable "derivatives of the unconscious." Parapraxes, bungled or symptomatic actions, are examples of such derivatives.
+Beginning with <i>The Interpretation of Dreams</i> (1900a), Freud always emphasized the "indestructible" nature of unconscious material, as likewise the irreducible character of memory traces. If we have no memories of events during the first years of life, this is because of the repression that affects them. In a sense, all memories may be said to be retained, their recollection depending solely on the way in which they are cathected, decathected, or anticathected.
+In the thirty-first of his <i>New Introductory Lectures</i>, "The Dissection of the Psychical Personality," Freud posited the unalterability of the repressed in the following terms: "impressions, . . . which have been sunk into the id by repression, are virtually immortal; after the passage of decades they behave as though they had just occurred" (1933a [1932], p. 74). In <i>Moses and Monotheism</i>, he added: "What is forgotten is not extinguished but only 'repressed'; its memory-traces are present in all their freshness, but isolated by 'anticathexes'.... they are unconscious—inaccessible to consciousness" (1939a [1934-38], p. 94).
+Thus for Freud repressed wishes are not destroyed in the unconscious: rather, they are forever re-emerging in the form of what are generically called derivatives of the unconscious, some of which "become conscious as substitutive formations and symptoms—generally, it is true, after having undergone great distortion as compared with the unconscious, though often retaining many characteristics which call for repression" (1915e, p. 193). Such derivatives include not only symptoms but also fantasies, slips of the tongue, and parapraxes in general, and even certain character traits. They are expressions of the unconscious manifesting themselves in consciousness without this necessarily implying that what has been repressed becomes conscious: The repressed returns, but often remains unrecognizable. Such returns of the repressed are par excellence the material that the psychoanalyst works on, and they may refer as easily to the transference as to associations produced in the analytic session that are connected to the repressed ideas.
+Freud links "symptom formation" (<i>Symptombildung</i>) to the return of the repressed: "it is not the repression itself which produces substitutive formations and symptoms, but that these latter are indications of a <i>return of the repressed</i> " (1915d, p. 154). Broadly speaking, symptom formation encompasses not just the return of the repressed by means of "substitutive formations" or "compromise formations" but also "reaction formations" created as bulwarks against repressed wishes.
+The return of the repressed was considered by Freud to be a "specific" mechanism (Freud to Ferenczi, December 6, 1910), a view he reiterated in his paper on "Repression," where it is portrayed as a third distinct phase in the overall process of repression, following "primal repression" and "repression proper" or "after-pressure" (1915d, p. 148).
+In a section of <i>Moses and Monotheism</i> dealing with the return of the repressed, Freud evokes the re-emergence of the "impressions" of early childhood and the instinctual demands that can erupt into the life of the subject, orientating his actions and subjecting him to constraining impulses. The instinct "renews its demand, and, since the path to normal satisfaction remains closed to it by what we may call the scar of repression, somewhere, at a weak spot, it opens another path for itself to what is known as a substitutive satisfaction, which comes to light as a symptom, without the acquiescence of the ego.... All the phenomena of the formation of symptoms may justly be described as the 'return of the repressed.' Their distinguishing characteristic, however, is the far-reaching distortion to which the returning material has been subjected as compared with the original" (1939a, p. 127).
+The repressed thus retains its initial impulse, its urge to penetrate consciousness. It may achieve this, according to Freud, under three conditions: "(1) if the strength of the anticathexis is diminished by pathological processes which overtake the other part [of the mind], what we call the ego, or by a different distribution of the cathectic energies in that ego, as happens regularly in the state of sleep; (2) if the instinctual elements attaching to the repressed receive a special reinforcement (of which the best example is the processes during puberty); and (3) if at any time in recent experience impressions or experiences occur which resemble the repressed so closely that they are able to awaken it. In the last case the recent experience is reinforced by the latent energy of the repressed, and the repressed comes into operation behind the recent experience and with its help." Freud adds that "In none of these three alternatives does what has hitherto been repressed enter consciousness smoothly and unaltered; it must always put up with distortions which testify to the influence of the resistance (not entirely overcome) arising from the anticathexis, or to the modifying influence of the recent experience or to both" (1939a, p. 95).
+
+==See Also==
+* [[Acting out]]
+* [[Character]]
+* [[Double]]
+* [[Dream]]
+* [[Estrangement]]
+* [[Fixation]]
+* [[Formations of the unconscious]]
+* [[Neurotic defenses]]
+* [[Historical truth]]
+* [[Idea]]/[[representation]]
+* [[Ideational representative]]
+* [[The Interpretation of Dreams]]
+* [[Judgment of condemnation]]
+* [[Moses and Monotheism]]
+* [[Persecution]]
+* [[Projection]]
+* [[Remembering]]
+* [[Repression]]
+* [[Substitute]]/[[substitutive formation]]
+* [[Substitutive formation]]
+* [[Symbolic equation]]
+* [[Topology]]
+* [[Totemism]]
+* [[The Uncanny]]
+
+==References==
+<references/>
+# Freud, Sigmund. (1900a). The interpretation of dreams. SE, 4-5.
+# ——. (1915d). Repression. SE, 14: 141-158.
+# ——. (1915e). The unconscious. SE, 14: 159-204.
+# ——. (1933a [1932]). New introductory lectures on psycho-analysis. SE, 22: 1-182.
+# ——. (1939a [1934-38]). Moses and monotheism: Three essays. SE, 23: 1-137.
+# Freud, Sigmund, and Ferenczi, Sándor. (1993-2000). The correspondence of Sigmund Freud and Sándor Ferenczi (Volume 1: 1908-14]]
+* [[Eva Brabant, Ernst Falzeder, and Patrizia Giampieri-Deutsch, Eds.]]
+* [[Peter T. Hoffer, Trans.). Cambridge, MA: Belknap Press of Harvard University Press.
+
+[[Category:New]]
+
+
+[[Category:Psychoanalysis]]
+[[Category:Terms]]
+[[Category:Concepts]]
+[[Category:Sigmund Freud]]
+[[Category:Jacques Lacan]]

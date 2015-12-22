@@ -1,0 +1,50 @@
+The idea of overdetermination refers to the organization of multiple determinants combining to define a psychic formation. The notion may be represented metaphorically as multiple nodes anchoring a web whose linking strands are lines of associated thoughts. The content of psychic formations understood in this way is determined by the points of intersection of the lines of association, along which psychic energy flows as part of a process of displacement.
+
+Another Freudian conceptualization of overdetermination, lateral and etiopathogenic, views psychic formations as the outcome of a cumulation of causes whose combination is the necessary condition of their coming into being.
+
+Freud introduced the concept of overdetermination very early on: it is sketched out in the Studies on Hysteria (1895d), though more in the etiopathogenic sense of a constitution of the subject rendering him vulnerable to a traumatic accumulation of factors than in the sense of chains of association. The latter sense emerged more clearly, indeed in its definitive form, in The Interpretation of Dreams (1900a), where the elements of the dream-content, viewed as nodes, are described as over-determined in that they are represented many times over in the dream-thoughts, which crystallize at these points. Overdetermination thus came to be seen as the basis of dream-formation, and Freud focused the remainder of his study on the mechanisms that facilitated it. Thus in analyzing the dream of "Irma's injection," he isolated the mechanism of condensation, and in particular developed the idea of "collective figures." And since overdetermination suggested a procedure for selecting the components of the dream-content, he proposed the notion of the displacement of psychical intensity along associative chains and ramifications. Displacement and condensation, he argued, were the foundation of dream-formation.
+
+Overdetermination was seen by Freud as affecting the symptom as well as the dream; in the wake of Jacques Lacan it is applied more broadly to all formations of the unconscious. It should not be taken, however, as a principle of very wide extension, but simply as the basis of that fluctuation of associations which makes different interpretations of the same psychic formation possible.
+
+
+==new==
+
+'''Overdetermination''', the idea that a single observed effect is determined by multiple causes at once (any one of which alone might be enough to account for the effect), was originally a key concept of [[Sigmund Freud]]'s [[psychoanalysis]].  
+
+
+==For Freud and Psychoanalysis==
+
+Freud wrote in ''[[The Interpretation of Dreams]]'' that many features of dreams were usually "overdetermined," in that they were caused by multiple factors in the life of the dreamer, from the "residue of the day" (superficial memories of recent life) to deeply repressed traumas and unconscious wishes, these being "potent thoughts".  Freud favored interpretations which accounted for such features not only once, but many times, in the context of various levels and complexes of the dreamer's psyche.
+
+The concept was later borrowed for a variety of other realms of thought.  
+
+
+==See Also==
+* [[Condensation]]
+* [[Gaze]]
+* [[Overinterpretation]]
+* [[Paranoia]]
+* [[The Psychopathology of Everyday Life]]
+* [[Rite]] or [[ritual]]
+* [[Science and psychoanalysis]]
+* [[Strata/stratification]]
+* [[Studies on Hysteria]]
+* [[Sum of excitation]]
+* [[Symbolic]]
+* [[Symbolism]]
+
+==References==
+<references/>
+# Freud, Sigmund. (1900a). The interpretation of dreams. SE, 4-5.
+# Freud, Sigmund, and Breuer, Josef. (1895d). Studies on hysteria. SE, 2: 48-106.
+
+[[Category:New]]
+
+
+[[Category:Psychoanalysis]]
+[[Category:Terms]]
+[[Category:Concepts]]
+[[Category:Sigmund Freud]]
+[[Category:Jacques Lacan]]
+[[Category:Psychoanalytic theory]]
+[[Category:Freudian psychology]]

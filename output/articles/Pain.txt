@@ -1,0 +1,35 @@
+<blockquote>Most of the "pain" we experience is of a perceptual order, perception either of the urge of unsatisfied instincts or of something in the external world which may be painful in itself or may arouse painful anticipations in the psychic apparatus and is recognized by it as "danger."<ref>{{BPP}} Ch. 1</ref></blockquote>
+
+
+==Pain, Physical==
+<blockquote>Pain-primarily and as a rule-occurs if a stimulus impinging on the periphery breaks through the defenses that oppose stimuli of excessive strength and hence acts like a continuous instinctual stimulus against which otherwise efficacious muscular activity such as serves to remove the stimulated region from the stimulus remains powerless. If the pain does not originate from a point on the skin but from an internal organ, this does not alter the situation in any way; it is only that a bit of the internal periphery has replaced the external. ... In the case of physical pain there arises an intense cathexis, which may be termed narcissistic, of the painful region of the body - a cathexis which increases progressively and which acts upon the ego in a so to speak evacuative manner.<ref>{{PoA}} Ch. 11</ref></blockquote>
+
+
+==Pain, Psychic==
+<blockquote>It certainly cannot be without signficance that language has created the concept of inward, of psychic, pain, and has equated the sensations attendant upon object loss with physical pain.<ref>{{PoA}} Ch. 11</ref></blockquote>
+
+
+
+
+
+
+
+
+
+
+
+The term "pain" refers to a physical sensation or a distress linked to instinctual tension, which the psychic apparatus then seeks to discharge by work according to the principle of pleasure/unpleasure.
+
+Jean-Bertrand Pontalis (1981) noted that the outline for an original theory of pain can be found in Freud's work from "A Project for a Scientific Psychology" (1950c [1895]) onward. Taken up again in Inhibitions, Symptoms, and Anxiety (1926d [1925]), this theory covers the basic reference points of analytic theory: the theory of narcissism, the question of trauma, the definition of primary masochism, and the presentation of the death instinct. Finally, with the concept of negative therapeutic reaction in place, Freud, in The Ego and the Id (1923b), described how pain drives resistance to analysis, indeed, how pain is the final refuge from renouncing the lost object, as the resistance implies.
+
+By 1895 Freud had postulated bipolarity as the principle of psychic functioning, and, anticipating his later theory of instinctual dualism, he opposed the experience of pain to the experience of satisfaction. In qualitative terms, pain is different from unpleasure in that pain is situated outside the economic apparatus of pleasure/unpleasure. In dynamic terms, "[p]ain is . . . characterized as an irruption of excessively large Qs [quantities] into N [neurones that don't retain quantities of energy] and R [neurones that do retain energy and are capable of retaining memory" (1950c, p. 307). Then the body discharges the accumulated excitation. Pain can cause the subject to break out of preestablished paths only because there are boundaries (bodily boundaries, ego boundaries); however, its internal discharge has an implosive effect. Like a physical or psychic hole (to be distinguished from a possible lacuna or a lack), the excess of excitation caused by pain obstructs all binding activity. Pontalis (1981) has stressed that this theory of pain breaching is a departure from the economic apparatus where the theory of anxiety is more generally situated.
+
+In 1926, in addendum C to Inhibitions, Symptoms and Anxiety, Freud again tried to differentiate pain from anxiety, though not without difficulty or contradiction. Pain is primarily a reaction to the loss of the object, whereas anxiety is a reaction to the danger that loss entails. Pain is the consequence of a breaching of the protective shield, and by acting as a constant instinctual excitation (some authors have proposed the idea of a pseudo-instinct here), it prevents the subject from escaping from it. Nonetheless, pain has a locus: it emanates from the periphery of the body or the organs. If anxiety has already led the subject to regard the loss of the object metaphorically, the unmediated reality of pain ensures that the subject can survive without the loss of the object or the nostalgia of that loss. In a third stage of his exposition in addendum C, Freud returns to the difference between mental pain and physical pain, arguing that the former is much more closely related to the mechanism of anxiety. "The transition from physical pain to mental pain corresponds to a change from narcissistic cathexis to object-cathexis. An object-presentation which is highly cathected by instinctual need plays the same role as a part of the body which is cathected by an increase of stimulus" (1926d, pp. 171-172).
+
+Freud thus uses the same model to describe both physical pain and psychic pain. As Pontalis has made clear, pain is not a case of metaphor but rather a case of analogy—a direct exchange between one level and another, as if with pain the body mutates into psyche and the psyche into body. But while anxiety can be communicated, pain cannot. Despite a scream of pain, the cry does nothing to ease it. The experience of pain takes place within a bodily ego. Both physical pain and mental pain partake of the content-container relationship (Enriquez, 1980; McDougall, 1978). The subject in pain finds it impossible to recover the object by means of representation: "Where there is pain, it is the lost, absent object that is present; the real, present object that is absent." The distinctive feature of pain is its blurring of boundaries. Thus, for example, certain types of physical suffering serve to alleviate mental pain. Recent clinical work on somatization and borderline states is often faced with this inchoate nature of pain: absolute, naked pain.
+
+Cathexis; Dead mother complex; Elisabeth von R. case of; Erotogenic masochism; Guilt, unconscious sense of; Inhibitions, Symptoms, and Anxiety; Masochism; Melancholia; Mourning; Physical pain/psychic pain; Pleasure/unpleasure principle; Protective shield, breaking through the; Psychosomatic limit/boundary; "Project for a Scientific Psychology, A"; Quota of affect; Sadism; Sadomasochism; Self-mutilation in children; Suffering; Unpleasure.
+
+
+{{Freudian Dictionary}}
+{{!}}

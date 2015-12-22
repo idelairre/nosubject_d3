@@ -1,0 +1,100 @@
+{{Top}}vérité{{Bottom}}
+
+[[Truth]] is one of the most central, and yet most complex terms in [[Lacan]]'s discourse. 
+
+==Psychoanalysis==
+The [[aim]] of [[psychoanalytic]] [[treatment]] is to lead the [[analysand]] to articulate the [[truth]] of his or her [[desire]].
+
+[[Truth]] does not await, in some preformed state of fullness, to be revealed to the [[analysand]] by the [[analyst]], but is rather constructed in the [[dialectic]]al movement of the [[treatment]] itself.<ref>{{Ec}} p.144</ref> 
+
+==Philosophy==
+[[Lacan]] argues, in opposition to the traditions of classical [[philosophy]], that [[truth]] is not beautiful<ref>{{S7}} p.217</ref> and that it is not necessarily beneficial to learn the [[truth]].<ref>{{S17}} p.122</ref> 
+
+[[Lacan]] speaks about "[[truth]]" in the singular, not as a single [[universal]] [[truth]], but as [[particular]] [[truth]], unique to each [[subject]].<ref>{{S7}} p.24</ref> 
+
+==Language==
+[[Truth]] is only a meaningful concept in the context of [[language]]: 
+
+<blockquote>"It is with the appearance of [[language]] that the dimension of [[truth]] emerges."<ref>{{E}} p.172</ref></blockquote>
+
+[[Psychoanalytic]] [[treatment]] is based on the fundamental premise that [[speech]] is the only means of revealing the [[truth]] about [[desire]]. 
+
+<blockquote>"[[Truth]] hollows its way into the [[real]] thanks to the dimension of [[speech]]. There is neither [[true]] nor [[false]] prior to [[speech]]."<ref>{{S1}} p.228</ref></blockquote>
+
+==Science==
+From [[Lacan]]'s earliest writings, the term "[[truth]]" has metaphysical,  even mystical, nuances which problematise any attempt to articulate [[truth]] and [[science]]. 
+
+It is not that [[Lacan]] denies that [[science]] aims to know the [[truth]], but simply that [[science]] cannot claim to monopolise [[truth]] as its exclusive property.<ref>{{Ec}} p.79</ref> 
+
+[[Lacan]] later argues that [[science]] is in fact based on a [[foreclosure]] of the concept of [[truth]] as [[cause]].<ref>{{Ec}} p.874</ref> 
+
+The concept of [[truth]] is essential for understanding [[madness]], and modern [[science]] renders [[madness]] meaningless by ignoring the concept of [[truth]].<ref>{{Ec}} p.153-4</ref>
+
+==Truth and Deception==
+[[Truth]] is intimately connected with [[deception]], since lies can often reveal the [[truth]] about [[desire]] more eloquently than honest statements. 
+
+[[Deception]] and lies are not the opposite of [[truth]]: on the contrary, they are inscribed in the text of [[truth]]. 
+
+The [[analyst]]'s role is to reveal the [[truth]] inscribed in the [[deception]] of the [[analysand]]'s [[speech]]. 
+
+Although the [[analysand]] may in effect be saying to the [[analyst]] "I am deceiving you," the [[analyst]] says to the [[analysand]]:
+
+<blockquote>"In this I am deceiving to you, what you are sending as message is what I express to you, and in doing so you are telling the truth.<ref>{{S11}} p.139-40; {{S4}} p.107-8)</ref></blockquote>
+
+==False Appearances==
+The false [[appearance]]s presented by the [[analysand]] are not merely obstacles that the [[analyst]] must expose and discard in order to discover the [[truth]]; on the contrary, the [[analyst]] must take them into account (see [[semblance]]).
+
+==Error and Mistakes==
+[[Psychoanalysis]] has shown that the [[truth]] about [[desire]] is often revealed by mistakes (parapraxes). 
+
+The complex relations between [[truth]], mistakes, error and [[deception]] are evoked by [[Lacan]] in a typically elusive phrase when he describes "the structuration of speech in search of truth" as "error taking flight in deception and recaptured by mistake."<ref>{{S1}} p. 273</ref>
+
+==Fiction==
+[[Lacan]] does not use the term "[[fiction]]" in the sense of 'a falsehood', but in the sense of a [[scientific]] construct.<ref>{{S7}} p.12</ref> 
+
+Thus [[Lacan]]'s term "[[fiction]]" corresponds to [[Freud]]'s term ''Konvention'', convention,<ref>{{S11}} p.163</ref> and has more in common with [[truth]] than falsehood. 
+
+Indeed, [[Lacan]] states that [[truth]] is [[structure]]d like a [[fiction]].<ref>{{E}} 306; {{Ec}} 808</ref>
+
+==The Real==
+The opposition which [[Lacan]] draws between [[truth]] and the [[real]] dates back to his pre-war writings,<ref>{{Ec}} p.75</ref> and is taken up at various points; 
+
+<blockquote>"We are used to the real. The truth we repress."<ref>{{E}} p.169</ref></blockquote>
+
+However, [[Lacan]] also points out that [[truth]] is similar to the [[real]]; it is impossible to articulate the whole [[truth]], and "[p]recisely because of this [[impossibility]], [[truth]] aspires to the real."<ref>{{TV}} p. 83</ref>
+
+==See Also==
+{{See}}
+* [[Analysand]]
+* [[Analyst]]
+* [[Cause]]
+* [[Desire]]
+||
+* [[Dialectic]]
+* [[Philosophy]]
+* [[Science]]
+* [[Semblance]]
+||
+* [[Speech]]
+* [[Structure]]
+* [[Subject]]
+* [[Treatment]]
+{{Also}}
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+__NOTOC__
+
+[[Category:Psychoanalysis]]
+[[Category:Jacques Lacan]]
+[[Category:Linguistics]]
+[[Category:Dictionary]]
+[[Category:Language]]
+[[Category:Symbolic]]
+[[Category:Concepts]]
+[[Category:Terms]]
+[[Category:Edit]]
+{{OK}}

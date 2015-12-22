@@ -1,0 +1,44 @@
+{{Top}}transitivisme{{Bottom}}
+
+==Identification==
+[[Transitivism]] -- a phenomenon first discovered by Charlotte Bühler -- refers to a special kind of [[identification]] often observed in the behaviour of small [[children]].<ref>{{E}} p. 5</ref>
+
+==Children==
+For example a [[child]] can hit another [[child]] of the same age on the left side of his face, and then touch the right side of his own face and cry in imagined pain. 
+
+==Jacques Lacan==
+For [[Lacan]], [[transitivism]] illustrates the confusion of [[ego]] and other which is inherent in [[imaginary]] [[identification]]. 
+
+==Inversion==
+The [[inversion]] (right to left) is further evidence of the function of the [[mirror]].
+
+==Paranoia==
+[[Transitivism]] is also evident in [[paranoia]], in which attack and counter-attack are bound together "in an absolute equivalence."
+
+==See Also==
+{{See}}
+* [[Development]]
+* [[Ego]]
+||
+* [[Identification]]
+* [[Imaginary]]
+||
+* [[Mirror stage]]
+* [[Paranoia]]
+{{Also}}
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+[[Category:Imaginary]]
+[[Category:Jacques Lacan]]
+[[Category:Development]]
+[[Category:Terms]]
+[[Category:Concepts]]
+[[Category:Dictionary]]
+[[Category:Psychoanalysis]]
+{{OK}}
+
+__NOTOC__

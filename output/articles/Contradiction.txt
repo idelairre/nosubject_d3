@@ -1,0 +1,39 @@
+In its primary meaning, contradiction is the act of contradicting, of opposing oneself to someone by saying the opposite of whatever he or she says. The term is used in mathematics and philosophy. In mathematical logic, a contradiction is a statement whose truth function has only one value: false. In philosophy it is the relation that exists between the affirmation and the negation of a proposition. A term that embodies incompatible (contrary or contradictory) elements is also called a contradiction.
+
+Contradicting the fears and feelings of a patient under hypnosis was the first therapeutic intervention that Freud described in his early article on "A Case of Successful Treatment by Hypnotism" (1892-93a). He showed that the etiology of the symptom depended on "antithetic ideas" (p. 121) opposed to the individual's intentions. The formal element in the etiology was thus contradiction, which also applied to repression: "For these patients whom I analysed had enjoyed good mental health up to the moment at which an occurrence of incompatibility took place in their ideational life—that is to say, until their ego was faced with an experience, an idea or a feeling which aroused such a distressing affect that the subject decided to forget about it because he had no confidence in his power to resolve the contradiction between that incompatible idea and his ego by means of thought-activity" (Freud 1894a, p. 47).
+
+The Interpretation of Dreams and the "first topography" increased the places in Freud's theory where contradictory oppositions could be found within a single agency, between agencies, or between psychical reality and external reality. As early as 1900, Freud noted that "Thoughts which are mutually contradictory make no attempt to do away with each other, but persist side by side. They often combine to form condensations, just as though there were no contradiction between them, or arrive at compromises such as our conscious thoughts would never tolerate, but such as are often admitted in our actions" (1900a, p. 596). The absence of contradiction, Widerspruchslosigkeit, at first an attribute of the primary process, later became a feature of the unconscious:
+
+The nucleus of the Ucs. consists . . . of wishful impulses. These instinctual impulses are co-ordinate with one another, exist side by side without being influenced by one another, and are exempt from mutual contradiction. When two wishful impulses whose aims must appear to us incompatible become simultaneously active, the two impulses do not diminish each other or cancel each other out, but combine to form an intermediate aim, a compromise. There are in this system no negation, no doubt, no degrees of certainty: all this is only introduced by the work of the censorship between the Ucs. and the Pcs. Negation is a substitute, at a higher level, for repression" (Freud, 1915e, pp.186-187).
+
+Freud used similar language apropos of the id, adding that "The logical laws of thought do not apply to the id, and this is true above all of the law of contradiction" (1933a [1932], p. 73). Ambivalence is the final dynamic factor necessary for understanding the ubiquity of contradiction in the expression of psychic processes.
+
+Thus, all products of the unconscious—dreams, slips, jokes, symptoms—simply disregard "the category of contraries and contradictories. ...Dreams feel themselves at liberty, moreover, to represent any element by its wishful contrary; so that there is no way of deciding, at first glance, whether any element that admits of a contrary is present in the dream-thoughts as a positive or as a negative" (Freud, 1900a, p. 318). Freud compared these psychic creations to the antithetical meanings of primal words (1910e), which he again analyzed in his study of taboos (1912-1913), and then in his essay on "The Uncanny" (1919h). The term "compromise formation," a feature of all defenses, demonstrates the extension of contradiction across the whole of mental life.
+
+Contradiction intersects with negation and with the formal referential binary true/false. But Freud was especially interested in dynamic processes that allow contradictory mental positions to be maintained simultaneously. In addition to those already mentioned, he also referred to negation linked to repression, disavowal, splitting, and repudiation (or foreclosure, in Lacanian terms). Thus the contradiction between wish and reality is systematic in relation to the difference between the sexes.
+
+The notion of contradiction implies the formal expression of an opposition and its relation to truth. Mathematicians such as Kurt Gödel have shown that its domain of relevance is restricted. Structuralist linguists have distinguished oppositions based on contraries from those based on exclusion. Contradiction would appear to be a very rudimentary formal instrument for investigating psychic conflicts. Freud did not rely much on it, preferring the more dynamic terms "opposite" and "contrary."
+
+==See Also==
+* [[Dream]]
+* [[Dream work]]
+* [[Illusion]]
+* [[Interpretation of Dreams, The]]
+* [["Negation"]]
+* [[Primary process/secondary process]]
+* [[Reversal into the opposite]]
+* [[Sense/nonsense]]
+* [[Unconscious, the]]
+* [["Unconscious, The"]]
+
+==References==
+<references/>
+# Freud, Sigmund. (1892-93a). A case of successful treatment by hypnotism. SE, 1: 115-128.
+# ——. (1900a). The interpretation of dreams]]
+* [[Part I. SE,4: 1-338]]
+* [[Part II. SE, 5: 339-625.
+# ——. (1894a). The neuro-psychoses of defence. SE,3:41-61.
+# ——. (1933a [1932]). New introductory lectures on psycho-analysis. SE, 22: 1-182.
+# ——. (1915e). The unconscious. SE, 14: 159-204.
+
+[[Category:New]]

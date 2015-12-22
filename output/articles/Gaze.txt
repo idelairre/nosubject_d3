@@ -1,0 +1,50 @@
+{{Top}}regard{{Bottom}}
+
+=Jacques Lacan=
+==Jean-Paul Sartre==
+[[Lacan]]'s first comments on the [[gaze]] appear in the first year of his [[seminar]], in reference to [[Jean-Paul Sartre]]'s [[phenomenology|phenomenological analysis]] of "[[gaze|the look]]."<ref>The fact that the English translators of [[Sartre]] and [[Lacan]] have used different terms obscures the fact that both use the same term in [[French]] - ''[[gaze|le regard]]''.</ref>  For [[Sartre]], the [[gaze]] is that which permits the [[subject]] to realize that the [[Other]] is also a [[subject]].
+
+<blockquote>My fundamental connection with the Other-as-subject must be able to be referred back to my permanent possibility of ''being seen'' by the Other.<ref>[[Jean-Paul Sartre|Sartre, Jean-Paul]]. ''[[Jean-Paul Sartre|Being and Nothingness: An Essay on Phenomenological Ontology]]'', trans. Hazel E. Barnes, London, Methuen, 1958 [1943]. p. 256</ref></blockquote>
+
+==Subject==
+When the [[subject]] is surprised by the [[gaze]] of the [[Other]], the [[subject]] is reduced to shame.<ref>[[Jean-Paul Sartre|Sartre, Jean-Paul]]. ''[[Jean-Paul Sartre|Being and Nothingness: An Essay on Phenomenological Ontology]]'', trans. Hazel E. Barnes, London, Methuen, 1958 [1943]. p. 261</ref>  [[Lacan]] does not, at this point, develop his own concept of the [[gaze]], and seems to be in general agreement with [[Sartre]]'s views on the [[subject]].<ref>{{S1}} p. 215</ref>  [[Lacan]] is especially taken with [[Sartre]]'s view that the [[gaze]] does not necessarily concern the organ of sight:
+
+<blockquote>Of course what ''most often'' manifests a look is the convergence of two ocular globes in my direction.  But the look will be given just as well on occasion when there is a rustling of branches, or the sound of a footstep followed by silence, or the slight opening of a shutter, or a light movement of a curtain.<ref>[[Jean-Paul Sartre|Sartre, Jean-Paul]]. ''[[Jean-Paul Sartre|Being and Nothingness: An Essay on Phenomenological Ontology]]'', trans. Hazel E. Barnes, London, Methuen, 1958 [1943]. p. 257</ref></blockquote>
+
+==Object==
+It is only in 1964, with the development of the concept of ''[[objet petit a]]'' as the [[cause]] of [[desire]], that [[Lacan]] devlops his own theory of the [[gaze]], a theory which is quite distinct from [[Sartre]]'s.<ref>{{S11}}</ref>  Whereas [[Sartre]] had conflated the [[gaze]] with the [[gaze|act of looking]], [[Lacan]] now separates the two; the [[gaze]] becomes the [[object]] of the [[gaze|act of looking]], or, to be more precise, the [[object]] of the [[drive|scopic drive]].  The [[gaze]] is therefore, in [[Lacan]]'s account, no longer on the side of the [[subject]]; it is the [[gaze]] of the [[Other]].
+
+==Split==
+And whereas [[Sartre]] had conceived of an essential reciprocity between seeing the [[Other]] and being-seen-by-him, [[Lacan]] now conceives of an antinomic relation between the [[gaze]] and the [[gaze|eye]]: the [[gaze|eye]] which looks is that of the [[subject]], while the [[gaze]] is on the side of the [[object]], and there is no coincidence between the two, since "You never look at me from the place at which I see you."<ref>{{S11}} p. 103</ref>  When the [[subject]] looks at an [[object]], the [[object]] is always already gazing back at the [[subject]], but from point at which the [[subject]] cannot see it.  This [[split]] between the [[gaze|eye]] and the [[gaze]] is nothing other than the [[split|subjective division]] itself, expressed in the field of vision.
+
+==Film Theory==
+The concept of the [[gaze]] was waken up by [[psychoanalytic]] [[art|film criticism]] in the 1970s, especially by [[feminist]] [[art|film critics]].  However, many of these critics have conflated [[Lacan]]'s concept of the [[gaze]] with the [[Sartre]]an concept of the [[gaze]] and other ideas on vision such as [[Foucault]]'s account of [[Foucault|panopticism]].  Much of so-called "[[Lacan]]ian [[art|film theory]]" is thus the site of great conceptual confusion.
+
+=See Also=
+{{See}}
+* [[Desire]]
+* [[Drive]]
+||
+* ''[[Objet petit a]]''
+* [[Optical model]]
+||
+* [[Other]]
+* [[Jean-Paul Sartre]]
+||
+* [[Split]]
+* [[Subject]]
+{{Also}}
+
+=References=
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+[[Category:Psychoanalysis]]
+[[Category:Feminist theory]]
+[[Category:Film theory]]
+[[Category:Jacques Lacan]]
+[[Category:Dictionary]]
+[[Category:Concepts]]
+[[Category:Terms]]
+
+__NOTOC__

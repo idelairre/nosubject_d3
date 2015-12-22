@@ -1,0 +1,52 @@
+[[Image:École lacanienne de psychanalyse.gif|right]]
+
+== Historique ==
+L''''École lacanienne de psychanalyse''' est fondée le 17 novembre 1985, quelques années après la dissolution de l'[[École freudienne de Paris]] et la disparition de [[Jacques Lacan]] en 1981. L'initiative en revient à certains de ses élèves et analysants, regroupés autour de la revue [http://www.ecole-lacanienne.net/publications.php?coll=6 Littoral] dont le premier numéro paraît fin 1981. 
+Ceux ci refusent alors de participer tant à la création de l'[[École de la cause freudienne]], prolongement familial légitimiste et quasiment religieux de la défunte EFP, qu'aux divers regroupements qui s'esquissent à l'époque et dont le dénominateur commun s'origine dans une sorte de contestation de la personne de [[Jacques-Alain Miller]] (voir notamment l'[[Association lacanienne internationale]] dirigée par [[Charles Melman]]).
+
+== Options théoriques ==
+L'originalité de cette école repose sur plusieurs point : 
+
+* Tout d'abord elle reconduit la procédure de la [[passe]], instituée par Lacan pour témoigner du passage de la position d'analysant à celle d'analyste, mais à l'aide d'une version remaniée de la [http://www.ecole-lacanienne.net/documents/1967-10-09b.doc proposition d’octobre 1967] et datée du 17 novembre 1985. 
+* Une insistance théorique prise sur les derniers développements lacaniens, notamment les séminaires consacrés à la [[topologie]] et à l'étude des [[nœuds borroméens]].
+* Un positionnement déterminée pour [http://www.ecole-lacanienne.net/bibliotheque/trans.pdf une transcription critique des séminaires de Jacques Lacan] (ce qui est loin d'être le cas de la version officielle élaborée par [[Jacques-Alain Miller]], ayant-droit des œuvres de son beau-père, où les erreurs de transcription fourmillent, rendant le texte impraticable).
+* Refus de l'amalgame freudo-lacanien ambiant et perceptible dans le jargon de certains psychanalystes.
+* Reconnaissance d'une seule qualité de membre, contrairement à la quasi totalité des sociétés freudiennes ou lacaniennes, fortement hiérarchisées.
+* Enfin, l'appui théorique pris ces dernières années sur l'enseignement de [[Michel Foucault]] et les avancées des [[études gay et lesbiennes]], expression d'une sexualité contestataire appelées aussi ''[[Gender Studies]]''.
+* Par ailleurs ses membres refusent globalement le terme de [[psychopathologie]].
+
+== Élaborations cliniques ==
+* L'École lacanienne de psychanalyse, à travers les travaux de certains de ses membres et notamment [[Jean Allouch]] propose de placer la [[psychose]] au centre de l'expérience analytique, prenant acte du ternaire lacanien [[RSI]] (Réel, Symbolique et Imaginaire) fonctionnant comme un paradigme pour la psychanalyse. 
+* La référence toujours plus oppressante de  certains analystes à un Ordre Symbolique venu d'on ne sait quel Lacan est salutairement battue en brèche. 
+* Enfin, mais de manière non exhaustive, ses membres ont développé une théorie de la fin de partie analytique en accord avec les dernières avancées lacaniennes (il ne s'agit pas d'une quelconque "traversée du fantasme").
+
+== Développements ==
+L'ELP ne se limite pas à la France, et une grande partie de ses 160 membres résident actuellement en Amérique latine où l'enseignement de [[Jacques Lacan]] suscite un réel engouement. De nombreuses revues brésiliennes, argentines ou mexicaines y publient régulièrement les travaux de l'École. Ainsi, la revue [http://www.mecayoelveinte.com/ Me cayó el veinte] ou les [http://www.epeele.org.mx/ éditions EPEELE].
+
+Elle édite aujourd'hui à travers les [http://www.epel-edition.com/index.php?action=accueil éditions EPEL] la revue [http://www.ecole-lacanienne.net/publications.php?coll=13 L'unebévue] ainsi qu'un certain nombre d'ouvrages consacrés aux études lacaniennes, à des monographies cliniques approfondies ou encore à des travaux philosophiques.
+
+Certaines associations périphériques lui sont directement rattachées comme [http://www.ecole-lacanienne.net/section-clinique.php Clinic Zones] dirigée par [[Mayette Viltard]] ou Litter animée par [[George-Henri Melenotte]] en région strasbourgeoise. 
+
+L'École Lacanienne propose de nombreuses activités et notamment des séminaires réguliers dont celui de [[Jean Allouch]] intitulé cette année [http://www.ecole-lacanienne.net/enseignements.php?id=134 "Avec ou sans l'amour ?"] et qui a trouvé son lieu à l'Hôpital [[Sainte Anne]].
+
+<!--
+== Quelques membres ==
+* [[Jean Allouch]]
+* [[Mayette Viltard]]
+* [[Guy le Gaufey]]
+* [[Jean-Paul Abribat]]
+* [[George-Henri Melenotte]]
+-->
+== Liens externes ==
+* [http://www.ecole-lacanienne.net/ Site officiel de l'ELP]
+* [http://www.jeanallouch.com/ Site du psychanalyste Jean Allouch]
+* [http://www.mecayoelveinte.com/ Site de la revue Me cayó el veinte (Mexique)]
+* [http://www.epeele.org.mx/ Site des éditions EPEELE (mexique)]
+* [http://www.erotologia.cl/n3/index.htm Site Erotologia] (27/08/06 ce lien semble mort)
+* [http://www.erotologia.cl/n1/entrevista/a.htm Un entretien avec Jean Allouch]
+* [http://www.nistatutniordre.org/ Pétition "Ni statut d'État ni Ordre pour la psychanalyse"]
+* [http://www.epel-edition.com/index.php?action=accueil Site des éditions EPEL (Editions et Publications de l'École Lacanienne)]
+<!--
+{{psychanalyse}}
+-->
+[[Category:French]]

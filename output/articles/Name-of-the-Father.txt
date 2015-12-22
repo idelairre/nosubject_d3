@@ -1,0 +1,52 @@
+{{Topp}}Nom-du-Père{{Bottom}}
+
+==Jacques Lacan==
+===Symbolic Father===
+When the expression "[[Name-of-the-Father|the name of the father]]" first appeared in [[Lacan]]’s work, in the early 1950s, it is without capital letters and refers generally to the '''legislative''' and '''prohibitive''' function of the "'''[[symbolic]] [[father]]'''" as the one who lays down the [[taboo]] on [[incest]] in the '''[[Oedipus complex]]'''. 
+
+<blockquote>"It is in the '[[Name-of-the-Father|name of the father]]' that we must recognize the support of the '''symbolic function''' which, from the dawn of history, has identified his person with '''the figure of the law'''."<ref>{{E}} p. 67</ref></blockquote>
+
+===Legislative and Prohibitive Function===
+The rexpression is at once a semi-humorous [[religion|religious]] allusion and a play on the near-homonyms '''''non''''' and '''''nom''''': the '''[[name-of-the-father]]''' ('''''le nom du père''''') is also the [[father]]'s "'''no'''" ('''''le "non" du père''''') to the [[child]]'s [[incest]]uous '''[[desire]]''' for its '''[[mother]]'''. (the '''[[law|legislative and prohibitive function]]''' of the '''[[symbolic]] [[father]]''')
+
+===Fundamental Signifier===
+In [[Lacan]]'s 1955-6 [[seminar]], [[The Psychoses]], the expression becomes capitalized and hyphenated and takes on a more precise meaning;  the [[Name-of-the-Father]] is described as the '''[[fundamental signifier]]''' which permits '''[[signification]]''' to proceed normally.
+
+The [[Name-of-the-Father]] both confers [[identity]] on [[human]] [[subject]]s (by situating them in a lineage and the [[symbolic]] [[order]]), and [[signification|signifies]] the '''[[Oedipus complex|Oedipal]] [[law|prohibition]]''', the ''''no'''' of the [[incest]] [[taboo]].
+
+===Foreclosure===
+The [[foreclosure]] of this [[fundamental signifier]], or its expulsion from the [[subject]]'s [[symbolic|symbolic universe]], is said by [[Lacan]] to be the mechanism that triggers '''[[psychosis]]'''.
+
+===Paternal Metaphor===
+[[Image:NOTF.gif|thumb|404px|right|The paternal metaphor]]
+In another work on [[psychosis]], [[Lacan]] represents the '''[[Oedipus complex]]''' as a '''[[metaphor]]''' ('''[[paternal metaphor]]'''), in which one [[signifier]] (the [[Name-of-the-Father]]) [[metaphor|substitutes]] another (the [[desire]] of the [[mother]]).
+
+==See Also==
+{{See}}
+* [[Castration]]
+* [[Father]]
+* [[Foreclosure]] 
+||
+* [[Law]]
+* [[Metaphor]] 
+* [[Oedipus complex]]
+||
+* [[Paternal metaphor]]
+* [[Psychosis]] 
+* [[Seminar]]
+||
+* [[Signification]]
+* [[Signifier]] 
+* [[Symbolic]]
+{{Also}}
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div> 
+[[category:Freudian psychology]]
+[[Category:Linguistics]]
+[[Category:Language]]
+[[Category:Symbolic]]
+{{OK}}
+__NOTOC__ __NOEDITSECTION__

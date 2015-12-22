@@ -1,0 +1,374 @@
+<div style="text-align:center;font-size:1,7em;font-weight:bold;">Welcome to the Community Portal!</div>
+
+{| cellspacing="3" width="100%"  
+|width="100%" colspan="2"| 
+{|
+|style="padding-right: 1em;"|
+This page contains information and resources for the Wikiquote editing community. For editing help see our [[help:contents|help page]].
+[[No Subject:About|No Subject]] wants you. Together we can build a library of No Subject - free and open textbooks.   You can help No Subject by [[Help:Editing|editing]], [[Help:Starting a new page|creating pages]] or even [[Help:How to start a book|starting a new book]].
+
+To experiment play around in the [[No Subject:sandbox|sandbox]], a place where you can do ''anything'' and get a feel for how a [[w:en:Wiki|wiki]] works.   If you [[Special:Userlogin|create an account]], you can track your changes [[Wikipedia:Why create an account?|and more]].  To ask questions about the community or start a discussion, visit the [[No Subject:Staff lounge|Staff lounge]] (this is the equivalent of Wikipedia's 'Village Pump').  Also see [[textbook planning|planning]] pages.
+
+| valign="top" style="border:1px solid #aaaaaa; width: 130px; background-color:#f9f9f9; padding:5px; font-size: 95%; float:right;"|
+<div style="text-align:center;font-size:1em;">'''Contents'''</div>
+
+[[#Things you can do|1 Things to do]]<br />
+[[#Collaboration of the Month|2  Collaboration]]<br />
+[[#About No Subject|3 All About No Subject]]<br />
+[[#Writing/Reference resources|4 References and resources]]
+|}
+|-
+|width="50%" valign="top" style="background-color: #EDF6FF; border: 1px solid gray; padding-left:1em;"|
+==About No Subject==
+
+===New user information===
+[[No Subject:About|About No Subject]] &middot;
+[[No Subject:Welcome, newcomers|Welcome, newcomers]] &middot;
+[[Why use open textbooks?]] &middot;
+[[Why contribute to the open textbook project|Why contribute?]] &middot;
+[[No Subject:Why not to contribute to the open textbook project|Why not to contribute?]] &middot;
+[[No Subject:History of No Subject|History of No Subject]] &middot;
+[[No Subject:Glossary|Glossary]]
+
+===Frequently asked questions===
+[[Help:No Subject|Help]] &middot;
+'''[[No Subject:FAQ|FAQ list]]''' &middot;
+[[No Subject:Overview FAQ|Overview]] &middot;
+[[No Subject:Readers' FAQ|Readers]] &middot;
+[[No Subject:Comparison of other Wiki projects|Comparison to other Wikimedia projects]] &middot;
+[[No Subject:Contributing FAQ|Contributing]] &middot;
+[[No Subject:Editing FAQ|Editing]] &middot;
+[[No Subject:Administration FAQ|Administration]] &middot;
+[[No Subject:Technical FAQ|Technical]] &middot;
+[[No Subject:Problems FAQ|Problems]] &middot;
+[[No Subject:Miscellaneous FAQ|Miscellaneous]]
+
+===Ways to communicate===
+[[No Subject:Staff lounge|Staff lounge]] &middot;
+[[No Subject:Study help desk|Ask a question]] &middot;
+[[No Subject:Bulletin board|Announcements]] &middot;
+[[No Subject:Contact us|Contact us]] &middot;
+[[No Subject:IRC channels|IRC chat]] &middot;
+[[No Subject:Mailing lists|Mailing lists]] &middot;
+[[Textbook planning]]
+
+===No Subject highlights===
+[[No Subject:Book of the month|Book of the month]] &middot; 
+[[No Subject:Collaboration of the Month|Collaboration of the Month]] &middot; 
+[[No Subject:Top active|Top active No Subject and users]] &middot; 
+[http://en.wikipedia.org/wikistats/No Subject/EN/WikiBookIndex.htm Statistics per Wikibook]
+
+===Common procedures===
+[[No Subject:Votes for deletion|Votes for deletion]] &middot;
+[[No Subject:Votes for undeletion|Votes for undeletion]] &middot;
+[[No Subject:Vandalism in progress|Report vandalism in progress]] &middot;
+[[No Subject:Requests for adminship|Requests for adminship]] ([[No Subject:Administrators|Administrators]]) &middot;
+[[No Subject:Bug reports|Bug reports]]
+
+===Help with Meta-Wiki===
+[[Help:Contents|User's Guide]] &middot; 
+[[Help:Table|Table format]] &middot; 
+[[Help:Formula|TeX, math and formulae]] &middot; 
+[[Help:Images and other uploaded files|Images and embedding]]
+
+===Account maintenance===
+[[w:Wikipedia:Why create an account?|Account benefits]] &middot; 
+[[w:Wikipedia:Username|Choosing]] and [[w:Wikipedia:Changing username|Changing a username]] &middot; 
+[[Help:Logging in|Logging in]] &middot; 
+[[Help:Preferences|User preferences]] &middot; 
+[[w:Wikipedia:Changing attribution for an edit|Changing attribution for edits]] &middot; 
+[[w:Wikipedia:Account deletion|Account deletion]]
+
+===Downloads===
+[[No Subject:PDF Versions|Books as PDFs]] &middot;
+
+
+<!-- do not leave a blank line here -->
+|width="50%" valign="top" style="background:honeydew; border: 1px solid gray; padding-left:1em;"|
+==Writing/Reference resources==
+
+===Policies, conventions and guidelines===
+[[No Subject:Policies and guidelines|Overview of policies]] &middot;
+'''[[No Subject:What is No Subject|What is No Subject]]''' &middot;
+[[No Subject:Manual of Style|Manual of Style]] &middot;
+[[No Subject:Naming policy|Naming policy]] &middot;
+[[No Subject:Editing policy|Editing policy]] &middot;
+[[No Subject:Forking policy|Forking policy]] &middot;
+[[No Subject:Image use policy|Image use policy]] &middot;
+[[No Subject:Deletion policy|Deletion policy]] &middot;
+[[No Subject:Textbook Standards|Textbook Standards]] &middot;
+[[No Subject:What No Subject is not|What No Subject is not]] &middot;
+[[No Subject:Copyrights|Copyrights]] &middot;
+[[No Subject:Dealing with vandalism|Dealing with vandalism]] &middot;
+[[No Subject:Please do not bite the newcomers|Please do not bite the newcomers]]
+
+===Current discussions===
+[[No Subject:Policy|All policy discussions]] &middot;
+[[No Subject:Annotated texts|Annotated texts]] &middot;
+[[No Subject:Game manual guidelines|Game manual guidelines]] &middot;
+[[No Subject:Policy/Vote/Deletion Policy|Deletion Policy]]
+
+===New books===
+'''[[Help:How to start a book|How to start a book]]''' &middot;
+[[Help:Editing|edit a page]] &middot;
+[[No Subject:Naming policy|Naming policy]] &middot;
+[[No Subject:Requested No Subject|Requested No Subject]]
+
+===Resources===
+[[Help:Development stages|Development stages]] &middot;
+[[No Subject:Shortcuts|Shortcuts]] &middot;
+[[No Subject:Template messages|Template messages]] &middot;
+[[No Subject:Utilities|Utilities]] &middot;
+[[No Subject:Why move books?|Why move books?]]
+
+===Projects===
+[[No Subject:Donate images to this book|Donate images]] &middot;
+[[No Subject:Files to be harvested|Files to be harvested]] &middot;
+[[No Subject:Requested No Subject|Requested No Subject]] &middot;
+[[No Subject:Textbook ideas|Textbook ideas]] &middot;
+[[No Subject:Transwiki log|Transwiki log]] &middot;
+[[No Subject:Pages to be transwikied|Pages to be transwikied]]
+
+===Cleanup===
+[[No Subject:Accuracy dispute|Accuracy dispute]] &middot;
+[[No Subject:Duplicate modules|Duplicate modules]] &middot;
+[[No Subject:Find or fix a stub|Find or fix a stub]] &middot;
+[[No Subject:NPOV dispute|NPOV dispute]] &middot;
+[[No Subject:Pages needing attention|Pages needing attention]] &middot;
+'''[[No Subject:No Subject maintenance|All maintenance tasks]]'''
+
+
+
+|- valign="top"
+
+| style="width: 50%; vertical-align: top; background-color: #EDF6FF; padding:1em; border:1px solid #aaaaaa"|
+<!-- SECTION BOUNDARY -->
+
+==Writing articles==
+* [[Wikiquote:Policies and guidelines|Policy]] - Our policies and guidelines for editing articles
+* [[Wikiquote:How to edit a page|How to edit a page]] - Some basics of wiki editing
+* [[Wikiquote:Sandbox|Sandbox]] - For editing experiments
+* [[Wikiquote:Guide to layout|Guide to layout]] and [[Wikiquote:Manual of style|style]] - More in-depth information
+* [[Wikiquote:Public domain resource|Public domain]] and [[Wikiquote:Research resources|research]] resources
+* '''[[Help:Starting a new page|Starting a new page]]''' - Please read this before creating a new page
+* '''[[Wikiquote:Requested entries|Requested entries]]'''
+
+<!-- SECTION BOUNDARY -->
+| style="width: 50%; vertical-align: top; background-color: #FFDDDD; padding:1em; border:1px solid #aaaaaa"|
+<!-- SECTION BOUNDARY -->
+
+== Open tasks ==
+[[Image:Evolution-tasks.png|right]]
+* [[:Category:Wikiquote maintenance|Maintenance]] - General upkeep of the wiki
+* [[Wikiquote:Template messages|Template messages]] - Keeping consistency
+* [[Wikiquote:Votes for deletion|Votes for deletion]] - Discussions on articles to delete
+</div>
+</div>
+<!-- SECTION BOUNDARY -->
+|-
+| style="vertical-align: top; background-color: #FFDDFF; padding:1em; border:1px solid #aaaaaa"|
+<!-- SECTION BOUNDARY -->
+
+==About the project==
+[[Image:Noia_64_mimetypes_mime_txt.png|right]]
+* [[Wikiquote:About|About]] - About Wikiquote
+* [[Wikiquote:Templates|Templates]] 
+* [[Wikiquote:Spellings|Spellings]] - Notes on spelling conventions
+* [[Wikiquote:Announcements|Announcements]] - Announcements about Wikiquote
+* [[Wikiquote:What Wikiquote is not|What Wikiquote is not]]  
+* [[Wikiquote:Reference desk|Reference desk]] - Asking questions about quotations
+* [[Wikiquote:Administrators|Administrators]] - Those in the know
+* [[Wikiquote:Administrators' noticeboard|Administrators' noticeboard]] - Messageboard for administrators
+* [[Wikiquote:Utilities|Utilities]] - links to helpful pages
+* [[Wikiquote:Category schemes|Category schemes]] - How to index articles
+* [[Wikiquote:FAQ|FAQ]]
+* [[Wikiquote:History of Wikiquote|History of Wikiquote]] - A brief history to the project
+* [[Wikiquote:Wikiquote|Wikiquote]] - An outline of our project
+* [[Wikiquote:Other language Wikiquotes|Other language Wikiquotes]]
+* [[Wikiquote:Bots|Bots]] - Bots within Wikiquote
+* [http://en.wikipedia.org/wikistats/wikiquote/EN/TablesWikipediaEN.htm Statistics] - Internal statistics
+* [[m:MediaWiki|Software]]
+* [[w:en:Wikimedia|Wikimedia]]
+
+<!-- SECTION BOUNDARY -->
+| style="vertical-align: top; background-color: #DDFFDD; padding:1em; border:1px solid #aaaaaa"|
+<!-- SECTION BOUNDARY -->
+
+==Community==
+[[Image:Nuvola_apps_chat.png|50px|right]]
+* [[Wikiquote:Welcome, newcomers|Welcome, newcomers]] - An introduction
+* [[Wikiquote:Wikiquotians|Wikiquotians]] - Those who make the website
+* [[Project:Village pump|Village pump]] - A general discussion page
+
+== From Wikimedia Foundation ==
+*[[Wikimedia:|Foundation site]]
+*[[Wikimedia:Wikimedia Quarto]] (January 2005), the official newsletter.
+<!-- SECTION BOUNDARY -->
+
+
+|-
+| style="vertical-align: top; background-color: #FFFFDD; padding:1em; border:1px solid #aaaaaa"|
+<!-- SECTION BOUNDARY -->
+
+==Policies, guidelines, and policy discussions==
+[[Image:Noia_64_mimetypes_mime_txt.png|right]]
+* [[Wiktionary:Entry layout explained|Entry layout]] - How to write articles with respect to our guidelines. This is an essential reference for the creation and expansion of entries.
+* [[Wiktionary:Criteria for inclusion|Criteria for inclusion]] - What deserves to be included in Wiktionary
+* [[Wiktionary:Style guide|Style guide]]
+* [[Wiktionary:Quotations|Guide to adding quotations to articles]]
+* [[Wiktionary:Categories|Discussion about categories]]
+* [[Wiktionary:Idioms|A note about idioms]]
+* [[Wiktionary:Pictures|Discussion on pictures]]
+* [[Wiktionary:Thesaurus considerations|Discussion on thesaurus aspects of articles]]
+* [[Wiktionary:Index to templates|Index to templates]] in use in Wiktionary - please check these before creating any new templates.
+*[[:Category:Policies - Wiktionary Top Level|Wiktionary Policies]]- a list of all policy documents. Both established policies, and policies in development
+*[[Wiktionary:Proposal for Policies and Guidelines]]
+
+
+
+
+<!-- SECTION BOUNDARY -->
+| style="vertical-align: top; background-color: #FFEEDD; padding:1em; border:1px solid #aaaaaa"|
+<!-- SECTION BOUNDARY -->
+
+==Help us with entries needing attention==
+[[Image:Nuvola apps important.svg|right|60px]]
+* [[Wiktionary:Requests for deletion|Entries requested for deletion]] [[:category:Requests for deletion|(Automated list)]].
+* [[Wiktionary:Requests for verification|Requests for verification]]
+* [[Wiktionary:Requests for cleanup|Requests for cleanup]] [[:category:Requests for cleanup|(Automated list)]].<br />
+With the above two,you can go there and add your own entries, or help tidy up the already nominated entries. But best first to see [[Wiktionary:Cleanup and deletion process|Cleanup and deletion process]]
+* [[:Category:Webster 1913|Webster 1913 entries]] - pages which have not been, or have only partly been, updated since importation from the Webster 1913 edition.
+* [[Special:Wantedpages|Wanted pages]] - An automated list of pages referenced, but not existing. Can you create an entry for these links?
+* [[:Category:Stub|Stubs]] - articles that are placeholders, waiting for definition.  OR, just a sub-section is undefined.
+* [[Wiktionary:Requested articles:English|Requested articles]] - a list of articles manually requested by people.
+* [[:Category:Articles_that_need_to_be_wikified|Requests for wikification]] - Articles that need to be [[wikify|wikified]]
+* [[w:Wikipedia:Things_to_be_moved_to_Wiktionary|Wikipedia's Move to Wiktionary list]] - long articles that belong here in Wiktionary
+* [[Special:Shortpages|Short pages]] - pages with either zero or little content (30 characters or less), and therefore needing a proper entry made for them.
+* [[Special:Uncategorizedpages|Uncategorised pages]] - see [[Wiktionary:Categorization]]
+See also - [[Wiktionary:Lists of words needing attention]]
+
+
+
+
+|-
+| style="vertical-align: top; background-color: #FFFFDD; padding:1em; border:1px solid #aaaaaa"|
+<!-- SECTION BOUNDARY -->
+
+==Contact us==
+[[Image:Nuvola_apps_chat.png|50px|right]]
+* For general comments/question, see our '''[[Wiktionary:Beer parlour|Beer parlour]]'''
+* For comments/questions about [[particular]] words, see our '''[[Wiktionary:Tea room|Tea room]]'''
+* Sign up to our '''[[Wiktionary:Mailing lists|mailing list]]'''
+* Chat with [[Wiktionarian]]s in [[real-time]] on '''[[Wiktionary:IRC channel|our IRC channel]]'''
+* Find out more about the '''[[Wiktionary:Wiktionarians|Wiktionarians]]'''
+* Get help from the '''[[Wiktionary:Administrators|administrators]]'''
+* Communicate in '''[[Wiktionary:Babel|other languages]]'''
+
+
+<!-- SECTION BOUNDARY -->
+| style="vertical-align: top; background-color: #FFEEDD; padding:1em; border:1px solid #aaaaaa"|
+<!-- SECTION BOUNDARY -->
+== Help! ==
+[[Image:Question.gif|right]]
+* See [[Help:Contents]] for an overview
+* Read our [[Wiktionary:Tutorial|tutorial]]
+* Find out how to [[Help:Starting a new page|create a new page]]
+* Read about [[Help:How to edit a page|editing a page]]
+* Find out internal goings-on in [[Wiktionary:Announcements]]
+* Experiment with editing in the [[Wiktionary:Sandbox|sandbox]]
+* Can't find the word you are looking for? [[Wiktionary:Requested articles|Request it!]]
+* Tell us what's wrong with software at [[Wiktionary:Bug reports]]
+|}
+|}
+<table width="100%" style="border: none 0px" cellspacing="8">
+<!-- <tr><td colspan="2">{{Vote Reminder}}</td></tr> -->
+<tr><td width="50%" style="border: solid 1px #aaaaaa; padding: 12px 36px 14px; background: #f5f6fe" valign="top">
+'''Discussion and Visitor Information'''
+*'''[[Forum:Village Dump|Village Dump]]'''
+:General Discussion about Uncyclopedia, questions, comments.
+*[[Uncyclopedia:Forum|The Forum]]
+:For soapboxes which are too antique to be placed at the dump.
+*[[Uncyclopedia:FAQ|All]] [[Uncyclopedia:About|About]] [[Uncyclopedia is Not|Uncyclopedia]]
+:Information for new visitors to the site.
+*[[Uncyclopedia:Beginner's Guide to Being an Uncyclopedian]]
+:If you're new read this <s>or you might be [[kitten huffing|huffed]]</s>.
+*[[Special:Listadmins|List of Admins]]
+:Those special users are armed with vandalizers, to fight off the vandals.
+*[[:Category:Rewrite|Requested Rewrites]]
+:Look here if you're bored - contribute and help make Uncyclopedia better.
+*[[Uncyclopedia:Style Guide]]
+:This probably won't be that helpful, but if you failed English class, this is for you.
+*[[Uncyclopedia:Vanity Policies]]
+</td>
+<td width="50%" style="border: solid 1px #aaaaaa; padding: 11px 36px 14px; background: #f7fff9" valign="top">
+'''[[Vandalism|Quality]] Control'''<br>
+''With the word "Quality" being used loosely.''
+*[[Uncyclopedia:Ban_Patrol|Ban Patrol]]
+:Report malicious users, vandals, people who blank pages (very naughty people these), and vandals.
+*[[Uncyclopedia:Pages_for_deletion|Pages for deletion (VFD)]]
+:Make your voice heard before they're gone.
+*[[Uncyclopedia:QuickVFD|Quick Vote for Deletion]]
+:Report garbage pages here, provided they have no history.
+*[[Uncyclopedia:Complaints_Department|Complaints Department]]
+:Moan at us here.
+*[[Uncyclopedia:True Facts and Other Deleted Prose|True Facts and Other Deleted Prose (TFAODP)]]
+:Move legitimate information here.
+*[[Uncyclopedia:Pee Review|Pee Review]]
+:Get help on an article idea from your <s>pees</s> peers!
+*[[Uncyclopedia:Uncategorized pages|Uncategorized pages]]
+:Help clean up Uncyclopedia.
+*[[Uncyclopedia:Imperial Colonization|Imperial Colonization]]
+:Collaborate on an article to make it super-good!
+</td></tr><tr><td style="border: solid 1px #aaaaaa; padding: 12px 36px 14px; background: #fffff2" valign="top">
+'''Featured'''<br>
+''Here's where you can find articles that don't suck.''
+*[[Uncyclopedia:Best of|Best of Uncyclopedia]]
+*[[Uncyclopedia:VFH|Vote For Highlight (articles)]]
+*[[Uncyclopedia:VFP|Vote For Highlight (images)]]
+*[[Uncyclopedia:Vote for awards, decorations and honours|Vote and nominate new awards]]
+*[[Uncyclopedia:Uncyclopedian_of_the_Month|Uncyclopedian of the Month]]
+*[[Uncyclopedia:Writer_of_the_Month|Writer of the Month]]
+*[[Uncyclopedia:Noob_of_the_Month|Noob of the Month]]
+*[[Uncyclopedia:VFS|Vote for Sysops]]
+</td><td style="border: solid 1px #aaaaaa; padding: 12px 36px 14px; background: #fff5f5" valign="top">
+'''UnProjects'''
+*[[Uncyclopedia:UnNews|UnNews]]
+:''The [[content-free]] news source on [[crack]].''
+*[[Uncyclopedia:Undictionary|Undictionary]]<br>
+:''The ick!tionary of all things best left unsaid.''
+:*[[:Category:Move to Undictionary|Move to Undictionary]]
+:*[[Help:Convert a Stub to Undictionary|Convert a Stub to Undictionary]]
+*[[Uncyclopedia:Wilde|The Wilde Project]]
+:''Bringing [[Wilde|Oscar Wilde]] quotes to many pages in Uncyclopedia.''
+*<span class="plainlinks">[http://meta.uncyclopedia.info UnMeta]</span>
+:''A wiki about, uh, this wiki...''
+*<span class="plainlinks">[http://main.uncyclopedia.info <s>Babble</s> Babel Project]</span>
+:''¡Yo queiro Uncyclopédia!''
+</td></tr><tr><td style="border: solid 1px #aaaaaa; padding: 12px 36px 14px; background: #f7fff9" valign="top">
+'''Other'''
+*[[Uncyclopedia:Requested_pictures|Picture Request]]
+*[[:Category:Templates|List of Templates]]
+*[[Uncyclopedia:Multilingual coordination|Multilingual coordination/discussion]]
+*[[Special:Newpages|New Pages]]
+*[[Special:Specialpages|Special Pages]]
+*[[Uncyclopedia:Report a problem|Report a problem]]
+*[[:Category:Uncyclopedia Awards, Decorations and Honours|Uncyclopedia Awards, Decorations and Honours]]
+*'''IRC:''' [[Uncyclopedia:Chat|#uncyclopedia @ FreeNode]]
+*'''Mailing list:''' [http://lists.wikia.com/mailman/listinfo/uncyclopedia-l uncyclopedia-l]
+*[[Uncyclopedia:Sandbox|Sandbox]]
+*[http://openfacts.berlios.de/index-en.phtml?title=Wikia_Status Off-site Wikia status page] (bookmark it!)
+</td><td style="border: solid 1px #aaaaaa; padding: 12px 36px 14px; background: #f5f6fe" valign="top">
+'''Archives'''<br>
+*[[Uncyclopedia:The Archive Archive|The Archive Archive]]
+''Older and concluded conversations on this page are archived.''
+*[[Uncyclopedia:Community Portal/archive1|Community Portal Archive 1]]
+*[[Uncyclopedia:Community Portal/archive2|Community Portal Archive 2]]
+*[[Uncyclopedia:Community Portal/archive3|Community Portal Archive 3]]
+*[[Uncyclopedia:Community Portal/archive4|Community Portal Archive 4]]
+*[[Uncyclopedia:Community Portal/currentevents|Old current events page]]
+*[[Uncyclopedia:Past Winners|Past Award Weinners]]
+</td></tr>
+</table>
+
+__NOTOC__
+__NOEDITSECTION__

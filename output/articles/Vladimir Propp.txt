@@ -1,0 +1,56 @@
+'''Vladimir Yakovlevich Propp'''  ([[Saint Petersburg|St Petersburg]], [[April 29]], [[1895]] &ndash; [[Saint Petersburg|Leningrad]] [[August 22]], [[1970]]) was a [[Russia]]n [[structuralist]] scholar who analysed the basic plot components of Russian [[folk tale]]s to identify their simplest irreducible narrative elements. His ''[[Morphology of the Folk Tale]]'' was  published in Russian in 1928; although it represented a breakthrough in both [[folkloristics]] and [[morphology (folkloristics)|morphology]] and influenced [[Claude Lévi-Strauss]] and [[Roland Barthes]], it was generally unnoticed in the West until it was translated in the 1950s. 
+
+==Morphology==
+Propp extended the Russian [[Formalist]] approach to [[narratology|the study of narrative structure]]. In the Formalist approach, sentence structures in narrative had been broken down into analysable elements, or "morphemes". Propp used this method by analogy to analyse folk tales. Ignoring narrative tone or mood, or extraneous decorative detail, and breaking down a large number of Russian folk tales into their smallest narrative units, which he called functions, and some of his modern followers like to call "narratemes", Propp was able to arrive at a typology of narrative structures. By analysing types of characters and kinds of action in a hundred tales, Propp was able to arrive at the conclusion that there were just thirty-one generic "narratemes" in the traditional Russian folk tale. While not all are present in every tale, he found that all the tales he analysed displayed the functions in unvarying sequence. He claimed that “[F]ive categories of elements define not only the construction of a tale, but the tale as a whole.”:
+# Functions of [[dramatis personae]] (see below)
+# Conjuctive elements ([[Deus ex machina|ex machina]], announcement of misfortune, chance disclosure – mother calls hero loudly, etc.)
+# Motivations (reasons and aims of personages)
+# Forms of appearance of dramatis personae (the flying arrival of [[dragon]], chance meeting with donor)
+# Attributive elements or accessories ([[witch]]’s hut or her clay leg)
+
+“Morphologically, a tale (сказка) may be termed any development proceeding from villainy (A) or a lack (a), through intermediary functions to marriage, or to other functions employed as a [[dénouement]]. Terminal functions are at times a reward, a gain or in general the liquidation of misfortune, en escape from pursuit, etc. This type of development is termed by us a move (ход).  Each new act of villainy, each new lack creates a new move. A tale can have several moves, and when analyzing a tale one must first determine the number of moves of which it consists. One move may directly follow another but they can also interweave.”
+
+The summation of a typical Proppian analysis consists of an alphanumeric string representing the functions in the tale, for example: 
+:αa<sup>5</sup>D<sup>1</sup>E<sup>1</sup>MF<sup>1</sup>Ta<sup>5</sup>BKNToQW*
+
+As well as finding the 31 narrative functions of Propp's theory he also discovered that there are ''only'' 8 broad [[Fictional character|character]] types in the 100 tales he analysed:
+
+# The villain (struggles against the hero) 
+# The [[Fairy godmother|donor]] (prepares the hero or gives the hero some magical object) 
+# The (magical) helper (helps the hero in the quest) 
+# The princess (person the hero marries, often sought for during the narrative)
+# Her father 
+# The dispatcher (character who makes the lack known and sends the hero off)
+# The hero or victim/ seeker hero, reacts to the donor, weds the princess
+# [[False hero]]/[[anti-hero]]/usurper &mdash; (takes credit for the hero’s actions/ tries to marry the princess)
+
+==Criticism==
+Propp's approach has been criticized for entirely removing all verbal considerations from the analysis, despite the folktale's usual form being oral, and also all considerations of tone, mood, character, and, indeed, anything that differentiates one fairy tale from another. Among the more prominent critics of Propp is the famous French Structuralist Claude Levi-Strauss, who used Propp's monograph on the morphology of the Folktale to demonstrate the shortcomings of the Formalist approach, and the superiority of the Structuralist approach. (see Levi-Strauss, Claude. "Structure and Form: Reflection on a Work by Vladimir Propp")
+
+== External links ==
+* [http://www-personal.umich.edu/~esrabkin/Propp.htm The Functions of the Dramatis Personae]
+* [http://mural.uv.es/vifresal/Propp.htm The 31 narrative units of Propp's formula]
+<!-- Broken link* [http://scandinavian.wisc.edu/hca/glossary/propp.html Propp's functions simplified by critics]-->
+* [http://www.brown.edu/Courses/FR0133/Fairytale_Generator/home.html The Fairy Tale Generator]: generate your own.
+* [http://www.brown.edu/Courses/FR0133/Fairytale_Generator/propp.html Criticism]
+* [http://www.uni-essen.de/literaturwissenschaft-aktiv/Vorlesungen/epik/propp.htm Assessment of Propp] (in German)
+* [http://www.stonedragonpress.com/wicca_201/vladimir_propp/oral_tradition_00_a.html A Fairytale Outline Generator]: based on Propp's Morphology
+*'''''(in Russian)''''' [http://www.lib.ru/CULTURE/PROPP/skazki.txt The Historical Roots of the Wonder Tale ] Propp's examination of the origin of specific folktale motifs in customs and beliefs, initiation rites.
+
+[[Category:1895 births|Propp, Vladimir]]
+[[Category:1970 deaths|Propp, Vladimir]]
+[[Category:Russian philologists|Propp, Vladimir]]
+[[Category:People from Saint Petersburg|Propp, Vladimir]]
+
+[[cs:Vladimir Jakovlevič Propp]]
+[[de:Wladimir Jakowlewitsch Propp]]
+[[es:Vladimir Propp]]
+[[fr:Vladimir Propp]]
+[[it:Vladimir Propp]]
+[[lv:Vladimirs Props]]
+[[nl:Vladimir Propp]]
+[[no:Vladimir Propp]]
+[[pt:Vladimir Propp]]
+[[ru:Пропп, Владимир Яковлевич]]
+[[sk:Vladimir Jakovlevič Propp]]
+[[fi:Vladimir Propp]]

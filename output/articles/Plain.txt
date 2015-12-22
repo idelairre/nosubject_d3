@@ -1,0 +1,78 @@
+{| style="margin-top:+1.5em;" width="100%" border="0"
+|-
+|width="80%"|
+{| width="100%" border="0"
+|-
+|width="98%"|
+{| width="100%" style="text-align:center;font-size:.95em;line-height:4em;letter-spacing:2.0px;background-color:#fcfcfc;border:1px solid #ccc" 
+|
+<h1 align="center" style="width:100%;text-align:center;font-size:1.0em;border:none;letter-spacing:15px;line-height:3.75em;">[[No Subject|NO SUBJECT]]</h1>
+|}
+|width="2%"|
+|}
+|width="20%"|
+{| align="center" id="toc" width="465px" class="toc" summary="Contents" style="width:475px;font-size:.95em;text-align:center;align:center;border:1px solid #ccc"
+| [[Special:Allpages/A|A]] &nbsp; [[Special:Allpages/B|B]] &nbsp; [[Special:Allpages/C|C]] &nbsp; [[Special:Allpages/D|D]] &nbsp; [[Special:Allpages/E|E]] &nbsp; [[Special:Allpages/F|F]] &nbsp; [[Special:Allpages/G|G]] &nbsp; [[Special:Allpages/H|H]] &nbsp; [[Special:Allpages/I|I]] &nbsp; [[Special:Allpages/J|J]] &nbsp; [[Special:Allpages/K|K]] &nbsp; [[Special:Allpages/L|L]] &nbsp; [[Special:Allpages/M|M]] &nbsp; [[Special:Allpages/N|N]] &nbsp; [[Special:Allpages/O|O]] &nbsp; [[Special:Allpages/P|P]] &nbsp; [[Special:Allpages/Q|Q]] &nbsp; [[Special:Allpages/R|R]] &nbsp; [[Special:Allpages/S|S]] &nbsp; [[Special:Allpages/T|T]] &nbsp; [[Special:Allpages/U|U]] &nbsp; [[Special:Allpages/V|V]] &nbsp; [[Special:Allpages/W|W]] &nbsp; [[Special:Allpages/X|X]] &nbsp; [[Special:Allpages/Y|Y]] &nbsp; [[Special:Allpages/Z|Z]]  
+|-
+|
+<inputboxx>
+type=search
+width=59
+break=no
+searchbuttonlabel=Search
+</inputboxx>
+|}
+|}
+
+{|style="text-align:justify;border-spacing:8px;margin:0px -8px"
+|class="MainPageBG" style="width:50%;border:0px solid #cccccc;background-color:#ffffff;vertical-align:top"|
+{| width="100%" cellpadding="2" cellspacing="5" style="text-align:justify;line-height:2em;vertical-align:top;background-color:#ffffff"
+|-
+|style="text-align:justify;color:#000;line-height:3em;align:justify;"|
+===[[Sexual Difference|Featured Article]]===
+[[Image:DIAGRAM.jpg|thumb|right|[[Sexual Difference|The diagram of sexual difference]]]]
+In the [[seminars|seminar]] of [[chronology|1970-1]] [[Jacques Lacan]] attempts to [[formalize]] his [[sexual difference|theory of sexual difference]] by means of [[mathemes|formulae]] derived from [[symbolic]] [[logic]].  
+
+The [[formulae of sexuation|diagram]] is divided into two sides: on the left, [[formulae of sexuation|the male side]], and on the right, [[formulae of sexuation|the female side]]. 
+
+The [[formulae of sexuation]] appear at the top of the [[formulae of sexuation|diagram]].
+
+[[Sexual Difference|More...]]
+
+===[[New Articles]]===
+<DynamicArticleList>
+  type=new
+  count=0
+</DynamicArticleList>
+* [[Seminars|Lacan's Seminars]]
+* [[Articles by Slavoj Žižek]]
+* [[Special:Newestpages|More...]]
+|-
+|}
+|class="MainPageBG" style="width:50%;border-left:1px solid #cccccc;background-color:#ffffff;vertical-align:top;color:#000"|
+{|width="100%" cellpadding="2" cellspacing="5" style="text-align:justify;vertical-align:top;background-color:#ffffff"
+|-
+|style="color:#000;line-height:2em";|
+;'''[[:Category:Terms|Terms]]''' 
+:[[Desire]] -- [[Drive]] -- [[Fantasy]] -- [[Foreclosure]] -- ''[[Jouissance]]'' -- [[Name-of-the-Father]] -- [[Neurosis]] -- ''[[Objet petit a]]'' -- [[Oedipal Complex]] -- [[Psychosis]] -- [[Symptom]] -- [[:Category:Terms|More...]]
+
+;[[Sigmund Freud]]
+:[[Sigmund Freud|Biography]] -- [[Sigmund Freud|Works]] -- [[Id]] -- [[Ego]] -- [[Superego]] -- [[Pleasure Principle]] -- [[Libido]] -- [[Repression]] -- [[:Category:Lacan|More...]]
+
+;[[Jacques Lacan]]
+:[[Jacques_Lacan_-_Biography|Biography]] -- [[Works of Jacques Lacan|Works]] -- [[Seminars]] -- [[Imaginary]] -- [[Mirror Stage]] -- [[Symbolic]] -- [[Real]] -- [[Sexuality]] -- [[:Category:Lacan|More...]]
+
+;[[Slavoj Žižek]]
+:[[Slavoj Žižek - Biography|Biography]] -- [[Books by Slavoj Žižek|Works]] -- [[Articles by Slavoj Žižek|Articles]] -- [[Slavoj Žižek|Philosophy]] -- [[Slavoj Žižek|Politics]] -- [[Slavoj Žižek|Ethics]] -- [[Slavoj Žižek|Religion]] -- [[Ideology]] -- [[:Category:Žižek|More...]]
+
+;'''[[:Category:Works|Works]]''' 
+:[[Seminars|The Seminars]] -- ''[[Écrits]]'' -- [[The Ticklish Subject]] -- [[Parallax View]] -- [[Sublime Object of Ideology]] -- [[The Interpretation of Dreams]] -- [[Civilization and its Discontents]] -- [[:Category:Works|More...]]
+
+;[[Special:Allpages|All Articles]]
+|-
+|}<!-- Start of right-column -->
+|}
+
+__NOTOC__ __NOEDITSECTION__
+
+[[Category:No Subject]]

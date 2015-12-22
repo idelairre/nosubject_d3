@@ -1,0 +1,72 @@
+{{Top}}semblant{{Bottom}}
+
+==False Appearance==
+Running throughout [[Lacan]]'s work is the idea that appearances are deceptive, an idea that is closely connected to the classical philosophical opposition between [[appearance]] and [[essence]].<ref>{{S11}} p.103</ref> 
+
+The very distinction between the [[imaginary]] and the [[symbolic]] implies this opposition between [[appearance]] and [[essence]].
+
+The [[imaginary]] is the realm of observable phenomena which act as [[lure]]s, while the [[symbolic]] is the realm of underlying [[structure]]s which cannot be observed but which must be deduced.
+
+==Science==
+This opposition informs all [[scientific]] enquiry, a basic presupposition of which is that the [[scientist]] must attempt to penetrate through [[false]] [[appearance]] into the hidden [[reality]]. 
+
+Similarly, in [[psychoanalysis]], as in [[science]], "only he who escapes from false appearances can achieve truth."<ref>{{S7}} p. 310</ref>
+
+However, [[false]] [[appearance]] in [[psychoanalysis]] is different from [[false]] [[appearance]] in the [[natural]] [[sciences]]. 
+
+For the [[natural]] [[scientist]], the [[false]] [[appearance]] [[lack]]s the dimension of deliberate [[deception]], which is why [[Lacan]] states that the axiom of [[natural science]] is the [[belief]] in an honest, non-deceitful [[God]].<ref>{{S3}} p. 64</ref>
+
+However, in the conjectural [[science]]s, and in [[psychoanalysis]], there is always the problem that the [[falsity]] of the [[appearance]] may be due to [[deception]].
+
+==Jacques Lacan==
+[[Lacan]] uses two terms to refer to [[false]] [[appearance]]s. 
+
+The term ''[[apparence]]'' is that used in [[philosophical]] discussions of the distinction between [[essence]] and [[appearance]]. 
+
+The term ''[[semblant]]'' is less technical, but acquires a growing importance in [[Lacan]]'s work over the years. 
+
+It appears as early as 1957,<ref>{{Ec}} p. 435; {{S4}} p. 207</ref> and is used several times in the [[seminar]] of 1964,<ref>{{S11}} p. 107</ref> but it is not until the early 1970s that the term comes to occupy an important place in [[Lacan]]'s [[theoretical]] [[vocabulary]]. 
+
+==Other meanings==
+At first [[Lacan]] uses the term to refer to such issues as [[feminine]] [[sexuality]], which is characterised by a dimension of [[masquerade]].
+
+Later on, [[Lacan]] uses the term to characterize general features of the [[symbolic]] order and its relations to the [[imaginary]] and the [[real]]. 
+
+==Truth and Appearance==
+Thus [[Lacan]] devotes his 1970-1 [[seminar]] to "a discourse that would not be semblance," in which he argues that [[truth]] is not simply the opposite of [[appearance]], but is in fact continuous with it; [[truth]] and [[appearance]] are like the two sides of a [[moebius strip]], which are in fact only one side. 
+
+==Love and Jouissance==
+In the [[seminar]] of 1972-3, [[Encore]], [[Lacan]] goes on to state that ''[[objet petit a]]'' is a "semblance of being,"<ref>{{S20}} p. 84</ref> that [[love]] is addressed to a [[semblance]],<ref>{{S20}} p. 85</ref> and that ''[[jouissance]]'' is only evoked or elaborated on the basis of a [[semblance]].<ref>{{S20}} p. 85</ref>
+
+==See Also==
+{{See}}
+* [[Appearance]]
+* [[Deception]]
+||
+* [[Falsity]]
+* ''[[Jouissance]]''
+||
+* [[Mirror stage]]
+* [[Moebius strip]]
+||
+* [[Science]]
+* [[Structure]]
+||
+* [[Reality]]
+* [[Truth]]
+{{Also}}
+
+== References ==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+__NOTOC__
+
+[[Category:Imaginary]]
+[[Category:Symbolic]]
+[[Category:Psychoanalysis]]
+[[Category:Jacques Lacan]]
+[[Category:Dictionary]]
+[[Category:Concepts]]
+[[Category:Terms]]
+{{OK}}

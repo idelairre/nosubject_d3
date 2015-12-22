@@ -1,0 +1,47 @@
+Lacan borrowed his optical schema from physics. He used it to illustrate the role of the real Other in constructing both the body and the specular image as the model for the ego.
+Lacan introduced this schema in his seminar of 1953-1954, on <i>Freud's Papers on Technique</i>. He took his cue from Freud's reference to an optical schema in
+
+
+
+
+
+<i>The Interpretation of Dreams</i> (Freud, 1900a, p. 536; Lacan, 1953-54, 74-76). Lacan first used the schema to illustrate the reciprocal play of the real, the imaginary, and the symbolic in Melanie Klein's case of "Little Dick."
+Because of the optical properties of concave mirrors, a bouquet of flowers that is hidden from the visual field of the viewer emerges above the vase. And if the eye of the viewer is properly placed, an image of flowers in the vase is produced as a whole or a unity (Figure 1).
+The illusory presence of the flowers in the vase represented a baby's relation to his body, but this is something the baby cannot see. To create a "substitute for the mirror-stage" (1953-54, p. 74), Lacan introduced a plane mirror (Figure 2).
+In the virtual space beyond the mirror, a specular image is created, <i>i</i>′ <i>(a)</i>, and this is where the baby as
+
+
+
+
+
+subject recognizes the image as its ego. This represents the dimension of radical alienation in ego formation as it occurs in relation to the image of a fellow being—a process that is specific to secondary narcissism and the ideal ego.
+Lacan returned to the optical schema in his seminar on <i>Transference</i> (1960-61), but then the plane mirror shows the effect that the parental Other's look has on the baby's organism. This look allows the baby to sense its own body, modeled on its specular image. Lacan even gave the Other a role in the formation of primary narcissism. This schema allows for an approach to the treatment of early psychopathologies prior to the mirror stage (Laznik-Penot, 1993).
+In his seminar on <i>Anxiety</i> (1962-63), Lacan redesigned the schema in response to a question asked by André Green regarding the relations between the real, the imaginary, and the symbolic (Figure 3).
+
+This version of the schema presented two principle modifications:
+
+<ol>
+<li>The flowers, a metaphor for libidinal investment, were no longer the reflection of a bouquet hidden under the table, but rather the effect of a lack, which Lacan wrote as φ.</li>
+<li>The inscription of lack, φ, also appeared behind the plane mirror, in the imaginary field. Thus the new version of the schema emphasized the constitutive role of lack in any mental functioning.</li>
+</ol>
+
+Lacan used the plane mirror in two different ways. Sometimes it referred to the mirror of the mirror stage, still very much centered on the structuring character of the image itself. And sometimes it
+
+
+
+referred to a mirror without a reflection, that is, a representation of the Other's gaze. Indeed, our understanding of this schema has been modified retroactively by the introduction of the concept of the big Other; nevertheless, it is still most often understood in its strictly intrapsychic dimension.
+
+==See Also==
+* [[Ego ideal/ideal ego]]
+* [[Phallus]]
+* [[Look/gaze]]
+* [[Topology]]
+
+==References==
+<references/>
+# Freud, Sigmund. (1900a). The interpretation of dreams. SE, 4-5: 1-751.
+# Lacan, Jacques. (1988). The Seminar of Jacques Lacan, Book I, Freud's Papers on Technique (1953-1954). (John Forrester, Trans.). New York: Norton.
+# ——. Le Séminaire-Livre IX, L'identification (1961-62). (unpublished seminar).
+# ——. (2004). Le Séminaire-Livre X, L'angoisse [Anxiety] (1962-1963). Paris: Seuil.
+
+[[Category:New]]

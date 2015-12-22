@@ -1,0 +1,32 @@
+{| style="width:300px; height:200px" border="0"
+<!-- |+ Verben mit Direktivergänzung -->
+! !! !! Wohin?
+|-
+! fahren
+| Peter fährt || '''nach''' Berlin
+|-
+! gehen
+| Peter geht || '''zur''' Bank
+|-
+! kommen
+| Peter kommt || '''nach''' Hause
+|-
+! laufen
+| Peter läuft || '''zum''' Wagen
+|-
+! reisen
+| Peter reist || '''nach''' Spanien
+|-
+! rennen
+| Peter rennt || '''ins''' Krankenhaus
+|-
+! springen
+| Peter springt || '''ins''' Wasser
+|-
+! steigen
+| Peter steigt || '''in ein''' Taxi
+|-
+|}
+
+
+<flashmp3>Laufen.mp3</flashmp3>

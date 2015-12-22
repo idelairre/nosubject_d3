@@ -1,0 +1,40 @@
+{| align="right" style="line-height:2.0em;text-align:justify;background-color:#fcfcfc;border:1px solid #aaa" 
+| [[German]]: ''[[affirmation|Bejahung]]''
+|}
+
+==Affirmation==
+In his "[[Reply to Jean Hyppolite's commentary on Freud's "Negation"]]" ([[{{Y}}|1954]]), [[Lacan]] describes a primordial [[act]] of [[Bejahung|affirmation]] which is logically prior to any [[act]] of [[negation]].<ref>{{L}} "[[Works of Jacques Lacan|Introduction aux commentaire de Jean Hyppolite sur la 'Verneinung' de Freud]]", in {{E}} [1954b] pp. 381-99.</ref>  [[Lacan]] uses [[Freud]]'s [[German]] term, ''[[Bejahung]]'' to denote this primordial [[affirmation]].<ref>{{Ec}} p. 387</ref>
+
+==Existence==
+Whereas [[negation]] concerns what [[Freud]] called the "judgement of [[existence]]," ''[[Bejahung]]'' denotes something more fundamental, namely the primordial [[act]] of [[symbolization]] itself, the inclusion of something in the [[symbolic|symbolic universe]].  Only after a [[thing]] has been [[symbolize]]d (at the level of ''[[Bejahung]]'') can the value of [[existence]] be attributed to it or not (''[[negation]]'').
+
+==Foreclosure==
+[[Lacan]] posits a basic alternative between ''[[Bejahung]]'' and the [[psychosis|psychotic mechanism]] he later calls "[[foreclosure]]".  ''[[Bejahung]]'' designates a primordial inclusion of something in the [[symbolic]], whereas [[foreclosure]] is a primordial refusal to include something -- the [[Name-of-the-Father]] -- in the [[symbolic]].<ref>{{S3}} p. 82</ref>
+
+==See Also==
+{{See}}
+* [[Act]]
+* [[Existence]]
+||
+* [[Foreclosure]]
+* [[Negation]]
+||
+* [[Psychosis]]
+* [[Symbolic]]
+{{Also}}
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+[[Category:Psychoanalysis]]
+[[Category:Jacques Lacan]]
+[[Category:Symbolic]]
+[[Category:Dictionary]]
+[[Category:Concepts]]
+[[Category:Terms]]
+[[Category:Edit]]
+{{OK}}
+
+__NOTOC__

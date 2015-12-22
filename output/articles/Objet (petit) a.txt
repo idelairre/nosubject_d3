@@ -1,0 +1,64 @@
+===Translation===
+This term has sometimes been translated into [[English]] as "[[Objet petit a|object (little) a]]", but [[Lacan]] insisted that it should remain untranslated, "thus acquiring, as it were, the status of an algebraic sign."<ref>[[Ecrits|Sheridan, Alan]]. "Translator's note." {{E}} p.vii-xii</ref>
+
+===Lacanian Algebra===
+The symbol ''<b>a</b>'' (the first letter of the word ''[[other|autre]]'', or "[[other]]") is one of the first [[algebraic]] [[sign]]s which appears in [[Lacan]]'s [[Works of Jacques Lacan|work]], and is first introduced in 1955 in connection with [[schema L]].  It is always lower case and italicized to show that it denotes the [[little other]], in opposition to the capital '<b>A</b>' of the [[big Other]].  Unlike the [[big Other]], which represents a radical and irreducible [[big Other|alterity]], the [[little other]] is "the other which isn't another at all, since it is essentially coupled with the ego, in a relationship which is always reflexive, interchangeable."<ref>{{S2}} p. 321</ref>  In [[schema L]], then, ''a'' and ''a''' designate indiscriminately the [[ego]] and the [[counterpart]]/[[specular image]], and clearly belong to the [[imaginary order]].
+
+===Object of Desire===
+In 1957, when [[Lacan]] introduces the [[matheme]] of [[fantasy]] ('''$ <> <i>a</i>'''), ''a'' begins to be conceived as the [[object]] of [[desire]].  This is the [[imaginary]] [[part-object]], an element which is imagined as separable from the rest of the [[body]].  Lacan now begins to distinguish between ''a'', the [[object]] of [[desire]], and the [[specular image]], which he now symbolizes  ''i(a)''.
+
+===Agalma===
+In the seminar of 1960-1, [[Lacan]] articulates the ''[[objet (petit) a|objet petit a]]'' with the term ''[[agalma]]'' (a Greek term meaning glory, an ornament, an offering ot the gods, or a little statue of a god) which he extracts from [[Plato]]'s ''[[Plato|Symposium]]''.  Just as the ''[[agalma]]'' is a precious [[object]] hidden inside a relatively worthless box, so the ''[[objet (petit) a|objet petit a]]'' is the [[object]] of [[desire]] which we seek in the [[other]].<ref>{{S8}} p. 177</ref>
+
+===Object-Cause of Desire===
+From 1963 onwards, '''<i>a</i>''' comes increasingly to acquire connotations of the [[real]], although it never loses its [[imaginary]] status; in 1973 [[Lacan]] can still say that it is [[imaginary]].<ref>{{S20}} p. 77</ref>  From this point on, ''[[objet (petit) a|a]]'' denotes the [[object]] which can never be attained, which is really the [[cause]] of [[desire]] rather than that towards which [[desire]] tends; this is why [[Lacan]] now calls it the "[[objet (petit) a|object-cause]]" of [[desire]].
+
+===Object of Drive===
+''[[objet (petit) a|Objet petit a]]'' is any [[object]] which sets [[desire]] in motion, especially the [[partial object]]s which define the [[drive]]s.  The [[drive]]s do not seek to attain the ''[[objet (petit) a|objet petit a]]'', but rather circle round it.<ref>{{S11}} p. 179</ref>
+
+===Object of Anxiety, Libido===
+''[[Objet petit a]]'' is both the object of [[anxiety]], and the final irreducible reserve of [[libido]].<ref>{{S10}} [[Seminar]] of 16 January 1963.</ref>
+
+===Position of the Analyst===
+It plays an increasingly important part in [[Lacan]]'s concept of the [[treatment]], in which the [[analyst]] must situate himself as the [[semblance]] of ''[[objet (petit) a|objet petit a]]'', the [[cause]] of the [[analysand]]'s [[desire]].
+
+===Surplus Enjoyment===
+In the [[seminar]]s of 1962-3 and of 1964, ''[[Objet (petit) a|objet petit a]]'' is defined as the leftover, the remainder ([[Fr]]. ''[[reste]]''), the remnant left behind by the introduction of the [[symbolic]] in the [[real]].  This is developed further in the [[seminar]] of 1969-70, in which [[Lacan]] elaborates his [[algebra|formulae]] of the [[four discourses]].  In the [[discourse]] of the [[master]], one [[signifier]] attempts to represent the [[subject]] for all other [[signifier]]s, but inevitably a [[surplus]] is always produced; this [[surplus]] is ''[[Objet (petit) a|objet petit a]]'', a [[surplus]] [[meaning]], and a [[surplus|surplus enjoyment]] ([[Fr]]. ''[[surplus|plus-de-jouir]]'').  This concept is inspired by [[Marx]]'s concept of [[surplus value]]; ''[[Objet (petit) a|a]]'' is the excess of ''[[jouissance]]'' which has no "[[use value]]" but persists for the mere sake of [[enjoyment]].
+
+===Semblance===
+In 1973, [[Lacan]] links ''[[Objet (petit) a|objet petit a]]'' to the concept of [[semblance]], asserting that ''''[[Objet (petit) a|a]]'''' is a "semblance of being."<ref>{{S20}} p.87</ref>
+
+===Borromean knot===
+In 1974 he places it at the center of the [[Borromean knot]], at the place where the [[order|three order]]s ([[real]], [[symbolic]] and [[imaginary]]) all intersect.
+
+==See Also==
+{{See}}
+* [[Analyst]]
+* [[Anxiety]]
+||
+* [[Borromean knot]]
+* [[Cause]]
+||
+* [[Desire]]
+* [[Drive]]
+||
+* [[Other]]
+* [[Schema L]]
+||
+* [[Specular image]]
+{{Also}}
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+[[Category:Psychoanalysis]]
+[[Category:Jacques Lacan]]
+[[Category:Dictionary]]
+[[Category:Real]]
+[[Category:Concepts]]
+[[Category:Terms]]
+[[Category:Edit]]
+{{OK}}
+__NOTOC__

@@ -1,0 +1,66 @@
+Welcome to the Valve Developer Community! From here on in you can forget Valve - every page you see with an edit tab, including this one, is likely written or at least altered by someone in the community (though Valve staff are sometimes among them). If you want to do the same, go right ahead! Otherwise, take a look at the [[Special:Categories|Categories]] or run a search to find what you want.
+{{category header|background-color=#E0E0E0|border-color=lightgray}}
+{{category newcolumn|rowspan=8|width=50%|background-color=#F7F7F7|border-color=lightgray}}
+==Cross-Purpose and General Development==
+* [http://collective.valve-erc.com/ VERC] - Valve Editing Resource Collective. This site's predecessor, which offers primarily HL1 resources (Official)
+
+
+==Mapping==
+* [http://ammahls.com/index.php?page=downloadcat&cat=tools Custom Source Tools] - Source Mapping Compile Tools - Faster, and more helpful with errors over the V Tools (Includes 64bit, and Linux versions)
+
+
+==Modeling==
+* [http://cannonfodder.chaosincarnate.net/cftools.htm Cannonfodder's Tools] - [[3dsmax tools|3DSMax Importers and Exporters]], [http://developer.valvesoftware.com/wiki/dispgen Dispgen - Displacement Terrains from heightmaps], [[studiocompiler|StudioCompiler - Model/Texture Compiler/Decompiler]], [http://developer.valvesoftware.com/wiki/winBSPzip winBSPzip - BSP Packer]
+
+
+==Other==
+* Official VERC Network [http://www.chatbear.com/board.plm?b=668&v=flatold Forums]
+
+{{category newcolumn|rowspan=1|width=50%|background-color=#FBF7EA|border-color=#E4DCCD}}
+
+==Map Archives==
+* [http://www.17buddies.net 17buddies] - French community of gamers - Map Downloads, tools .
+
+{{category cell|background-color=white|border-color=lightgray}}
+
+==Image Creation and Editing==
+*[http://adobe.com/ Adobe Photoshop] - The standard image editing tool in the industy, used by professionals all over the world. Very expensive.
+
+{{category cell|background-color=#FBF7EA|border-color=lightgray}}
+
+==3D Modelling, Animation and Rendering==
+*[http://discreet.com/ 3D Studio Max] - Powerful tool for modeling and animation, one of the industry's best. Expensive.
+
+{{category cell|background-color=white|border-color=lightgray}}
+
+==Resources==
+Content for your project.
+
+
+===Photo Reference===
+
+* [http://www.3d.sk 3d.sk] -  Human Photo References for 3D Artists and Game Developers (large source -partly free)
+
+
+{{category cell|background-color=#FBF7EA|border-color=lightgray}}
+
+==Game Design==
+* [http://forum.moddb.com/thread/4386/ Game Design Theory] - Interesting for art directors, team leaders
+
+{{category cell|background-color=white|border-color=lightgray}}
+
+==[[:Category:Steam|Steam]]==
+* [http://forums.steampowered.com/forums/ Steampowered forums]
+
+===[[:Category:Steam Applications|Steam Applications]]===
+* [[Steam Application IDs]]
+
+
+{{category cell|background-color=#FBF7EA|border-color=lightgray}}
+
+==Modifications==
+* [[:Category:HL1 Third Party Mods|HL1 Third Party Mods]] {{HL1}}
+
+{{category end}}
+
+__NOTOC__

@@ -1,0 +1,58 @@
+{{Top}}théorie du relation d'objet{{Bottom}}
+
+===History===
+[[Freud]] defined the [[object]] as that in which and through which the [[drive]] attains its [[aim]].  In the years following [[Freud]]'s [[death]], the twin concepts of the "[[object]]" and the "[[object relation]]" attained a growing importance in [[psychoanalytic theory]], and eventually a whole [[school]] of [[psychoanalytic theory]] came to be known as "[[object-relations theory]].  (The main proponents of [[object-relations theory]] were [[Ronald Faibairn]], [[D.W. Winnicott]] and [[Michael Balint]], all of whom were members of the Middle Group of the British Psycho-Analytical Society.)  These [[analyst]]s differed on many points, and hence [[object-relations theory]] covers a wide range of theoretical points of view.
+
+===Ego-Psychology===
+However, despite its lack of precise definition, [[object-relations theory]] can be contrasted with [[ego-psychology]] on account of its focus on [[object]] rather than on the [[drive]]s in themselves.  This focus on [[object]]s means that [[object-relations theory]] pays more attention to the [[intersubjective]] constitution of the [[psyche]], in contrast to the more atomistic approach of [[ego-psychology]].
+
+===Lacanian Psychoanalysis===
+Although [[Lacan]]ian [[psychoanalysis]] has been compared with [[object-relations theory]] in that both [[school|schools of thought]] place more emphasis on [[intersubjectivity]], [[Lacan]] himself criticizes [[object-relations theory]] repeatedly.  
+
+His criticisms focus most on the way in which [[object-relations theory]] envisions the possibility of a complete and perfectly satisfying relation between the [[subject]] and the [[object]].  [[Lacan]] is opposed to such a view, arguing that for [[human]] [[being]]s there is no such thing as a "pre-established harmony" betrween "a need and an object that satisfies it."<ref>{{S1}} p. 209</ref>  The root of the error is, argues [[Lacan]], that in [[object-relations theory]], "the object is first and foremost an object of satisfaction."<ref>{{S1}} p. 209</ref>
+
+In other words, by locating the [[object]] in the [[register]] of [[satisfaction]] and [[need]], [[object-relations theory]] confuses the [[object]] of [[psychoanalysis]] with the [[object]] of [[biology]] and neglects the [[symbolic]] dimension of [[desire]].  One dire consequence that follows from this is that the specific difficulties which arise from the [[symbolic]] constitution of [[desire]] are neglected, with the result that "mature object relations" and ideals of "[[genital|genital love]]" are proposed as the goal of [[treatment]].  Thus [[object-relations theory]] becomes the site of a "delirious moralism."<ref>{{Ec}} p. 716</ref>
+
+===Oedipal Structure===
+A closely related aspect of [[object-relations theory]] which [[Lacan]] also criticizes is its shift of emphasis from the [[Oedipal]] [[structure|triangle]] onto the [[mother]]-[[child]] [[dual relation|relation]], with the latter conceived of as a perfectly symmetrical, reciprocal relation.  One of [[Lacan]]'s fundamental concern is to restore the centrality of the [[Oedipal]] [[structure|triangle]] to [[psychoanalysis]] by re-emphasizing the importance of the [[father]] in contrast to the [[object-relations]] emphasis on the [[mother]].  This concern can be seen in [[Lacan]]'s criticism of the [[object-relations theory|object relation]] as a symmetrical [[dual relation]], and his view that the [[object-relations theory|object relation]] is an [[intersubjective]] relation which involves not two but three terms.
+<!--
+[[Lacan]]'s criticism of British [[object-relations theory]] is one of the main themes of the first year of his public [[seminar]] (1953-4).  In the fourth year of the [[seminar]], entitled "[[Object Relations]]," [[Lacan]] discusses not the British school of [[object-relations theory]] but the French school.
+-->
+
+==See Also==
+{{See}}
+* [[Biology]]
+* [[Desire]]
+* [[Drive]]
+||
+* [[Dual relation]]
+* [[Ego-psychology]]
+* [[Father]]
+||
+* [[Intersubjectivity]]
+* [[Kleinian psychoanalysis]]
+* [[Mother]]
+||
+* [[Oedipus complex]]
+* [[Psychoanalysis]]
+* [[School]]
+||
+* [[Structure]]
+* [[Subject]]
+* [[Symbolic]]
+{{Also}}
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+[[Category:Schools]]
+[[Category:Psychoanalysis]]
+[[Category:Dictionary]]
+[[Category:Concepts]]
+[[Category:Terms]]
+[[Category:Jacques Lacan]]
+[[Category:Edit]]
+[[Category:New]]
+__NOTOC__

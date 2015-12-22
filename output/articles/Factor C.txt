@@ -1,0 +1,39 @@
+{{Top}}facteur c{{Bottom}}
+
+==Jacques Lacan==
+[[Lacan]] coined the term "[[factor c]]" at a psychiatric congress in 1950. 
+
+==Culture==
+[[Factor c]] is "the constant characteristic of any given cultural milieu"<ref>{{E}} p.37</ref>: it is an attempt to designate that part of the [[symbolic order]] which marks the particular features of one [[culture]] as opposed to another ('''c''' stands for [[culture]]). 
+
+=="American Way of Life"==
+Although it would be interesting to speculate on the possible applications of this concept to the interrelationship between different cultural milieux and [[psychoanalysis]], [[Lacan]] only gives one example of the [[c factor]]; ahistoricism, he argues, is the [[factor c|''c'' factor]] of the [[culture]] of the United States.<ref>{{E}} p.37, 115</ref> 
+
+The "American way of life" revolves around such [[signifier]]s as "happiness," "adaptation," "human relations" and "human engineering."<ref>{{E}} p.38</ref> 
+
+==Psychoanalysis==
+[[Lacan]] regards the [[factor c|''c'' factor]] of United States culture as particularly antithetical to [[psychoanalysis]], and sees it as largely responsible for the errors which have beset [[psychoanalytic theory]] in the USA (such as [[ego-psychology]]).
+
+==See Also==
+{{See}}
+* [[Adaptation]]
+* [[Ego-psychology]]
+||
+* [[Psychoanalysis]]
+* [[Symbolic]]
+{{Also}}
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+[[Category:Dictionary]]
+[[Category:Terms]]
+[[Category:Concepts]]
+[[Category:Psychoanalysis]]
+[[Category:Symbolic]]
+[[Category:Jacques Lacan]]
+{{OK}}
+
+__NOTOC__

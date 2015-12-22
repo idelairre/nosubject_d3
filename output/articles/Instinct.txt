@@ -1,0 +1,34 @@
+{{Topp}}instincts|instinct{{Bottom}}
+
+==Jacques Lacan==
+===Instinct and Drive===
+[[Lacan]] follows [[Freud]] in distinguishing the [[instinct]]s from the [[drive]]s, and criticizing those who obscure this distinction by using the same English word ("[[instinct]]") to translate both [[Freud]]'s terms (''[[Instinkt]]'' and ''[[Trieb]]'').<ref>{{E}} p. 301</ref> "[[Instinct]]" is a purely ''[[biological]]'' concept and belongs to the study of [[animal]] [[ethology]].  Whereas [[animal]]s are driven by [[instincts]], which are relatively rigid and invariable, and imply a direct relation to an [[object]], [[human]] [[sexuality]] is a matter of [[drives]], which are very variable and never attain their [[object]].  Although [[Lacan]] uses the term "[[instinct]]" frequently in his early work, after 1950 he uses the word less frequently, preferring instead to reconceptualize the concept of [[instinct]] in terms of [[need]].
+
+===Biology and Social and Cultural Factors===
+From his earliest works, [[Lacan]] criticizes those who attempt to understand human behavior purely in terms of [[instinct]]s, arguing that this is to suppose a harmonious relation between man and the world, which does not in fact exist.<ref>{{Ec}} p. 88</ref> The concept of [[instinct]] supposes some kind of direct innate [[knowledge]] of the [[object]] which is of an almost moral character.<ref>{{Ec}} p. 851</ref> 
+
+Against such ideas, [[Lacan]] insists that there is something inadequate about [[human]] [[biology]], a feature which he indicates in the phrases "vital insufficiency" (''insuffisance vitale'').<ref>{{Ec}} p.90</ref> and "congenital insufficiency". This inadequacy, evident in the [[helplessness]] of the [[human]] [[infant|baby]], is compensated for by means of [[complexes]]. The fact that [[human]] [[psychology]] is dominated by [[complex]]es (which are determined entirely by cultural and social factors) rather than by [[instinct]]s, means that any explanation of human behavior that does not take social factors into account is useless.
+
+==See Also==
+{{See}}
+* [[Biology]]
+* [[Complex]]
+||
+* [[Drive]]
+* [[Helplessness]]
+||
+* [[Knowledge]]
+* [[Nature]]
+||
+* [[Need]]
+* [[Psychology]]
+{{Also}}
+
+== References ==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+{{OK}}
+
+__NOTOC__

@@ -1,0 +1,68 @@
+In [[psychoanalysis]], the term "[[libido]]" is used to describe a mental -- psychic and emotional -- energy associated with [[instinct]]ual [[biology|biological]] [[drive]]s.
+
+==Sigmund Freud==
+
+The term "[[libido]]" was introduced into [[psychoanalytic theory]] by [[Freud]].
+
+[[Freud]] often employs metaphors from the [[science]] of hydraulics to describe [[libido]].
+
+[[Freud]] conceives of the [[libido]] as an "economic" concept.
+
+It is said to be quantifiable, plastic and adhesive, and can be attached to or withdrawn from [[object]]s thanks to the mechanism of [[cathexis]].
+
+It is an energy which can increase or descrease, and which can be displaced.<ref>[[Freud|Freud, Sigmund]]. [[SE]] XVIII. 1921c. p.90.</ref>
+
+It can be desexualized or used in [[sublimation]].
+
+===Sexual Desire===
+
+[[Freud]] insisted on the sexual nature of this energy.
+
+[[Libido]] is a specifically sexual energy.
+
+[[Libido]] is also described by [[Freud]] as being [[active]] and [[masculine]].
+
+Throughout his work, [[Freud]] maintained a dualism in which the [[libido]] is opposed to another (non-sexual) form of energy.
+
+[[Freud]] made a distinction between the sexual or libidinal drives and the self-preservation of ego drives.
+
+===Carl Jung===
+One of the major sources of the disagreement between [[Freud]] and [[Jung]] is the later's tendency to desexualize the concept of [[libido]] and to dissolve it into a more general category of mental energy.
+
+[[Jung]] opposed this dualism, positing a single form of life-energy which is neutral in character, and proposed that this energy be denoted by the term "[[libido]]."
+
+==Jacques Lacan==
+
+[[Lacan]] uses the term "[[libido]]" very sparingly, and tends to discuss sexuality in terms of [[desire]] and ''[[jouissance]]''.
+
+In general [[Lacan]] does not use the term "[[libido]]" anywhere near as frequently as [[Freud]], preferring to reconceptualize sexual energy in terms of ''[[jouissance]]''.
+
+[[Lacan]] rejects [[Jung]]'s monism and reaffirms [[Freud]]'s dualism.<ref>{{S1}} p.119-20</ref>
+
+He argues, with [[Freud]], that the [[libido]] is exclusively [[sexual]].
+
+[[Lacan]] also follows [[Freud]] in affirming that the [[libido]] is exclusively [[masculine]].<ref>{{E}} p.291</ref>
+
+===Imaginary and the Real===
+
+In the 1950s [[Lacan]] locates the [[libido]] in the [[imaginary order]].
+
+<blockquote>"Libido and the ego are on the same side.  Narcissism is libidinal."<ref>{{S2}} p.326</ref></blockquote>
+
+From 1964 on, however, there is a shift to articulating the [[libido]] more with the [[real]].<ref>{{Ec}} p.848-9</ref>
+
+==See Also==
+{{See}}
+* ''[[Jouissance]]''
+||
+* [[Sublimation]]
+{{Also}}
+
+== References ==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+{{OK}}
+[[Category:Sexuality]]
+__NOTOC__

@@ -1,0 +1,40 @@
+{{Top}}signifié{{Bottom}}
+
+==Ferdinand de Saussure==
+According to [[Saussure]], the [[signified]] is the [[conceptual]] element of the [[sign]].  It is not the real [[object]] denoted by a [[sign]] -- the [[referent]] -- but a [[psychological]] entity corresponding to such an [[object]].<ref>[[Saussure|Saussure, Ferdinand de]]. ''[[Saussure|Course in General Linguistics]]'', ed. Charles Bally and Albert Sechehaye, trans. Wade Baskin, Glasgow: Collins Fontana. 1916. p.66-7</ref>
+
+==Jacques Lacan==
+===Primacy of the Signifier===
+For [[Saussure]], the [[signified]] has the same status as the [[signifier]]; both form equal sides of the [[sign]].  [[Lacan]], on the other hand, asserts the primacy of the [[signifier]], and argues that the [[signified]] is a mere effect of the play of [[signifier]]s, an effect of the process of [[signification]] produced by [[metaphor]].  In other words, the [[signified]] is not given, but produced.
+
+===Materialism of Language===
+[[Lacan]]'s view is thus opposed to an expressionist view of [[language]], according to which [[concepts]] exist in some pre-verbal state before being expressed in the [[material]] medium of [[language]].  In contrast to such a view, [[Lacan]] asserts the priority (logical rather than chronological) of the [[material]] element of [[language]].
+
+==See Also==
+{{See}}
+* [[Language]]
+* [[Materialism]]
+||
+* [[Metaphor]]
+* [[Sign]]
+||
+* [[Signification]]
+* [[Signifier]]
+{{Also}}
+
+== References ==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+[[Category:Psychoanalysis]]
+[[Category:Jacques Lacan]]
+[[Category:Linguistics]]
+[[Category:Dictionary]]
+[[Category:Language]]
+[[Category:Symbolic]]
+[[Category:Concepts]]
+[[Category:Terms]]
+[[Category:OK]]
+
+__NOTOC__

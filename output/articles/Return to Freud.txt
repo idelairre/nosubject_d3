@@ -1,0 +1,85 @@
+{{Top}}retour à Freud{{Bottom}}
+
+=====Overview=====
+
+[[Psychoanalysis]] was founded by [[Sigmund Freud]]
+
+
+Psychoanalysis originates with the work of Freud and remains rooted in his theories to this day, but every generation of analysts that came after Freud has sought to update and correct those theories, and to resolve the contradictions that he left behind. Lacan argued that through this process of continual revision psychoanalysis had lost sight of its original aims; that it had become conservative and reactionary. By playing down the more uncomfortable and disturbing aspects of the theory, especially the underlying presence of repressed, unconscious, desire in our mental lives, psychoanalysis had made itself respectable but it had lost its radical edge. In the early 1950s, therefore, Lacan famously declared the necessity of a 'return to Freud', that is to say, a return to the texts of Freud himself and to a close reading and understanding of those texts. For the next 26 years he would engage in this project of close reading, and in the process would reconstitute the theory of psychoanalysis.
+
+
+[[Lacan]] presented a distinctive [[interpretation|reading]] of [[psychoanalysis]].
+
+In 1951, [[Lacan]] made his call for a "[[return to Freud]].
+
+=====Freudian Legacy=====
+The whole of [[Lacan]]'s work can only be understood within the context of the intellectual and theoretical legacy of [[Sigmund Freud]] (1856-1939), the founder [[father]] of [[psychoanalysis]].
+
+[[Lacan]] first trained as a [[psychoanalyst]] within the [[International Psychoanalytical Association]] ([[IPA]]), the organization founded by [[Freud]] which presented itself as the sole legitimate heir to the ''Freudian legacy''.
+
+=====Betrayal of Freud=====
+However, [[Lacan]] gradually began to develop a radical critique of the way that most [[analyst]]s in the [[IPA]] had [[interpretation|interpreted]] [[Freud]].
+
+After being expelled from the [[IPA]] in 1953, [[Lacan]] developed his polemic further, arguing that [[Freud]]'s radical insights had been universally betrayed by the [[school|three major schools]] of [[psychoanalysis]] within the [[IPA]]: [[ego-psychology]], [[Kleinian psychoanalysis]], and [[object-relations theory]].
+
+=====Return to Freud=====
+To remedy this situation, [[Lacan]] proposed to lead a "[[return to Freud]]", both in the sense of a renewed attention to the ''actual texts'' of [[Freud]] himself, and a '''return''' to the ''essence'' of [[Freud]]'s [[Sigmund Freud:Bibliography|work]] which had been betrayed by the [[IPA]].
+
+Reading [[Freud]] in the original German allowed [[Lacan]] to discover elements which had been obscured by poor translation and ignored by other commentators.
+
+=====Post-Freudians=====
+Thus much of [[Lacan]]'s work is taken up with detailed textual commentaries on specific works by [[Freud]], and by numerous references to the work of other analysts whose ideas [[Lacan]] refutes.
+
+To understand [[Lacan]]'s work, therefore, it is necessary both to have a detailed understanding of [[Freud]]'s ideas and also a grasp of the way these ideas were developed and modified by the other analysts (the 'post-Freudians') whom Lacan criticizes.
+
+These ideas are the background against which [[Lacan]] develops his own "[[return to Freud]]."
+
+<Blockquote>What such a return [to Freud] involves for me is not a return of the repressed, but rather taking the antithesis constituted by the phase in the history of the psychoanalytic movement since the death of Freud, showing what psychoanalysis is not, and seeking with you the means of revitalizing that which has continued to sustain it, even in deviation...<ref>{{E}} p. 116</ref></Blockquote>
+
+=====Orthodoxy=====
+However, [[Lacan]]'s work itself puts in question the narrative of a '''return''' to ''orthodoxy'' implicit in the expression "[[return to Freud]]," for [[Lacan]]'s way of reading [[Freud]] and his style of presentation are so original that they seem to belie his modest claims to be a mere commentator.
+
+Furthermore, while it is true that [[Lacan]] returns to specific aspects of the [[Freud]]ian conceptual legacy, privileging [[Lacan]] is no more "faithful" to [[Freud]]'s [[Sigmund Freud:Bibliography|work]] than the post-Freudians whom he criticizes for having betrayed [[Freud]]'s [[message]]; like them, [[Lacan]] selects and develops certain themes in [[Freud]]'s [[Sigmund Freud:Bibliography|work]] and neglects or [[interpretation|reinterprets]] others.
+
+'''[[Lacan]]ian [[psychoanalysis]]''' might therefore be described as a "[[Freud|post-Freudian]]" form of [[psychoanalysis]], along with '''[[ego-psychology]]''', '''[[Kleinian psychoanalysis]]''' and ''[[object-relations theory]]'''.
+
+=====Reading of Freud=====
+However, this is not the way [[Lacan]] sees his [[work]].
+
+[[Lacan]] argues that there is a deeper logic at work in [[Freud]]'s [[Sigmund Freud:Bibliography|texts]], a logic which endows those [[Sigmund Freud:Bibliography|texts]] with a consistency despite the apparent contradictions.
+
+[[Lacan]] claims that his [[interpretation|reading]] of [[Freud]], and his alone, brings out this logic, and shows us that "the different stages and changes in direction" in [[Freud]]'s [[Sigmund Freud:Bibliography|work]] "are governed by Freud's inflexibly effective concern to maintain it in its primary rigour."<ref>{{E}} p. 116</ref>
+
+In other words, while [[Lacan]]'s reading of [[Freud]] may be as partial as any other in the sense that it privileges particular aspects of [[Freud]]'s work, that is not, in [[Lacan]]'s view, justification for regarding all interpretations of [[Freud]] as equally valid.
+
+Thus [[Lacan]]'s declarations of loyalty and accusations of '''betrayal''' cannot be seen as a mere rhetorical strategy.
+
+Certainly, they do have a rhetorico-political function, in that presenting himself as "more [[Freud]]ian" than anyone else allowed [[Lacan]] to challenge the effective monopoly on the ''[[Freud]]ian legacy'' that the [[IPA]] still enjoyed in the 1950s.
+
+However, [[Lacan]]'s statements are also an explicit claim to have teased out a coherent logic if [[Freud]]'s writings that no one else had perceived before.
+
+==See Also==
+{{See}}
+* [[Ego-psychology]]
+* [[International Psycho-Analytical Association]]
+||
+* [[Kleinian psychoanalysis]]
+* [[Object-relations theory]]
+||
+* [[Psychoanalysis]]
+* [[School]]
+{{Also}}
+
+
+==References==
+<references/>
+
+[[Category:Psychoanalysis]]
+[[Category:Jacques Lacan]]
+[[Category:Dictionary|Freud, Return to]]
+[[Category:Concepts]]
+[[Category:Terms]]
+[[Category:School]]
+[[Category:Freudian psychology]]
+
+__NOTOC__

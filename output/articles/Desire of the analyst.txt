@@ -1,0 +1,82 @@
+{{Top}}désir de l'analyste{{Bottom}}
+
+=====Jacques Lacan=====
+The term "[[desire of the analyst]]" is ambiguous, and oscillates between two meanings in [[Lacan]]'s [[Jacques Lacan:Bibliography|work]].
+
+=====Desire ''Attributed'' to the Analyst=====
+In the first sense of the term, the "[[desire of the analyst]]" refers to the [[desire]] that the [[analysand]] ''attributes'' to the [[analyst]] (in addition to [[knowledge]]) in [[psychoanalytic treatment]], rather than the [[desire]] ''proper'' to the [[analyst]] (in his [[mind]] or [[psyche]]).
+
+The [[analyst]] is therefore a "'''[[subject supposed to know|subject supposed to desire]]'''" (as well as a "[[subject supposed to know]]").
+
+=====Desire ''Proper'' to the Analyst=====
+In the second sense of the term, the "[[desire of the analyst]]" refers to the ''actual'' [[desire]] of the [[analyst]], which animates the [[analyst]] in the way he directs the [[treatment]].
+
+=====Psychoanalytic Treatment=====
+In [[psychoanalytic treatment]]
+
+The task of the [[analyst]] throughout the [[treatment]] is to make it impossible for the [[analysand]] to be sure that he knows what the [[analyst]] wants from him; the [[analyst]] must make sure that his [[desire]] "remains an x" for the [[analysand]].<ref>{{S11}} p. 274</ref>
+
+In this way the [[analyst]]'s supposed [[desire]] becomes the [[treatment|driving force]] of the [[analytic]] [[process]], since it keeps the [[analysand]] working, trying to discover what the [[analyst]] wants from him.
+
+<blockquote>"The [[desire]] of the [[analyst]] is ultimately that which operates in [[psychoanalysis]]."<ref>{{Ec}} p. 854</ref></blockquote>
+
+By presenting the [[analysand]] with an enigmatic [[desire]], the [[analyst]] occupies the position of the [[Other]], of whom the [[subject]] asks "'''[[Che vuoi?]]'''" ("What do you want from me?"), with the result that the [[subject]]'s [[fantasy|fundamental fantasy]] emerges in the [[transference]].
+
+====Definition====
+This is easier to define negatively than positively. 
+
+It is certainly not a [[desire]] for the "impossible".<ref>{{S7}} p. 300</ref>
+
+Nor is it a [[desire]] to "do good" or "to cure"; on the contrary, it is "a non-desire to cure."<ref>{{S7}} p. 218</ref>
+
+====Identification====
+It is not a [[desire]] that the [[analysand]] [[identification|identify]] with the [[analyst]]:
+
+<blockquote>"The [[analyst]]'s [[desire]] . . . tends in a direction that is the exact opposite of [[identification]]."<ref>{{S11}} p. 274</ref></blockquote>
+
+Rather than [[identification]], the [[analyst]] [[desire]]s that the [[analysand]]'s own unique [[truth]] emerge in the [[treatment]], a [[truth]] that is absolutely different to that of the [[analyst]]; the [[analyst]]'s [[desire]] is thus "a desire to obtain absolute difference."<ref>{{S11}} p. 276</ref>
+
+====Ethics====
+It is in the sense of a "'''[[Desire of the analyst|desire proper to the analyst]]'''" that [[Lacan]] wishes to locate the question of the [[analyst]]'s [[desire]] at the heart of the [[ethics]] of [[psychoanalysis]].
+
+====Training====
+How is it that the [[analyst]] comes to be guided by the [[desire]] which is proper to his function?
+
+According to [[Lacan]], this can only occur by means of a [[training|training analysis]]. 
+
+The essential requirement, the condition ''sine qua non'' for becoming an [[analyst]], is to undergo [[treatment|analytic treatment]] oneself. 
+
+In the course of this [[treatment]] there will be a mutation in the economy of [[desire]] in the [[analyst|analyst-to-be]]; his [[desire]] will be [[structure|restructured]], [[structure|reorganized]].<ref>{{S8}} p. 221-2</ref>
+
+Only if this happens will he be able to function properly as an [[analyst]].
+
+==See Also==
+{{See}}
+* [[Analysand]]
+* [[Analyst]]
+||
+* [[Desire]]
+* [[Identification]]
+||
+* [[Subject supposed to know]]
+* [[Training]]
+||
+* [[Transference]]
+* [[Treatment]]
+{{Also}}
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+[[Category:Psychoanalysis]]
+[[Category:Jacques Lacan]]
+[[Category:Dictionary]]
+[[Category:Treatment]]
+[[Category:Practice]]
+[[Category:Concepts]]
+[[Category:Terms]]
+{{OK}}
+
+__NOTOC__

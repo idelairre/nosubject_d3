@@ -1,0 +1,43 @@
+{{Top}}psychologie{{Bottom}}
+
+==Jacques Lacan==
+===Early Work===
+In his pre-[[{{Y}}|1950]] [[Jacques Lacan:Bibliography|writings]], [[Lacan]] sees [[psychoanalysis]] and [[psychology]] as parallel disciplines which can cross-fertilize each other.  Although he is very critical of the conceptual inadequacies of [[psychology|associationist psychology]], [[Lacan]] argues that [[psychoanalysis]] can help to build an "authentic psychology" free from such errors by providing it with truly [[science|scientific]] concepts such as the ''[[imago]]'' and the [[complex]].<ref>{{L}} "[[Work of Jacques Lacan|Au-delà du 'principe de realité']]", 1936. {{E}} pp. 73-92</ref>
+
+===Middle Work===
+However, from [[{{Y}}|1950]] on, there is a gradual but constant tendency to dissociate [[psychoanalysis]] from [[psychology]].  [[Lacan]] begins by arguing that [[psychology]] is confined to an understanding of [[nature|animal psychology]] ([[nature|ethology]]): 
+
+<blockquote>"The psychological is, if we try to grasp it as firmly as possible, the ethological, that is the whole of the biological individual's behaviour in relation to his natural environment."<ref>{{S3}} p. 7</ref></blockquote> 
+
+This is not to say that it cannot say anything about [[human]] [[being]]s, for [[human]]s are also [[animal]]s, but that it cannot say anything about that which is uniquely [[human]].<ref>Although at one point [[Lacan]] does state that the theory of the [[ego]] and of [[narcissism]] 'extend' modern ethological research.{{Ec}} p. 472</ref>  
+
+Thus [[psychology]] is reduced to general laws of behavior which apply to all [[animal]]s, including [[human]] [[being]]s; [[Lacan]] rejects "the doctrine of a discontinuity between animal psychology and human psychology which is far away from our thought."<ref>{{Ec}} p. 484</ref>  However, [[Lacan]] vigorously rejects the [[biology|behaviorist theory]] according to which the same general laws of behaviour are sufficient to explain all [[human]] [[psychic]] phenomena.  Only [[psychoanalysis]], which uncovers the [[linguistics|linguistic basis]] of [[human]] [[subjectivity]], is adequate to explain those psychic phenomena which are specifically [[human]].
+
+===Latest Work===
+In the [[{{Y}}|1960s]] the distance between [[psychoanalysis]] and [[psychology]] is emphasised further in [[Lacan]]'s [[Works of Jacques Lacan|work]].  [[Lacan]] argues that [[psychology]] is essentially a tool of "technocratic exploitation",<ref>{{Ec}} p.851; {{Ec}} p. 832</ref> and that it is dominated by the [[delusion|illusions]] of [[lack|wholeness]] and [[imaginary|synthesis]], [[nature]] and [[instinct]], [[autonomy]] and [[consciousness|self-consciousness]].<ref>{{Ec}} p. 832</ref>  [[Psychoanalysis]], on the other hand, subverts these [[illusion]]s cherished by [[psychology]], and in this sense "the Freudian enunciation has nothing to do with psychology.<ref>{{S17}} p. 144</ref>  For example the most cherished [[illusion]] of [[psychology]] is "the unity of the subject",<ref>{{E}} p. 294</ref>, and [[psychoanalysis]] subverts this notion by demonstrating that the [[subject]] is irremediably [[split]] or "[[bar]]red".
+
+==See Also==
+{{See}}
+* [[Bar]]
+* [[Biology]]
+||
+* [[Instinct]]
+* [[Language]]
+||
+* [[Nature]]
+* [[Psychoanalysis]]
+||
+* [[Science]]
+* [[Split]]
+||
+* [[Subject]]
+{{Also}}
+
+== References ==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+{{Cat}}
+
+__NOTOC__

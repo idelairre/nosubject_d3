@@ -1,0 +1,44 @@
+The term "defense" refers to all the techniques deployed by the ego in conflicts that have the potential to lead to neurosis. In the sense in which Freud first used the term, defenses are unconscious because they stem from a conflict between the drive and the ego or between a perception or representation (memory, fantasy, etc.) and moral imperatives. The function of the defenses is thus to support and maintain a state of psychic stability by avoiding anxiety and unpleasure. The concept of defense was broadened somewhat when Freud attributed an important role to the reality principle and to the superego. Melanie Klein then formed the more radical view that the defenses exist within an archaic ego.
+
+In his letter to Wilhelm Fliess dated May 21, 1894, and concerning his interpretation of the neuroses, Freud introduced the concept of defense in connection with the notion of psychic conflict: "What is warded off is always sexuality" (1985c [1887-1904], p. 75). In reference to the emergence of anxiety, he argued that sexual tension turned into anxiety when it was not psychically elaborated and thereby transformed into affect. Freud attributed this phenomenon to, among other things, a repression of psychic sexuality, that is, to a defense. In his letter to Fliess dated May 30, 1896, he linked repression with defense by emphasizing, "Surplus of sexuality alone is not enough to cause repression; the cooperation of defense is necessary" (p. 188).
+
+In "Further Remarks on the Neuro-psychoses of Defence" (1896b), Freud deepened his analysis of defense as arising from the conflict between the drive and the ego, the conscious agent of repression. Freud considered the defense as the "nuclear point" (p. 162) in the psychic mechanism of the neuroses. With regard to how symptoms arise, he detailed more clearly how the unconscious psychic mechanism of defense resulted from the conflict of a representation with moral imperatives.
+
+In "Repression" (1915d), Freud emphasized that the mechanism of defense "cannot arise until a sharp cleavage has occurred between conscious and unconscious mental activity—that the essence of repression lies simply in turning something away, and keeping it at a distance, from the conscious" (p. 147).
+
+Much later (1926d), Freud observed that after he had abandoned the term "defensive process" for thirty years and replaced it with the term "repression" (without clearly explaining the possible connection between these two concepts) (p. 163), there were "good enough grounds for re-introducing the old concept of defence" (p. 164). In fact, Freud had never entirely abandoned the term, since he discussed the denial of castration (albeit initially without using the term "denial" [Verleugnung]) in relation to children's theories of sexuality (1908c) and little Hans (1909b). Freud discussed denial more explicitly with regard to fetishism (1927e), a concept that plays a pivotal role in his work, and in his paper on negation (1925h), which he defined as representing "a kind of intellectual acceptance of the repressed, while at the same time what is essential to the repression persists" (p. 236). Thus, "the content of a repressed image or idea can make its way into consciousness, on condition that it is negated" (p. 235). Freud also discussed sublimation, a concept that was already present in "Leonardo da Vinci and a memory of his childhood" (1910c) and that reappeared in The Ego and the Id (1923b) in connection with the ego energy, which Freud stipulated as involving "a desexualisation—a kind of sublimation" (p. 30).
+
+These distinctions, which predate Inhibitions, Symptoms, and Anxiety (1926d), were later probably instrumental in Freud's ascribing a more important function to this "old concept of defence" and restricting the role of repression, to the extent that he suggested making defense "a general designation for all the techniques which the ego makes use of in conflicts which may lead to a neurosis, while we retain the word 'repression' for the special method of defence which the line of approach taken by our investigations made us better acquainted with in the first instance" (p. 163).
+
+In furthering her father's work, Anna Freud sought to develop a theory that would demonstrate how the three agencies of the structural theory functioned. In particular, she described how the ego becomes "suspicious" in the face of the onslaught of the drives and "proceeds to counter-attack and to invade the territory of the id. Its purpose is to put the instincts permanently out of action by means of appropriate defensive measures, designed to secure its own boundaries" (1936, p. 8). Thus, Anna Freud's account of psychic functioning attributes some force to the adaptive functions of the ego.
+
+Her works were often quoted by the ego-psychology movement that formed in the 1950s in the United States. Within the ego-psychology movement, Heinz Hartmann developed his theory of the ego in connection with the problem of adaptation, which he described in terms of the development of a "conflict-free ego sphere" (1958, p. 3 ) or autonomous ego. In this movement, psychic functioning in general is considered in terms of defense and its quest for equilibrium.
+
+Along similar lines, René Spitz, who located the first defense in the emergence of the second organizer (the so-called eight-month or stranger anxiety), explained that these defenses initially "serve primarily adaptation rather than defense in the strict sense of the term" (p. 164). It is when the object is established and ideation starts that their function changes. With the fusion of the aggressive and libidinal drives, some defense mechanisms, in particular identification, "acquire the function that they will serve in the adult" (p. 164).
+
+When Anna Freud was publishing her first psychoanalytic works, Melanie Klein, while breaking with Freudian orthodoxy by asserting that the agencies of the psyche begin functioning much earlier, introduced a perspective that restored to anxiety and psychic conflict a fundamental role in psychic functioning. Drawing on Freud's second theory of the drives, she attributed a central role to the death drive and the conflicts between love and hatred. She thus developed her ideas on early defense mechanisms that were already present, in her view, in the earliest months of life during the paranoid-schizoid position.
+
+The concept of defense, as it has developed and been used since Freud, has become somewhat common in both clinical psychology and psychoanalysis. There it refers either to a relatively conscious behavior that rejects psychic reality (a definition that makes the concept more akin to the concept of resistance) or to a psychic impulse that seeks to avoid anxiety and unpleasure in the quest to adapt and achieve a state of equilibrium. As a result, the function of defense as a mechanism necessary for psychic growth is often overlooked.
+
+ELSA SCHMID-KITSIKIS
+
+See also: Actual neurosis/defense neurosis; Autistic defenses; Conflict; Defense mechanisms; Ego; Ego and the Mechanisms of Defense, The; Manic defenses; Narcissistic defenses; Negation; Neurotic defenses; Paranoid-schizoid position; Psychoneurosis (or neuro-psychosis) of defense; Psychotic defenses; Repression; "Splitting of the Ego in the Process of Defence, The."
+Bibliography
+
+    * Freud, Anna. (1936). The ego and the mechanisms of defense. New York: International Universities Press.
+    * Freud, Sigmund. (1896b). Further remarks on the neuro-psychoses of defence. SE, 3, 157-185.
+    * ——. (1908c). On the sexual theories of children. SE, 9, 205-226.
+    * ——. (1909b). Analysis of a phobia in a five-year-old boy. SE, 10, 1-149.
+    * ——. (1910c). Leonardo da Vinci and a memory of his childhood. SE, 11, 57-137.
+    * ——. (1915d). Repression. SE, 14, 141-158.
+    * ——. (1923b). The ego and the id. SE, 19, 1-66.
+    * ——. (1925h). Negation. SE, 19, 233-239.
+    * ——. (1926d). Inhibitions, symptoms, and anxiety. SE, 20, 75-172.
+    * ——. (1927e). Fetishism. SE, 21, 147-157.
+    * ——. (1985c [1887-1904]). The complete letters of Sigmund Freud to Wilhelm Fliess, 1887-1904 (Jeffrey M. Masson, Trans.). Cambridge, MA: Harvard University Press, 1985.
+
+[[Category:Enotes]]
+[[Category:Psychoanalysis]]
+[[Category:Terms]]
+[[Category:Concepts]]
+[[Category:Sigmund Freud]]

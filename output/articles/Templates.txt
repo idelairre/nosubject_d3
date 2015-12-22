@@ -1,0 +1,7 @@
+
+
+;{FREUD-TRANSLATIONS}
+:Ex: [[Wo Es war, soll Ich werden]]
+
+;{To-Do}
+:Ex: Category: To-Do

@@ -1,0 +1,6 @@
+
+
+<DynamicArticleList>
+  title=Newly Posted Articles
+  type=new
+</DynamicArticleList>

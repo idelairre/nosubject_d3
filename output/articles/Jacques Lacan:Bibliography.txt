@@ -1,0 +1,368 @@
+{{Jacques Lacan}}
+{| id="toc" align=center class="toc" summary="Contents"
+!
+| 
+[[Jacques Lacan:Bibliography#1930s|1930s]] · 
+[[Jacques Lacan:Bibliography#1940s|1940s]] · 
+[[Jacques Lacan:Bibliography#1950s|1950s]] · 
+[[Jacques Lacan:Bibliography#1960s|1960s]] · 
+[[Jacques Lacan:Bibliography#1970s|1970s]] · 
+[[Jacques Lacan:Bibliography#1980s|1980s]] · 
+[[Jacques Lacan:Bibliography#Unsorted|Unsorted]]
+|}
+
+=====1930s=====
+{| class="wikitable" width="100%"cellpadding="2" align="center" bgcolor="ffffff" style="background:#ffffff; width:100%; text-align:center; line-height:2.0em;"
+|-
+| bgcolor="#ffffff" width="50px" | [[{{Y}}|1932]]
+| bgcolor="#ffffff" width="" | ''[[De la psychose paranoïaque dans ses rapports avec la personnalité]]''
+|| [[Paranoid psychosis and its relation to the personality]]
+|-
+| bgcolor="#ffffff" width="50px" | [[{{Y}}|1936]]
+| bgcolor="#ffffff" width="" | ''[[Le stade du miroir]]''
+||[[The mirror stage]]
+|-
+| bgcolor="#ffffff" width="50px" | [[{{Y}}|1936]]
+| bgcolor="#ffffff" width="" | ''[[Au-delà du 'principe de réalité']]''
+||[[Beyond the 'Reality Principle']]
+|-
+| bgcolor="#ffffff" width="50px" | [[{{Y}}|1938]]	
+| bgcolor="#ffffff" width="" | ''[[Les complexes familiaux dans la formation de l'individu. Essai d'analyse d'une fonction en psychologie]]''
+||[[The Family Complexes]]
+|}
+
+
+=====1940s=====
+{| class="wikitable" width="100%"cellpadding="2" align="center" bgcolor="ffffff" style="background:#ffffff; width:100%; text-align:center; line-height:2.0em;"
+|-
+| bgcolor="#ffffff" width="50px" | [[{{Y}}|1945]]
+| bgcolor="#ffffff" width="" | ''[[Le temps logique]]''
+||[[Le temps logique|Logical Time]]
+|-
+| bgcolor="#ffffff" width="50px" | [[{{Y}}|1946]]
+| bgcolor="#ffffff" width="" | ''[[Propos sur la causalité psychique]]''
+||[[Remarks on psychic causality]]
+|-
+| bgcolor="#ffffff" width="50px" | [[{{Y}}|1948]]
+| bgcolor="#ffffff" width="" | ''[[L'agressivité en psychanalyse]]''
+||[[Aggressivity in psychoanalysis]]
+|-
+| bgcolor="#ffffff" width="50px" | [[{{Y}}|1949]]	
+| bgcolor="#ffffff" width="" | ''[[Le stade du miroir comme formateur de la fonction du je, telle qu’elle nous est révélée, dans l’expérience psychanalytique]]''
+||[[The mirror stage as formative of the function of the I as revealed in psychoanalytic experience]]
+|}
+
+=====1950s=====
+{| class="wikitable" width="100%"cellpadding="2" align="center" bgcolor="ffffff" style="background:#ffffff; width:100%; text-align:center; line-height:2.0em;"
+|-
+| bgcolor="#ffffff" width="50px" | [[{{Y}}|1950]]	
+| bgcolor="#ffffff" width="" | ''[[Introduction theorique aux fonctions de la psychanalyse en criminologie]]''
+||  [[Theoretical introduction to the functions of psychoanalysis in criminology]]
+|-
+| bgcolor="#ffffff" width="50px" | [[{{Y}}|1951]]
+| bgcolor="#ffffff" width="" | ''[[Intervention sur le transfert]]''
+|| [[Intervention on the transference]]
+|-
+| bgcolor="#ffffff" width="100px" | 
+| bgcolor="#ffffff" width="" | [[Some Reflections on the Ego]]
+|-
+| bgcolor="#ffffff" width="50px" | [[{{Y}}|1953]]	 	
+| bgcolor="#ffffff" width="" | ''[[Fonction et champ de la parole et du langage en psychana­lyse]]''
+|| [[The Function and Field of Speech and Language in Psychoanalysis]]
+|-
+| bgcolor="#ffffff" width="100px" | 
+| bgcolor="#ffffff" width="" | [[The Neurotic's Individual Myth]]
+|-
+| bgcolor="#ffffff" width="100px" | 
+| bgcolor="#ffffff" width="" | ''[[Seminar I|Le Séminaire. Livre I. Les écrits techniques de Freud]]''
+|| [[Freud's Papers on Technique]]
+|-
+| bgcolor="#ffffff" width="50px" | [[{{Y}}|1954]]	
+| bgcolor="#ffffff" width="" | ''[[Introduction aux commentaire de Jean Hyppolite sur la 'Verneinung' de Freud]]''
+|| 
+|-
+| bgcolor="#ffffff" width="100px" | 
+| bgcolor="#ffffff" width="" | ''[[Réponse aux commentaire de Jean Hyppolite sur la 'Ver­neinung' de Freud]]''
+|| 
+|-
+| bgcolor="#ffffff" width="100px" | 
+| bgcolor="#ffffff" width="" | ''[[Seminar II|Le Séminaire. Livre II. Le moi dans la théorie de Freud et dans la technique de la psychanalyse]]''
+|| [[Seminar II|The Seminar. Book II. The Ego in Freud's Theory and in the Technique of Psychoanalysis, 1954-55]]
+|-
+| bgcolor="#ffffff" width="50px" | [[{{Y}}|1955]]	 	
+| bgcolor="#ffffff" width="" | ''[[Le séminaire sur 'La lettre volée']]''
+|| [[Seminar on the 'Purloined Letter'|Seminar on 'The Purloined Letter']]
+|-
+| bgcolor="#ffffff" width="100px" | 
+| bgcolor="#ffffff" width="" | ''[[Variantes de la cure-type]]''
+|| 
+|-
+| bgcolor="#ffffff" width="100px" | 
+| bgcolor="#ffffff" width="" | ''[[The Freudian Thing|La chose freudienne]]''
+|| [[The Freudian Thing|The Freudian Thing, or the Meaning of the Return to Freud in Psychoanalysis]]
+|-
+| bgcolor="#ffffff" width="100px" | 
+| bgcolor="#ffffff" width="" | ''[[Seminar III|Le Séminaire. Livre III. Les psychoses 1955-56]]''
+|| [[Seminar III|The Seminar. Book III. The Psychoses 1955-56]]
+|-
+| bgcolor="#ffffff" width="50px" | [[{{Y}}|1956]]	 	
+| bgcolor="#ffffff" width="" | ''[[Situation de la psychanalyse et formation du psychanalyste en 1956]]''
+|| 
+|-
+| bgcolor="#ffffff" width="100px" | 
+| bgcolor="#ffffff" width="" | ''[[Fetishism The Symbolic, The Real and The Imaginary]]''
+|| 
+|-
+| bgcolor="#ffffff" width="100px" | 
+| bgcolor="#ffffff" width="" | ''[[Seminar IV|Le Séminaire. Livre IV. La relation d'objet, 1956-57]]''
+|| 
+|-
+| bgcolor="#ffffff" width="50px" | [[{{Y}}|1957]]	 	
+| bgcolor="#ffffff" width="" | ''[[La psychanalyse et son enseignement]]''
+|| 
+|-
+| bgcolor="#ffffff" width="100px" | 
+| bgcolor="#ffffff" width="" | ''[[The Agency of the Letter in the Unconscious or Reason Since Freud|L'instance de la lettre dans l'inconscient ou la raison depuis Freud]]''
+|| [[The Agency of the Letter in the Unconscious or Reason Since Freud|The agency of the letter in the unconscious or reason since Freud]]
+|-
+| bgcolor="#ffffff" width="100px" | 
+| bgcolor="#ffffff" width="" | ''[[Seminar V|Le Séminaire. Livre V. Les formations de l'inconscient, 1957-58]]''
+|| 
+|-
+| bgcolor="#ffffff" width="100px" | 
+| bgcolor="#ffffff" width="" | ''[[On a Question Preliminary to Any Possible Treatment of Psychosis|D'une question preliminaire a tout traitement possible de la psychose]]''
+|| [[On a Question Preliminary to Any Possible Treatment of Psychosis|On a question preliminary to any possible treatment of psychosis]]
+|-
+| bgcolor="#ffffff" width="50px" | [[{{Y}}|1958]]	 	
+| bgcolor="#ffffff" width="" | ''[[La direction de la cure et les principes de son pouvoir]]''
+|| [[The Direction of the Treatment and the Principles of its Power|The direction of the treatment and the principles of its power]]
+|-
+| bgcolor="#ffffff" width="100px" | 
+| bgcolor="#ffffff" width="" | ''[[Écrits|Jeunesse de Gide ou la lettre et le désir]]''
+||  
+|-
+| bgcolor="#ffffff" width="100px" | 
+| bgcolor="#ffffff" width="" | ''[[The Signification of the Phallus|La signification du phallus]]''
+|| [[The Signification of the Phallus|The signification of the phallus]]
+|-
+| bgcolor="#ffffff" width="100px" | 
+| bgcolor="#ffffff" width="" | ''[[Propos directifs pour un congres sur la sexualite feminine]]''
+|| [[Guiding remarks for a congress on feminine sexuality]]
+|-
+| bgcolor="#ffffff" width="100px" | 
+| bgcolor="#ffffff" width="" | ''[[Seminar VI|Le Séminaire. Livre VI. Le désir et son interprétation, 1958-59]]''
+|| [[Seminar VI|Desire and the Interpretation of Desire in Hamlet]]"
+|-
+| bgcolor="#ffffff" width="50px" | [[{{Y}}|1959]]	 	
+| bgcolor="#ffffff" width="" | ''[[A la mémoire d'Ernest Jones sur sa théorie du symbolisme]]''
+|| 
+|-
+| bgcolor="#ffffff" width="100px" | 
+| bgcolor="#ffffff" width="" | ''[[Seminar VI|Le Séminaire. Livre VI. L'éthique de la psychanalyse, 1959-60]]''
+|| [[Seminar VI|The Seminar. Book VI. The Ethics of Psychoanalysis, 1959-60]]
+|}
+
+=====1960s=====
+{| class="wikitable" width="100%"cellpadding="2" align="center" bgcolor="ffffff" style="background:#ffffff; width:100%; text-align:center; line-height:2.0em;"
+|-
+| bgcolor="#ffffff" width="50px" | [[{{Y}}|1960]]	 	
+| bgcolor="#ffffff" width="" | ''[[Subversion du sujet et dialectique du désir dans l'inconscient freudien]]''
+|| [[The subversion of the subject and the dialectic of desire in the Freudian unconscious]]
+|-
+| bgcolor="#ffffff" width="100px" | 
+| bgcolor="#ffffff" width="" | ''[[Remarque sur la rapport de Daniel Lagache 'Psychanalyse et structure de la personalité']]''
+|| 
+|-
+| bgcolor="#ffffff" width="100px" | 
+| bgcolor="#ffffff" width="" | ''[[Letter to D.W. Winicott]]''
+|| 
+|-
+| bgcolor="#ffffff" width="100px" | 
+| bgcolor="#ffffff" width="" | ''[[Seminar VIII|Le Séminaire. Livre VIII. Le transfert, 1960-61]]''
+|| 
+|-
+| bgcolor="#ffffff" width="50px" | [[{{Y}}|1961]]	 	
+| bgcolor="#ffffff" width="" | ''[[Merleau-Ponty In Memoriam]]''
+|| 
+|-
+| bgcolor="#ffffff" width="100px" | 
+| bgcolor="#ffffff" width="" | ''[[Seminar IX|Le Séminaire. Livre IX. L'identification, 1961-62]]''
+|| 
+|-
+| bgcolor="#ffffff" width="50px" | [[{{Y}}|1962]]	 	
+| bgcolor="#ffffff" width="" | ''[[Kant avec Sade]]''
+|| [[Kant with Sade]]
+|-
+| bgcolor="#ffffff" width="100px" | 
+| bgcolor="#ffffff" width="" | ''[[Seminar X|Le Séminaire. Livre X. L'angoisse, 1962-63]]''
+|| 
+|-
+| bgcolor="#ffffff" width="50px" | [[{{Y}}|1964]]	 
+| bgcolor="#ffffff" width="" | ''[[Seminar XI|Le Séminaire. Livre XI. Les quatre concepts fondamentaux de la psychanalyse, 1964]]''
+|| [[Seminar XI|The Seminar. Book XI. The Four Fundamental Concepts of Psychoanalysis]]
+|-
+| bgcolor="#ffffff" width="100px" | 
+| bgcolor="#ffffff" width="" | ''[[Acte de fondation]]''
+|| [[Founding Act]]
+|-
+| bgcolor="#ffffff" width="100px" | 
+| bgcolor="#ffffff" width="" | ''[[Position de l'inconscient]]''
+|| 
+|-
+| bgcolor="#ffffff" width="100px" | 
+| bgcolor="#ffffff" width="" | ''[[Du 'Trieb' de Freud et du désir du psychanalyste]]''
+|| [[On Freud's Trieb & the Psychoanalytic Desire]]
+|-
+| bgcolor="#ffffff" width="100px" | 
+| bgcolor="#ffffff" width="" | ''[[Seminar XII|Le Séminaire. Livre XII. Problèmes cruciaux pour la psychanalyse, 1964-65]]''
+|| 
+|-
+| bgcolor="#ffffff" width="100px" | 
+| bgcolor="#ffffff" width="" | ''[[Letters to Louis Althusser]]''
+|| 
+|-
+| bgcolor="#ffffff" width="50px" | [[{{Y}}|1965]]	 	
+| bgcolor="#ffffff" width="" | ''[[La science et la vérité]]''
+|| 
+|-
+| bgcolor="#ffffff" width="100px" | 
+| bgcolor="#ffffff" width="" | ''[[Hommage fait a Marguerite Duras, du ravissement de Lol V. Stein]]''
+|| 
+|-
+| bgcolor="#ffffff" width="100px" | 
+| bgcolor="#ffffff" width="" | ''[[Seminar XIII|Le Séminaire. Livre XIII. L'objet de la psychanalyse, 1965-66]]''
+|| 
+|-
+| bgcolor="#ffffff" width="50px" | [[{{Y}}|1966]]	 	
+| bgcolor="#ffffff" width="" | ''[[Of structure as an inmixing of an otherness prerequisite to any subject whatever|De la structure en tant qu’immixtion d’un Autre préalable à tout sujet possible]]''
+|| [[Of structure as an inmixing of an otherness prerequisite to any subject whatever]] 
+|-
+| bgcolor="#ffffff" width="100px" | 
+| bgcolor="#ffffff" width="" | ''[[Ouverture de ce recueil]]''
+|| 
+|-
+| bgcolor="#ffffff" width="100px" | 
+| bgcolor="#ffffff" width="" | ''[[Écrits|De nos antecedents]]''
+|| 
+|-
+| bgcolor="#ffffff" width="100px" | 
+| bgcolor="#ffffff" width="" | ''[[Écrits|Du sujet enfin en question]]''
+|| 
+|-
+| bgcolor="#ffffff" width="100px" | 
+| bgcolor="#ffffff" width="" | ''[[Écrits|D'un dessein]]''
+|| 
+|-
+| bgcolor="#ffffff" width="100px" | 
+| bgcolor="#ffffff" width="" | ''[[D'un syllabaire apres coup]]''
+|| 
+|-
+| bgcolor="#ffffff" width="100px" | 
+| bgcolor="#ffffff" width="" | ''[[Seminar XIV|Le Séminaire. Livre XIV. La logique du fantasme, 1966-67]]''
+|| 
+|-
+| bgcolor="#ffffff" width="50px" | [[{{Y}}|1967]]	 	
+| bgcolor="#ffffff" width="" | ''[[Proposition du 9 octobre 1967 sur le psychanalyste de l'École]]''
+|| [[Proposition du 9 octobre 1967 sur le psychanalyste de l'École|Proposition of 9 October 1967 on the Psychoanalyst of the School]]
+|-
+| bgcolor="#ffffff" width="100px" | 
+| bgcolor="#ffffff" width="" | ''[[Seminar XV|Le Séminaire. Livre XV. L'acte psychanalytique, 1967-68]]''
+|| 
+|-
+| bgcolor="#ffffff" width="50px" | [[{{Y}}|1968]]
+| bgcolor="#ffffff" width="" | ''[[Seminar XVI|Le Séminaire. Livre XVI. D'un Autre à ''autre, 1968-69]]''
+|| 
+|-
+| bgcolor="#ffffff" width="50px" | [[{{Y}}|1969]]
+| bgcolor="#ffffff" width="" | ''[[Seminar XVII|Le Séminaire. Livre XVII. L'envers de la psychanalyse, 1969-70]]''
+|| 
+|-
+| bgcolor="#ffffff" width="100px" | 
+| bgcolor="#ffffff" width="" | ''[[Impromptu at Vincennes]]''
+|| 
+|}
+
+=====1970s=====
+{| class="wikitable" width="100%"cellpadding="2" align="center" bgcolor="ffffff" style="background:#ffffff; width:100%; text-align:center; line-height:2.0em;"
+|-
+| bgcolor="#ffffff" width="50px" | [[{{Y}}|1970]]	 	
+| bgcolor="#ffffff" width="" | ''[[Radiophonie]]''
+|| 
+|-
+| bgcolor="#ffffff" width="100px" | 
+| bgcolor="#ffffff" width="" | ''[[Seminar XVIII|Le Séminaire. Livre XVIII. D'un discours qui ne serait pas du semblant, 1970-71]]''
+|| 
+|-
+| bgcolor="#ffffff" width="50px" | [[{{Y}}|1971]]
+| bgcolor="#ffffff" width="" | ''[[Lituraterre]]''
+||  
+|-
+| bgcolor="#ffffff" width="100px" | 
+| bgcolor="#ffffff" width="" | ''[[Seminar XIX|Le Séminaire. Livre XIX. ...Ou pire, 1971-72]]''
+|| 
+|-
+| bgcolor="#ffffff" width="100px" | 
+| bgcolor="#ffffff" width="" | ''[[Le savoir du psychanalyste]]''
+|| [[Le savoir du psychanalyste|The Knowledge of the Psychoanalyst]]
+|-
+| bgcolor="#ffffff" width="50px" | [[{{Y}}|1972]]
+| bgcolor="#ffffff" width="" | ''[[Seminar XX|Le Séminaire. Livre XX. Encore, 1962-63]]''
+|| [[Seminar XX|The Seminar XX, Encore On Feminine Sexuality, the Limits of Love and Knowledge]]
+|-
+| bgcolor="#ffffff" width="50px" | [[{{Y}}|1973]]
+| bgcolor="#ffffff" width="" | ''[[Télévision]]''
+|| [[Television A Challenge to the Psychoanalytic Establishment]]
+|-
+| bgcolor="#ffffff" width="100px" | 
+| bgcolor="#ffffff" width="" | ''[[Seminar XXI|Le Séminaire. Livre XXI. Les non-dupes errent/Les noms du père, 1973-74]]''
+|| 
+|-
+| bgcolor="#ffffff" width="50px" | [[{{Y}}|1974]]
+| bgcolor="#ffffff" width="" | ''[[Seminar XXII|Le Séminaire. Livre XXII. RSI, 1974-75]]''
+|| 
+|-
+| bgcolor="#ffffff" width="50px" | [[{{Y}}|1975]]
+| bgcolor="#ffffff" width="" | ''[[Joyce le symptôme]]''
+|| 
+|-
+| bgcolor="#ffffff" width="100px" | 
+| bgcolor="#ffffff" width="" | ''[[Conférence à Genève sur le symptôme]]''
+|| 
+|-
+| bgcolor="#ffffff" width="100px" | 
+| bgcolor="#ffffff" width="" | ''[[Seminar XXIII|Le Séminaire. Livre XXIII. Le sinthome, 1975-76]]''
+||  
+|-
+| bgcolor="#ffffff" width="50px" | [[{{Y}}|1976]]
+| bgcolor="#ffffff" width="" | ''[[Conférences et entretiens dans des universités nord-américaines]]''
+|| 
+|-
+| bgcolor="#ffffff" width="100px" | 
+| bgcolor="#ffffff" width="" | ''[[Seminar XXIV|Le Séminaire. Livre XXIV. L'insu que sait de l'une bévue s'aile à mourre, 1976-77]]''
+|| 
+|-
+| bgcolor="#ffffff" width="100px" | 
+| bgcolor="#ffffff" width="" | ''[[Seminar XXV|Le Séminaire. Livre XXV. Le moment de conclure, 1977-78]]''
+|| 
+|-
+| bgcolor="#ffffff" width="50px" | [[{{Y}}|1978]]
+| bgcolor="#ffffff" width="" | ''[[Seminar XXVI|Le Séminaire. Livre XXVI. Le topologie et le temps, 1978-79]]''
+|| 
+|}
+
+=====1980s=====
+{| class="wikitable" width="100%"cellpadding="2" align="center" bgcolor="ffffff" style="background:#ffffff; width:100%; text-align:center; line-height:2.0em;"
+|-
+| bgcolor="#ffffff" width="50px" | [[{{Y}}|1980]]
+| bgcolor="#ffffff" width="" | ''[[Seminar XXVII|Le Séminaire. Livre XXVII. Dissolution, 1980]]''
+|| 
+|-
+| bgcolor="#ffffff" width="100px" | 
+| bgcolor="#ffffff" width="" | ''[[Séminaire de Caracas]]''
+|| 
+|}
+
+[[Category:Jacques Lacan]]
+[[Category:Works]]
+
+__NOTOC__

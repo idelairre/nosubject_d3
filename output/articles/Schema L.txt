@@ -1,0 +1,96 @@
+{{Top}}schéma L{{Bottom}}
+
+==Jacques Lacan==
+==Formalization==
+The various "[[schemata]]" that begin to appear in [[Lacan]]'s work in the 1950s are all attempts to [[formalize]] by means of diagrams certain aspects of [[psychoanalytic theory]]. 
+
+The [[schemata]] all consist of a number of points connected by a number of vectors. 
+
+==Algebra==
+Each point in a [[schema]] is designated by one of the [[symbol]]s of [[Lacan]]ian [[algebra]], while the vectors how the [[structure|structural relations]] between these [[symbol]]s. 
+
+==Topology==
+The [[schemata]] can be seen as [[Lacan]]'s first incursion into the field of [[topology]].
+
+==Schema L==
+[[Image:Lacan-schemal.jpg|right|Schema L]]
+The first [[schema]] to appear in [[Lacan]]'s work is also the [[schema]] which he makes the most use of. 
+
+This [[schema]] is designated "''L''" because it resembles the upper-case Greek ''lambda''.<ref>{{Ec}} p. 53</ref>
+
+[[Lacan]] first introduces the [[schema]] in 1955, and it occupies a central place in his work for the next few years.<ref>{{S2}} p. 243</ref>
+
+Two years later, [[Lacan]] replaces this version of the [[schema]] with a newer, "simplified form."<ref>{{Ec}} p. 548; {{E}} p. 193</ref>
+
+==Readings==
+Although [[schema L]] allows many possible readings, the main point of the [[schema]] is to demonstrate that the [[symbolic]] relation (between the [[Other]] and the [[subject]]) is always blocked to a certain extent by the [[imaginary]] axis (between the [[ego]] and the [[specular image]]). 
+
+Because it has to pass through the [[imaginary]] "wall of [[language]]," the [[discourse]] of the [[Other]] reaches the [[subject]] in an interrupted and [[inversion|inverted form]]. (see [[communication]])
+
+The [[schema]] thus illustrates the opposition between the [[imaginary]] and the [[symbolic]] which is fundamental to [[Lacan]]'s conception of [[psychoanalysis]]. 
+
+==Treatment==
+This is of practical importance in the [[treatment]], since the [[analyst]] must usually intervene in the [[symbolic]] [[order]] rather than in the [[imaginary]]. 
+
+Thus the [[schema]] also shows the position of the [[analyst]] in the [[treatment]]:
+
+<blockquote>"If one wants to position the [[analyst]] within this [[schema]] of the [[subject]]'s [[speech]], one can say that he is somewhere in A. At least he should be. If he enters into the coupling of the [[resistance]], which is just what he is taught not to do, then he speaks from a' and he will see himself in the [[subject]]."<ref>{{S3}} p. 161-2</ref></blockquote>
+
+==Intersubjective Relations==
+By positioning different elements in the four empty loci of the [[schema]], [[schema L]] can be used to analyze various sets of relations encountered in [[psychoanalytic treatment]]. 
+
+For example [[Lacan]] uses it to analyse the relations between [[Dora]] and the other people in her story, <ref>{{S4}} p. 142-3</ref> and also to analyse the relations between the various people in the case of the young [[homosexual]] [[Woman]].<ref>{{S4}} p. 124-33</ref>.
+
+==Intrasubjective Structure==
+In addition to providing a map of [[intersubjective]] relations, [[schema L]] also represents [[intrasubjective]] [[structure]].
+
+Thus it illustrates the [[decentering]] of the [[subject]], since the [[subject]] is not to be located only at the point marked '''S''', but over the whole [[schema]].
+
+<blockquote>"He is stretched over the four corners of the [[schema]]."<ref>{{E}} p. 194</ref></blockquote>
+
+==Other Schemata==
+In addition to [[schema L]] there are several other [[schemata]] that appear in [[Lacan]]'s work (schema R; schema I;<ref>{{E}} p. 197, 212</ref> the two [[schemata]]
+of [[Sade]]<ref>{{Ec}} p.774, 778</ref>)
+
+All of these [[schemata]] are transformations of the basic [[quaternary]] of [[schema L]], on which they are based. 
+
+However, unlike [[schema L]], which serves as a constant point of reference for [[Lacan]] in the period 1954-7, each of these [[schemata]] only appears once in [[Lacan]]'s work.  [http://www.ny-liability-insurance.com/ Liability Insurance NY]
+
+By the time the last of these [[schemata]] (the [[schemata]] of [[Sade]]) appear, in 1962, the [[schemata]] have already ceased to play an important part in [[Lacan]]'s [[discourse]], although it can be argued that they lay the groundwork for [[Lacan]]'s more rigorous [[topological]] work in the 1970s.
+
+==See Also==
+{{See}}
+* [[Algebra]]
+* [[Communication]]
+* [[Discourse]]
+||
+* [[Ego]]
+* [[Imaginary]]
+* [[Intersubjectivity]]
+||
+* [[Matheme]]
+* [[Other]]
+* [[Specular image]]
+||
+* [[Structure]]
+* [[Subject]]
+* [[Symbol]]
+||
+* [[Topology]]
+* [[Treatment]]
+* [[Unconscious]]
+{{Also}}
+
+== References ==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+[[Category:Jacques Lacan]]
+[[Category:Terms]]
+[[Category:Dictionary]]
+[[Category:Concepts]]
+[[Category:Psychoanalysis]]
+{{OK}}
+
+__NOTOC__

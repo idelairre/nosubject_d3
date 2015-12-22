@@ -1,0 +1,6 @@
+<inputbox>
+type=create
+default=Template:
+width=20
+preload=Template:Number
+</inputbox>

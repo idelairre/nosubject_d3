@@ -1,0 +1,83 @@
+{{Top}}déni{{Bottom}}
+
+==Sigmund Freud==
+==''Verleugnung''==
+[[Freud]] uses the term ''[[Disavowal|Verleugnung]]'' to denote "a specific mode of defence which consists in the subject's refusing to recognize the reality of a traumatic perception."<ref>Laplanche, Jean and Pontalis, Jean-Bertrand. ''The Language of Psycho-Analysis'', trans. Donald Nicholson-Smith, London: Hogarth Press and the Institute of Psycho-Analysis, 1973 [1967]. p. 118</ref>
+
+==Castration Complex==
+He introduces the term in 1923 in connection with the [[castration complex]], the traumatic perception being the sight of the [[female]] [[biology|genitalia]]; when [[child]]ren first discover the [[absence]] of the [[penis]] in the [[girl]], they "disavow the fact and believe that they do see a penis all the time."<ref>{{F}}. "[[Works of Sigmund Freud|The Infantile Genital Organization]]", 1923e. [[SE]] XIX. pp. 143-4</ref>
+
+==Psychosis and Fetishism==
+[[Freud]] continues to employ the term throughout the rest of his work, linking it specifically both to [[psychosis]] and to [[fetishism]].
+
+=="Splitting of the Ego"==
+In these [[treatment|clinical conditions]], [[disavowal]] is always accompanied by the opposite attitude (acceptance of [[reality]]), since it is "rarely or perhaps never" possible for "the ego's detachment from reality to be carried through completely."<ref>{{F}} ''[[Works of Sigmund Freud|An Outline of Psycho-Analysis]]'', 1940a. [[SE]] XXIII. p. 201</ref>
+
+The coexistence in the [[ego]] of these two contradictory attitudes to reality leads to what [[Freud]] terms "the splitting of the ego."
+
+==Jacques Lacan==
+==Repression and Foreclosure==
+While [[Freud]]'s use of the term is quite consistent, he does not distinguish the term rigorously from the other related operations.
+
+[[Lacan]], however, works the term into a rigorous theory, relating it and constrasting it specifically with the operations of [[repression]] and [[foreclosure]].
+
+==Perversion==
+Whereas [[Freud]] had only linked [[disavowal]] to one form of [[perversion]], [[Lacan]] makes it the fundamental operation in all forms of [[perversion]].
+
+And whereas [[Freud]] had also linked [[disavowal]] with [[psychosis]], [[Lacan]] limits [[disavowal]] exclusively to the [[structure]] of [[perversion]].
+
+[[Disavowal]] is the fundamental operation in [[perversion]], just as [[repression]] and [[foreclosure]] are the fundamental operations in [[neurosis]] and [[psychosis]].
+
+Thus, in [[Lacan]]'s account, [[disavowal]] is one way of responding to the [[castration]] of the [[Other]], whereas the [[neurotic]] [[repress]]es the realization of [[castration]], the [[pervert]] disavows it.
+
+==Knowledge==
+Like [[Freud]], [[Lacan]] asserts that [[disavowal]] is always accompanied by a simultaneously [[knowledge|acknowledgement]] of what is disavowed.
+
+Thus the [[pervert]] is not simply [[knowledge|ignorant]] of [[castration]]; he simultaneously [[knowledge|knows]] it and denies it.
+
+Whereas the term [[disavowal]] originally denotes, in [[Freud]]'s work, only one side of this operation (the side of [[denial]]), for [[Lacan]] the term comes to denote both sides, the simultaneous [[denial]] and recognition of [[castration]].
+
+==Lack and Desire==
+
+Whereas [[Freud]] relates [[disavowal]] to the perception of the [[absence]] of the [[penis]] in [[women]], [[Lacan]] relates it to the realization of the [[absence]] of the [[phallus]] in the [[Other]].
+
+The [[trauma]]tic perception is, in [[Lacan]]'s account, the realization that the [[cause]] of [[desire]] is always a [[lack]].
+
+It is this realization that [[disavowal]] concerns; [[disavowal]] is the failure to accept that [[lack]] causes [[desire]], the belief that [[desire]] is caused by a [[presence]] (e.g. the [[fetish]]).
+
+==See Also==
+{{See}}
+* [[Absence]]
+* [[Castration complex|Castration]]
+||
+* [[Desire]]
+* [[Fetishism]]
+||
+* [[Foreclosure]]
+* [[Lack]]
+||
+* [[Neurosis]]
+* [[Perversion]]
+||
+* [[Phallus]]
+* [[Psychosis]]
+||
+* [[Repression]]
+* [[Speech]]
+{{Also}}
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+[[Category:Psychoanalysis]]
+[[Category:Jacques Lacan]]
+[[Category:Practice]]
+[[Category:Treatment]]
+[[Category:Dictionary]]
+[[Category:Symbolic]]
+[[Category:Concepts]]
+[[Category:Terms]]
+{{OK}}
+
+__NOTOC__

@@ -1,0 +1,109 @@
+[[Image:Graph.of.Sexuation.jpg|thumb|right]]
+The phrase "[[sexual difference]]", which has come into prominence in the debate between [[psychoanalysis]] and [[feminism]], is not part of [[Freud]]'s or [[Lacan]]'s [[psychoanalytic theory|theoretical]] [[:Category:Terms|vocabulary]].
+
+[[Freud]] speaks only of the [[biology|anatomical ''distinction'']] between the sexes and its psychical consequences.<ref>[[Freud|Freud, Sigmund]]. "The Dissolution of the Oedipus Complex." SE XIX, 183. 1925.</ref>
+
+[[Lacan]] speaks of [[sexual position|sexual ''position'']] and the [[sexual relationship|sexual ''relationship'']], and occasionally of the ''differentiation'' of the sexes.<ref>{{S4}} p.154</ref>
+
+However, both [[Freud]] and [[Lacan]] address the question of [[sexual difference]], and an entry has been included for this term because it brings together an import set of related themes in [[Lacan]]'s work, and because it constitutes an important focus for [[feminist]] approaches to [[Lacan]]'s [[Lacan|work]].
+
+==Freud on Sexual Difference==
+One of the basic presuppositions underlying [[Freud]]'s work is that just as there are certain physical differences between [[men]] and [[women]], so also there are psychical differences.
+
+In other words, there are certain psychical characteristics that can be called '[[masculine]]' and others that can be called '[[feminine]].'
+
+Rather than trying to give any formal definition of these terms, [[Freud]] limits himself to describing how a [[human]] [[subject]] comes to acquire [[masculine]] or [[feminine]] psychical characteristics.
+
+This is not an [[instinct]]ual or [[nature|natural]] process, but a complex one in which anatomical differences interact with social and psychical factors.
+
+The whole process revolves around the [[castration complex]], in which the [[masculinity|boy]] fears being deprived of his [[penis]] and the [[femininity|girl]], assuming that she has already been deprived of hers, develops [[penis envy]].
+
+==Lacan on Sexual Difference==
+Following [[Freud]], [[Lacan]] also engages with the problem of how the human infant becomes a [[sexed subject]].
+
+For [[Lacan]], [[masculinity]] and [[femininity]] are not [[biological]] essences but [[symbolic position]]s, and the assumption of one of these two positions is fundamental to the construction of [[subjectivity]]; the [[subject]] is essentially a [[sexed subject]].
+
+"[[Man]]" and "[[woman]]" are [[signifier]]s that stand for these two [[subjective position]]s.<ref>{{S20}} p.34</ref>
+
+==Becoming a Sexed Subject==
+For both [[Freud]] and [[Lacan]], the child is at first ignorant of [[sexual difference]] and so cannot take up a [[sexual position]].
+
+It is only when the child discovers [[sexual difference]] in the [[castration complex]] that he can begin to take up a [[sexual position]].
+
+Both [[Freud]] and [[Lacan]] see this process of taking up a sexual position as closely connected with the [[Oedipus complex]], but they differ on the precise nature of the connection.
+
+For [[Freud]], the [[subject]]'s [[sexual position]] is determined by the sex of the parent with whom the [[subject]] [[identifies]] in the [[Oedipus complex]] (if the [[subject]] [[identifies]] with the [[father]], he takes up a [[masculine]] [[position]]; [[identification]] with the [[mother]] entails the assumption of a [[feminine]] [[position]]).
+
+For [[Lacan]], however, the [[Oedipus complex]] always involves a [[symbolic]] [[identification]] with the [[Father]], and hence [[Oedipus]] [[identification]] cannot determine [[sexual position]].
+
+According to [[Lacan]], then, it is not [[identification]] but the [[subject]]'s relationship with the [[phallus]] which determines [[sexual position]].
+
+==="Having" or "Not Having" the Phallus===
+This relationship can either be one of "having" or "not having"; [[men]] have the [[symbolic]] [[phallus]], and [[women]] don't (or, to be more precise, [[men]] are "not without having it" [''ils ne sont pas sans l'avoir'']).
+
+The assumption of a sexual position is fundamental a symbolic act, and the difference between the sexes can only be conceived of on the symbolic plane.<ref>{{S4}} p.153</ref>
+
+<blockquote>It is insofar as the function of man and woman is symbolized, it is insofar as it's literally uprooted from the domain of the imaginary and situated in the domain of the symbolic, that any normal, completed sexual position is realized.<ref>{{S3}} p.177</ref></blockquote>
+
+==="Am I a man or a woman?"===
+However, there is no [[signifier]] of [[sexual difference]] as such which would permit the [[subject]] to fully [[symbolize]] the function of [[man]] and [[woman]], and hence it is impossible to attain a fully "normal, finished sexual position." 
+
+The [[subject]]'s sexual identity is thus always a rather precarious matter, a source of perpetual self-questioning.
+
+The question of one's own sex ("Am I a man or a woman?") is a question which defines [[hysteria]].
+
+The mysterious "other sex" is always the [[woman]], for both men and women, and therefore the question of the [[hysteric]] ("What is a woman?") is the same for both male and female hysterics.
+
+===No Signifier of Sexual Difference in the Symbolic Order===
+Although the anatomy/[[biology]] of the [[subject]] plays a part in the question of which sexual position the [[subject]] will take up, it is a fundamental axiom in psychoanalytic theory that anatomy does not determine sexual position.
+
+There is a rupture between the [[biological]] aspect of [[sexual difference]] (for example at the level of the chromosomes) which is related to the reproductive function of sexuality, and the [[unconscious]], in which this reproductive function is not represented.
+
+Given the non-representation of the reproductive function of sexuality in the [[unconscious]], "in the pysche there is nothing by which the subject may situate himself as a male or female being."<ref>{{S11}} p.204</ref>
+
+There is no [[signifier]] of [[sexual difference]] in the [[symbolic order]].
+
+The only sexual signifier is the [[phallus]], and there is no "female" equivalent of this signifier:
+
+<blockquote>"Strictly speaking there is no symbolization of woman's sex as such... the phallus is a symbol to which there is no correspondent, no equivalent.  It's a matter of a dissymetry in the signifier."<ref>{{S3}} p.176</ref></blockquote>
+
+Hence the [[phallus]] is "the pivot which completes ''in both sexes'' the questioning of their sex by the castration complex."<ref>{{E}} p.198</ref>
+
+===Dyammetry between Men and Woman===
+It is this fundamental dissymmetry in the [[signifier]] which leads to the dissymmetry between the [[Oedipus complex]] in men and women.
+
+Whereas the [[male]] [[subject]] [[desire]]s the parent of the other sex and [[identifies]] with the parent of the same sex, the [[female]] [[subject]] [[desire]]s the parent of the same sex and "is required to take the image of the other sex as the basis of its identification."<ref>{{S3}} p.176</ref>
+
+<blockquote>"For a woman the realization of her sex is not accomplished in the Oedipus complex in a way symmetrical to that of the man's, not by identification with the mother, but on the contrary by identification with the paternal object, which assigns her an extra detour."<ref>{{S3}} p.172</ref></blockquote>
+
+<blockquote>"This signifying dissymmetry determines the paths down which the Oedipus complex will pass.  The two paths make them both pass down the same trail - the trail of castration."<ref>{{S3}} p.176</ref></blockquote>
+
+===Opposition Masculine-Feminine===
+If, then, there is no [[symbol]] for the opposition [[masculine]]-[[feminine]] as such, the only way to understand [[sexual difference]] is in terms of the opposition [[activity]]-[[passivity]].<ref>{{S11}} p.192</ref>
+
+This polarity is the only way in which the opposition [[male]]-[[female]] is represented in the [[psyche]], since the [[biological]] function of sexuality (reproduction) is not represented.<ref>{{S11}} p.204</ref>
+
+This is why the question of what one is to do as a [[man]] or a [[woman]] is a drama which is situated entirely in the field of the [[Other]],<ref>{{S11}} p.204</ref> which is to say that the subject can only realize his [[sexuality]] on the [[symbolic]] level.<ref>{{S3}} p.170</ref>
+
+==See Also==
+{{See}}
+* [[Oedipus complex]] 
+* [[Phallus]] 
+||
+* [[Sexuality]]
+* [[Sexual Relationship]]
+{{Also}}
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+# [[Freud|Freud, Sigmund]]. (1908c). On the sexual theories of children. SE, 9: 205-226.
+# ——. (1923e). The infantile genital organization (An interpolation into the theory of sexuality). SE, 19: 141-145.
+# [[Lacan, Jacques]]. (1966). "''La signification du phallus (Die Bedeutung des Phallus)''." [[Écrits]]. 685-695. Paris: Le Seuil. (Original work published 1958)
+
+[[Category:Psychoanalysis]]
+[[Category:Jacques Lacan]]
+[[Category:Dictionary]]
+[[Category:Sexuality]]
+[[Category:New]]

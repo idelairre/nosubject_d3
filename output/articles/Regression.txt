@@ -1,0 +1,50 @@
+{{Top}}régression{{Bottom}}               
+
+==Sigmund Freud==
+[[Freud]] introduced the concept of [[regression]] in longing for a protective [[father]],<ref>{{F}} ''[[Works of Sigmund Freud|The Future of an Illusion]]'', 1927c: [[SE]] XXI, 22-4</ref> and described [[The Interpretation of Dreams]] in order to explain the [[visual]] nature of dreams.
+
+Basing himself on a [[topographical]] model in which the psyche is conceived of as  a series of distinct systems, [[Freud]] argued that during sleep [[progress]]ive access to motor activity is blocked, thus forcing thoughts to travel regressively through these systems towards the system of perception.<ref>{{F}} ''[[The Interpretation of Dreams]]'', 1900a: [[SE]] V, 538-55</ref>
+
+He later added a passage to this section distinguishing between this [[topographical]] kind of [[regression]] and what he called [[temporal]] [[regression]] (when the subject reverts to previous phases of development) and [[formal]] [[regression]]. (the use of modes of expression which are less complex than others).<ref>{{F}} ''[[The Interpretation of Dreams]]'', 1900a: [[SE]] V, 548</ref>
+
+==Jacques Lacan==
+[[Lacan]] argues that the concept of [[regression]] has been one of the most misunderstood concepts in [[psychoanalytic theory]]. 
+
+In particular, he criticises the 'magical' view of [[regression]], according to which [[regression]] is seen as a real phenomenon, in which [[adults]] "actually regress, return to the state of a small child, and start wailing."
+
+In this sense of the term, "[[regression]] does exist."<ref>{{S2}} p. 103</ref> 
+
+In place of this misconception, [[Lacan]] argues that [[regression]] must be understood first and foremost in a [[topographical]] sense, which is the way [[Freud]] understood the term when he introduced it in 1900, and not in a [[temporal]] sense.
+
+In other words, "there is [[regression]] on the plane of [[signification and not on the plane of [[reality]]."<ref>{{S2}} p. 103</ref>
+
+Thus [[regression]] is to be understood "not in the [[instinct]]ual sense, nor in the sense of the resurgence of something anterior," but in the sense of "the reduction of the [[symbolic]] to the [[imaginary]]."<ref>{{S4}} p. 242</ref>
+
+===Temporal Regression===
+Insofar as [[regression]] can be said to have a [[temporal]] sense, it does not involve the [[subject]] "going back in [[time]]," but rather a rearticulation of certain [[demand]]s:
+
+"[[Regression]] shows nothing other than a [[return]] to the present of [[signifier]]s used in [[demand]]s for which there is a prescription."<ref>{{E}} p.255</ref>
+
+[[Regression]] to the [[oral stage]], for example, is to be understood in terms of the articulation of oral [[demand]]s (the [[demand]] to be fed, evident in the [[demand]] for the [[analyst]] to supply [[interpretation]]s).
+
+When understood in this sense, [[Lacan]] reaffirms the importance of [[regression]] in [[psychoanalytic treatment]], arguing that [[regression]] to the [[anal stage]], for example, is so important that no [[analysis]] which has not encountered this can be called complete.<ref>{{S8}} p. 242</ref>
+
+== References ==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+[[Category:Jacques Lacan]]
+[[Category:Terms]]
+[[Category:Dictionary]]
+[[Category:Concepts]]
+[[Category:Freudian psychology]]
+[[Category:Sigmund Freud]]
+[[Category:New]]
+[[Category:Edit]]
+[[Category:Treatment]]
+[[Category:Practice]]
+[[Category:Imaginary]]
+[[Category:Psychoanalysis]]
+{{OK}}
+
+__NOTOC__

@@ -1,0 +1,73 @@
+In [[psychoanalytic theory]], the '''unconscious''' refers to that part of mental functioning of which [[subject (philosophy)|subjects]] make themselves unaware.  The psychoanalytic unconscious is similar to but not precisely the same as the popular notion of the [[subconscious]].  
+
+For psychoanalysis, the unconscious does not include all of what is simply not conscious - it does not include e.g. motor skills - but rather, only what is actively [[psychological repression|repressed]] from conscious thought.
+
+As defined by [[Sigmund Freud]], the [[Psyche (psychology)|psyche]] is composed of different levels of consciousness, often defined in three parts as 
+*preconsciousness
+*the waking [[consciousness]]
+*and beneath both of these, the unconscious. 
+
+For Freud, the unconscious was a depository for socially unacceptable ideas, wishes or desires, traumatic memories, and painful emotions put out of mind by the mechanism of [[psychological repression]]. However, the contents did not necessarily have to be solely negative. In the psychoanalytic view, the unconscious is a force that can only be recognized by its effects - it expresses itself in the [[symptom]].
+
+At the present stage, there are still fundamental disagreements within psychology about the nature of the unconscious mind (if indeed it is considered to exist at all), whereas outside formal psychology a whole world of pop-psychological speculation has grown up in which the unconscious mind is held to have any number of properties and abilities, from animalistic and innocent, child-like aspects to [[savant]]-like, all-perceiving, [[mysticism|mystical]] and [[occult]]ic properties.
+
+==The psychoanalytic unconscious==
+Unconscious thoughts are not directly accessible to ordinary [[introspection]], but it is capable of being "tapped" and "interpreted" by special methods and techniques such as random association, dream analysis, and [[verbal]] slips (commonly known as a [[Freudian slip]]), examined and conducted during [[psychoanalysis]]. 
+
+===Freud's definition===
+Probably the most detailed and precise of the various notions of 'unconscious mind' - and the one which most people will immediately think of upon hearing the term - is that developed by [[Sigmund Freud]] and his followers, and which lies at the heart of [[psychoanalysis]]. It should be stressed, incidentally, that the popular term '[[subconscious]]' is not a [[Freudian]] coinage and is never used in serious [[psychoanalytic]] writings.
+
+Freud's concept was a more subtle and complex psychological theory than many. [[Consciousness]], in Freud's [[topographical]] view (which was his first of several psychological models of the [[mind]]) was a relatively thin [[perceptual]] aspect of the [[mind]], whereas the subconscious (frequently misused and confused with the unconscious) was that merely [[autonomic function]] of the [[brain]]. The unconscious was indeed considered by Freud throughout the evolution of his [[psychoanalytic]] theory a [[sentient]] force of [[will]] influenced by human [[drive (psychoanalysis)|drive]] and yet operating well below the perceptual [[conscious mind]]. Hidden, like the man behind the curtain in the "[[Wizard of Oz]]," the unconscious directs the thoughts and feelings of everyone, according to Freud. 
+
+In another of Freud's systematizations, the mind is divided into the [[conscious mind]] or [[Ego]] and two parts of the Unconscious: the [[Ego, Superego and Id|Id]] or [[instinct]]s and the [[Superego]]. Freud used the idea of the unconscious in order to explain certain kinds of [[neurotic]] behavior. (See [[psychoanalysis]].)
+
+Freud's theory of the unconscious was substantially transformed by some of his followers, among them [[Carl Jung]] and [[Jacques Lacan]].
+
+===Jung's [[collective unconscious]]===
+
+[[Carl Jung]] developed the concept further. He divided the unconscious into two parts: the personal unconscious and the [[collective unconscious]]. The first of these corresponds to Freud's idea of the subconscious, though unlike his mentor, Jung believed that the personal unconscious contained a valuable counter-balance to the conscious mind, as well as childish urges. As for the collective unconscious, which consists of [[archetypes]], this is the common store of mental building blocks that makes up the psyche of all humans. Evidence for its existence is the universality of certain [[symbol]]s that appear in the [[mythologies]] of nearly all peoples.
+
+===Lacan's linguistic unconscious===
+[[Jacques Lacan]]'s [[psychoanalytic theory]] contends that the unconscious is structured like a language. 
+
+The unconscious, Lacan argued, was not a more primitive or archetypal part of the mind separate from the conscious, linguistic ego, but rather, a formation every bit as complex and linguistically sophisticated as consciousness itself.   (Compare [[collective unconscious]]).
+
+If the unconscious is structured like a language, Lacan argues, then the self is denied any point of reference to which to be 'restored' following [[trauma]] or '[[identity crisis]]'. In this way, Lacan's thesis of the structurally dynamic unconscious is also a challenge to the [[ego psychology]] of [[Anna Freud]] and her American followers.
+
+Lacan's idea of how language is structured is largely taken from the [[structural linguistics]] of [[Ferdinand de Saussure]] and [[Roman Jakobson]], based on the function of the [[signifier]] and [[signified]] in [[signifying chain]]s.  This may leave Lacan's entire model of mental functioning open to severe critique, since in mainstream linguistics, Saussurean models have largely been replaced by those of e.g. [[Noam Chomsky]].
+
+The starting point for the linguistic theory of the unconscious was a re-reading of Freud's ''[[The Interpretation of Dreams]]''.  There, Freud identifies two mechanisms at work in the formation of unconscious fantasies: condensation and displacement.  Under Lacan's linguistic reading, condensation is identified with the linguistic trope of [[metonymy]], and displacement with [[metaphor]].
+
+==Controversy==
+
+Many modern philosophers and social scientists either dispute the concept of an unconscious, or argue that it is not something that can be scientifically investigated or discussed rationally. In the social sciences, this view was first brought forward by [[John B. Watson|John Watson]], considered to be the first American behaviourist. Among philosophers, [[Karl Popper]] was one of Freud's most notable contemporary opponents. Popper argued that Freud's theory of the unconscious was not [[Falsifiability|falsifiable]], and therefore not [[scientific]]. However, critics of Popper have underlined that Popper's exclusion of psychoanalysis from the normal domain of science was a direct consequence of his specific definition of science as being constituted by what may be falsifiable. In other words, Popper defined science in terms which necessarily led to the exclusion of psychoanalysis. Thus, defining science in another way may lead to including psychoanalysis into this domain of [[knowledge]].
+
+Still, many, perhaps most, psychologists and [[cognitive science|cognitive scientists]] agree that many things of which we are not conscious happen in our mind(s).
+
+John Watson criticizes the idea of an "unconscious mind," because he wanted scientists to focus on observable behaviors, seen from the outside, rather than on introspection. Karl Popper objected not so much to the idea that things happened in our minds that we are unconscious of; he objected to investigations of mind that were not falsifiable. If Freud could connect every imaginable experimental outcome with his theory of the unconscious mind, then no [[experiment]] can refute his theory.
+
+The argument seems to be about ''how'' mind will be studied, not whether there is anything that happens unconsciously or not.
+
+==Pre-Freudian history of the idea==
+The idea originated in antiquity, and its more modern history is detailed in Henri F. Ellenberger's ''Discovery of the Unconscious'' (Basic Books, 1970). 
+
+Certain philosophers preceding Sigmund Freud, such as [[Gottfried Leibniz|Leibniz]], [[Arthur Schopenhauer|Schopenhauer]], and [[Friedrich Nietzsche|Nietzsche]], developed ideas foreshadowing the modern idea of the unconscious. The new [[medical]] science of [[psychoanalysis]] established by Freud and his disciples popularized this and similar notions such as the role of the [[libido]] (sex drive) and the self-destructive urge of [[thanatos]] (death wish), and the famous [[Oedipus complex]], wherein a son seeks to "kill" his father to make love to his own mother.
+
+The term was popularized by Freud. He developed the idea that there were layers to human consciousness: the conscious, preconscious, and unconscious.  He thought that certain psychic events take place "below the surface", or in the unconscious mind. A good example is [[dreams|dreaming]], which Freud called the "royal road to the unconscious".
+
+==See also==
+
+* [[Carl Jung]]'s concept of a [[collective unconscious]]
+* [[Jacques Lacan]]'s assertion that "the unconscious is structured like a language".
+* [[consciousness]]
+* [[mind's eye]]
+* [[transpersonal psychology]]
+* [[Unconscious communication]]
+* [[Psychology of religion]]
+
+==External links==
+*[[Donald Olding Hebb|Hebbian]] [http://cogprints.org/1652/00/hebb.html Unconscious]
+*[http://ist-socrates.berkeley.edu/~kihlstrm/rediscovery.htm The Rediscovery of the Unconscious]
+*[http://cogprints.org/2130/00/dennett-chalmers.htm Unfelt Feelings]
+
+[[Category:Freudian psychology]]

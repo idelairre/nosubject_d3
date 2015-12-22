@@ -1,0 +1,59 @@
+Excitation is a term borrowed from the lexicon of commonplace words derived from the Vulgar Latin excitatio: "the action of exciting"; it is used notably in physics and physiology. Sigmund Freud, and other psychoanalysts after him, expanded this term for use in metapsychology, particularly the economic dimensions of that approach. In this usage, the word carries with it the connotations of the Latin excitare: "to awaken, wake up, push, or stimulate at the level of the psychic apparatus."
+
+This psychic apparatus, the fictional representation of metapsychological topography, appears as the locus of reception, transformation, and capacity for adequate discharge of excitation. Even before his analytic period per se, Freud in "The Psycho-Neuroses of Defence" (1894a) envisaged the sum of excitation as a quantum of affect that is spread over the memory traces of representations. It is in this light that, for want of a connection with affect, he posits an "abreaction" caused by the excess of excitation. It is also necessary that endogenous excitations reach a certain threshold in order to become mental excitations. In The Interpretation of Dreams (1900a) he conjectures that "during certain psychical processes the systems may be traversed in a temporal sequence determined by excitation"
+
+Excitation may be external in origin, in the form of a stimulus coming from the object or the environment, and the problem becomes the manner in which it is handled, bound, and evacuated. Here Freud advances the concept of the "protective shield" that serves to protect against an overflow of excitation, which he views as being traumatic. Envisioning trauma as a "breaking through of the protective shield" is one of the perspectives he offers. But overflow can also originate internally. In cases where sound psychic defensive systems are lacking—above all, a failure of defense through repression, which would prevent satisfaction and discharge toward the outside—the result is the mental symptom as a sign and substitute for an instinctual satisfaction that has not taken place, like a foreign body that keeps producing phenomena of excitation and reaction in the (mental) tissue in which it is implanted.
+
+Excitation is thus also included in the register of the pulsional system. Instinct, a borderline concept between the psychic and the somatic, is posited as an excitation for the psyche. It is found in connection with the terms drive, aim, and source.
+
+    * Drive: driving factor, the measure of the amount of impulse toward a particular action or end.
+    * Aim: a satisfaction that is only attainable through successfully suppressing the very cause of the initial excitation. Following Freud, we could say that the psychic apparatus serves the intention of mastering and eliminating quantities of excitation, whether this excitation arrives from without or within.
+    * Source: any somatic process in an organ or part of the body whose excitation is represented in mental life by the instincts. The raw material of psychic disturbances is posited as being inherent in this register of excitation of somatic origin; here we find the physiological notion of excitation. This excitation must undergo a process of mental work to enter into the pulsional system, or indeed must transform its quantum of energy into mental energy. If this transformation does not occur, somatic sexual excitation, for example, ostensibly remains in that form and does not turn into psychosexual excitation; this is the Freudian approach to the concept of "actual (or defense) neurosis," advanced relatively early on. This approach requires levels of discharge rather than repression as the constituents of its symptoms.
+
+Beyond a certain threshold of excitation, Freud evokes the notion of "libidinal coexcitation," which ostensibly disappears over time; this is supposedly the point from which fixation begins. Thus the instincts, in contrast to stimulus or external excitation, never act as a force of momentary impact, but rather as an ongoing force. Thus too, the final goal of mental activity—the tendency to obtain pleasure and to avoid unpleasure—can be envisioned, in economic terms, as an effort to master the masses of excitation that reside in the psychic apparatus.
+
+The concept of conversion brings with it the enigma of the leap from mental excitation to the somatic level—the true "vicissitude" of the instincts, a process that is above all discernible in the structures of hysteria. Jean-Paul Valabrega takes up this notion of discharge through conversion in approaching psychosomatic phenomena, while other authors invoke the idea of a return of excitation to its earliest source, the somatic level, in the absence of successful mentalization. In the view of Pierre Marty, the flow of the excitations from the instincts and the drives, essentially aggressive and erotic, constitutes the central problem in somatization. He contends that in the absence of sound regulation by the psychic apparatus and thus of the possibility for adaptation, the excess or deficit of excitation causes a trauma that can become the point of departure for the process of somatization.
+
+Finally, following the introduction of the death instinct in Beyond the Pleasure Principle (1920g), Freud somewhat reconsiders excitation within the framework of the life and death instincts. The force and the flow (or retention) of excitation are reexamined, in light of the principles of constancy and inertia that he had already developed but further elaborates here. It should be recalled that, for Freud, although the animistic process is automatically regulated by the pleasure-unpleasure principle, the economic viewpoint accepts that the mental representatives of the instincts are invested with determined quantities of energy and that the psychic apparatus tends to maintain at the lowest possible level the sum total of excitations it carries. But the very essence of instinctual functioning is also envisioned: the tendency toward inertia under the influence of the death instinct. Repetition compulsion (the instinct's instinct, according to Francis Pasche) is arguably a way to deal with the surplus of excitation that is not bound to the instinct as the result of post-traumatic defusion. Freud's example of the repetition of traumatic dreams provides an illustration of this. In this view, the aim of repetition compulsion is the extinction of traumatic excitation through exhaustion—and this to the point of inertia, the aim of the death instinct.
+
+This posited aim enables Freud to propose a notion drawn from the philosophy of the Far East: the nirvana principle, whose aim is total discharge—a quasi-metaphysical and existential approach that transcends the metapsychological economic register. This principle takes to its extremes and goes beyond another of Freud's principles, the principle of constancy.
+
+==See Also==
+* [[Anxiety]]
+* [[Conversion]]
+* [[Discharge]]
+* [[Erotogenic masochism]]
+* [[Erotogenic zone]]
+* [[Facilitation]]
+* [[Helplessness]]
+* [[Pain]]
+* [[]]
+* [[Libido]]
+* [[Mania]]
+* [[Mastery]]
+* [[Skin-ego]]
+* [[Nirvana]]
+* [[Object]]
+* [[Pleasure/unpleasure principle]]
+* [[Principle of constancy]]
+* [[Primal repression]]
+* [[Protective shield]]
+* [[Protective shield, breaking through the]]
+* [[Quantitative/qualitative]]
+* [[Quota of affect]]
+* [[Reciprocal paths of influence (libidinal coexcitation)]]
+* [[Regression]]
+* [[Sleep/wakefulness]]
+* [[Sum of excitation]]
+* [[Trauma]]
+* [[Wish, hallucinatory satisfaction of a]]
+
+==References==
+<references/>
+# Freud, Sigmund. (1894a). The psycho-neuroses of defence. SE, 3: 45-61.
+# ——. (1900a). The interpretation of dreams. Part I, SE,4: 1-338]]
+* [[Part II, SE, 5: 339-625.
+# ——. (1915c). Instincts and their vicissitudes. SE, 14: 117-140.
+# ——. (1920g). Beyond the pleasure principle. SE, 18: 7-64.
+
+[[Category:New]]

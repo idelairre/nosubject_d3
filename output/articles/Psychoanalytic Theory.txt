@@ -1,0 +1,21 @@
+'''Psychoanalytic theory''' is a general term for approaches to [[psychoanalysis]] which attempt to provide a conceptual framework more-or-less independent of clinical practice rather than based on empirical analysis of clinical cases. 
+
+== Explanation ==
+
+The term often attaches to conceptual uses of analysis in [[critical theory]], [[literary criticism|literary]], [[film criticism|film]], or other art criticism, broader intersubjective phenomena (for example, those broadly conceived as "cultural" or "social" in nature), [[religion]], [[law]], or other non-clinical contexts, sometimes signifying its use as a [[hermeneutic]] or interpretative framework. In some respects this can resemble [[phenomenology]] insofar as it attempts to account for [[consciousness]] and [[unconscious]]ness in a more or less eidetic fashion, although there are inherent conflicts between phenomenology as a study of consciousness and the frequent psychoanalytic emphasis on the unconscious or non-coincidence of consciousness with itself. (Unlike those who take up psychoanalysis for clinical practice, those with theoretical interests often see little value in spending time as an analysand.)
+
+== Practioners ==
+
+[[Sigmund Freud]], [[Melanie Klein]], and [[Jacques Lacan]] are often treated as canonical thinkers within psychoanalytic theory, although there are considerable objections to their authority, particularly from [[feminism]]. Precisely in the interest of a theoretical approach to psychoanalysis, Lacan read Freud with [[Georg Wilhelm Friedrich Hegel|G. W. F. Hegel's]] ''Phenomenology of Spirit''. Major thinkers within psychoanalytic theory include [[Nicholas Abraham]], [[Serge Leclaire]], [[Michel Foucault]], [[Julia Kristeva]], [[Slavoj Žižek]], [[Jacques Derrida]], [[René Major]], [[Luce Irigaray]], and [[Jacques-Alain Miller]]; their work is anything but unitary — Derrida, for example, has remarked that virtually the entirety of Freud's metapsychology, while possessing some strategic value previously necessary to the elaboration of psychoanalysis, ought to be discarded at this point, whereas Miller is sometimes taken as heir apparent to Lacan because of his editorship of Lacan's seminars, his interest in analysis is even more philosophical than clinical, whereas Major has questioned the complicity of clinical psychoanalysis with various forms of totalitarian government.
+
+Some of the theoretical orientation of psychoanalysis in both German and French and, later, American contexts results in part from its separation from [[psychiatry]] and institutionalisation closer to departments of [[philosophy]] and literature (or American cultural studies programs). Psychoanalytic theory heavily influenced the work of [[Frantz Fanon]], [[Herbert Marcuse]], [[Louis Althusser]], and [[Cathy Caruth]], among others (the implications for these is exemplary in their dispersion; Fanon's interests were in racial and colonial identity, whereas Marcuse and Althusser represent distinct Marxist positions that, among other things, attempt to use psychoanalysis in the study of ideology, whereas Caruth, coming from a background in [[Paul de Man|de Manian]] [[deconstruction]] and working in comparative literature, has articulated notions of [[Psychological trauma|trauma]] through literary studies informed by philosophy, psychology, neurology, and Freudian and Lacanian theory). Theory can be so expansive a container as to include the work of [[Gilles Deleuze]] and [[Félix Guattari]], who believed psychoanalysis ultimately radically reductionist and strongly opposed the psychiatric institutions of their time.
+
+Psychoanalytic theory sometimes heavily informs [[gender studies]] and [[queer theory]].
+
+== External links ==
+* [http://1libertaire.free.fr/Foucault33.html René Major article on Foucault and psychoanalysis (in French)]
+* [http://www.etatsgeneraux-psychanalyse.net/ Home page of the États Generaux de la psychanalyse, which was organized in part by Jacques Derrida and René Major (in French)]
+* [http://www.learnpsychology.net/ Critical psychology glossary.]
+
+[[Category:Psychoanalytic theory]]
+[[Category:Freudian psychology]]

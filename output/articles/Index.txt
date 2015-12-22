@@ -1,0 +1,65 @@
+{{Top}}indice{{Bottom}}
+
+==Charles Peirce==
+==Sign==
+In the typology of [[sign]]s devised by Charles S. Peirce, the North American semiotician, the [[index]] is a [[sign]] whih has an "existential relationship" to the [[object]] it represents (i.e. the [[index]] is always spatially or temporally contiguous with the [[object]]).
+
+==Symbol==
+Peirce contrasts the [[index]] swith the [[symbol]], which, like [[Saussure]]'s concept of the [[sign]], is characterized by the [[absence]] of all necessary connections between the [[sign]] and its [[object]].
+
+For example, smoke is an [[index]] of fire.
+
+==Signifier==
+In [[Lacan]]'s [[discourse]], the term "[[index]]" functions in opposition to the term [[signifier]].
+
+[[Lacan]] thus conceives the [[index]] as a "[[nature|natural]]" [[sign]], one in which there is a fixed, bi-univocal correspondence between [[sign]] and [[object]] (unlike the [[signifier]], which has no fixed link with any one [[signified]]).
+
+This opposition between [[index]] and [[signifier]] underpins the following distinctions in [[Lacan]]'s work.
+
+===The Psychoanalytic and Medical Concepts of the Symptom===
+Whereas in medicine, the [[symptom]] is regarded as an [[index]] of the disease, in [[psychoanalysis]] the [[symptom]] is not an [[index]] but a [[signifier]].<ref>{{E}} p. 129</ref>
+
+Hence in [[psychoanalysis]] there is no one-to-one fixed link between pathological phenomena and the underlying [[structure]].
+
+===Codes (Animal) and Language (Human)===
+[[Code]]s are composed of [[index|indices]], whereas [[language]] is composed of [[signifier]]s.
+
+This explains why [[code]]s lack the most important feature of [[language]]: its potential for ambiguity and equivocation.
+
+The opposition between [[signifier]] and [[index]] is complicated by the [[existence]] of certain [[signifier]]s which also function as [[index|indices]]; these are called [[shifter]]s.
+
+==See Also==
+{{See}}
+* [[Code]]
+* [[Language]]
+||
+* [[Linguistics]]
+* [[Shifter]]
+||
+* [[Sign]]
+* [[Signified]]
+||
+* [[Signifier]]
+* [[Structure]]
+||
+* [[Symbol]]
+* [[Symptom]]
+{{Also}}
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+[[Category:Psychoanalysis]]
+[[Category:Jacques Lacan]]
+[[Category:Dictionary]]
+[[Category:Concepts]]
+[[Category:Treatment]]
+[[Category:Practice]]
+[[Category:Symbolic]]
+[[Category:Imaginary]]
+[[Category:Terms]]
+{{OK}}
+
+__NOTOC__

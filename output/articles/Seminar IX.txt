@@ -1,0 +1,135 @@
+{{S}}
+
+{| style="line-height:2.0em;width:100%;text-align:justify;border-spacing:8px;"
+|style="width:100%;border:0px solid #cccccc;background-color:#ffffff;vertical-align:top"|
+{| width="100%" cellpadding="0" cellspacing="0" style="text-align:justify;vertical-align:top;background-color:#ffffff"
+|-
+|style="text-align:justify;color:#000;line-height:2.5em;align:justify;"|
+{| align="center" style="width:400px; border:1px solid #aaa;text-align:left; line-height:2.0em; padding-left:10px;"
+|width="100px"|
+|width="300px"|
+|-
+| [[{{Y}}|1960 - 1961]]
+| ''[[L'identification]]''<BR>[[Identification]]
+|}
+
+In <i>[[Le transfert]]</i> [[Lacan]] describes [[symbolic]] [[identification]] as [[identification]] with the [[signifier]].  Here, he examines the rapport of the [[subject]] to the [[signifier]].  In the three types of [[identification]] isolated by [[Freud]] in <i>[[Group Psychology and the Analysis of the Ego]]</i> (1921, S.E. XVIII), he finds:
+
+# A [[primitive]] [[identification]] with the [[father]] as such based on a single feature: the matrix of the Ideal-of-the-Ego, a symbolic [[introjection]] of the [[father]]'s mark, "An identity of body links the [[Father]] of all times to all those who descend from Him."
+# A [[regressive]] [[identification]] in [[love]] relations: the [[object]] refuses itself, therefore the [[subject]] identifies with the [[object]] (one centered around <i>[[objet a]]</i> and the [[phallus]]).
+# An [[hysteric]]al [[identification]] where the [[subject]] recognizes in the other his global situation.
+
+By asserting the [[identification]] of the [[signifier]] and the [[identification]] with the [[signifier]], [[Lacan]] brings about a new category consisting in the first two and centered on the rapport to the [[Father]] and to the [[phallus]].  It becomes crucial to institute the [[subject]] in his rapport to the [[signifier]] - to the [[signifier]] alone.  To mark the difference between the preverbal and the verbal [[Lacan]] points at his dog, Justine, who has speech but not language: insofar as she speaks, she never takes him for an other, she is not capable of [[transference]] and lives in the [[demand]].  In "[[The agency of the letter in the unconscious or reason since Freud]]" (<i>[[Écrits: A Selection]]</i>) he refers to the [[language]] of the [[affect]] and of the [[body]] as the "nonhuman" aspect of those who "do not have [[language]]."  The only salvation lies in "the signifying identification" where the preverbal is articulated within the subject's relation to the word.
+
+In "[[The agency of the letter]]..." the [[signifier]] is turned into an inscription in the [[unconscious]], a seal, which in <i>[[L'identification]]</i> becomes the "unbroken line," <i>[[trait unaire]]</i>, a [[symbolic]] term which is to produce the [[ego-ideal]]. Though this trait may originate as a [[sign]], it becomes a [[signifier]] when incorporated into a signifying system: [[identification]] raises the question of the identical.  Can it be said that A = A? No, for there already is a difference due to repetition: hence A [[Image:lacansem1b2.gif]] A.  Against the One of totality, [[Lacan]] institutes the 1 as the single mark, the unbroken line, made by mere repetition.  The [[signifier]] has a unity only insofar as it is that which all the other ones are not, insofar as it is pure difference: the One as such is the Other.  There is no tautology in expressions such as "war is war" or "Lacan is Lacan."  The real thing has nothing to do with this, it is the same [[signifier]] that functions to connote pure difference, for, in [[repetition]], the [[signifier]] represents the [[subject]] for another [[signifier]] and not for some one. The [[identification]] of the [[signifier]] and the [[identification]] with the signfier closely mingle.  Formal logic, the study of the proper name, the complex grammar of negation... everything works toward defining the unbroken line as "a return, the seizing of the origin of a counting before the number." The [[phallus]] as the [[symbolic]] mark is at the origin since "[[narcissism and incorporation should be located in the direction of the [[Father]] and not in the direction of the parasited mother's [[body]]."  [[Lacan]]'s response to the problem of the origin (the chicken or the egg?) is the rooster, the [[signifier]] that makes the rooster, the letter or unbroken line. His project is to create "a [[topology|topological]] [[structure]] of the [[subject]]."
+
+To whomever asks, "What is the [[truth]] of your [[discourse]]?", [[Lacan]] answers: "I am an [[analyst]], and as such, I have to to disappoint you, I don't tell the [[truth]] about [[truth]]." "I can take you very far on the path of the 'who am I' without the [[truth]] of what I am telling you being guaranteed, but nevertheless, in what I am telling you, it is still a matter of [[truth]]."
+
+<!--
+<b>Le séminaire, Livre IX: L'identification.</b><br>
+French: unpublished.<br>
+English: unpublished
+
+{| style="width:100%; border:1px solid #aaa;text-align:left; line-height:2.0em; padding-left:10px;"
+|width="100%"| [[Jacques Lacan|Lacan, Jacques]].  [[Seminar I|The Seminar of Jacques Lacan: Book II : The Ego in Freud's Theory and in the Technique of Psychoanalysis 1954-1955 (Seminar of Jacques Lacan)]].  Ed. [[Jacques-Alain Miller]].  Trans. [[Sylvana Tomaselli]].  New York: W. W. Norton & Company, 1991.   Paperback, Language: English, ISBN: 0393307093. <small><small>Buy it at [http://www.amazon.com/exec/obidos/ASIN/0393307093/nosubject-20/ Amazon.com], [http://www.amazon.ca/exec/obidos/ASIN/0393307093/nosub07-20/ Amazon.ca], [http://www.amazon.de/exec/obidos/ASIN/0393307093/nosub-21/ Amazon.de], [http://www.amazon.co.uk/exec/obidos/ASIN/0393307093/nosubjencyofl-21/ Amazon.co.uk] or [http://www.amazon.fr/exec/obidos/ASIN/0393307093/nosub04-21/ Amazon.fr].</small></small>
+|}
+<BR>
+{| style="width:100%; border:1px solid #aaa;text-align:left; line-height:2.0em; padding-left:10px;"
+|width="100%"| [[Jacques Lacan|Lacan, Jacques]].  [[Seminar I|Le séminaire, Livre II: Le moi dans la théorie de Freud et dans la technique de la psychanalyse]].  Ed. [[Jacques-Alain Miller]].  Paris: Seuil, 1977.  374 pages, Language: French, ISBN: 2020047276. <small><small>Buy it at [http://www.amazon.com/exec/obidos/ASIN/2020047276/nosubject-20/ Amazon.com], [http://www.amazon.ca/exec/obidos/ASIN/2020047276/nosub07-20/ Amazon.ca], [http://www.amazon.de/exec/obidos/ASIN/2020047276/nosub-21/ Amazon.de], [http://www.amazon.co.uk/exec/obidos/ASIN/2020047276/nosubjencyofl-21/ Amazon.co.uk] or [http://www.amazon.fr/exec/obidos/ASIN/2020047276/nosub04-21/ Amazon.fr].</small></small>
+|}
+-->
+|-
+|}
+
+|style="width:100%;border-left:0px solid #cccccc;background-color:#ffffff;vertical-align:top;color:#000"|
+{| cellpadding="2" cellspacing="5" style="text-align:justify;vertical-align:top;background-color:#ffffff"
+|-
+|style="color:#000;line-height:2em;width:100%;";|
+{| class="wikitable" width="200px" cellpadding="0" cellspacing="0" align="center" bgcolor="#ffffff" style="line-height:2.0em; padding-left:60px; background:#ffffff; text-align:center;"
+|-
+| bgcolor="#ffffff" width="200px" style="padding-left:10px" | [[{{Y}}|Date]]
+| bgcolor="#ffffff" width="50px" style="padding-left:10px" | [[{{Y}}|PDF]]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|15 novembre 1961]]
+| [http://{{archive}}/seminaireIX/1961.11.15.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|22 novembre 1961]]
+| [http://{{archive}}/seminaireIX/1961.11.22.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|29 novembre 1961]]
+| [http://{{archive}}/seminaireIX/1961.11.29.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|6 décembre 1961]]
+| [http://{{archive}}/seminaireIX/1961.12.06.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|13 décembre 1961]]
+| [http://{{archive}}/seminaireIX/1961.12.13.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|20 décembre 1961]]
+| [http://{{archive}}/seminaireIX/1961.12.20.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|10 janvier 1962]]
+| [http://{{archive}}/seminaireIX/1962.01.10.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|17 janvier 1962]]
+| [http://{{archive}}/seminaireIX/1962.01.17.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|24 janvier 1962]]
+| [http://{{archive}}/seminaireIX/1962.01.24.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|21 février 1962]]
+| [http://{{archive}}/seminaireIX/1962.02.21.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|28 février 1962]]
+| [http://{{archive}}/seminaireIX/1962.02.28.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|07 mars 1962]]
+| [http://{{archive}}/seminaireIX/1962.03.07.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|14 mars 1962]]
+| [http://{{archive}}/seminaireIX/1962.03.13.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|21 mars 1962]]
+| [http://{{archive}}/seminaireIX/1962.03.21.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|28 mars 1962]]
+| [http://{{archive}}/seminaireIX/1962.03.28.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|04 avril 1962]]
+| [http://{{archive}}/seminaireIX/1962.04.04.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|11 avril 1962]]
+| [http://{{archive}}/seminaireIX/1962.04.11.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|02 mai 1962]]
+| [http://{{archive}}/seminaireIX/1962.05.02.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|09 mai 1962]]
+| [http://{{archive}}/seminaireIX/1962.05.09.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|16 mai 1962]]
+| [http://{{archive}}/seminaireIX/1962.05.16.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|23 mai 1962]]
+| [http://{{archive}}/seminaireIX/1962.05.23.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|30 mai 1962]]
+| [http://{{archive}}/seminaireIX/1962.05.30.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|06 juin 1962]]
+| [http://{{archive}}/seminaireIX/1962.06.06.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|13 juin 1962]]
+| [http://{{archive}}/seminaireIX/1962.06.13.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|20 juin 1962]]
+| [http://{{archive}}/seminaireIX/1962.06.20.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|27 juin 1962]]
+| [http://{{archive}}/seminaireIX/1962.06.27.pdf link]
+|}
+
+|-
+|}<!-- Start of right-column -->
+|}
+__NOTOC__  __NOEDITSECTION__

@@ -1,0 +1,155 @@
+{{Top}}interprétation{{Bottom}}
+
+=====Role of the Analyst=====
+The role of the [[analyst]] in the [[treatment]] is twofold.
+
+First and foremost, he must listen to the [[analysand]], but he must also intervene by speaking to the [[analysand]].
+
+=====Function of Interpretation=====
+Although the [[analyst]]'s [[speech]] is characterized by many different kinds of [[speech|speech act]] -- asking questions, giving instructions, etc. -- it is the offering of [[interpretation]]s which plays the most crucial and distinctive role in the [[treatment]].
+
+Broadly speaking, the [[analyst]] can be said to offer an [[interpretation]] when he says something that subverts the [[analysand]]'s [[conscious]] "everyday" way of looking at something.
+
+=====Sigmund Freud=====
+[[Freud]] first began offering [[interpretation]]s to his [[patient]]s in order to help them [[memory|remember]] an idea that had been [[repressed]] from [[memory]].
+
+These [[interpretation]]s were educated guesses about what the [[patient]]s had omitted from their account of the events which led up to the [[formation]] of their [[symptom]]s.
+
+=====Example=====
+For example, in one of the earliest [[interpretation]]s, [[Freud]] told one [[patient]] that she had not revealed all her motives for the intense affection she showed towards her employer's children, and went on to say; "I believe that really you are in love with your employer, the Director, though perhaps without being aware of it yourself."<ref>{{F}} "[[Works of Sigmund Freud|The Neuro-Psychoses of Defence]]", 1895d. [[SE]] III, 43. p. 117</ref>
+
+=====Purpose of Interpretation=====
+The purpose of the [[interpretation]] was to help the [[patient]] become [[conscious]] of [[unconscious]] thoughts.
+
+=====Psychoanalytic Method of Interpretation=====
+The model of [[interpretation]] was set down by [[Freud]] in ''[[The Interpretation of Dreams]]''.<ref>{{F}} ''[[The Interpretation of Dreams]]'', 1900a. [[SE]] V.</ref>
+
+Though only concerned explicitly with [[dreams]], [[Freud]]'s comments on [[interpretation]] in this work apply equally to all the other [[formation]]s of the [[unconscious]] -- [[parapraxes]], [[jokes]], [[symptoms]], etc.
+
+====="Decoding" Method of Interpretation=====
+In the second chapter of this work the psychoanalytic method of [[interpretation]] is distinguished from the "decoding" method of [[interpretation]] by the use of the method of [[free association]]: a [[psychoanalytic]] [[interpretation]] does not consist in attributing a [[signification|meaning]] to a [[dream]] by referring to a pre-existing system of equivalences but by referring to the [[free association|associations]] of the dreamer himself.
+
+It follows that the same [[image]] will mean very different things if dreamed by different people.
+
+=====Sigmund Freud=====
+Even when [[Freud]] later came to recognize the [[existence]] of "symbolism" in [[dreams]] (i.e. the fact that there are some images which have fixed universal meanings in addition to their unique meaning for the individual dreamer), he always maintained thaat [[interpretation]] should focus primarily on the particular meaning and warned against "overestimating the importance of symbols in dream interpretation."<ref>{{F}} ''[[The Interpretation of Dreams]]'', 1900a. [[SE]] V., pp. 359-60.</ref>
+
+=====Interpretation in Analysis=====
+Early on in the history of the psychoanalytic movement, [[interpretation]] rapidly came to be the most important tool of the [[analyst]], his primary means for achieving therapeutic effects in the [[patient]].
+
+=====Interpretation of Unconscious Meaning of the Symptom=====
+Since [[symptom]]s were held to be the expression of a [[repressed]] idea, the [[interpretation]] was seen to [[cure]] the [[symptom]] by helping the [[patient]] become [[conscious]] of the idea.
+
+=====Declining Effect of Interpretation=====
+However, after the initial period in which the offering of [[interpretation]]s seemed to achieve remarkable effects, in the decade 1910-20 [[analyst]]s began to notice that their [[interpretation]]s were becoming less effective.
+
+In particular, the [[symptom]] would persist even after the [[analyst]] had offered exhaustive [[interpretations]] of it.
+
+=====Possible Explanation=====
+=====Resistance to Becoming Conscious=====
+In order to explain this, [[analyst]]s turned to the concept of [[resistance]], arguing that it is not sufficient simply to offer an [[interpretation]] of the [[unconscious]] [[meaning]] of the [[symptom]] but that it is also necessary to get rid of the [[patient]]'s [[resistance]] to becoming fully [[conscious]] of this [[meaning]].
+
+=====Jacques Lacan=====
+[[Lacan]], however, proposes a different explanation.
+
+He argues that the decreasing efficacy of [[interpretation]]s after 1920 was due to a "closure" of the [[unconscious]] which the [[analyst]]s themselves had provoked.<ref>{{S2}} p.10-11; {{S8}} p.390</ref>
+
+Among other things, [[Lacan]] blames the increasing tendency of the first generation of [[analyst]]s to base their [[interpretation]]s more on [[symbol]]ism (despite [[Freud]]'s warnings to the contrary), thereby returning to the pre-psychoanalytic "decoding" method of [[interpretation]].
+
+Not only did this reduce [[interpretation]]s to set formulas, but the [[patient]]s soon came to be able to predict exactly what the [[analyst]] would say about any particular [[symptom]] or [[free association|association]] they produced (which, as [[Lacan]] wryly comments "is surely the most annoying trick which can be played on a fortune-teller"<ref>{{Ec}} p.462</ref>).
+
+[[Interpretation]]s thus lacked both relevance and shock-value.
+
+=====Popularity of Psychoanalytic Theory=====
+
+Other [[analyst]]s before [[Lacan]] had recognized the problems caused by the fact that [[patient]]s were increasingly knowledgable of [[psychoanalytic theory]].
+
+However, the solution which they proposed for this problem was that "too much knowledge on the part of the patient should be replaced by more knowledge on the part of the analyst."<ref>Ferenczi, Sándor and Rank, Otto. "The Development of Psychoanalysis," trans. Caroline Newton, J. ''Nerv. Ment. Dis.'', Monograph, no. 40. 1925. p.61</ref>
+
+In other words, they urged the [[analyst]] to elaborate even more complex theories in order to stay one step ahead of the [[patient]].
+
+=====Jacques Lacan=====
+[[Lacan]], however, proposes a different solution.
+
+What is needed, he argues, is not [[interpretations]] of every-increasing complexity, but a different way of approaching [[interpretation]] altogether.
+
+Hence [[Lacan]] calls for a "renewed technique of interpretation,"<ref>{{E}} p.82.</ref> one that challenges the basic assumptions underlying the classical psychoanalytic model of [[interpretation]].
+
+=====Classical Psychoanalytic Model of Interpretation=====
+Classical [[interpretation]]s generally took the form of attributing to a [[dream]], a [[symptom]], a [[parapraxis]], or an association, a [[meaning]] not given to it by the [[patient]].
+
+For example the [[interpretation]] may be of the form "What you really mean by this symptom is that you desire ''x''."
+
+=====Interpretation Unmasks Hidden Unconscious Meaning=====
+The fundamental assumption was that the [[interpretation]] unmasks a hidden [[meaning]], the [[truth]] of which could be confirmed by the [[patient]] producing more [[free association|association]]s.
+
+It is this assumption that [[Lacan]] challenges, arguing that [[analytic]] [[interpretation]]s should no longer aim at discovering a hidden [[meaning]], but rather at disrupting [[meaning]].
+
+=====Interpretation as Disruption of Meaning=====
+<blockquote>"Interpretation is directed not so much at 'making sense' as towards reducing the signifiers to their 'non-sense' in order thereby to find the determinants of all the subject's conduct."<ref>{{S11}} p.212</ref></blockquote>
+
+[[Interpretation]] thus inverts the relationship between [[signifier]] and [[signified]]: instead of the normal production of [[meaning]] ([[signifier]] produces [[signified]]), [[interpretation]] works at the level of ''s'' to generate S: [[interpretation]] causes "irreducible signifiers" to arise, which are "non-sensical."<ref>{{S11}} p. 250</ref>
+
+Hence it is not a question, for [[Lacan]], of fitting the [[analysand]]'s [[discourse]] into a preconceived interpretive matrix or theory (as in the "decoding" method), but of disrupting all such theories.
+
+=====Analysand's Message Addressed to Himself=====
+Far from offering the [[analysand]] a new [[message]], the [[interpretation]] should serve merely to enable the [[analysand]] to hear the [[message]] he is [[unconsciously]] addressing to himself.
+
+The [[analysand]]'s [[speech]] always has other [[meaning]]s apart from that which he [[consicously]] intends to convey.
+
+The [[analyst]] plays on the ambiguity of the [[analysand]]'s [[speech]], bringing out its multiple meanings.
+
+Often the most effective way for the [[interpretation]] to achieve this is for it too to be ambiguous.
+
+By interpreting in this way, the [[analyst]] sends the [[analysand]]'s [[message]] back to the [[analysand]] in its true, [[inversion|inverted form]].
+
+=====Tactic of Interpretation=====
+An [[interpretation]] is therefore not offered to gain the [[analysand]]'s assent, but is simply a tactical device aimed at enabling the [[analysand]] to continue [[speech|speaking]] when the flow of [[free association|association]]s has become locked.
+
+=====Interpretation and Reality=====
+The value of an [[interpretation]] does not lie in its correspondence with [[reality]], but simply in its power to produce certain effects; an [[interpretation]] may therefore be inexact, in the sense of not corresponding to "the facts," but nevertheless true, in the sense of having powerful symbolic effects.<ref>{{E}} p. 237</ref>
+
+=====Role of the Analyst=====
+=====Analysand's Speech as Text=====
+[[Lacan]] argues that in order to [[interpret]] in this way, the [[analyst]] must take the [[analysand]]'s [[speech]] absolutely literally (''à la lettre'').
+
+That is, the task of the [[analyst]] is not to achieve some [[imaginary]] intuitive grasp of the [[analysand]]'s "hidden message," but simply to read the [[analysand]]'s [[discourse]] as if it were text, attending to the formal features of this [[discourse]], the [[signifiers]] that repeat themselves.<ref>{{S2}} p. 153</ref>
+
+=====Understanding=====
+Hence [[Lacan]]'s frequent warnings of the dangers of "[[Interpretation|understanding]]."
+
+<blockquote>"The less you understand, the better you listen."<ref>{{S2}} p. 141</ref></blockquote>
+
+[[Interpretation|Understanding]] (''comprendre'') has negative connotations for [[Lacan]], implying a kind of listening that seeks only to fit the other's [[speech]]] into a preformed theory.<ref>{{E}} p. 270; {{S2}} p. 130; {{S8}} p. 229-30</ref>
+
+In order to do avoid this, the [[analyst]], must "forget what he knows" when listening<ref>{{Ec}} p.349</ref> and when offering [[interpretation]]s must do so "exactly as if we were completely ignorant of theory."<ref>{{L}} "[[Works of Jacques Lacan|The Neurotic's Individual Myth]]," 1953b, trans. Martha Evans, in L. Spurling (ed.), ''Sigmund Freud: Critical Assessments,'', vol. II, ''The Theory and Practice of Psychoanalysis'', London and New York: Routledge, 1989, p. 227.</ref>
+
+==See Also==
+{{See}}
+* [[Analysand]]
+* [[Analyst]]
+||
+* [[Consciousness]]
+* [[Signifier]]
+||
+* [[Speech]]
+* [[Symptom]]
+||
+* [[Treatment]]
+* [[Unconscious]]
+{{Also}}
+==References==
+<references/>
+
+[[Category:Psychoanalysis]]
+[[Category:Jacques Lacan]]
+[[Category:Treatment]]
+[[Category:Practice]]
+[[Category:Dictionary]]
+[[Category:Language]]
+[[Category:Symbolic]]
+[[Category:Concepts]]
+[[Category:Terms]]
+[[Category:OK]]
+
+__NOTOC__

@@ -1,0 +1,22 @@
+The letter refers to the material substrate, identical to the printed character, that serves as the vehicle for spoken or written language. It represents the two sides of the signifier (metaphor and metonymy) in the creation of meaning and in the production of dreams, where the letter designates one of the terms of the rebus. As the localized structure of the signifier, the letter's nature is real, exclusive of sense or meaning. Its function is symbolic to the extent that its absence determines the automatism of repetition. The letter constitutes the unconscious to the extent that it is organized as a literal heterogeneous set.
+
+Freud's first allusion to the letter and its function is found in his correspondence with Wilhelm Fliess on December 6, 1896 (1950a), where he describes a system of inscribing perceptions, in which the process of repression can be conceptualized as the erasure of an inscription. In the analysis of the Wolfman, Freud (1918b) returns to the letter and its workings. In 1927, in his article on fetishism (1927e), he shows how a patient's erotic life remains attached to a permutation of letters.
+
+However Freud never really formulated a theory of the letter. Jacques Lacan in 1954-1957 (1966) provided a theoretical elaboration of the functioning of the letter to the extent that it—and it alone—constitutes the topography of the unconscious.
+
+Several additional aspects of how the letter functions need to be distinguished: its situation within the articulation of the two essential tropes that govern language, metaphor, and metonymy (Roman Jakobson), and the function it plays in the dialectic of desire and the automatism of repetition. To explain these functions a few linguistic concepts are necessary.
+
+Returning to the Saussurian algorithm, Lacan emphasized the impermeable nature of the bar that separates signifier and signified. Contrary to what is suggested by the illustration of the algorithm between the sound "tree" and its iconic representation, the unconscious does not acknowledge any univocal correspondence between a signifier and a signified, because the signifier only functions through its difference with other elements in the verbal chain. Because of these three factors access to meaning can only occur through metaphor or metonymy. Thus Freud discovered the processes of condensation (Verdichtung) and displacement (Verschiebung) in dreams. These two operations take place at the cost of eliding the signifier upon which they were originally based. This first obliterated signifier is automatically repressed as part of the natural operation of the production of meaning. By extension, we recognize in this the model of symptom formation as a fact associated with language. Within the differential coupling of signifiers as they occur in a language this first signifier, the indifferent point of departure for metaphor or metonymy, can be conceptualized as precipitated in the materiality of a letter that represents it in the chain of signifiers. This letter also prefigures the trace of the lost object and the lack that causes desire, for in metonymy the trace of the loss is transferred to the object of desire. This led Lacan to designate the object-cause of desire by the letter a. The letter thus has a symbolic function that overdetermines the unalterable principle of the automatism of repetition to the extent that a letter will always be missing, the very letter that represents the lost object.
+
+Moreover, the impossibility of grasping the letter in its signification, its resistance to meaning, because it lies outside the signified, shows that in is essence the letter is real: It forms a hole in unconscious knowledge. Exploration of this hole in meaning using the real of the letter remains the nub of the unconscious in the experience of analysis.
+
+JEAN-PIERRE HILTENBRAND
+
+See also: Real, the (Lacan); Signifier; Symptom/sinthome.
+Bibliography
+
+    * Freud, Sigmund. (1918b). From the history of an infantile neurosis. SE, 17: 1-122.
+    * ——. (1927e). Fetishism. SE, 21: 147-157.
+    * ——. (1950a). Extracts from the Fliess papers, SE, 1: 173-280.
+    * Lacan, Jacques. (1966)Écrits. Paris: Le Seuil.
+[[Category:Enotes]]

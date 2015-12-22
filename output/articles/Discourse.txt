@@ -1,0 +1,129 @@
+{{Top}}discours{{Bottom}}
+
+
+=====Discourse of the Other=====
+The term "[[discourse]]" is used by [[Lacan]] to emphasize the ''[[intersubjectivity|transindividual]]'' nature of '''[[language]]''', the fact that '''[[speech]]''' always implies another [[subject]], an interlocutor.
+
+The '''[[unconscious]]''' is the "[[discourse|discourse of the Other]]", the effect on the [[subject]] of [[speech]] that is addressed to that [[subject]] from elsewhere, by another [[subject]] (who has been [[memory|forgotten]]), by an [[scene|other scene]] or [[scene|psychic locality]].
+
+=====Social Bond=====
+In 1969, [[Lacan]] begins to use the term "[[discourse]]" to denote a "[[discourse|social bond]], founded in [[language]]."
+
+He identifies ''four'' types of [[discourse|social bonds]], four articulations of the [[symbolic order|symbolic network]] which regulates [[intersubjectivity|intersubjective relations]].
+
+=====Four Discourses=====
+These "[[discourse|four discourses]]" are
+
+* the [[discourse]] of the '''[[master]]''',
+* the [[discourse]] of the '''[[university]]''',
+* the [[discourse]] of the '''[[hysteric]]''', and
+* the [[discourse]] of the '''[[analyst]]'''.
+
+=====Four Algorithms=====
+[[Image:Letdis.jpg|thumb|250px|right|[[Algebra]]ic [[symbol]]s from the [[Four Discourses]]]]
+
+Each of the [[discourse|four discourses]] is represented by an [[matheme|algorithm]] which contains ''four'' [[algebraic]] [[symbol]]s.
+
+The names of these ''four'' [[symbol]]s are shown to the right.
+
+The ''four'' [[symbol]]s correspond to ''four'' different [[discourse|positions]] in each [[matheme|algorithm]] of the [[discourse|four discourses]].
+
+Each [[matheme|algorithm]] of the [[discourse|four discourses]] has ''four'' different [[discourse|positions]] with which the ''four'' [[symbol]]s correspond.
+
+[[Image:Discourse-Structure.jpg|thumb|250px|right|The structure of the four discourses]]
+
+The [[discourse|position]] of the ''four'' [[symbol]]s in each [[matheme|algorithm]] is what distinguishes the [[discourse|four discourses]] from one another.
+
+The [[discourse|four discourses]] are distinguished from one another by the [[discourse|positions]] of these ''four'' [[symbol]]s in each [[matheme|algorithm]].
+
+Each of the [[discourse|four discourses]] is defined by the [[discourse|position]] of the ''four'' [[symbol]]s in its [[matheme|algorithm]].
+
+The names of the ''four'' [[discourse|positions]] are shown to the right.<ref>{{S20}} p. 21</ref>
+
+=====Discourse of the Master=====
+[[Image:Madis.jpg|thumb|right|[[Discourse]] of the [[Master]]]]
+The [[discourse]] of the [[master]] is the basic [[discourse]] from which the other three [[discourse]]s are derived. 
+
+The '''dominant position''' is occupied by the [[master signifier]] ([[Image:SS1.gif]]), which represents the [[subject]] ('''S''') for another [[signifier]] or, more precisely, for all other [[signifiers]] ([[Image:SS2.gif]]); however, in this [[signification|signifying operation]] there is always a [[surplus]], namely, ''[[objet petit a]]''. 
+
+The point is that all attempts at totalization are doomed to failure. 
+
+The [[discourse]] of the [[master]] "masks the [[division]] of the [[subject]]."<ref>{{S17}} p. 118</ref> 
+
+The [[discourse]] also illustrates clearly the [[structure]] of the [[dialectic]] of the [[master]] and the [[master|slave]]. 
+
+The [[master]] ([[Image:SS1.gif]]) is the [[discourse|agent]] who puts the [[slave]] ([[Image:SS2.gif]]) to work; the result of this work is a [[surplus]] (''[[objet (petit) a|a]]'') that the [[master]] attempts to appropriate.
+
+=====Discourse of the University=====
+[[Image:Unidis.jpg|thumb|right|[[Discourse]] of the [[University]]]]
+The [[discourse]] of the [[university]] is produced by a quarter turn of the [[discourse]] of the [[master]] (anticlockwise). 
+
+The dominant position is occupied by [[knowledge]] (''[[savoir]]''). 
+
+This illustrates the fact that behind all attempts to impart an apparently "neutral" [[knowledge]] to the [[other]] can always be located an attempt at [[master]]y ([[master]]y of [[knowledge]], and domination of the [[other]] to whom this [[knowledge]] is imparted). 
+
+The [[discourse]] of the [[university]] represents the hegemony of [[knowledge]], particularly visible in modernity in the form of the hegemony of [[science]].
+
+=====Discourse of the Hysteric=====
+[[Image:Hysdis.jpg|thumb|right|[[Discourse]] of the [[Hysteria|Hysteric]]]]
+The [[discourse]] of the [[hysteric]] is also produced by a quarter turn of the [[discourse]] of the [[master]], but in a clockwise direction. 
+
+It is not simply "that which is uttered by a hysteric", but a certain kind of [[discourse|social bond]] in which any [[subject]] may be inscribed. 
+
+The dominant position is occupied by the [[split|divided]] [[subject]], the [[symptom]]. 
+
+This [[discourse]] is that which points the way towards [[knowledge]].<ref>{{S17}} p. 23</ref>
+
+[[Psychoanalytic treatment]] involves "the structural introduction of the [[discourse]] of the '''[[hysteric]]''' by means of artificial conditions"; in other words, the [[analyst]] "[[hysteria|hystericises]]" the [[patient]]'s [[discourse]].<ref>{{S17}} p. 35</ref>
+
+=====Discourse of the Analyst=====
+[[Image:Anadis.jpg|thumb|right|[[Discourse]] of the [[Analyst]]]]
+The [[discourse]] of the [[analyst]] is produced by a quarter turn of the [[discourse]] of the [[hysteric]] (in the same way as [[Freud]] developed [[psychoanalysis]] by giving an [[interpretation|interpretative]] turn to the [[discourse]] of his [[hysterical]] [[patient]]s). 
+
+The position of the [[discourse|agent]], which is the position occupied by the [[analyst]] in the [[treatment]], is occupied by ''[[objet (petit) a|objet petit a]]''; this illustrates the fact that the [[analyst]] must, in the course of the [[treatment]], become the [[cause]] of the [[analysand]]'s [[desire]].<ref>{{S17}} p. 41</ref>
+
+The fact that this [[discourse]] is the inverse of the [[discourse]] of the [[master]] emphasises that, for [[Lacan]], [[psychoanalysis]] is an essentially subversive practice which undermines all attempts at domination and [[master]]y.
+
+=====Discourse of the Capitalist=====
+In a few parts of his teaching (notably in his discourse in Milano), Lacan talked about a new kind of discourse which caracterizes our post-modern society: the discourse of the capitalist. The position of the agent, is occupied by the [[subject]] ('''S'''), who does not address the other, but the truth (this position is now occupied by the [[master signifier]] ([[Image:SS1.gif]]), the Market). Through the Market, the [[subject]] ('''S''') can ask the [[knowledge]] (''[[savoir]]''), ([[Image:SS2.gif]]), Science and Technology to produce objects to be consumed (''[[objet petit a]]''). This objects are made to never feed completely the subject's desire.
+This discourse is not part of the social bond theory. We notice that, in this discourse (contrary to the four discourses), an arrow hits the position of the truth. With the Discourse of the Capitalist, Lacan tried to account for a new kind of social bonds in which the subject become more and more individualistic, egoistic. The Market is here the new Truth which cannot be contradicted.
+
+==See Also==
+{{See}}
+* [[Algebra]]
+* [[Analyst]]
+* [[Communication]]
+||
+* [[Hysteria]]
+* [[Intersubjectivity]]
+* [[Knowledge]]
+||
+* [[Language]]
+* [[Master]]
+* [[Matheme]]
+||
+* [[Science]]
+* [[Speech]]
+* [[Subject]]
+||
+* [[Symbol]]
+* [[Symptom]]
+* [[Unconscious]]
+{{Also}}
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+[[Category:Psychoanalysis]]
+[[Category:Jacques Lacan]]
+[[Category:Language]]
+[[Category:Symbolic]]
+[[Category:Linguistics]]
+[[Category:Dictionary]]
+[[Category:Concepts]]
+[[Category:Terms]]
+{{OK}}
+
+__NOTOC__

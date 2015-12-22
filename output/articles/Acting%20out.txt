@@ -1,0 +1,45 @@
+=====Translation=====
+The term "[[acting out]]" is used in the ''[[Standard Edition]]'' to translate the [[German]] word ''[[Agieren]]'' used by [[Freud]].
+
+=====Repetition=====
+In [[Freud]]'s [[{{LB}}|work]], "[[repetition|repeating]]" and "[[memory|remembering]]" are "contrasting ways of bringing the ''past'' into the ''present''."<ref>Laplanche, Jean and Pontalis, Jean-Betrand. ''The Language of Psycho-Analysis''. Trans. Donald Nicholson-Smith. London: Hogarth Press and the Institute of Psycho-Analysis. 1967. p.4</ref>If ''past'' events are [[repression|repressed]] from [[memory]], they [[return]] in the ''present'' by expressing themselves in ''actions''; when the [[subject]] does not [[remember]] the ''past'', therefore, he is condemned to [[repetition|repeat]] it by [[acting out|acting it out]]. 
+
+<blockquote>"The patient does not ''remember'' anything of what he has forgotten and repressed, but ''acts'' it out. He reproduces it not as a memory, but as an action; he ''repeats'' it, without, of course, knowing that he is repeating it."<ref>{{F}} "[[{{FB}}|Remembering, Repeating, and Working-Through]]." 1914. [[SE]] 12: 150</ref></blockquote>
+
+Conversely, [[psychoanalytic treatment]] aims to break the cycle of [[repetition]] by helping the [[analysand|patient]] to [[remember]].
+
+=====Recollection=====
+From a [[Lacan]]ian perspective, this basic definition of "[[acting out]]" is true but incomplete; it ignores the dimension of the [[Other]].  Thus while [[Lacan]] maintains that [[acting out]] results from a failure to [[recollect]] the ''past'', he emphasizes the [[intersubjective]] dimension of [[recollection]]. In other words, [[recollection]] does not merely involve recalling something to [[consciousness]], but also [[communication|communicating]] this to an [[Other]] by means of [[speech]].  Hence [[acting out]] results when [[recollection]] is made impossible by the refusal of the [[Other]] to listen.
+
+=====Communication=====
+When the [[Other]] has become "deaf," the [[subject]] cannot convey a [[message]] to him in words, and is forced to expressed the [[message]] in [[action]]s.  The [[acting out]] is thus a ciphered [[message]] which the [[subject]] addresses to an [[Other]], although the [[subject]] himself is neither [[conscious]] of the content of this [[message]] nor even aware that his [[action]]s express a [[message]].  It is the [[Other]] who is entrusted with deciphering the [[message]]; yet it is impossible for him to do so.
+
+=====See Also=====
+{{See}}
+* [[Act]]
+* [[Analysand]]
+* [[Communication]]
+||
+* [[Consciousness]]
+* [[Intersubjectivity]]
+* [[Memory]]
+||
+* [[Other]]
+* [[Recollection]]
+* [[Repetition]]
+||
+* [[Repression]]
+* [[Subject]]
+* [[Treatment]]
+{{Also}}
+
+=====References=====
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+{{OK}}
+[[Category:Practice]]
+[[Category:Treatment]]
+
+__NOTOC__

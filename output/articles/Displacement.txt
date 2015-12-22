@@ -1,0 +1,124 @@
+For [[Freud]], [[displacement]] (a [[primary process]]) means the [[transference]] of physical intensities (1900a, p. 306) along an "associative path," so that strongly cathected ideas have their charge displaced onto other, less strongly cathected ones. 
+
+This process is active in the formation of [[hysterical]] or [[obsessional]] [[symptom]]s, in the [[dream work]], in the production of [[joke]]s, and in the [[transference]].
+
+Between 1887 and 1902 the concept of displacement appeared several times in [[Freud]]'s writings (in Drafts K and M in his correspondence with [[Wilhelm Fliess]], in the "Project for a Scientific Psychology" [1950c (1895)], and in [[The Interpretation of Dreams]] [1900a]). 
+
+It was introduced in connection with his clinical work, apropos of the [[analysis]] of [[neurotic]] [[symptom]]s and [[paranoia]]. 
+
+In Draft M (1950a), [[Freud]] described the types of displacement that result in compromise-formations.
+
+<blockquote>"Displacement by association: hysteria. Displacement by (conceptual) similarity: obsessional neurosis (characteristic of the place at which the defence occurs, and perhaps also of the time).; Causal displacement: paranoia."<ref>p. 252</ref></blockquote>
+
+In addition, in his search for a model of psychic functioning still informed by the scientific thinking and medical research of the time, [[Freud]] noted: 
+
+<blockquote>"Hysterical repression evidently takes place with the help of symbol-formation, of displacements on to other neurones. We might think, then, that the riddle resides only in the mechanism of this displacement, and that there is nothing to be explained about repression itself" (1950c [1895], p. 352</blockquote>
+
+Displacement, at work to a pathological degree in hysteria, "is thus probably a primary process, since it can easily be demonstrated in dreams" (Ibid., p. 353).
+
+
+It was in fact Freud's analysis of the dream work that led him to discover the importance of displacement. 
+
+He noted in [[The Interpretation of Dreams]] that: 
+
+a) <blockquote>"The consequence of the displacement is that the dream-content no longer resembles the core of the dream-thoughts and . . . the dream gives no more than a distortion of the dream-wish which exists in the unconscious" (p. 308);</blockquote>
+
+
+b) 
+
+[[Dream]] distortion can be 
+
+<blockquote>"traced . . . back to the censorship which is exercised by one psychical agency in the mind over another.... dream-displacement comes about through the influence of the same censorship" (p. 308); and </blockquote>
+
+c) 
+
+<blockquote>"[A] transference and displacement of psychical intensities occurs in the process of dream-formation" (pp. 307-308).</blockquote>
+
+
+The notion of [[displacement]] did not see much further development. 
+
+In his various revisions to his theories on [[dream]]s, [[Freud]] focused more on the separation of [[image]]s from the [[affect]]s that had been attached to them, on the vicissitudes of these affects ([[displacement]], conservation, metamorphosis), and on the fate of images (stripped of [[affect]]) in relation to the "sensory intensity of the image presented."<ref>1900a, p. 306, n. 1</ref> 
+
+But it was above all in the process of refining the analysis of the transference during treatment and its different manifestations—lateral, indirect, and direct transference<ref>Freud, 1915a; Sandór Ferenczi, 1909/1994; Michel Neyraut, 1974</ref> — that the notion of [[displacement]] was expanded. 
+
+It was further explored, too, by such authors as [[Jacques Lacan]] (1957/2002; 1958/2002) and Guy Rosolato (1969) who took as their starting point the work of linguists (Ullmann, 1952; Jakobson and Halle, 1956) on the relationship between [[signifier]] and [[signified]], and on [[metonymy]] ([[displacement]] by [[contiguity]]) and [[metaphor]] ([[displacement]] by [[substitution]]).
+
+[[Displacement]] is often linked to [[substitution]]. 
+
+Not infrequently, this link is made without an adequate distinction being drawn in temporal terms between [[substitution]] where there is an immediate exchange based on the [[disavowal]] of one of the two poles involved (perceptual, hallucinatory, or conceptual substitutions), and [[substitution]] where deferred action comes into play.
+
+
+==More==
+
+Like [[condensation]]  an essential feature of the workings of the unconscious and of [[dream-work]] as described by [[psychoanalysis]].
+
+The mechanism of [[displacement]] detaches the [affect]] or emotional charge of an [[unconscious]] idea and ransfers it to a less intense idea which is linked to the first by a [[chain]] of [[association]]s.
+
+Both [[condensation]] and [[displacement]] can also be observed in other [[unconscious]] formations sch as [[symptom]]s; they are also an important feature of [[joke]]s.
+
+Following [[Jakobson]] [[Lacan]] likens condensatin and [[displacement]] to the [[linguistic]] mechanisms of [[metaphor]] and [[metonymy]].
+
+==def==
+[[Displacement]] is one of the methods by which the [[repressed]] returns in hidden ways. 
+
+For example, in [[dream]]s the [[affect]] (emotions) associated with threatening impulses are often transferred elsewhere (displaced), so that, for example, apparently trivial elements in the manifest dream seem to cause extraordinary distress while "what was the essence of the dream-thoughts finds only passing and indistinct representation in the dream."<ref>"New Introductory Lectures" 22.21</ref> 
+
+For [[Freud]], "[[Displacement]] is the principle means used in the dream-distortion to which the dream-thoughts must submit under the influence of the [[censorship]]."<ref>"New Introductory Lectures" 22.21</ref>
+
+The same sort of [[displacement]] can occur in [[symptom-formation]]. 
+
+The other method whereby the [[repressed]] hides itself is [[condensation]].
+
+==See Also==
+
+* [[Actual neurosis/defense neurosis]]
+* "[[Analysis of a Phobia in a Five-year-old Boy]]"
+* [[Little Hans]]
+* [[Cathexis]]
+* [[Defense mechanisms]]
+* [[Dream symbolism]]
+* [[Dream work]]
+* [[The Ego and the Mechanisms of Defence]]
+* [[Forgetting]]
+* [[Hysteria]]
+* [[Interpretation of dreams]]
+* [[The Interpretation of Dreams]]
+* [[Jokes]]
+* [[Latent]]
+* [[Masculinity/femininity]]
+* [[Metonymy]]
+* [[Myths]]
+* [[Neurotic defenses]]
+* [[Obsessional neurosis]]
+* [[Over-determination]]
+* [[Phobias in children]]
+* [[Primary process/secondary process]]
+* "[[A Project for a Scientific Psychology]]" 
+* [[Signifier]]/[[signified]]
+* "[[The Splitting of the Ego in the Processes of Defence]]"
+* [[Substitutive formation]]
+* [[Symbolization]]
+* [[Symptom-formation]]
+* [[Unconscious]]
+
+==References==
+<references/>
+* Freud, Sigmund. (1900a). The interpretation of dreams. Part 1, SE, 4: 1-338; Part 2, SE, 5: 339-625.
+* ——. (1915a). Observations on transference love (Further recommendations on the technique of psychoanalysis III). SE, 12: 157-71.
+* ——. (1950a [1887-1902]), Extracts from the Fliess papers. SE, 1: 173-280.
+* ——. (1950c [1895]). Project for a scientific psychology. SE, 1: 295-391.
+* ——. (1985c [1887-1904]). The complete letters of Sigmund Freud to Wilhelm Fliess 1887-1904( Jeffrey M. Masson, Ed. and Trans.). Cambridge, MA: Belknap/Harvard University Press.
+* Jakobson, Roman, and Halle, Morris. (1956). Fundamentals of language (4th ed.). The Hague, New York: Mouton.
+* Lacan, Jacques. (2002). The agency of the letter in the unconscious or reason since Freud. InÉcrits: A selection (Bruce Fink, Trans.). New York: W. W. Norton. (Original work published 1957)
+* ——. (2002). The signification of the phallus. In Écrits: A selection (Bruce Fink, Trans.). New York: W. W. Norton. (Original work published 1958
+
+== References ==
+<references/>
+[[Category:Psychoanalysis]]
+[[Category:Jacques Lacan]]
+[[Category:Linguistics]]
+[[Category:Dictionary]]
+[[Category:Language]]
+[[Category:Symbolic]]
+[[Category:Concepts]]
+[[Category:Terms]]

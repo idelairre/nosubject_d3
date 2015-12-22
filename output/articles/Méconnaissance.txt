@@ -1,0 +1,57 @@
+{{Top}}misrecognition|méconnaissance{{Bottom}}
+
+===Translation===
+Translator, Alan Sheridan, has decided to retain the French word.  The sense is of a "failure to recognize", or "misconstruction".  The concept is central to [[Lacan]]'s thinking, since, for him, [[knowledge]] (''conaissance'') is inextricably bound up with ''méconnaissance''.
+
+The [[French]] term ''[[méconnaissance]]'' corresponds roughly to the [[English]] words "[[Méconnaissance|misunderstanding]]" and "[[Méconnaissance|misrecognition]]".  However, the [[French]] term is usually left untranslated when translating [[Lacan]] into [[English]] in order to show its close relationship with the term ''[[connaissance]]'' ("[[knowledge]]").
+
+===Neurotic Self-Knowledge===
+Thus, in the [[imaginary]] [[order]], [[knowledge|self-knowledge]] (''me-connaissance'')  is synonymous with [[méconnaissance|misunderstanding]] (''[[méconnaissance]]''), because the process by which the [[ego]] is formed in the [[mirror stage]] is at the same time the institution of [[alienation]] from the [[symbolic]] determination of [[being]].
+
+===Paranoid Delusions===
+As well as being the [[structure]] of ordinary [[neurotic]] [[knowledge|self-knowledge]], ''[[méconnaissance]]'' is also the [[structure]] of [[paranoiac]] [[delusions]], which are described in terms of a ''[[méconnaissance|méconnaissance systématique de la reéalité]]''.<ref>{{L}} "[[Works of Jacques Lacan|Some Reflections on the Ego]]," ''Int. J. Psycho-Anal.'', vol. 34, 1953 [1951b]. p. 12</ref>
+
+===Paranoiac Knowledge===
+This structural homology between the ordinary constitution of the [[ego]] and [[paranoiac]] [[delusions]] is what leads [[Lacan]] to describe all [[knowledge]] (''[[connaissance]]''), in both [[neurosis]] and [[psychosis]], as "[[knowledge|paranoiac knowledge]]."
+
+===Ignorance===
+''[[Méconnaissance]]'' is to be distinguished from [[knowledge|ignorance]], which is one of the three [[affect|passions]].  Whereas [[knowledge|ignorance]] is a [[affect|passion]] for the [[absence]] of [[knowledge]], ''[[méconnaissance]]'' is an [[imaginary]] [[misrecognition]] of a [[symbolic]] [[knowledge]] (''[[savoir]]'') that the [[subject]] does possess somewhere.
+
+<blockquote>Misrecognition is not ignorance.  Misrecognition represents a certain organization of affirmations and negations, to which the subject is attached.  Hence it cannot be conceived without correlate knowledge... There must surely be, behind his misrecognition, a kind of knowledge of what there is to misrecognize.<ref>{{S1}} p.167</ref></blockquote>
+
+==Ego Formation==
+Again, this applies both in the ordinary construction of the [[ego]] and in [[paranoia]].  In the former case, the [[ego]] is basically a [[Méconnaissance|misrecognition]] of the [[symbolic]] determinants of [[subjectivity]] (the [[discourse]] of the [[Other]], the [[unconscious]]).  In the latter case, [[paranoiac]] [[delusions]] always imply a [[Méconnaissance|recognition]] (''[[Méconnaissance|reconnaissance]]''), as is evident in [[Méconnaissance|systematic misunderstanding]] (''méconnaissance systématique''), where it must clearly be admitted that that which is denied is in some way [[Méconnaissance|recognized]] (''reconnu'').<ref>{{Ec}} p.165</ref>
+
+==See Also==
+{{See}}
+* [[Alienation]]
+* [[Being]]
+* [[Delusion]]
+||
+* [[Ego]]
+* [[Imaginary]]
+* [[Knowledge]]
+||
+* [[Mirror stage]]
+* [[Neurosis]]
+* [[Other]]
+||
+* [[Paranoia]]
+* [[Subject]]
+* [[Symbolic]]
+{{Also}}
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+[[Category:Psychoanalysis]]
+[[Category:Jacques Lacan]]
+[[Category:Dictionary]]
+[[Category:Imaginary]]
+[[Category:Concepts]]
+[[Category:Terms]]
+{{OK}}
+
+__NOTOC__

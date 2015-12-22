@@ -1,0 +1,41 @@
+The term <i>'[[automaton]]'</i> is introduced by [[Aristotle]] in the second book of ''Physics''.
+
+[[Lacan]] then employed [[Aristotle]]’s term ''[[automaton]]'' to describe the ‘engine’ of [[repetition]]. 
+
+''[[Automaton]]'' is usually rendered as ‘spontaneity’ in English translations of [[Aristotle]]’s ''Physics''.
+
+Both ‘spontaneous’ and ‘automatic’ indicate that something in the nature of the event itself triggered its occurrence, as in ‘spontaneous combustion’. 
+
+In Lacan’s discourse ''[[automaton]]'' coincided with the insistence of the [[network]] of [[signifier]]s and with [[Freud]]’s [[pleasure principle]]. 
+
+Such a transformation can only take place if a de-randomizing operator is capable of reducing the chance element. 
+
+==Determinism==
+It is evident that this opens completely different perspectives on the subject of determinism. On the whole, Lacan is much more optimistic than Freud in this respect. 'It is always a question of the subject qua indeterminate,' and this has effects on the goal and finality of the treatment.  37 But the innovation goes much further, as it also implies a new view on the tricky subject of causality. The novelty resides in the way Lacan puts the lack at the centre of the -- indeed -- twofold stage. The denominations are provided by Aristotle, but their content is new: automaton (α αύτόματον) versus tuchè (τ ύξη).  38
+
+The automaton is the level that is the easiest to understand. It concerns the network or chain of signifiers, in which the 'pulsatile function of the unconscious' is at work. The barred subject ($) pops up and disappears under these signifiers -- 'the signifier represents a subject for another signifier.'  39 In this, the subject is indeed determined, as Lacan had demonstrated time and again with his theory on the unconscious as being structured like a language.  40  The automatic character of this determinism was masterfully demonstrated in his Seminar on 'The Purloined Letter,' showing how the chain of signifiers is indeed a chain.  41  This is the level of the law, at which science aims, with its preponderant interest for the causa efficiens (efficient cause), and it may convince one of the omnipresence of determinism.  42  It took Freud until 1920, in Beyond the Pleasure Principle, to recognize the fallacy in this reasoning, and thus the hole in the mechanistic universe.  43  The hole will prove to be a black one.
+
+This brings us to the second level. The unwinding of the associative chain succeeds only to a certain point, something which Freud experienced time and again during his therapeutic work from the Studies on Hysteria onwards. 44 The process of remembering succeeds only to a certain point where the chain stalls and shows an abyss, a gap. 45 This is what Freud termed the 'primal repressed,' and what he also called the Nabel (navel) of the dream and the Kern unseres Wesens (the core of our being). 46 It is at this point that the real ex-sists, the real in the sense of what cannot be assimilated by the chain of signifiers. 47 Hence, the always missed encounter, due to the lack of a signifier as meeting-point. This radical lack is conceptualised by Lacan with the idea of tuchè and it is understood in terms of absence, abyss and cut, where the law and regularity of the chain are failing. This is also the level of pure causality, where law and predictability fail. 'In short, there is cause only in something that doesn't work.' 48
+
+Hence, we find ourselves again dealing with two levels. On the one hand, there is the chain of signifiers with the lack between them ( Freud: the repressed). This is the level of the automaton, of the law and predictability, and thus of science. Underlying this chain, we find a more fundamental lack, concerning the real beyond any signifier ( Freud: the primal repressed). This is the level of the tuchè, of cause and unpredictability.
+
+With this theory, Lacan solves the classical question about the cause of the cause. The first cause lacks any determination whatsoever. 49
+
+The interaction between the two levels consists in the never ending attempt of the chain of signifiers to produce an answer to the real. This attempt fails and results in the exact opposite: the more signifiers produced, the further one moves away from this real. Therefore, in Seminar XX, Lacan defines the real as 'what does not stop not writing itself.'  50
+
+What is this real all about? Lacan is quite clear on this point. The real beyond the signifier, functioning as cause, is drive-ridden, and that is why Lacan took the drive as his starting-point. With this aspect of the real, the meeting is always a failed one, because it contains no signifier. In the course of his teaching, Lacan enumerated the various manifestations of the real: the Other of the Other, the sexual relationship, Woman (La femme), all of them summarized in the notation of the barred Other ∅. 51 In this respect, the subject is fundamentally undetermined, and that is why it has a possibility of choice, beyond the determination of the automaton. This aspect of choice was already implicit in Freud's idea of Neurosenwahl (choice of neurosis) and it is made explicit with Lacan's idea of la position du sujet: the subject has to take a position. 52 Which position? A position vis-à-vis the lack of the Other, of the symbolic order; a position vis-à-vis the desire and the jouissance of the Other. It is this element of choice that provides the subject with a possibility of change, beyond the inescapable determination of the automaton. This finds an expression in Lacan's ideas on the future anterior: choices made now will determine the future of the subject, which therefore shows in itself a fundamental indeterminateness. 53 This provides us with the possibility of change, beyond the ever present Freudian determinism. In this respect, Lacan's elaboration of the goal and finality of psychoanalysis will be different, as we will show in the last part of this chapter.
+
+==See Also==
+
+
+==References==
+<references/>
+
+[[Category:Psychoanalysis]]
+[[Category:Dictionary]]
+[[Category:Philosophy]]
+[[Category:Jacques Lacan]]
+[[Category:Terms]]
+[[Category:Concepts]]
+[[Category:Edit]]
+{{Les termes}}

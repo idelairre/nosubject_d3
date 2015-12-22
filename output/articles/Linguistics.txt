@@ -1,0 +1,109 @@
+{{Top}}linguistique{{Bottom}}
+
+=====Jacques Lacan=====
+=====Early Work=====
+While [[Lacan]]s interest in [[language]] can be traced back to the early 1930s, when he analyzed the [[writing]]s of a [[psychotic]] [[woman]] in his doctoral dissertation, it is only in the early 1950s that he begins to articulate his views of [[language]] in terms derived from a specific [[linguistics|linguistic theory]], and not until 1957 that he begins to engage with [[linguistics]] in any detail.
+
+=====Structural Linguistics=====
+=====Claude Lévi-Strauss=====
+[[Lacan]]'s "linguistic turn" was inspired by the [[anthropology|anthropological]] work of [[Claude Lévi-Strauss]] who, in the 1940s, had begun to apply the methods of [[structure|structural]] [[linguistics]] to non-linguistic cultural data (myth, kinship relations, etc.), thus giving brith to "structural anthropology."
+
+In so doing, [[Lévi-Strauss]] announced an ambitious programme, in which [[linguistics]] would provide a paradigm of [[science|scientificity]] for all the social sciences:
+
+<blockquote>"Structural linguistics will certainly play the same renovating role with respect to the social sciences that nuclear physics, for example, has played for the physical sciences."<ref>[[Claude Lévi-Strauss|Lévi-Strauss, Claude]]. 1945. "Structural analysis in linguistics and in anthropology," in ''Structural Anthropology'', trans. Claire Jacobson and Brooke Grundfest Schoepf, New York: Basic Books, 1963. p.33</ref></blockquote>
+
+=====Jacques Lacan=====
+=====Psychoanalytic Theory=====
+Following the indications of [[Lévi-Strauss]], [[Lacan]] turns to [[linguistics]] to provide [[psychoanalytic theory]] with a conceptual rigour that it previously lacked.
+
+The reason for this lack of conceptual rigour was simply due, [[Lacan]] argues, to the fact that [[linguistics|structural linguistics]] appeared too late for [[Freud]] to make use of it.
+
+=====Sigmund Freud=====
+However, [[Lacan]] argues that when [[Freud]] is reread in the light of [[linguistics|linguistic theory]], a coherent logic is revealed which is not otherwise apparent; indeed, [[Freud]] can even be seen to have anticipated certain elements of modern [[linguistics|linguistic theory]].<ref>{{E}} p.162</ref>
+
+=====Structural Linguistics=====
+[[Lacan]]'s engagement with [[linguistics]] revolves almost entirely aorund the work of [[Ferdinand de Saussure]] and [[Roman Jakobson]].
+
+=====Ferdinand de Saussure=====
+[[Saussure]] was the founder of "[[linguistics|structural linguistics]]."
+
+=====Diachronic and Synchronic=====
+In contrast to the study of [[language]] in the nineteenth century, which had been exclusively "[[diachronic]]" (i.e. focusing exclusively on the ways that [[language]]s change over [[time]]), [[Saussure]] argued that linguists should also be "[[synchronic]]" (i.e. focus on the state of a [[language]] at a given point in [[time]]).
+
+=====''Langue'' and ''Parole''=====
+=====Concept of the Sign=====
+This led him to develop his famous distinction between ''[[langue]]'' and ''[[parole]]'', and his concept of the [[sign]] as composed of two elements: [[signifier]] and [[signified]].
+
+====="Course in General Linguistics"=====
+All these ideas are developed in [[Saussure]]'s most famous work, the "Course in General Linguistics," which was constructed by his students from notes they had taken at [[Saussure]]'s lectures at the Unviersity of Geneva and published three years after his death.<ref>[[Saussure|Saussure, Ferdinand de]]. (1916) ''[[Saussure|Course in General Linguistics]]'', ed. Charles Bally and Albert Sechehaye, trans. Wade Baskin, Glasgow: Collins Fontana. p.114</ref>
+
+=====Roman Jakobson=====
+[[Jakobson]] further developed the line laid down by [[Saussure]], pioneering the development of phonology, as well as making important contributions to the fields of grammatical semantics, pragmatics and poetics.
+
+=====Jacques Lacan=====
+=====Language as Structure, System of Signifiers=====
+From [[Saussure]], [[Lacan]] borrows the concepts of [[language]] as a [[structure]], although whereas [[Saussure]] had conceived it as a system of [[sign]]s, [[Lacan]] conceives it as a system of [[signifier]]s.
+
+=====Metaphor and Metonymy=====
+From [[Jakobson]], [[Lacan]] borrows the concepts of [[metaphor]] and [[metonymy]] as the two axes ([[synchronic]] and [[diachronic]]) along which all [[linguistics|linguistic phenomena]] are aligned, using these terms to understand [[Freud]]'s concepts of [[condensation]] and [[displacement]].
+
+=====Other Linguistics Concepts=====
+Other concepts which [[Lacan]] takes from [[linguistics]] are those of the [[shifter]], and the distinction betwen the [[statement]] and the [[enunciation]].
+
+=====Linguistics and Psychoanalytic Theory=====
+=====Psychoanalytic Use of Linguistic Concepts=====
+In his borrowing of [[linguistic]] [[:category:concepts|concepts]], [[Lacan]] has been accused of grossly distorting them.
+
+[[Lacan]] responds to such criticisms by arguing that he is not doing [[linguistics]] but [[psychoanalysis]], and this requires a certain modification of the concepts borrowed from [[linguistics]].
+
+In the end, [[Lacan]] is not really interested in [[linguistics|linguistic theory]] in itself, but only in the ways it can be used to develop [[psychoanalytic theory]].<ref>{{L}} ''[[Seminar XVIII|Le Seminaire. Livre XVIII. D'un discours qui ne serait pas du semblant, 1970-71]]'', unpublished. [[Seminar]] of 27 January 1971.</ref>
+
+It was this that led [[Lacan]] to coin the neologism ''[[linguistics|linguistérie]]'' (from the words ''[[linguistics|linguistique]]'' and ''[[hysteria|hystérie]]'') to refer to his psychoanalytic use of linguistic concepts.<ref>{{S20}} p. 20</ref>
+
+----
+
+In seminar XX Lacan formulated this distinction between his own use of the term 'language' and linguistics through the neologism ''[[la linguisterie]]''. 
+
+Linguistics is concerned with the formalization of language and knowledge. 
+
+''[[La linguisterie]]'' on the other hand is the side of language that linguistics ignores. 
+
+It refers to those points in language when meaning fails and breaks down; it is the science of the word that fails. 
+
+Fink rather nicely translates ''[[la linguisterie]]'' as 'linguistricks', which serves to emphasize the playfulness of the unconscious and the way it is always trying to trip the subject up, playing tricks on conscious thought. 
+
+It is in this sense and not in the sense of formal linguistics that the unconscious is structured like a language.
+
+==See Also==
+{{See}}
+* [[Enunciation]]
+* [[Language]]
+||
+* [[Metaphor]]
+* [[Metonymy]]
+||
+* [[Science]]
+* [[Shifter]]
+||
+* [[Sign]]
+* [[Signified]]
+||
+* [[Signifier]]
+* [[Statement]]
+{{Also}}
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+[[Category:Psychoanalysis]]
+[[Category:Jacques Lacan]]
+[[Category:Dictionary]]
+[[Category:Language]]
+[[Category:Symbolic]]
+[[Category:Concepts]]
+[[Category:Terms]]
+[[Category:OK]]
+
+__NOTOC__

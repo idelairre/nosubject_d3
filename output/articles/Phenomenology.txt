@@ -1,0 +1,69 @@
+
+The term '[[phenomenology]]' has been used in [[philosophy]] since the late eighteenth century and in [[psychiatry]] since the beginning of the twentieth. 
+
+
+It is worth looking at its use in these two spheres before examining its relationship to psychoanalytic thought.
+
+
+In [[philosophy]], the word was introduced by the German Johann Heinrich Lambert as a designation for an empirical description of human experience devoid of all metaphysical presuppositions. 
+
+This meaning is still current. Borrowing somewhat from the study of perception and from history, Hegel used the word in his <i>Phenomenology of Mind</i> (1931) to evoke the stages (consciousness, self-consciousness, reason) whereby human experience, after passing through the universal, appeared first as the experience of concrete singularity and then as the quest for the self-conscious subject. This quest, destined to fail, led humanity through the forms of stoicism, skepticism, and finally phrenology, for which the mind's being in the world is literally a bone (the phrenologist Franz Joseph Gall claimed that bumps on the cranium corresponded to psychological functions). The dialectic of history, far from being imposed from without, manifested itself in and through this evolution of experience.
+These two senses of "phenomenology" coexisted until 1913, when Edmund Husserl, in the first volume of his <i>Ideas: General Introduction to Pure Phenomenology</i> (1931), used the term to designate whatever clearly manifests itself after the problem of the existence of the world has been bracketed, in order to describe how the transcendent elements of the world, including other selves and cultural beings, appear in perception, in imagination, in memory, and as essences. Consciousness in this perspective is always consciousness of something, that is, intentionality; phenomenological description excludes introspection.
+Husserl's disciples were largely heterodox. In Germany, his descriptive method helped Martin Heidegger situate man's existence as being for death, that is, as a derelict and inauthentic being in the world. Max Scheler, for his part, pressed Husserl's phenomenology into service for his account of "the man of resentment." In France, Maurice Merleau-Ponty used the term when discussing the incarnation of consciousness in the bodies of humans acting in history. Jean-Paul Sartre, in <i>The Psychology of Imagination</i> (1948), argued that consciousness does not present the subject to himself, and that one's ego is an inhabitant of the world, on a par with the ego of the other.
+
+In psychiatry, there is a similar dichotomy with respect to the use of "phenomenology." For Karl Jaspers, the word meant the subjective aspect of clinical psychiatric practice, and he proposed a distinction between knowing (<i>erklären</i>) and understanding (<i>verstehen</i>), according to which knowing implied an objective and natural knowledge, whereas understanding referred to an intuitive feeling. Jaspers regarded the failure of such spontaneous understanding as the distinguishing mark of psychosis, thus incorporating a notion of process in his view of the disorder. Jaspers's usage was quickly and widely adopted in Anglo-American psychiatry, where "phenomenology" tends to mean simply the lived experience of patients.
+Another psychiatric acceptation, just as important, derives explicitly from Husserl and Heidegger. In German-language psychiatry, Viktor von Gebsattel, Erwin Straus, especially Ludwig Binswanger, and later Roland Kuhn and Wolfgang Blankenburg, despite their considerable divergences, were all concerned to show how each basic type of psychopathology corresponded to a particular mode of being in the world (Heidegger), or a particular mode of the transcendental ego (Husserl). <i>Daseinsanalyse</i> (being-in-the-world analysis) as a therapeutic technique belonged to this tendency.
+Within French psychiatry too there were distinct positions with respect to phenomenology. Eugène Minkowski meticulously showed how various basic pathological situations expressed specific alterations in the subject's relationships to time and space. Minkowski also recognized the part played by subjective impressions of the clinician in arriving at a diagnosis. Henri Ey built on phenomenology and existentialism in seeking to transcend clinical empiricism and arrive at an organic-dynamic synthesis and a conception of psychiatry as a pathology of freedom.
+
+
+
+
+It is arguable that phenomenology should be expected not to furnish psychiatry with yet one more theory, but rather to describe the conditions that make psychiatry possible and to clarify the place and the roles of psychiatric knowledge without, however, reducing such knowledge to phenomenology."
+The relations between phenomenological attitudes and psychoanalysis, which are neither simple nor schematic, may be viewed from various angles. To begin with, for phenomenology, the existence of the unconscious is far from a central concern, as some in psychoanalysis have asserted. After all, as we have seen, consciousness for phenomenology is defined in terms of intentionality, and introspection is barred as a source of knowledge. Also, if, as Sartre contends, the subject truly exists in the world in the phenomenological sense, and if the ego is not immanent, the phenomenological view (though it cannot speak of "the unconscious") can acknowledge that the subject escapes his own grasp—a postulate readily embraced as early as the work of Hegel. The charge that the unconscious is reified in this context need not be taken seriously.
+Phenomenological knowledge, being essentially descriptive, is hard put to achieve any clear standing within an economic perspective, the perspective of metapsychology. This is a very significant divergence between phenomenology and psychoanalysis.
+Though they hail from cultural realms far removed from one another, psychoanalysis and phenomenology may be said to have at least one thing in common: neither is a humanist theory. Neither admits any assumptions prior to what is shown by clinical experience or phenomenological reduction; neither posits a priori that humanity is the measure, good or bad, of all things; neither in advance gives humanity sovereignty over itself; and both can acknowledge the role of conflicts and of seeking to avoid conflicts.
+
+<ref>phenomenology (297-8) CD</ref>
+
+==more==
+
+Phenomenology
+
+The philosophical psychology of Brentano and Husserl (another of his pupils) was, at heart, Kantian and held that the contents of conscious thought are shaped by rule-governed judgments that engage the subject with objects in the world. The subject identifies certain general features of any object (shared with other objects of that type) in virtue of which it is a significant feature of the subject's experience. The judgments are potentially subject to critical scrutiny and reveal a reality that is thinkable.
+
+Husserl realized that norms govern meaningful experience, which is produced when the subject applies cognitive skills to his interaction with the world. The norms embody validated ways of conceptualizing experience rooted in a natural language. On this reading, the contents of consciousness are subject to a reflective appraisal according to publicly endorsed criteria of "making things meaningful." Freud then argues that it is otherwise with the contents of the unconscious (as noted by Church).
+
+The role of language recalls Frege's claim that the contents of a thought are given by a well-formed sentence and the (objective) meanings of the words comprising it (a thesis shared by Husserl). Conscious thoughts are clear and distinct in so far as their content can be expressed in language with its implicitly logical structure. Mental acts falling short of this standard are in the (logically messy) domain of association, imagination, poetry, or rhetoric. Philosophy (and therefore science), concerned as it is with objective truth and logical deduction, therefore is limited in the delineation of psychosemantics, particularly that which informs the unconscious (of vast interest to Freud, Wundt, Head, and the aphasiologists).
+
+The Freudian theoretical framework for Lacan's theory is therefore as follows:
+
+   1. The contents of consciousness essentially concern objects in and features of the world (i.e., they are intentional—the phenomenological claim).
+   2. These things figure in conscious thought as they are classified according to publicly validated norms (a claim endorsed by Husserl and Frege).
+   3. The relevant norms are socioculturally determined through language (a thesis prominent in post-Freudian and post-Wittgensteinian analyses).
+   4. The contents of conscious thought and reflection are structured by discursive norms (common to phenomenology, Frege, and Kant).
+   5. The mind, to the extent it goes beyond the logic of language, shapes subjective psychic content unconstrained by these norms (a psychoanalytic claim).
+   6. The mind causally interacts with the world because its functions are realized by the workings of the central nervous system (a Darwinian thesis).
+
+These foundations allow us to explore Lacan's version of psychoanalysis.
+==See Also==
+* [[Ludwig Binswanger]]
+* [[Ego psychology and psychosis]]
+* [[Henri Ey]]
+* [[Identity]]
+* [[Maurice Merleau-Ponty]]
+* [[Process]]
+* [[Psychoanalytic epistemology]]
+* [[Sartre and psychoanalysis]]
+
+==References==
+<references/>
+# Hegel, Georg Wilhelm Friedrich. (1931). The phenomenology of mind (J. B. Baillie, Trans.). London: G. Allen and Unwin. (Original work published 1807.)
+# Husserl, Edmund. (1931). Ideas: General introduction to pure phenomenology (W. R. Boyce Gibson, Trans.). London: G. Allen and Unwin.
+# Sartre, Jean-Paul. (1948). The psychology of imagination. Secaucus, NJ: Citadel Press. (Original work published 1940.)
+
+[[Category:New]]
+
+
+[[Category:Terms]]
+[[Category:Concepts]]
+[[Category:Philosophy]]</ref>

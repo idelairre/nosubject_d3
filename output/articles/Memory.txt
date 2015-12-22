@@ -1,0 +1,58 @@
+{{Top}}mémoire{{Bottom}}
+
+==Jacques Lacan==
+The term "[[memory]]" is used in two different ways in [[Lacan]]'s [[Works of Jacques Lacan|work]].
+
+==Symbolic Order==
+In the 1950s, [[memory]] is understood as a phenomenon of the [[symbolic order]], related to the [[signifying chain]].
+
+==Recollection==
+It is related to the concepts of [[remembering]] and [[recollection]], and opposed to [[imaginary]] reminiscence.
+
+==Biology and Psychology==
+[[Lacan]] makes it clear that his concept of [[memory]] is not a [[biological]] or [[psychology|psychological]] one.
+
+<blockquote>"The memory which interests psychoanalysis is quite distinct from what psychologists speak of when they display its mechanism to us in an animate being in an experiment."<ref>{{S3}} p.152</ref></blockquote>
+
+==Symbolic History of the Subject==
+For [[psychoanalysis]], [[memory]] is the [[symbolic]] [[history]] of the [[subject]], a [[chain]] of [[signifier]]s linked up together, a "signifying articulation."<ref>{{S7}} p.223</ref>
+
+Something is [[memory|memorable]] and [[memory|memorized]] only when it is "registered in the signifying chain."<ref>{{S7}} p. 212</ref>
+
+In this sense, the [[unconscious]] is a sort of [[memory]],<ref>{{S3}} p. 155</ref> since "what we teach the subject to recognize as his unconscious is his history."<ref>{{E}} p. 52</ref>
+
+==Psychoanalysis==
+The phenomena associated with [[memory]] which most interest the [[analyst]] are those moments when something goes wrong with [[memory]], when the [[subject]] cannot [[recollection|recall]] a part of his [[history]].
+
+It is the fact that he can forget, that a [[signifier]] can be elided from the [[signifying chain]], that makes the [[psychoanalytic]] [[subject]] distinctive.<ref>{{S7}} p.224</ref>
+
+==Biology and Psychology==
+In the 1960s [[Lacan]] reserves the term "[[memory]]" for the [[biological]] or [[physiological]] concept of [[memory]] as an organic property.<ref>{{Ec}} p. 42</ref>
+
+It thus no longer designates the [[symbolic]] [[history]] of the [[subject]] which is the concern of [[psychoanalysis]], but something which lies outside [[psychoanalysis]] altogether.
+
+==See Also==
+{{See}}
+* [[Biology]]
+* [[Recollection]]
+||
+* [[Signifier]]
+* [[Signifying chain]]
+||
+* [[Subject]]
+* [[Symbolic]]
+{{Also}}
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+[[Category:Dictionary]]
+[[Category:Psychoanalysis]]
+[[Category:Jacques Lacan]]
+[[Category:Concepts]]
+[[Category:Terms]]
+{{OK}}
+
+__NOTOC__

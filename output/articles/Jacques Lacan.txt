@@ -1,0 +1,166 @@
+{{Jacques Lacan}}
+[[Image:Jacques-lacan-4.jpg|thumb|250px|right]]
+<!-- 
+{{Infobox_Scientist
+| name                    = Jacques Lacan
+| image                   = Lacan3.jpg
+| image_width             = 200px
+| caption                 = 
+| birth_date              = [[13 April]] [[1901]]
+| birth_place             = [[Paris]], [[France]]
+| death_date              = [[9 September]] [[1981]]
+| death_place             = [[Paris]], [[France]]
+| residence               = 
+| citizenship             = France
+| nationality             = 
+| ethnicity               = 
+| field                   = [[Psychology]]
+| work_institution        = 
+| alma_mater              = 
+| doctoral_advisor        = 
+| doctoral_students       = 
+| known_for               = 
+| author_abbreviation_bot = 
+| author_abbreviation_zoo = 
+| prizes                  = 
+| religion                = 
+| footnotes               = 
+}}
+-->
+[[Jacques Lacan|Jacques-Marie Émile Lacan]] ([[Jacques Lacan:Chronology#1901|13 April 1901]] – [[Jacques Lacan:Chronology#1981|9 September 1981]]) was a French psychoanalyst and psychiatrist who made prominent contributions to psychoanalysis, philosophy, and literary theory. Giving yearly seminars in Paris from 1953 to 1981, Lacan influenced France's intellectuals in the 1960s and the 1970s, especially the post-structuralist philosophers. His interdisciplinary work is Freudian, featuring the unconscious, the castration complex, the ego, identification, and language as subjective perception. His ideas have had a significant impact on critical theory, literary theory, twentieth-century French philosophy, sociology, feminist theory and clinical psychoanalysis.
+
+<!--
+{| style="line-height:1.5em;valign:top;width:50%;text-align:left;"
+|class="MainPageBG" style="width:50%;border:0px solid #cccccc;background-color:#ffffff;vertical-align:top"|
+{| width="100%" cellpadding="2" cellspacing="0" style="text-align:left;line-height:2em;vertical-align:top;background-color:#ffffff"
+|-
+|style="text-align:left;color:#000;line-height:2.5em;align:justify;"|
+|
+{| width="100%" style="text-align:left;font-size:.95em;line-height:2em;background-color:#fcfcfc;border:1px solid #aaa;padding-left:3px;" 
+|
+{{See}}
+:1. [[Jacques Lacan#Biography|Biography]]
+:2. [[Jacques Lacan#Theory|Theory]]
+||
+:3. [[Jacques Lacan#Practice|Practice]]
+:4. [[Jacques Lacan#Bibliography|Bibliography]]
+||
+:5. [[Jacques Lacan#See Also|See Also]]
+:6. [[Jacques Lacan#References|References]]
+{{Also}}
+|}
+|}
+|}
+-->
+
+==Biography==
+<blockquote>''[[Chronology|Click here for a more complete chronology of '''Jacques Lacan''''s life]].''</blockquote>
+;1901
+:13 April, Jacques-Marie-Émile Lacan is born in Paris, to a family of solid Catholic tradition.  He is educated at the collège Stanislas, a Jesuit school.  After his ''baccalauréat'' he studies medicine and later [[psychiatry]].
+;1927
+: Starts clinical training, works at [[Sainte-Anne's hospital]].  A year later he works in the Special Infirmary Service where Clérambault had a practice.
+;1932
+:Awarded doctorate for his thesis, ''[[De la psychose paranoïaque dans ses rapports avec la personnalité]]''.
+;1933
+:The richness of his thesis, especially the analysis of the case of [[Aimée]], makes him famous with the [[Surrealist]]s.  BEtween this year and 1939 he takes [[Kojève]]'s course at the Ecole Pratique des Hautes Etudes, an "Introduction to the reading of Hegel."
+;1934
+:He marries Marie-Louise Blondon, mother of Caroline, Thibaut and Sibylle.  While in analysis with Rudolph Loewenstein, Lacan becomes a member of the ''[Société psychanalytique de Paris]]'' ([[Société psychanalytique de Paris|SPP]]).
+;1940
+:Works at Val-de-Grâce, the military hospital in Paris.  During the German Occupation, he does not take part in any official activity.
+;1946
+:In 1946, the [[SPP]] resumes its activities and Lacan, with Nacht and Lagache, takes charge of training analyses and supervisory control and plays an important theoretical and institutional role.
+;1951
+:The [[SPP]] begins to raise the issue of Lacan's [[short sessions]], as opposed to the standard analytical hour.
+;1953
+:In January Lacan is elected President of the [[SPP]].  Six months later he resigns to join the ''[[Société Française de Psychanalyse]]'' ([[SFP]]) with D. Lagache, F. Dolto, J. Favez-Boutonier among others.  In Rome, Lacan delivers his report, "''[[Fonction et champ de la parole et du langage]]''".  On 17 July he marries Sylvia Maklès, mother of Judith.  That autumn Lacan starts his [[seminar]]s at the [[Hôspital Sainte-Anne]].
+;1954
+:The first ten [[seminar]]s elaborate fundamental notions about psychoanalytic technique, the essential concepts of [[psychoanalysis]], and its ethics.  During this period Lacan writes, on the basis of his seminars, conferences and addresses in colloquia, the major texts that are found in ''[[Ecrits]]'' in 1966.
+;1956
+:Celebrities are attracted to his seminars (Jean Hyppolite's analysis of Freud's article on ''Dénégation'', given during the first seminar, is a well-known example).  [[Alexandre Koyré]], Claude Lévi-Strauss, Maurice Merleau-Ponty, and ethnologist Marcel Griaule, Emile Benveniste among others attend his courses.
+;1962
+:[[SFP]] members want to be recognized by the [[International Psycho-Analytical Association]] ([[IPA]]).  The [[IPA]] issues an ultimatum: Lacan's name must be crossed off the list of didacticians.
+;1963
+:Two weeks before the expiry of the deadline set by the IPA (31 October), the committee of didacticians of the [[SFP]] gives up its courageous stand of 1962 and pronounces in favour of the ban: Lacan is no longer one of the didacticians.
+;1964
+:Lacanians form a Study Group on Psychoanalysis organized by Jean Clavreul, until Lacan official founds the ''[[Ecole Française de Psychanalyse]]'', which soon becomes the ''[[Ecole Freudienne de Paris]]'' ([[EFP]]).  With Lévi-Strauss and Althusser's support, he is appointed lecturer at the Ecole Pratique des Hautes Etudes.
+;1965
+:In January Lacan begins his new seminar on "[[The Four Fundamental Concepts of Psychoanalysis]]" at the Ecole Normale Supérieure.  His audience is made up of analysts and young students in philosophy at the ENS, notably [[Jacques-Alain Miller]].
+;1966
+:[[Ecrits]], Paris: Seuil 1966.  The book draws considerable attention to the [[EFP]], extending far beyond the intelligentsia.
+;1967
+:Lacan presents the ''Acte de Fondation'' of the [[EFP]]; its novelty lies in the procedure of ''[[passe]]''.  The ''[[passe]]'' consists of testifying, in front of two ''passeurs'', to one's experience as an analysand and especially to the crucial moment of passage from the position of [[analysand]] to that of [[analyst]].  The ''passeurs'' are chosen by their [[analyst]]s (generally analysts of the EFP) and should be at the same stage in their analytic experience as the ''passant''.  They listen to him and then, in turn, they testify to what they have heard in front of a committee for approval composed of the director, Lacan, and of some AE, ''analyste de l'école'' (analyst of the school).  This committee's function is to select the analysts of the School and to elaborate, after the selecting process, a 'work of doctrine'.
+;1969
+:The issue of the ''passe'' keeps invading the EFP's life.  "''Le quatrième groupe''" is formed around those who resign from the EFP disputing over Lacan's methods for the analysts' training and accreditation.  Lacan takes a stand in the crisis of the university that follows May 1968: "If psychoanalysis cannot be articulated as a knowledge and taught as such, it has no place in the university, which deals only with knowledge."  The ENS director finds a pretext for telling Lacan that he is no longer welcome at the ENS at the beginning of the academic year.  Moreover, the journal ''Cahiers pour l'Analyse'' has to cease publication, but Vincennes appears as an alternative.  Michel Foucault asks Lacan to create and direct the Department of Psychoanlaysis at Vincennes.  Thanks to Lévi-Strauss, Lacan moves his seminars to the law school of the Panthéon. 
+;1974
+:The Vincennes Department of Psychoanalysis is renamed "[[Le Champ freudien]]" with Lacan its director and [[Jacques-Alain Miller]] its president.
+;1980
+:On 9 January, Lacan announces the dissolution of the EFP and asks those who wish to continue working with him to state their intentions in writing.  He receives over one thousand letters within a week.  On 21 February, Lacan announces the founding of the school ''[[La Cause freudienne]]'', later renamed the ''[[Ecole de la Cause freudienne]]''.
+;1981
+:9 September, Lacan dies in Paris.
+<!--
+;1901 - 1938
+:[[Lacan]] studies medicine and [[psychiatry]] and completes his [[De la psychose paranoiaque dans ses rapports avec la personalité|doctoral thesis]] on [[paranoia|paranoid]] [[psychosis]]. He presents a paper on the [[mirror stage]] - his first theoretical contribution to [[psychoanalysis]] - at a conference of the [[International Psycho-Analytical Association]] in Marienbad.
+;1938 - 1953 
+:[[Lacan]] is a member of the ''[[Société psychanalytique de Paris]]'' until he resigns to join the ''[[Société Française de Psychanalyse]]''.
+;1953 - 1963
+:[[Lacan]] begins his first public [[seminar]] (which he will continue to give annually until his death). Thereafter, he rises to become a renowned and controversial figure in the international psychoanalytic community.
+;1963 - 1980
+:[[Lacan]] leaves the [[SFP]] and founds his own [[school]], the ''[[École Freudienne de Paris]]'' . Following the publication of the [[Écrits]], there is an explosion of interest in his work in France and abroad.
+-->
+<!--
+{| class="wikitable" width="100%" cellpadding="2" align="center" bgcolor="ffffff" style="background:#ffffff;width:100%; height:200px; text-align:center; line-height:2.0em;"
+| width="50px" style="valign:top;" | [[{{Y}}|1901]]<BR>-<BR>[[{{Y}}|1938]]<BR>
+| align="left" style="padding: 0.2em 0.2em 0.2em 0.5em; margin: 0.5em 0 1em 0;" | [[Lacan]] studies medicine and [[psychiatry]] and completes his [[De la psychose paranoiaque dans ses rapports avec la personalité|doctoral thesis]] on [[paranoia|paranoid]] [[psychosis]].
+He presents a paper on the [[mirror stage]] -- his first theoretical contribution to [[psychoanalysis]] -- at a conference of the [[International Psycho-Analytical Association]] ([[IPA]]) in Marienbad.
+|-
+| width="50px" | [[{{Y}}|1938]]<BR>-<BR>[[{{Y}}|1953]]<BR>
+| align="left" style="padding: 0.2em 0.2em 0.2em 0.5em; margin: 0.5em 0 1em 0;" | [[Lacan]] is a member of the ([[IPA]] affiliated) ''[[Société psychanalytique de Paris]]'' ([[SPP]]) until he resigns to join the ''[[Société Française de Psychanalyse]]'' ([[SFP]]).
+|-
+| width="50px" | [[{{Y}}|1953]]<BR>-<BR>[[{{Y}}|1963]]<BR>
+| align="left" style="padding: 0.2em 0.2em 0.2em 0.5em; margin: 0.5em 0 1em 0;" | [[Lacan]] begins his first public [[seminar]] (which he will continue to give annually until his death). 
+Thereafter, he rises to become a renowned and controversial figure in the international psychoanalytic community.
+|-
+| width="50px" | [[{{Y}}|1963]]<BR>-<BR>[[{{Y}}|1980]]<BR>
+| align="left" style="padding: 0.2em 0.2em 0.2em 0.5em; margin: 0.5em 0 1em 0;" | [[Lacan]] leaves the [[SFP]] (after his "expulsion" from the [[IPA]]) and founds his own [[school]], the ''[[École Freudienne de Paris]]'' ([[EFP]]).  
+Following the publication of the [[Écrits]] (1966), there is an explosion of interest in his work in France and abroad.
+|-
+| width="50px" | [[{{Y}}|1980]]<BR>-<BR>[[{{Y}}|1981]]<BR>
+| align="left" style="padding: 0.2em 0.2em 0.2em 0.5em; margin: 0.5em 0 1em 0;" | [[Lacan]] single-handedly dissolves the [[EFP]] and creates in its stead the ''[[École de la Cause freudienne|Cause freudienne]]''.
+However, [[Lacan]] soon dissolves the ''[[École de la Cause freudienne|Cause freudienne]]'' and replaces it with the ''[[École de la Cause freudienne]]''.
+|}
+-->
+
+==Bibliography==
+<blockquote>''[[Jacques Lacan:Bibliography|Click here]] for a more complete bibliography of [[Jacques Lacan]]'s [[Jacques Lacan:Bibliography|work]].''</blockquote>
+
+[[Lacan]]'s most important theoretical contributions to [[psychoanalysis]] were presented in his [[seminar]]s. In 1966, a selection of [[Lacan]]'s most important papers are published under the title ''[[Écrits]]''; in 2006 a complete edition of these works was published in English.
+
+==References==
+<references/>
+
+<!--
+==See Also==
+{{See}}
+* [[Psychoanalysis]]
+* [[Psychology]]
+||
+* [[Return to Freud]]
+* [[International Psycho-Analytical Association]]
+||
+* [[Ego-psychology]]
+* [[Kleinian psychoanalysis]]
+||
+* [[Object-relations theory]]
+{{Also}}
+-->
+
+==External Links==
+[http://en.wikipedia.org/wiki/Jacques_Lacan Wikipedia Entry]
+
+__NOTOC__
+{{Jacques Lacan}}
+[[Category:Psychoanalysis|Lacan, Jacques]]
+[[Category:People|Lacan, Jacques]]
+[[Category:Jacques Lacan|Lacan, Jacques]]
+<!-- [[Category:Index|Lacan, Jacques]] -->
+<!-- [[Category:Looking Awry|Lacan, Jacques]] -->

@@ -1,0 +1,707 @@
+<font size="+2">LES NOMS DU PERE</font></font>
+
+<p><font size="+2">Jacques Lacan</font>
+</p><center><font size="+2">20 novembre 1963</font></center>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+<!-- eStat Javascript Début -->
+<dir><b><sup><font face="Arial,Helvetica"><font size="-1">"Les Noms du Père",
+séance du 20 novembre 1963, il s'agit d'un point pivot dans l'oeuvre
+de Lacan : le séminaire interrompu en tant que tel, - il va proposer
+le reste de l'année 63-64 "Les fondements de la psychanalyse" à
+l'E.N.S. - suite aux relations conflictuelles entre la Société
+psychanalytique de Paris et la Société Française de
+psychanalyse, et à l'interdiction votée la nuit précédente
+de poursuivre ce séminaire à Sainte-Anne.</font></font></sup></b>
+<br><b><sup><font face="Arial,Helvetica"><font size="-1">A l'origine, le
+titre choisi par Lacan est "Le nom du père<a></a>", au singulier.</font></font></sup></b>
+<dir>
+<dir>
+
+<dir>
+<dir>
+<hr size="3" width="100%">
+<br><font size="-1">Texte non relu par Lacan, il s'agit juste de notes photocopiées
+qui nous ont été transmises telles.</font>
+<br><font size="-1">Un certain nombre de mots manquent. Les remarques et
+la lecture de quelques-un(e)s dans le groupe Lutecium ont permis de proposer
+cette transcription, sous la forme qui suit, sans garantie par rapport
+à ce qui fut énoncé par Lacan le 20 nov. 1963.</font>
+<dir>&nbsp;</dir>
+</dir>
+</dir>
+</dir>
+</dir>
+<font size="-1">Je n'ai pas l'intention aujourd'hui de me livrer à
+aucun jeu qui ressemble à un coup de théâtre, je n'attendrai
+pas la fin de ce séminaire pour vous dire que ce séminaire
+est le dernier que je ferai. Aussi bien pour certains, initiés aux
+choses qui se passent, ceci ne sera-t-il pas une surprise, pour les autres,
+c'est par égard pour leur présence que je ferai cette déclaration.
+Jusqu'à la nuit dernière très tard... une certaine
+nouvelle m'a été annoncée... J'ai pu croire que je
+vous donnerai cette année ce que je vous donnais depuis dix ans,
+il était préparé, je ne ferai rien de mieux que de
+vous donner le premier : j'ai annoncé que je vous parlerai cette
+année des Noms du Père.</font>
+<br><font size="-1">Pas possible de le faire entendre : pourquoi ce pluriel
+concernant les noms ? Ce que j'entendais apporter de progrès dans
+une notion que j'ai amorcée dès la troisième année
+de mon Séminaire, quand j'ai abordé le cas Schreber, la fonction
+des Noms du Père ponctuer dans mon enseignement passé les
+repères où vous avez pu voir se fonder les linéaments
+:</font>
+<br><font size="-1">&nbsp;&nbsp;&nbsp; - premièrement, 15, 22, 29
+janvier et 5 février 1958, la&nbsp;<a name="metapa"></a><b><a href="../../unar/logisi2.htm#metapa">métaphore
+paternelle</a></b>.</font>
+
+<br><font size="-1">&nbsp;&nbsp;&nbsp; - deuxièmement, les séminaires
+du 20 décembre 1961 et ceux qui suivent, janvier 62, concernant
+la&nbsp;<a name="nompro"></a><b>fonction du nom propre.</b></font>
+<br><font size="-1">&nbsp;&nbsp;&nbsp; - troisièmement, les séminaires
+de mai de mon année sur le transfert concernant ce qui est intéressé
+du drame du père dans la trilogie claudélienne.</font>
+<p><font size="-1">Vous référer à ces séminaires
+pour voir dans quelle direction je voulais poursuivre mon discours ...
+Il y a là, d'une façon déjà très avancée
+dans sa structuration, quelque chose qui eût pu me permettre de faire
+le pas suivant. Ce séminaire s'enchaîne à celui sur
+l'angoisse. Avant d'aller plus loin, ce qu'a apporté mon séminaire
+sur l'angoisse... On a pu donner tout leur poids à des formules
+telles que <i>l'angoisse est un affect du sujet</i>. L'ordonner en fonction
+aussi de la structure, celle du sujet défini comme le sujet qui
+parle, qui se fonde, qui se détermine dans un effet du signifiant.
+Où et à quel temps, référence au niveau de
+la synchronie, à quel temps ce sujet est-il affecté de l'angoisse
+?</font>
+</p><center><font size="-1">voir le schéma cerné au tableau :</font>
+<p><img src="ndpa.gif" height="91" width="185"></p></center>
+
+<p><br>
+<br>
+
+<br>
+<br>
+</p><p><font size="-1">Ce dont, quel que soit ce temps, ce temps sur lequel nous
+allons nous étendre, ce dont le sujet est dans l'angoisse affecté,
+c'est vous ai-je dit, par le désir de l'Autre. Il en est affecté
+d'une façon que nous devons dire immédiate, non dialectisable
+et c'est en ceci que l'angoisse est, dans l'affect du sujet, ce qui ne
+trompe pas.</font>
+</p><p><font size="-1">Je vous ai dit de l'angoisse dont vous voyez ainsi se
+dessiner dans ce qui ne trompe pas à quel niveau plus radical -
+que tout ce qui a été dérivé dans le discours
+de Freud - s'inscrit sa fonction de signal. Pas moyen de situer cette fonction,
+sinon à ce niveau. A le poser ainsi se confirme et reste valable
+comme Freud lui-même l'a ressenti assez pour le maintenir, que toutes
+les premières formulations qu'il a données de l'angoisse,
+transformation directe de la libido, etc. restent encore compréhensibles.
+Que n'ai-je dit d'autre part concernant l'angoisse, m'opposant à
+la tradition psychologisante qui distingue l'angoisse de la peur de par
+ses corrélats, spécialement corrélat de la réalité,
+je change ici les choses, disant de l'angoisse : <i>elle n'est pas sans
+objet</i>. Cet objet <i>a
+</i>dont j'ai dessiné aussi bien que j'ai
+pu les formes fondamentales : ce qui est chu du sujet dans l'angoisse,
+cet objet a, qui est la (? <font color="#ff0000">cause</font>) que je désigne
+comme la cause du désir.</font>
+</p><p><font size="-1">A l'angoisse, à l'angoisse qui ne trompe pas se
+substitue pour le sujet ce qui doit s'opérer au moyen de cet objet
+<i>a</i>,
+il peut s'opérer plus d'une chose ... ceci est suspendu, - ce qui
+était réservé pour l'avenir - et que vous ne perdrez
+pas tout à fait, car vous le trouverez dans un livre à paraître
+dans six mois, c'est à ceci qu'est suspendue la fonction de l'acte
+et encore quelque chose d'autre. L'année dernière et pour
+l'instant ce à quoi je me suis tenu : la fonction de ce petit <i>a</i>
+
+dans le fantasme, dans la fonction qu'il prend d'être le soutien
+du désir, du désir en tant que ce qu'il est donné
+au sujet d'atteindre de plus intensif dans sa réalisation de sujet
+au niveau de la conscience... c'est par cette chaîne que s'affirme
+une fois de plus sa dépendance au désir de l'Autre, du désir.</font>
+</p><p><font size="-1">Ai-je besoin, ne suis-je pas trop tenté de rappeler
+pour qu'il n'y ait pas trop de confusion, le caractère radical,
+tout à fait restructurant, qu'ont ces conceptions tant du sujet
+que de l'objet.</font>
+<br><font size="-1">Bien sûr, nous-mêmes parlons depuis longtemps
+et nous nous détachons de toute conception du sujet qui en fait
+un pur corrélat de l'intelligent à l'intelligible, du nous
+antique, de toute foi faite à la connaissance. Ici, l'angoisse se
+montre en position cruciale. Dans Aristote, pour la tradition antique,
+[<i>agonia</i>], <i>pathos</i> local qui s'apaise dans l'impassibilité
+du Tout. Il reste quelque chose de la position antique jusque dans la pensée
+positiviste, celle sur laquelle se fonde et vit maintenant encore la science
+dite psychologique.</font>
+</p><p><font size="-1">Assurément quelque chose y reste fondé de
+cette correspondance de l'intelligence à l'intelligible et ce n'est
+pas sans fondement qu'elle peut nous montrer que l'intelligence humaine
+n'est pas autre dans son fondement que l'intelligence animale ; - cf. les
+théories de l'évolution, les progrès de l'intelligence,
+son adaptation -.</font>
+<br><font size="-1">Ceci nous permet une théorie partant de cet intelligible
+supposé dans les données des faits, de déduire que
+ce procès se reproduit chez chaque individu, hypothèse même
+pas aperçue de la pensée positiviste, c'est que ces faits
+soient intelligibles. L'intelligence, dans cette perspective, n'est rien
+de plus qu'un affect parmi d'autres, un affect fondé sur un (?<font color="#ff0000">mot
+manquant</font>).</font>
+
+<br><font size="-1">D'où cette psychologie de tireuses de cartes,
+même du haut des chaires universitaires. L'affect n'est ici qu'intelligence
+obscure ; il n'y a qu'une chose qui échappe à celui qui reçoit
+cet enseignement : c'est son effet d'obscurantisme subsistant de cette
+perspective. C'est une entreprises de technocrates, étalonnage psychologique
+des sujets en mal d'emploi entrés courbés sous l'étalon
+du psychologue dans les cadres de la société existante.</font>
+</p><p><font size="-1">L'essence de la découverte de Freud est à
+ceci, dans une opposition radicale. Les premiers pas de mon enseignement
+ont cheminé dans les pas de la dialectique hégélienne
+; étape nécessaire pour faire brèche dans ce monde
+dit de la positivité. La dialectique hégélienne se
+ramène à des racines logiques, déficit intrinsèque
+de la logique de la prédication : à savoir que l'universel
+ne se fonde que de la négation ; que le particulier seul à
+y trouver l'existence y apparaît comme contingent. Toute la dialectique
+hégélienne faite pour combler cette faille y montre - dans
+une prestigieuse transmutation - comment l'universel, par la voie de la
+scansion : thèse, antithèse, synthèse, peut arriver
+à se particulariser. Mais quels qu'en soient les effets de prestige
+de la dialectique hégélienne, que par Marx elle soit entrée
+dans le monde, achevant ce qui de Hegel était la signification,
+par la subversion d'un ordre politique et social fondé sur l'ecclésial,
+l'Eglise quelle que soit sa nécessité, la dialectique hégélienne
+est fausse et contredite tant par l'observation des sciences de la nature
+que par le progrès historique de la science fondamentale, à
+savoir des mathématiques.</font>
+</p><p><font size="-1">C'est ici que l'angoisse est le signe comme l'a vu tout
+aussitôt un contemporain du développement du système
+de Hegel, Kierkegaard, l'angoisse est pour nous le témoin d'une
+béance essentielle qui porte le témoignage que la doctrine
+freudienne est celle qui en donne l'éclaircissement.</font>
+</p><p><font size="-1">Cette structure du rapport de l'angoisse au désir,
+cette double béance du sujet à l'objet chu de lui où
+au-delà de l'angoisse il doit trouver son instrument, la fonction
+initiale de cet objet perdu sur lequel insiste Freud, là est la
+faille qui ne nous permet pas de traiter du désir dans l'immanence
+logicienne.</font>
+</p><p><font size="-1">De la seule violence comme dimension à forcer les
+impasses de la logique, là Freud nous ramène au coeur de
+ce quelque chose sur quoi fonder les bases de ce qui était pour
+lui l'illusion, qu'il appelait selon le mode de son temps l'alibi, la Religion,
+que j'appelle quant à moi l'Eglise.</font>
+</p><p><font size="-1">C'est sur ce champ même par lequel l'Eglise tient
+intacte et dans tout l'éclat que vous lui voyez, contre la révolution
+hégélienne, c'est là que Freud s'avance au fondement
+même de la tradition ecclésiale, qu'il nous permet de tracer
+le clivage d'un chemin qui aille au-delà, infiniment plus loin,
+structuralement plus loin que la borne qu'il a posée sous la forme
+de mythe du meurtre du père.</font>
+</p><p><font size="-1">C'est sur ce terrain scabreux, mouvant, que là,
+cette année, je voulais m'avancer avant de reprendre l'ordre ecclésial.
+Car, pour ce qui est du père, leur père, les servants de
+l'Eglise, les pères de l'Eglise, qu'ils me laissent leur dire que
+sur le père je ne les ai pas trouvés suffisants. Certains
+savent que je pratique depuis mon âge pubertaire la lecture de Saint-Auqustin.
+<i>De
+Trinitate</i>,il y a à peu près dix ans que j'en ai pris
+connaissance. Je l'ai rouvert ces jours-ci pour ne pouvoir que m'étonner
+combien sur le père il dit peu de choses. Il a su nous parler du
+Fils et combien du Saint-Esprit mais je ne sais quelle fuite se produit,
+automaton sous sa plume quand il s'agit du père. Comment ne pas
+protester, chez un esprit si lucide, contre l'attribution radicale à
+Dieu du terme de <i>causa sui</i>. Absurdité ponctuée qu'à
+partir du relief de ceci que je vous ai dit, qu'il n'y a de cause qu'après
+l'émergence du désir.</font>
+
+</p><p><font size="-1">Ce qui est cause et cause du désir - pas équivalent
+de l'antinomie cause et cause de soi - ne pourrait être en aucune
+façon tenu pour équivalent antinomique de la cause pour lui.
+Augustin contre toute piété intellectuelle, fléchit
+sur ce que je voulais vous articuler avec toutes sortes d'exemples : <i>Acher
+Ehyé</i><sup><nobr><a href="#1">(1)</a></nobr></sup>, l'hébreu.
+Je suis ce que je suis, <i>ego sum qui sum</i>, je suis.</font>
+</p><p><font size="-1">Qu'on y trouve un <i>je suis celui qui suis</i> dit Saint
+Augustin - déjà en français sonne faux et boiteux
+- par quoi Dieu s'affirme identique à l'Etre, ce Dieu, au moment
+où Moïse parle, ne serait qu'une pure absurdité.</font>
+</p><p><font size="-1">Voici donc le sens de cette fonction du petit <i>a</i>
+dans les formes diverses dont je vous ai parlé l'an [<font color="#ff0000">dernier
+? mots manquants</font>, ...elle s'arrêtait].</font>
+
+</p><dir>
+<dir>
+<dir>
+<dir>
+<dir>
+<dir>&nbsp;</dir>
+</dir>
+</dir>
+</dir>
+</dir>
+</dir>
+</dir>
+
+<dir><font size="-1">Dans l'angoisse, l'objet petit <i>a</i> choit. Cette
+chute est primitive ; la diversité des formes que prend cet objet
+de la chute est dans une certaine relation au mode sous lequel s'appréhende
+pour le sujet le désir de l'Autre. C'est ce qui explique la fonction
+de l'objet oral. Elle ne se comprend - j'y ai longtemps insisté
+- que si cet objet, le sein, que le sujet lâche, dont il se détache,
+cet objet fondamentalement est de son appartenance.</font>
+
+<dir>&nbsp;</dir>
+<font size="-1">Si à ce moment-là cet objet s'introduit dans
+la demande à l'Autre, dans l'appel vers la mère elle dessine
+sous un voile l'au-delà où se noue le désir de la
+mère : étonné le bébé renverse la tête
+en se détachant du sein.</font>
+<p><font size="-1">Ce sein, il n'est qu'apparemment appartenance à
+l'Autre ; voir les références biologiques, le complexe nourricier
+se constitue différemment dans un contexte animal. Ici le sein est
+une partie profonde et une partie plaquée au thorax de la mère.</font>
+</p><p><font size="-1">Une seconde forme : l'objet anal. Phénoménologie
+du cadeau, du don : en lâchant les fèces, lui concédant
+comme à un ordre dominant la demande de l'Autre évidemment
+imposteur, non pas la demande à l'Autre, un temps plus avant, ce
+qui chez l'Autre est encore ambigu, le désir. Comment les auteurs
+n'ont-ils pas reconnu que c'est là que s'accroche le support de
+ce qu'on appelle oblativité, que c'est par une véritable
+ambiguïté, par un escamotage révélateur de fuite
+panique devant une angoisse qu'on a pu situer la conjonction oblative au
+niveau de l'acte génital. Par ailleurs c'est là que l'enseignement
+de Freud d'une traduction qui s'en conserve nous situe la béance
+de la castration.</font>
+</p><p><font size="-1">L'année dernière j'ai insisté sur
+ceci que tout ce que Freud a dit nous montre, c'est que l'orgasme n'est
+pas seulement ce que les psycho-biologistes de son époque ont appelé
+le mécanisme de la détumescence. Il faut savoir articuler
+que ce qui compte de l'orgasme représente exactement la même
+fonction, quant au sujet, que l'angoisse. L'orgasme est en lui-même
+angoisse, pour autant qu'à jamais par une faille centrale le désir
+est séparé de la jouissance.</font>
+</p><p><font size="-1">Qu'on ne nous objecte pas les moments de paix, de fusion
+du couple, où chacun même peut se dire que l'autre est bien
+content. Nous analystes allons y regarder de plus près pour voir
+ce qu'il y a dans ces moments d'alibi fondamental : un alibi phallique.</font>
+<br><font size="-1">La femme se sublime en quelque sorte, dans sa fonction
+de gaine, elle résout quelque chose, quelque chose qui va plus loin
+et reste infiniment au dehors. C'est pourquoi je vous ai longtemps commenté
+ce passage d'Ovide où se fabule le mythe de Tirésias. Aussi
+bien faut-il indiquer ce qui se voit de traces de cet au-delà inentamé
+de la jouissance féminine dans le mythe masculin de son prétendu
+masochisme.</font>
+</p><p><font size="-1">Plus loin, symétrique, comme sur une ligne courbe
+redescendante par rapport à ce sommet de la béance du désir
+- jouissance au niveau génital - j'ai ponctué la fonction
+du petit <i>a</i> dans la pulsion scopique.</font>
+
+</p><p><font size="-1">Son essence est résumée en ceci que plus
+qu'ailleurs le sujet est captif de la fonction du désir. C'est qu'ici,
+l'objet est étrange, l'objet <i>a</i> pour ceux qui ne m'ont pas
+suivi dans ma première approximation, c'est cet oeil qui dans le
+mythe d'Oedipe est l'équivalent de l'organe à castrer. Ce
+n'est pourtant pas tout à fait de cela qu'il s'agit. Dans la pulsion
+scopique où le sujet rencontre le monde comme spectacle qu'il possède,
+il rit... que ce leurre par quoi ce qui sort de lui et ce qu'il affronte,
+est, non pas ce vrai petit <i>a, </i>mais son complément l'<i>i(a),</i>
+son image spéculaire, voilà ce qui paraît être
+chu de lui.</font>
+</p><p><font size="-1">Il est pris, il se réjouit, il s'esbaudit dans
+ce que Saint-Augustin dénonce et désigne d'une façon
+si sublime - j'eusse voulu aussi vous faire parcourir ce texte - désigne
+comme concupiscence des yeux. Il croit désirer parce qu'il se voit
+comme désirant et qu'il ne voit pas que ce que l'Autre veut lui
+arracher, c'est son regard. La preuve, c'est ce qui arrive dans le phénomène
+de l'<i>Unheimlich : </i>chaque fois que soudain, par quelque incident
+fomenté par l'Autre, cette image de lui dans l'Autre apparaît
+au sujet comme privée de son regard ; ici se défait toute
+la trame de la chaîne dont le sujet est captif dans la pulsion scopique
+et c'est le retour à l'angoisse la plus basale, l'<i>Aleph </i>de
+l'angoisse. Tel est ce à quoi se rassemble dans sa structure la
+plus fondamentale, le rapport du sujet au petit<i> a</i> et l'<i>Aleph</i>
+
+sera là pour nous aider à le symboliser.</font>
+<br><font size="-1">Je n'ai pas encore dépassé la pulsion scopique,
+le franchissement que je désigne de ce qui s'y manifeste et va à
+y pointer vers l'imposture : ce fantasme que j'ai articulé sous
+le terme de l'<i>agalma</i>, sommet de l'obscurité où le
+sujet est plongé dans la relation du désir, l'<i>agalma</i>
+est cet objet dont il croit que son désir le vise et il porte à
+son extrême la méconnaissance de cet objet comme cause du
+désir.</font>
+</p><p><font size="-1">Telle est la frénésie d'Alcibiade et le
+renvoi que lui fait Socrate: "occupe-toi de ton âme", de ce que Platon
+fera plus tard : ".. ton âme et occupe-toi de cet objet que tu poursuis,
+ce n'est que ton image"; cet objet dans sa fonction de visée et
+de cause mortelle. "Fais ton deuil de cet objet ; alors tu connaîtras
+les voies de ton désir, car moi, Socrate je ne sais rien ; c'est
+la seule chose que je connais de la fonction de l'Eros".</font>
+</p><p><font size="-1">C'est ainsi que je vous ai menés à la porte,
+cinquième terme de cette fonction du petit <i>a</i>, par quoi va
+se montrer l'éventail, l'épanouissement, de ce petit <i>a
+</i>dans
+le rapport prégénital à la demande de l'Autre.</font>
+
+<br><font size="-1">Nous allons voir le petit <i>a</i> venir de l'Autre,
+seul témoin, de ce lieu de l'Autre qui n'est pas seulement le lieu
+du mirage, ce petit
+<i>a,
+</i>je ne l'ai pas nommé ; pourtant je
+l'ai montré dans une des réunions de notre société,
+j'aurais pu l'éclairer aux journées sur la paranoïa,
+je me suis abstenu. A savoir ce dont il s'agissait, à savoir de
+la voix.</font>
+</p><p><font size="-1">La voix de l'Autre doit être considérée
+comme un objet essentiel. Tout analyste sera appelé à lui
+donner sa place, ses incarnations diverses, tant dans le champ de la psychose
+que dans la formation du sur-moi.</font>
+</p><p><font size="-1">Ceci, abord phénoménologique, ce rapport
+de la voix à l'Autre, le petit <i>a</i> comme chu de l'Autre, nous
+pouvons en épuiser la fonction structurale à porter l'interrogation
+sur ce qu'est l'Autre comme sujet. Par la voix, cet objet chu de l'organe
+de la parole, l'Autre est le lieu où ça parle. Ici nous ne
+pouvons plus échapper à la question : qui ?, au-delà
+de celui qui parle au lieu de l'Autre, et qui est le sujet, qui y a-t-il
+au-delà dont le sujet, chaque fois qu'il parle, prend la voix ?</font>
+</p><p><font size="-1">Il est clair que si Freud, au centre de sa doctrine, met
+le mythe du père, c'est en raison de l'inévitabilité
+de cette question. Il n'est pas moins clair que, si toute la théorie
+et la praxis de la psychanalyse nous apparaissent aujourd'hui comme en
+panne, c'est pour n'avoir pas osé sur cette question, aller plus
+loin que Freud.</font>
+</p><p><font size="-1">C'est bien pourquoi l'un de ceux que j'ai formés
+comme j'ai pu a parlé à propos d'un travail, qui n'est point
+sans mérite, de la "question du père".</font>
+
+</p><p><font size="-1">Cette formule était mauvaise, c'est même
+un contresens sans qu'on puisse le lui reprocher. Il ne peut être
+question de la question du père, pour la raison que nous sommes
+au-delà de la formule que nous puissions formuler comme question.</font>
+</p><p><font size="-1">Comment nous aurions pu aujourd'hui dessiner l'abord du
+problème ici introduit ? Il est clair que l'Autre ne saurait être
+confondu avec le sujet qui parle au lieu de l'Autre, ne fût-ce que
+par sa voix, l'Autre, s'il est ce que je dis, le lieu où ça
+parle, il ne peut poser qu'une sorte de problème : celui du sujet
+d'avant la question.</font>
+</p><p><font size="-1">Or Freud, cela, il l'a admirablement ressenti. Puisque
+je dois à partir d'aujourd'hui rentrer dans un certain silence,
+je ne manquerai pas de vous signaler ici qu'un de mes élèves,
+Conrad Stein, a dans ce champ, tracé la voie. Je vous eusse priés
+de vous reporter à son travail, car il est bien satisfaisant.</font>
+</p><p><font size="-1">Ce qu'il a fait, comment malgré tout l'erreur et
+la confusion du temps, Freud a mis le doigt sur ce qui mérite de
+rester malgré toute la critique sans doute fondée du spécialiste,
+sur la question du Totem, cf. Lévi-Strauss. Il n'en reste pas moins,
+et Freud est la vivante démonstration, combien celui qui est au
+niveau de la recherche de la vérité peut dépasser
+de haut tous les avis du spécialiste. Qu'en resterait-il sinon qu'il
+doit s'agir du sujet d'avant la question ?</font>
+</p><p><font size="-1">Si mythiquement le père ne peut être qu'un
+animal, le père primordial, le père d'avant l'interdit de
+l'inceste ne peut être avant l'avènement de la culture, et
+conformément au mythe de l'animal sa satisfaction est sans fin :
+le père est ce chef de horde.</font>
+</p><p><font size="-1">Mais qu'il l'appelle Totem, et justement à la lumière
+des progrès apportés par la critique de l'anthropologie structurale
+de Lévi-Strauss qui met en relief l'essence classificatoire du Totem,
+ce qu'il faut en second terme, c'est mettre au niveau du père la
+fonction du nom (référez-vous à un certain de mes
+séminaires, celui où j'ai défini le nom propre.)</font>
+<br><font size="-1">Le nom, c'est cette marque, déjà ouverte
+à la
+<i>lecture,
+</i>c'est pour cela qu'elle se lira de même
+en toutes les langues, y est imprimé quelque chose, peut- être
+un sujet qui va parler. Bertrand Russel s'y trompe quand il dit <i>on pourrait
+appeler John un point géométrique sur un tableau</i>, il
+peut toujours l'interroger avec l'espoir qu'il lui réponde !</font>
+
+</p><p><font size="-1">J'avais aussi marqué comme référence
+les caractères que A.Gardiner<sup><a href="#1bis">1bis</a> </sup>a
+découverts sur des poteries phéniciennes de Haute-Egypte,
+antérieures à la découverte de l'alphabet, ceci pour
+illustrer que la poterie n'a jamais pris la parole pour dire sa marque
+de fabrique, mais qu'il y a dans le signifiant ce côté qui
+attend la lecture et que c'est à ce niveau que se situe le nom.
+Ici je vous désigne quelque chose de la direction à suivre,
+voyez quel apport nous donne maintenant la voie que nous abordons.</font>
+</p><p><font size="-1">Car ce père, est-ce que nous ne pouvons pas nous,
+aller au-delà du mythe pour prendre comme repère ce qu'implique
+le mythe dans ce registre que donne notre progrès sur ces trois
+termes de la jouissance, du désir et de l'objet. Car tout de suite
+nous verrons concernant le père, le père pour que Freud trouve
+ce singulier équilibre, cette sorte de con... conformité
+de la loi et du désir vraiment conjoints, nécessités
+l'un par l'autre dans l'inceste, sur la supposition de la jouissance pure
+du père comme primordiale.</font>
+<br><font size="-1">Mais ceci, qui est censé nous donner l'empreinte
+de la formation du désir chez<i> </i>l'enfant dans son procès
+normal, est-ce que ce n'est pas là qu'il vaut qu'on se pose la question
+de savoir pourquoi ça donne des névroses.</font>
+</p><p><font size="-1">C'est ici que l'accent aussi que j'ai permis de mettre
+sur la fonction de la perversion quant à sa relation au désir
+de l'Autre comme tel qui représente la mise au pied du mur de la
+prise au pied de la lettre de la fonction du Père - être suprême,
+cf. Sade - sens toujours voilé et insondable. Mais de son désir
+comme intéressé dans l'ordre du monde, c'est là le
+principe où pétrifiant son angoisse, le pervers s'installe
+comme tel.</font>
+</p><p><font size="-1">Arcature première : comment se composent et se
+conjuguent le désir dit normal et celui qui se pose au même
+niveau, Ie désir pervers ? Position d'abord de cette arche d'où
+par la suite, pour comprendre un éventail de phénomènes
+qui vont depuis la névrose inséparable à nos yeux
+d'une fuite devant le terme du désir du père, auquel on substitue
+le terme de la demande, celui du mysticisme aussi, dans toutes les traditions,
+sauf celles vous verrez ascèse, assomption plongées vers
+la jouissance de Dieu.</font>
+</p><p><font size="-1">Ce qui fait l'entrave dans le mysticisme juif et plus
+encore dans le chrétien, et plus encore pour l'amour, c'est l'incidence
+du désir de l'Autre.</font>
+
+</p><p><font size="-1">Je ne peux pas vous quitter sans avoir au moins prononcé
+le nom, le premier nom, par lequel je voulais introduire l'incidence spécifique
+de la tradition judéo-chrétienne, pas celle de la jouissance,
+mais du désir d'un Dieu, le dieu Elohim.</font>
+</p><p><font size="-1">C'est devant ce Dieu premier terme, que Freud sûrement
+au-delà de ce que nous transmet sa plume, s'est arrêté.
+Ce Dieu dont le nom n'est que le nom <i>Chaddaï</i><sup><nobr><a href="#2">(2)</a></nobr></sup>
+que je n'aurais jamais prononcé.</font>
+</p><p><font size="-1">Ce nom dans l'Exode au Chapitre VI, l'Elohim qui parle
+dans le buisson ardent qu'il faut concevoir comme son corps, qu'on traduit
+par la voix et dont on n'a pas voulu vous expliquer qu'il est bien autre
+chose, ce Dieu parlant à Moïse lui dit à ce moment :</font>
+<br><font size="-1">"Quand tu iras vers eux, tu leur diras que je m'appelle
+<b><i>Je
+suis</i></b>,
+<i>Ehyé</i><sup><nobr><a href="#3">(3)</a></nobr></sup>,
+<b><i>Je
+suis ce que je suis</i></b>".</font>
+
+</p><p><font size="-1">La propriété de ces termes : désigner
+des lettres qui composent le nom, toujours certaines lettres choisies parmi
+les consonnes. Je suis, je suis le cortège, il n'y a aucun autre
+sens à accorder à ce <b><i>Je suis</i></b> que d'être
+le nom : <b><i>Je suis</i></b>.</font>
+</p><p><font size="-1">Mais ce n'est pas sous ce nom que je me suis annoncé
+à vos ancêtres. "Dieu d'Abraham, d'Isaac et de Jacob et non
+Dieu des philosophes et des savants", dit Pascal en tête des Pensées.
+De celui-là, on peut dire qu'un Dieu ça se rencontre dans
+le réel, comme tout réel est inaccessible, ça se signale
+par ce qui ne trompe pas : l'angoisse. Ce Dieu qui s'est annoncé
+à Abraham, d'abord, l'a fait par un nom de l'Elohim au buisson ardent
+:<i> El Chaddaï </i><sup><nobr><a href="#4">(4)</a></nobr></sup>,
+les Grecs, ceux qui ont fait la traduction des Septantes étaient
+beaucoup plus au courant que nous.</font></p></dir>
+
+<dir><font size="-1">Ils n'ont pas traduit <i>Ehyé</i> par : <i>je
+suis celui qui suis</i>, comme Saint-Augustin, mais par l'étant,
+
+<sup><nobr><a href="#5">(5)</a></nobr></sup>[eimi
+to on], et non pas [einai]<sup><nobr><a href="#6">(6)</a></nobr></sup>,
+l'être ; ça a un sens, ils ont pensé comme des Grecs
+que Dieu, c'est l'étant suprême, on ne détache pas
+les gens de leurs habitudes. Ils ne l'ont pas traduit comme de nos jours
+par <i>Tout-Puissant </i>mais prudemment par <i>theos</i>. Tout le reste
+étant seigneur, <i>kirios</i>, le
+<i>chem</i>, le nom qu'on ne prononce
+pas.</font>
+<br><font size="-1">Qu'est-ce qu'<i>El Chaddaï</i> ?</font>
+
+<br><font size="-1">Il n'était pas prévu que je vous le dise
+aujourd'hui. Je ne forcerai pas la porte, fût-elle de l'enfer, pour
+vous le dire, mais j'entends introduire ce que j'eusse pu vous dire par
+quelque chose d'essentiel : - rendez-vous à Kierkegaard - la <i>Akeda</i>,
+le sacrifice d'Abraham sous la forme où l'on pénètre
+dans une tradition où les images ne sont pas interdites, - la figuration
+de ces choses est interdite chez les Juifs - pourquoi de temps en temps
+dans le&nbsp; , on a quelque fièvre à s'en débarrasser
+? Voir les images d'Epinal, Michelet, etc. Ce qu'on voit sur les images
+à ce niveau, tout ce qu'il faut en somme, non pas pour suppléer
+à mon séminaire car les noms n'y sont pas, mais les images
+y sont, en éventail de tout ce que je vous ai dit. J'ai assez avancé
+pour que vous y retrouviez ce que j'ai annoncé de la métaphore
+paternelle.</font>
+<br><font size="-1">Il y a un fils, la tête bloquée contre le
+petit autel de pierre (tableau de Caravage), il grimace, il souffre, le
+couteau d'Abraham est levé au-dessus de lui, l'ange qui est là,
+présence de celui dont le nom n'est pas prononçable.</font>
+<br><font size="-1">L'ange, un ange, qu'est-ce qu'un ange ? Ces anges, comment
+les supprimerez-vous de la bible ? disais-je à un père éminent,
+je l'ai rendu fou. Mon dernier dialogue avec le père Teilhard de
+Chardin, j'ai cru que je le ferai pleurer, cet homme.</font>
+<br><font size="-1">&nbsp;&nbsp;&nbsp; - Est-ce que vraiment vous me parlez
+sérieusement ?</font>
+<br><font size="-1">&nbsp;&nbsp;&nbsp; - Oui, mon père, il s'agit
+des textes. Avec son nominateur de la planète, qu'est-ce qu'il faisait
+des anges ?</font></dir>
+
+<dir><font size="-1">Cet ange retient le bras d'Abraham et sans le consentement
+du père Teilhard, quoiqu'il en soit de cet ange, c'est bien au titre
+d'El Chaddaï qu'il est là. Toujours vu traditionnellement là.
+C'est bien à ce titre que se déroule tout le pathétique
+du drame où nous entraîne Kierkegaard. Avant ce geste qui
+retient, Abraham est venu là pour quelque chose. Dieu lui a donné
+un fils et lui donne I'ordre d'amener son garçon pour un mystérieux
+rendez-vous, les mains aux pieds liées comme à une brebis,
+pour le sacrifier. Avant de nous émouvoir, nous pourrions nous souvenir
+que, d'aller sacrifier son petit garçon à l'Elohim du coin
+à l'époque, c'était courant. Ca a continué
+si tard qu'il a fallu pour que ça cesse que l'ange et les prophètes
+arrêtassent les Israélites sur la voie de recommencer.</font>
+<p><font size="-1">Voyons plus loin, ce fils me direz-vous, c'est son fils
+unique. Ce n'est pas vrai, Ismaël a déjà quatorze ans,
+mais Sarah est restée inféconde jusqu'à l'âge
+de quatre-vingt-dix ans. Ismaël est né du couchage du patriarche
+avec une esclave.</font>
+</p><p><font size="-1">Le son déjà de la primauté d'El Chaddaï,
+celui qui a tiré Abraham du milieu de ses frères et de ses
+pères, il y avait tellement de pères qui vivaient encore
+: Sem qui a vécu cinq cents ans, et, dans toutes les lignées,
+ils ont eu des enfants vers l'âge de trente ans - quoiqu'il en soit
+cet El Chaddaï s'il est bien pour quelque chose dans cet enfant du
+miracle de Sarah qui dit : "je suis flétrie" - cherchez du côté
+du corps jaune, la ménopause existait à l'époque !
+-, on peut concevoir qu'Abraham y tenait donc à Isaac, c'est l'enfant
+de la promesse.</font>
+</p><p><font size="-1">Sarah meurt quelque temps après. Beaucoup de monde
+se trouve là et Ismaël fait sa rentrée. Après
+la mort de Sarah, Abraham, ce patriarche, va se montrer tel qu'il est,
+un formidable géniteur. Il épouse et aura cinq enfants, mais
+ce n'est pas des enfants qui ont reçu la baraka de Sarah. Cette
+toute puissance tombe à la limite même du territoire de son
+peuple. Un autre élohim d'à côté donne le bon
+truc pour repousser l'envahisseur, El Chaddaï<i> </i>y décampe
+avec les tribus qui l'ont amené à l'assaut.</font>
+</p><p><font size="-1">El Chaddaï<i> </i>est celui qui élit et promet
+et fait passer par son nom une certaine alliance transmissible d'une seule
+façon par la baraka paternelle, c'est celui qui fait attendre un
+fils même à une femme de quatre-vinqt-dix ans et bien autre
+chose encore.</font>
+</p><p><font size="-1">Un petit livre qui date de la fin du XIè siècle
+de Scholomo Ben Isaac de Troyes, un ashkénaze, vous lirez d'étranges
+commentaires du malheur d'Abraham. Dans la Michna, il y a un dialogue d'Abraham
+avec Dieu, quand l'ange dit "n'étends pas", Abraham dit :</font>
+<br><font size="-1">"Si c'est ainsi, je suis venu ici pour rien ; je vais
+lui faire au moins une légère blessure pour te faire plaisir,
+Elohim...".</font>
+
+</p><p><font size="-1">Ce n'est pas tout ce qu'on peut voir sur l'image d'Epinal,
+il y a encore autre chose, à droite et à gauche dans le tableau
+de Caravage, cette tête de bélier que j'introduis sous la
+forme du schofar, la corne lui est incontestablement arrachée.</font>
+</p><p><font size="-1">Quant à ce qu'est ce bélier, c'est là-dessus
+que je voudrais terminer. Car il n 'est pas vrai que l'animal paraisse
+comme métaphore du père au niveau de la phobie. La phobie
+n'est qu'un retour ; c'est ce que Freud disait en se référant
+au Totem. L'homme n'a pas tellement à être fier d'être
+le dernier venu de la création, celui qu'on a fait avec de la boue,
+ce qui n'est dit d'aucun être. Il va se chercher des ancêtres
+honorables et nous en sommes encore là : il lui faut un ancêtre
+animal.</font>
+<br><font size="-1">Dans la "Sentence des pères", le "<i>Pirké
+Avot</i>"<sup><nobr><a href="#10">(10)</a></nobr></sup>&nbsp; - beaucoup
+moins important que le Talmud - traduit en français par Rachi, il
+est dit catégoriquement que selon la tradition rabbinique, le bélier
+dont il s'agit est le bélier primordial. Il était là
+- <i>Hassé Mimé Berechit</i> - <sup><nobr><a href="#11">(11)</a></nobr></sup>
+- dès les six jours de la création, ce qui le désigne
+pour ce qu'il est : un Elohim. Ce n'est pas celui dont le nom est imprononçable,
+mais tous les Elohim. Celui-là est reconnu comme l'ancêtre
+de la race de Sem - donc des origines -.</font>
+
+</p><dir>&nbsp;</dir>
+<font size="-1">Alors cette tête de bélier aux cornes emmêlées
+dans une haie qui l'arrête, ce lieu de la haie, je voudrais vous
+le commenter, le texte même fait sentir qu'il se rue sur le lieu
+du sacrifice. De quoi vient-il avidement se repaître, quand celui
+dont le nom est imprononçable</font>
+<br><font size="-1">le désigne, lui, pour le sacrifice ?</font>
+<br><font size="-1">Ce qu'Elohim désigne pour sacrifice à Abraham
+à la place d'lsaac, c'est son ancêtre, le dieu de sa race.</font>
+<br><font size="-1">Ici se marque le tranchant entre la jouissance de Dieu
+et ce qui d'une tradition le désigne comme désir, désir
+de quelque chose dont il s'agit de provoquer la chute, c'est l'origine
+biologique. Ici est la clé de ce mystère où se lie
+la version à l'égard de la tradition judaïque, la pratique
+des rites métaphysico-sexuels, au regard de ce qui unit la communauté
+dans la fête eu égard à la jouissance de Dieu. Quelque
+chose se manifeste qui, comme étant le désir, met essentiellement
+en valeur cette<i> </i>béance qui sépare la jouissance du
+désir et le symbole en est que, c'est dans le même contexte
+la relation d'<i>El Chaddaï</i> à Abraham, la circoncision
+signe de l'alliance du peuple celui qu'il a élu, la circoncision
+désigne ce petit morceau de chair tranchée à l'énigme
+duquel je vous avais amené par quelques hiéroglyphes, ce
+petit <i>a</i>.</font></dir>
+
+<dir><font size="-1">Je vais vous quitter ici. Avant de vous quitter, je
+vous dirai que si j'interromps ce séminaire je ne le fais pas sans
+m'excuser auprès de ceux qui depuis des années ont été
+mes fidèles auditeurs, ceux qui, nourris des mots, des termes, des
+voies et des chemins appris ici, comme ceux qui retournent cette empreinte
+contre moi. Dans les débats récents et confus, un groupe
+s'est montré véritablement dans sa fonction de groupe mené
+deci-delà aux tourbillons aveugles. Un de mes élèves
+a essayé de sauver un débat confus au niveau analytique,
+il a cru devoir parler... que la vérité, que la véritable
+pièce, le sens de mon enseignement, c'est qu'on ne l'attrape jamais.
+Quel incroyable contresens ! Quelle impatience enfantine au mieux.</font>
+<p><font size="-1">Est-ce là pour autant justifier une fonction métonymique
+de la vérité ? Où a-t-on vu, comme en mathématique,
+que chaque chapitre renvoie au suivant ? Je m'approchais à un certain
+point de la densité où vous ne pouviez pas parvenir - il
+n'y a pas que les attributs de l'infatuation et de la sottise, esprit en
+forme d'épluchure, comité de rédaction, il y a autre
+chose - j'ai en effet cherché ; je la trouve parfois la vérité
+de la praxis qui s'appelle psychanalyse. Quelle est sa vérité?</font>
+</p><dir>&nbsp;</dir>
+<font size="-1">Si quelque chose s'y avère décevant, cette
+praxis doit s'avancer vers une conquête du vrai par la voie de la
+tromperie, car le transfert n'est pas autre chose, tant qu'il n'y a pas
+de nom au lieu de l'Autre, inopérant. Si ma marche est progressive,
+prudente, n'est-ce pas tout ce que j'ai tenté de promouvoir dans
+cette voie contre quoi j'ai toujours à me prononcer, sans quoi elle
+risque de glisser vers la voie de l'imposture.</font>
+<br><font size="-1">Depuis deux ans, ayant confié à d'autres
+le maniement intérieur d'un groupe, pour laisser la pureté
+à ce que j'ai à vous dire : pas de différence entre
+le oui et le non.</font>
+<hr>
+<center><img src="ndpb.gif" alt="CARAVAGE. Le Sacrifice d' Isaac, Musée des Offices, Florence." height="332" width="429">
+<br><font size="-1">CARAVAGE. "Le Sacrifice d' Isaac", Musée des Offices,
+Florence.</font></center>
+
+<hr>
+<br><a name="1"></a><font size="-1">1.&nbsp;</font><img src="ndp4.gif" alt="ndp 4" height="35" width="170">
+
+<p><a name="1bis"></a><font size="-1">1bis. Il s'agirait de Sir Allan H.
+Gardiner (et non comme l'indiquent les notes utilisées de <i>Sir
+Spaky</i>). Suggestion de Diana Estrin, groupe Lutecium.</font>
+<br><a name="2"></a><font size="-1">2.</font><img src="ndp1.gif" alt="ndp1" height="35" width="51">
+<br><a name="3"></a><font size="-1">3.</font><img src="ndp5.gif" alt="ndp5" border="0" height="35" width="106">
+<br><a name="4"></a><font size="-1">4.</font><img src="ndp8.gif" alt="ndp8" border="0" height="30" width="84">
+<br><a name="5"></a>5. <font size="-1">[eimi to on] : je suis l'être</font>
+<br><a name="6"></a>6. [<font size="-1">einai] : être</font>
+<br><a name="7"></a>7.<font size="-1"> ...</font>
+
+<br><a name="8"></a>8.&nbsp;<img src="ndp3.gif" alt="ndp3" height="35" width="50"><font size="-1">
+: nom</font>
+<br><a name="9"></a>9.&nbsp;<img src="ndp7.gif" alt="ndp7" height="35" width="86"><font size="-1">
+: ligature</font>
+<br><a name="10"></a>10<font size="-1">.&nbsp;<img src="ndp9.gif" alt="ndp9" height="35" width="159">
+: sentence des pères</font>
+<br><a name="11"></a>11.<img src="ndp2.gif" alt="ndp2" height="35" width="281"><font size="-1">
+: actes des jours de la création<a></a><a></a><a></a></font>
+
+</p><p>
+</p><hr size="3" width="80%">
+
+
+[[Category:Seminars]]
+[[Category:Jacques Lacan]]
+[[Category:Works]]

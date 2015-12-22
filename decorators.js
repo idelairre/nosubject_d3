@@ -1,0 +1,12 @@
+export function handleErrors(target, name, descriptor) {
+  console.log(target);
+  target.prototype = target.prototype || {};
+  target.prototype.handleErrors = target.prototype.handleErrors || {};
+  target.prototype.handleErrors = function(errors, data) {
+    if (errors) {
+      console.log(errors);
+      return;
+    }
+  };
+  return target;
+}

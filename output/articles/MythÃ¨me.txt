@@ -1,0 +1,67 @@
+==Etmology==
+''[[Mythème]]'', a term in French coined by [[Claude Lévi-Strauss]] (1908- ) on ''mythe'' (v. article MYTHE)+ suffixe -''ème'' «the smallest analyzable element» derived from the linguistic term ''[[phonème]]'', «smallest distinctive unit of articulated speech», from the Greek *ςοντμα, «sound of the voice», cf. ''morphème'' (1921) English ''lexeme'' (1940), ''monème'' (Martinet, 1941).
+
+==Definitions==
+[[Claude Lévi-Strauss]] defines the [[mytheme]] as the '''smallest, most succinct element of [[signification]] in a [[myth]]'''.  The [[mytheme]] grounds his [[structuralism|structuralist approach]] to [[wp:myth|myth criticism]], his [[structuralism|structural analysis]] of [[wp:myth|myths]].<ref>(cf. in particular «The Structural Study of Myth» (1955); Tristes tropiques (1955); Anthropologie structurale (1958); La pensée sauvage (1962); Les mythologiques, 4 vols. (1964-1971); and Anthropologie structurale deux (1973)).</ref>
+
+==Structuralism==
+In the 1950s [[Claude Lévi-Strauss]] first adapted this technique of language analysis to analytic myth criticism. In his work on the myth systems of primitive tribes, working from the analogy of language structure, he adopted the term ''mythème'', with the assertion that the system of meaning within mythic utterances parallels closely that of a language system.
+
+This idea is somewhat disputed by [[Roman Jakobson]], who takes the mytheme to be a [[wp:concept|concept]] or phoneme which is without significance in itself but whose significance might be shown by [[wp:sociology|sociological]] analysis.<ref>*Claude Lévi-Strauss, 1955. "The Structural study of myth" in ''Journal of American Folklore'', '''68''' pp 428-444</ref>
+
+===Phoneme===
+<!-- (analogous to *phoneme) -->
+[[Lévi-Strauss]] coined the neologism by analogy to the phoneme (being the smallest unit of speech that can distinguish one statement from another statement, like the "d" versus the "b" in dog/bog).  It's a faulty but useful analogy. It's faulty because a phoneme is itself meaningless, whereas a mytheme (understood as a sort of primary element of the mythic story) can be an event, for example, which is not meaningless in itself. It's useful because once the mythemes are identified, they can be aligned with other mythemes in particular kinds of arrangements (to other mythemes in time [diachronic] or to other mythemes in the same myth [synchronic], and so on). These arrangements are structures, hence the term "structuralism" to describe the overall process. Isolating the structures can reveal interesting things that have to do with many things from sociology to psychology. 
+
+<!--
+
+==Analysis==
+To appreciate fully the complexity of the term, it is necessary to place Lévi-Strauss's structuralist theory of the study of myth within the context of the late 19th-century and 20th-century tradition of myth criticism.
+
+During the second half of the 19th century, research in the fields of archaeology and philology brought about a renewed interest in mythology, from both ethnological and aesthetic perspectives. While novelists, poets and playwrights turned to mythological figures, particularly those of the Hellenistic tradition, to animate their creative pieces, academic research founded a new form of critical study, the analysis of myth. Early critics, such as Ernst Cassirer, elaborated systems of interpretation explaining the relation of myth to history, religion and art, and the problematic rapport between myth and belief. Mircea Eliade examined the relationship of the sacred and the profane. The advent of psychoanalysis introduced another perspective: Sigmund Freud linked myth directly to the human psyche; Carl G. Jung developed the theory of the collective unconscious, focusing on the notion of archetypes; and other theorists and mythographers reinterpreted the nature of myth. Russian formalists, such as Vladimir Propp, then explored a subset of myth, the folktale.
+
+Propp's theories represent an important backdrop for Lévi-Strauss's later work, for the French structuralist enunciates his conception of myth analysis in contradistinction to Propp's approach. In Morphology of the Folktale (1928), Propp establishes a system of classification of folktales based on function; he describes the function of a tale as «an act of a character, defined from the point of view of its significance for the course of the action.» For him, the relevance of systems of folktales lies in the organization and interpretation of functions within the tales. He proposes a rigorous system of interpretation, later criticized as narrowly limited. He asserts for example that the number of possible functions found in folktales never surpasses 31, and the number of character roles in a tale is eight. Propp classifies the tales into a series of types based on the functions each tale exhibits. He states that the unit of analysis is the individual tale, and the limited number of possible functions represents the stable, constant element, the fundamental set of components of any given tale.
+
+Although Lévi-Strauss, like Propp, concentrates on the structure of narrative, the interpretative system of the French structuralist differs essentially from Propp's theories. First, for Lévi-Strauss, the unit of analysis is not the folktale, but the myth, a form of narrative he views as more fundamental than its offspring, the tale; he asserts that folktales, through their artistic development, obscure the original logic inherent in primordial myth. From Lévi-Strauss's perspective, myths represent central components of cultural consciousness, and simultaneously reflect and help form the human mind. Whereas Propp concerns himself with the aesthetic form of his object of study, Lévi-Strauss focuses on the logical form, the «algebra» of a system of ideas embodied in a mythology. The structuralist approach to myth analysis thus focuses on the internal framework of the myth instead of on its external functions.
+
+Lévi-Strauss bases his analysis of myth on the linguistic model set forth by such structural linguists as Roman Jakobson, who in his study of language concentrates on the examination of the simplest, most easily identifiable constituents of language and their interrelations. He shifts the emphasis from an examination of the elements themselves, as was the case with traditional linguistic theory, to an exploration of the interrelations between them. Structural linguistics divides language into a series of units called phonemes, morphemes and sememes, the smallest possible units of meaning within a language system. These units, considered in isolation, exhibit little significance; their potential for broader meaning is born out of their union, interrelationships and order.
+
+Lévi-Strauss adapts this style of language analysis to the realm of myth criticism, asserting that the system of meaning within mythic utterances parallels closely that of a language system.In his work on the mythologies of primitive tribes, he adopts the term mythème:
+
+Myth like the rest of language is made up of constituent
+
+units...present in language when analyzed on other levels; namely phonemes, morphemes and sememes--but they, nevertheless, differ (among themselves); they belong to a higher order, a more complex one. For his reason, we shall call them gross constituent units [...] or mythemes.
+
+In other words, in language, phonemes, morphemes and sememes exist architectonically. In a sentence, sememes, dependent on grammatical structures, are built of words, composed of groupings of phonemes, the most basic units of language. A meaningful sentence can thus be described in gross as groupings of phonemes. Similarly, a myth contains groupings of mythemes. It is important to note that while a mytheme performs an immediate meaningful function by itself, it derives a greater, more significant relevance in its connections with other mythemes. The full meaning of a myth results from the combination and comparison of its mythemes. Lévi-Strauss elaborates:
+
+...(A) certain function is, at a given time, predicated to a given
+
+subject, or, to put it otherwise, each gross constituent unit
+
+will consist in a relation...The true constituent units of a myth
+
+are not the isolated relations but bundles of such relations,
+
+and it is only as bundles that these relations can be put to use and combined so as to produce meaning. (431)
+
+To illustrate the notion of the mytheme and to demonstrate the application of structuralist myth criticism, Lévi-Strauss turns to the Œdipus myth. In «The Structural study of Myth,» he focuses on the internal structure of the myth, dividing the narrative into mythemes and characterizing each by a simple descriptive sentence such as «Œdipus marries his mother Jocasta,» or Œdipus kills his father Laios.» He then analyzes each mytheme in relation to the others, searching to establish interconnections or contradictions among them. For example, between the units «Œdipus marries his mother Jocasta,» and «Antigone buries her brother Polynices despite prohibition,» Lévi-Strauss discovers a meaningful link based on the concept of the overrating of blood relations. But, the mythemes, «Œdipus kills his father Laois,» «The Spartoi kill each other,» and «Eteocles kills his brother Polynices,» reveal the shared bond of what Lévi-Strauss names the underrating of blood relations. These and other relevant mythemes are then arranged into columns according to common features illustrating their relations, a schema which allows for a reading of the myth based on its inherent logical form. Lévi-Strauss describes his approach thus: «The myth will be treated as an orchestra score would be if it were perversely considered as a unilinear series; our task is to re-establish the correct disposition» (432). Only through the deconstruction and eventual reconstruction of a mythic narrative, asserts Lévi-Strauss, can one uncover the inherent harmony of the utterance:
+
+
+Finally, Lévi-Strauss sets forth a kind of grammar consisting of a series of rules of transformation or «structural laws» describing the relations among the mythemes, allowing for a global understanding of the narrative wherein every feature of the myth is interpreted in relation to all other features, thus establishing a system of analysis based solely on the inner constituents and construction of the myth at hand.
+
+Lévi-Strauss's structural approach to myth analysis offers a set of tools for that analysis which aids in the reconstitution of the meaning of the myth, as well as its interpretation as a cultural phenomenon. He further suggests that the purpose of myth lies in the reconciliation of opposing elements: «Mythic thought always works from the awareness of oppositions towards their progressive mediation...» (440). When examined structurally, in relation to each other, the seeming contradictions of myth resolve themselves and a unified meaning surges forth from the narrative. Through the identification and analysis of mythemes, the smallest, most succinct elements of meaning in a myth, the integrity and significance of primitive mythologies blossom.
+
+
+<ref>*[http://www.ditl.info/art/definition.php?term=3034 Pamela A. Genova, in ''Dictionnaire International des Termes Littéraires''] "Mythème/mytheme" (in English) A succinct view of Lévi-Strauss's use of ''mytheme''.</ref>
+
+-->
+
+==See Also==
+* [[Matheme]]
+
+[[Category:Anthropology]]
+[[Category:Linguistics]]
+[[Category:Structuralism]]
+
+
+__NOTOC__

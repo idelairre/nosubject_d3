@@ -1,0 +1,26 @@
+
+From the beginning of psychoanalysis, the term unpleasure, in the ordinary sense of a disagreeable impression, was chosen by Sigmund Freud for its dynamic dimension in psychic functioning. He noted the role of "feelings of unpleasure" in the speech of his patients and their defenses against the painful contents of their thoughts. In "On the Psychical Mechanism of Hysterical Phenomena: Preliminary Communication" (1893a) by Freud and Josef Breuer, these painful affects—fear, anxiety, shame, physical pain—are enumerated and their contribution to the formation of hysterical symptoms is explained: The unpleasure they elicit triggers forgetting, repression.
+
+In Freud's position of the primitive psychic apparatus in The Interpretation of Dreams (1900a), an economic perspective predominates: Unpleasure, engendered by the increase in tensions due to excitation, sets in motion the functioning of the psychic apparatus. "The psychical apparatus is intolerant of unpleasure; it has to fend it off at all costs, and if the perception of reality entails unpleasure, that perception—that is, the truth—must be sacrificed" (p. 237), he writes in "Analysis Terminable and Interminable" (1937c). Unpleasure is a broader category than anxiety, although anxiety is certainly unpleasurable. Other affective states such as tension, pain, or grief are also unpleasurable; so, too, is inhibition. Unpleasure is thus not only an affective state, it is set up as a principle that regulates psychic functioning.
+
+==Freudian Dictionary==
+<blockquote>The ego's activities are governed by consideration of the tensions produced by stimuli present within it or introduced into it. The raising of these tensions is in general felt as unpleasure and their lowering as pleasure.<ref>{{OoPA}} Ch. 1</ref></blockquote>
+
+<blockquote>The ego'll activities are governed by considerations of the tensions produced by stimuli present within it or introduced into it. The raising of these tensions is in general felt as unpleasure and their lowering as pleasure.<ref>{{OoPA}} Ch. 1</ref></blockquote>
+
+<blockquote>The sensation of unpleasure which accompanies the appearance of symptoms varies to an extraordinary degree. In the case of the permanent symptoms where a displacement upon motility has occurred, such as paralyses and contractures, it is usually absent; the ego behaves towards them as if it were not involved; in the case of the intermittent symptoms and those in the sensory sphere, definite feelings of unpleasure are experienced as a rule, which may be increased to an excessive degree in the case of the symptom of pain.<ref>{{PoA}} Ch. 5</ref></blockquote>
+
+
+==See Also==
+{{See}}
+Automatism; ; Defense; Discharge; Dualism; Ego; Excitation; Hatred; Historical reality; Hypochondria; Inhibitions, Symptoms and Anxiety; "Instincts and Their Vicissitudes"; Jouissance (Lacan); Metapsychology; Moral masochism; Negative transference; Nirvana; Pain; Pleasure ego/reality ego; Pleasure/unpleasure principle; Principle of constancy; ; "Project for a Scientific Psychology, A"; Protective Shield; Purified-pleasure-ego; Reality principle; "Repression"; Suffering; Symptom-formation; Thing, The.
+
+==References==
+* Freud, Sigmund. (1900a). The interpretation of dreams. Part I, SE, 4: 1-338; Part II, SE, 5: 339-625.
+* ——. (1937c). Analysis terminable and interminable. SE, 23: 209-253.
+* Freud, Sigmund, and Breuer, Josef. (1893a). On the psychical mechanism of hysterical phenomena: Preliminary communication. SE, 2: 1-17.
+
+
+
+{{Freudian Dictionary}}
+{{!}}

@@ -1,0 +1,126 @@
+In [[psychoanalytic treatment]]
+
+The task of the [[analyst]] throughout the [[treatment]] is to make it impossible for the [[analysand]] to be sure that he knows what the [[analyst]] wants from him; the [[analyst]] must make sure that his [[desire]] "remains an x" for the [[analysand]].<ref>{{S11}} p. 274</ref>
+
+In this way the [[analyst]]'s supposed [[desire]] becomes the [[treatment|driving force]] of the [[analytic]] [[process]], since it keeps the [[analysand]] working, trying to discover what the [[analyst]] wants from him.
+
+<blockquote>"The [[desire]] of the [[analyst]] is ultimately that which operates in [[psychoanalysis]]."<ref>{{Ec}} p. 854</ref></blockquote>
+
+By presenting the [[analysand]] with an enigmatic [[desire]], the [[analyst]] occupies the position of the [[Other]], of whom the [[subject]] asks "'''[[Che vuoi?]]'''" ("What do you want from me?"), with the result that the [[subject]]'s [[fantasy|fundamental fantasy]] emerges in the [[transference]].
+
+---
+
+First, Lacanian psychoanalysis demands that the [[analyst]] thwart the [[patient]]’s efforts to know what the [[analyst]] wants from the [[patient]]. 
+
+
+---
+
+The position of the [[analyst]] in [[Lacan]]'s account of the [[discourse of the analyst]].
+
+In [[Lacanian]] [[psychoanalytic theory|theory]] the [[analyst]] stands in the place of "[[objet (petit) a|object a]]", or [[objet (petit) a|object cause of desire]].
+
+This is an [[imaginary|imaginary object]] that both sets [[desire]] in motion and represents its impossibility as the
+[[jouissance|excess]] or [[lack|deficit]] produced by coming under the [[Symbolic]]. 
+
+[[Bruce Fink|Fink]] writes,
+<blockquote>The analyst plays the part of pure desirousness (pure desiring subject), and interrogates the subject
+in his or her division [i.e., between the conscious and unconscious]. . . . The patient in a sense
+“coughs up” a master signifier that has not yet been brought into relation with any other signifier.<ref>[[Bruce Fink|Fink, Bruce]]. 1998. p. 37</ref></blockquote>
+
+=====Socrates=====
+In the dialogues, [[Socrates]] is essentially in the position of the [[object a]], barren, bringing
+forth what is, in effect, the [[signifier]] of the [[subject]]. 
+
+[[Socrates]] can be read as the pure [[desire|desiring]] [[subject]]. 
+
+Indeed, this is the force of [[Lacan]]’s (1991) account of [[Alcibaides]], [[Socrates]]’s enamored student. 
+
+[[Lacan]] says that [[Socrates]] refuses [[Alcibaides]] because "for [Socrates] there is
+nothing in himself worthy of love. His essence was that of ''ouden'', emptiness, hollowness."<ref>Cited in Salecl. 1998. p. 28</ref>
+
+Like the proper response of the [[analyst]], [[Socrates]] does not reciprocate, thus maintaining his emptiness.
+
+In both [[Socrates]] and [[Lacan]], there are two critical dimensions of their position, the fundamental
+role of the [[desire of the analyst]] in propelling the [[patient]]’s [[treatment]] and the [[ethics|ethical
+position]] of the [[analyst]]. 
+
+First, [[Lacan]]ian [[psychoanalysis]] demands that the [[analyst]] thwart the [[patient]]’s efforts to know what the [[analyst]] wants from the [[patient]]. 
+
+[[Lacan]] writes,
+
+<blockquote>It is in as much as the analyst’s desire, which remains an x, tends in a direction that is the exact
+opposite of identification, that the crossing of the plane of identification is possible, through the
+mediation of the separation of the subject in experience.<ref>{{L}} 1973/1981. p. 274</ref></blockquote>
+
+Socrates is keenly aware of this, as well. 
+
+He does not enjoin his patients to simply take up his
+opinions and make them their own; he rejects this identificatory maneuver and maintains his own ignorance. 
+
+“I know nothing.” 
+
+This does not mean, of course, that analysts do not know anything. 
+
+Both Lacan and Socrates were immersed in the intellectual, political, and cultural tides of their days, and Lacan maintains that analysts should strive to become experts in these matters.<ref>Evans, 1996, p. 198.</ref>
+
+It is not, however, that the analyst simply feigns to know nothing.
+
+[[Lacan]] writes, "From a certain point of view, the analyst is not fully aware what he is doing in psychoanalysis."<ref>{{L}} 1986/1992. p. 291</ref> 
+
+Contrary to the illusion of transparent reflexivity, part of this action remains hidden even to the analyst (Lacan, 1986/
+1992, p. 291). 
+
+This is markedly different from the conventional image of the technical expert,
+the professional. 
+
+It is by positing the desire of the analyst as enigmatic, as the [[desire]] of the
+[[Other]], that the operative Lacanian question, Che vuoi? What does the Other want from me?
+allows the analysand, or patient, towork on and through his or her fantasy.
+
+Yet it is the analyst that brings forth this truth of the [[subject]]. 
+
+This is also an important qualification to the
+posttraditionalism “wholesale reflexivity” (Giddens, 1990). In analytic discourse, some element always remains beyond knowledge; the self never becomes fully transparent to consciousness
+but is inevitably enigmatic, resisting representation.
+
+The second dimension is the analyst’s ethical position.
+
+For Lacan, analysts must become barren before they can be the cause of others’ barrenness; that is, analysts must go through analysis that aims to reconstitute their conscious relation to their desire. 
+
+The uniqueness of the Lacanian pass, or the completion of training analysis, embodies precisely the Socratic
+spirit. 
+
+Completion of training to be an analyst is not a matter of fulfilling a set of established
+requirements or of sitting for a series of exams. 
+
+This is merely connaissance or factual knowledge.
+
+The pass asks the passant to testify to his or her experience in analysis as it reaches its
+logical terminus and to articulate some sort of symbolic knowledge, or savoir. 
+
+For Socrates, we learn of his “labors” with Diotima that taught him the philosophy of love in the Symposium.<ref>201d; see also Lacan, 1975/1999, p. 67</ref>
+
+The analyst must come to resist functions of his ego, to resist patient identification, to allowthe patient’s own unique truth to emerge, or to rephrase, to allow the patient to identify with a (an empty) truth that is the ground of the
+subject’s being. 
+
+This is a truth that resides beyond knowledge.
+
+==See Also==
+{{See}}
+* [[Desire of the analyst]]
+* [[Discourse]]
+* [[Ethics]]
+* [[Knowledge]]
+* [[Master]]
+* [[Philosophy]]
+* [[Psychoanalysis]]
+* [[Treatment]]
+{{Also}}
+
+==References==
+<references/>
+
+[[Category:Psychoanalysis]]
+[[Category:Jacques Lacan]]
+[[Category:Concepts]]
+[[Category:Terms]]

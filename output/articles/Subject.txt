@@ -1,0 +1,109 @@
+{{Top}}sujet{{Bottom}}
+
+=====Jacques Lacan=====
+The term "[[subject]]" is present from the very earliest of [[Lacan]]'s psychoanalytic writings,<ref>{{1932}}</ref> and from 1945 on it occupies a central part in [[Lacan]]'s work. 
+
+This is a distinctive feature of [[Lacan]]'s work, since the term does not constitute part of [[Freud]]'s theoretical vocabulary, but is more associated with [[philosophical]], [[legal]] and [[linguistic]] [[discourse]]s.
+
+=====Human Being=====
+In [[Lacan]]'s pre-war papers, the term "[[subject]]" seems to mean no more than "human being."<ref>{{Ec}} p. 75</ref>
+
+=====Analysand=====
+The term is also used to refer to the [[analysand]].<ref>{{Ec}} p. 83</ref>
+
+=====Three Kinds=====
+In 1945, [[Lacan]] distinguishes between three kinds of [[subject]]. 
+
+# Firstly, there is the impersonal [[subject]], independent of the other, the pure grammatical [[subject]], the noetic [[subject]], the "it" of "it is known that." 
+
+# Secondly, there is the anonymous reciprocal [[subject]] who is completely equal to and substitutable for any other, and who recognises himself in equivalence with the other.
+
+# Thirdly, there is the personal [[subject]], whose uniqueness is constituted by an act of self-affirmation.<ref>{{Ec}} p.207-8</ref>
+
+It is always this third sense of the [[subject]], the [[subject]] in his uniqueness, that constitutes the focus of [[Lacan]]'s work.
+
+=====Subject and Ego=====
+In 1953, [[Lacan]] establishes a distinction between the [[subject]] and the [[ego]] which will remain one of the most fundamental distinctions throughout the rest of his work. 
+
+Whereas the [[ego]] is part of the [[imaginary order]], the [[subject]] is part of the [[symbolic]]. 
+
+Thus the [[subject]] is not simply equivalent to a [[conscious]] sense of agency, which is a mere illusion produced by the [[ego]], but to the [[unconscious]]; [[Lacan]]'s "[[subject]]" is the [[subject]] of the [[unconscious]]. 
+
+=====Sigmund Freud=====
+[[Lacan]] argues that this distinction can be traced back to [[Freud]]: 
+
+<blockquote>"[Freud] wrote ''Das Ich und das Es'' in order to maintain this fundamental distinction between the true subject of the unconscious and the ego as constituted in its nucleus by a series of alienating identifications.<ref>{{E}} p.128</ref></blockquote>
+
+Although [[psychoanalytic treatment]] has powerful effects on the [[ego]], it is the [[subject]], and not the [[ego]], on which [[psychoanalysis]] primarily operates.
+
+=====Alternative Meanings=====
+[[Lacan]] plays on the various meanings of the term "[[subject]]." 
+
+In [[linguistics]] and [[logic]], the [[subject]] of a proposition is that about which something is predicated, and is also opposed to the "object."<ref>{{L}} "[[Works of Jacques Lacan|Proposition du 9 octobre 1967 sur le psychanalyste de l'École]]," 1967, ''Scilicet'', no. 1 (1968) p. 19</ref> 
+
+[[Lacan]] plays on the [[philosophical]] nuances of the latter term to emphasise that his concept of the [[subject]] concerns those aspects of the [[human]] [[being]] that cannot (or must not) be objectified (reified, reduced to a thing), nor be studied in an 'objective' way.
+
+<blockquote>"What do we call a subject? Quite precisely, what in the development of objectivation, is outside of the object."<ref>{{S1}} p. 194</ref></blockquote>
+
+=====Language=====
+References to [[language]] come to dominate [[Lacan]]'s concept of the [[subject]] from the mid-1950s on. 
+
+He distinguishes the [[subject]] of the [[statement]] from the [[subject]] of the [[enunciation]] to show that because the [[subject]] is essentially a [[speaking]] [[being]] (''[[parlêtre]]''), he is inescapably [[divided]], [[castrated]], [[split]]. 
+
+In the early 1960s [[Lacan]] defines the [[subject]] as that which is represented by a [[signifier]] for another [[signifier]]; in other words, the [[subject]] is an effect of [[language]].<ref>{{Ec}} p. 835</ref>.
+
+=====Philosophy and Law=====
+Besides its place in [[linguistics]] and [[logic]], the term "[[subject]]" also has [[philosophical]] and [[legal]] connotations. 
+
+In [[philosophical]] [[discourse]], it denotes an individual [[consciousness|self-consciousness]], whereas in [[legal]] [[discourse]], it denotes a person who is under the power of another (e.g. a person who is subject to the sovereign). 
+
+The fact that the term possesses both these meanings means that it perfectly illustrates [[Lacan]]'s thesis about the determination of [[consciousness]] by the [[symbolic order]].
+
+<blockquote>"The subject is a subject only by virtue of his subjection to the field of the Other."<ref>{{S2}} p. 188</ref></blockquote>
+
+The term also functions in [[legal]] [[discourse]] to designate the support of action; the [[subject]] is one who can be held [[responsibility|responsible]] for his [[act]]s.
+
+=====Descartes's ''Cogito''=====
+The [[philosophical]] connotations of the term are particularly emphasised by [[Lacan]], who links it with [[Descartes]]'s [[philosophy]] of the ''[[cogito]]'': 
+
+<blockquote>in the term ''subject'' . . . I am not designating the living substratum needed by this phenomenon of the subject, nor any sort of substance, nor any being possessing knowledge in his pathos  .  . . nor even some incarnated logos, but the Cartesian subject, who appears at the moment when doubt is recognised as certainty.<ref>{{S11}} p. 126</ref></blockquote>
+
+=====Subject of the Unconscious=====
+The fact that the [[symbol]] of the [[subject]], '''S''', is a homophone of the [[Freud]]'s term ''[[Es]]'' ('[[Id]]') illustrates that for [[Lacan]], the true [[subject]] is the [[subject]] of the [[unconscious]]. 
+
+In 1957 [[Lacan]] strikes through this [[symbol]] to produce the [[symbol]] '''$''', the "[[subject|barred subject]]," thus illustrating the fact that the [[subject]] is essentially [[divided]].
+
+=====See Also=====
+{{See}}
+* [[Analysand]]
+* ''[[Cogito]]''
+||
+* [[Enunciation]]
+* [[Ego]]
+||
+* [[Language]]
+* [[Law]]
+||
+* [[Linguistics]]
+* [[Philosophy]]
+||
+* [[Split]]
+* [[Statement]]
+||
+* [[Symbol]]
+* [[Unconscious]]
+{{Also}}
+
+=====References=====
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+[[Category:Jacques Lacan]]
+[[Category:Subject]]
+[[Category:Terms]]
+[[Category:Concepts]]
+[[Category:Dictionary]]
+[[Category:Psychoanalysis]]
+
+__NOTOC__

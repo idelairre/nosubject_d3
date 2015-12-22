@@ -1,0 +1,64 @@
+{{Top}}sublimate|sublimation{{Bottom}}
+
+=====Sigmund Freud=====
+In [[Freud]]'s work, [[sublimation]] is a process in which the [[libido]] is channelled into apparently non-sexual activities such as artistic creation and intellectual work. [[Sublimation]] thus functions as a socially acceptable escape valve for excess sexual energy which would otherwise have to be discharged in socially unacceptable forms (perverse behavior) or in [[neurotic]] [[symptom]]s. The logical conclusion of such a view is that complete [[sublimation]] would mean the end of all [[perversion]] and all [[neurosis]]. However, many points remain unclear in [[Freud]]'s account of [[sublimation]].
+
+=====Jacques Lacan=====
+[[Lacan]]s takes up the concept of [[sublimation]] in his [[seminar]] of 1959-60. He follows [[Freud]] in emphasizing the fact that the element of social recognition is central to the concept, since it is only insofar as the [[drive]]s are diverted towards this dimension of shared social values that they can be said to be sublimated.<ref>{{S7}} p. 144</ref> It is this dimension of shared social values which allows [[Lacan]] to tie in the concept of [[sublimation]] with his discussion of [[ethics]].<ref>{{S7}} p. 144</ref>
+
+=====Differences - Freud and Lacan=====
+However, [[Lacan]]'s account of [[sublimation]] also differs from [[Freud]]'s on a number of points.
+
+=====Perversion=====
+[[Freud]]'s account implies that [[perversion|perverse sexuality]] as a form of direct satisfaction of the [[drive]] is possible, and that [[sublimation]] is only necessary because this direct form in prohibited by society.
+
+[[Lacan]] however rejects the cocnept of a zero degree of satisfaction, arguing that [[perversion]] is not simply a brute natural means of discharging the [[libido]], but a highly [[structure]]d relation to the [[drive]]s which are already, in themselves, [[linguistic]] rather than [[biological]] forces.
+
+Whereas [[Freud]] believed that complete [[sublimation]] might be possible for some particularly refined or cultured people, [[Lacan]] argues that "complete sublimation is not possible for the individual."<ref>{{S7}} p.91</ref>
+
+=====Object=====
+In [[Freud]]'s account, [[sublimation]] involves the redirection of the [[drive]] to a different (non-sexual) object. In [[Lacan]]'s account, however, what changes is not the object but its position in the [[structure]] of [[fantasy]].
+
+In other words, [[sublimation]] does not involve directing the [[drive]] to a different [[object]], but rather changing the nature of the [[object]] to which the [[drive]] was already directed, a "change of object in itself," something which is made possible because the [[drive]] is "already deeply marked by the articulation of the signifier."<ref>{{S7}} p. 293</ref>
+
+The sublime quality of an [[object]] is thus not due to any intrinsic property of the [[object]] itself, but simply an effect of the [[object]]'s position in the [[symbolic]] [[structure]] of [[fantasy]].
+
+=====Death Drive=====
+While [[Lacan]] follows [[Freud]] in linking [[sublimation]] with creativity and [[art]], he complicates this by also linking it with the [[death drive]].<ref>{{S4}} p.431</ref>
+
+Several reasons can be adduced to explain this.
+# Firstly, the concept of the [[death drive]] is itself seen as a product of [[Freud]]'s own [[sublimation."<ref>{{S7}} p.212</ref>
+# Secondly, the [[death drive]] is not only a "destruction drive," but also "a will to crate from zero."<ref>{{S7}} p.212-3</ref>
+# Thirdly, the sublime object, through being elevated to the dignity of the [[Thing]], exerts a power of fascination which leads ultimately to [[death]] and destruction.
+
+==See Also==
+{{See}}
+* [[Art]]
+* [[Death drive]]
+||
+* [[Drive]]
+* [[Ethics]]
+||
+* [[Fantasy]]
+* [[Libido]]
+||
+* [[Structure]]
+* [[Thing]]
+{{Also}}
+
+== References ==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+[[Category:Freudian psychology]]
+[[Category:Psychoanalysis]]
+[[Category:Jacques Lacan]]
+[[Category:Dictionary]]
+[[Category:Concepts]]
+[[Category:Culture]]
+[[Category:Terms]]
+[[Category:New]]
+[[Category:Art]]
+
+__NOTOC__

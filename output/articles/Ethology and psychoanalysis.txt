@@ -1,0 +1,25 @@
+Ethology is a biology of behavior. It has developed a nomenclature for describing the behavior of all living things in their natural environment using an approach that is naturalistic, experimental, and comparative. It describes the structure of a behavioral sequence, its immediate causes, its adaptive benefits (its function), and its origin in the evolutionary development of the species and the biological development of the individual. Ethology has established itself as an observational method in some of the existing social sciences, including genetics, ethoecology, ethoneurology, ethosociology, etholinguistics, and ethopsychoanalysis.
+After World War II, René Spitz, faced with the behavioral pathology of abandoned children, following the work of Anna Freud, studied the genesis of object-relationships and the construction of the ego within a Freudian perspective. Strongly influenced by Konrad Lorenz and the then-new theory of cybernetics, he observed and manipulated the "eyes-nose-mouth" stimulus signal that triggers the suckling's motor smile. He subsequently developed the concept of ego organizers and showed how the child's mastery of the head-shake, meaning "No," marks the behavioral emergence of the process of symbolization.
+In 1958, John Bowlby, then president of the British Psycho-Analytic Society, described the effects of a lack of maternal care. These findings showed an "astonishing convergence" (Zazzo, 1974) with the Harlows' experiments on Rhesus monkeys, which demonstrated that the affective relationship between a mother and her infant was built not on nutritional needs but rather on a primary need for sensory exchange.
+At the Twenty-First International Congress of Psychoanalysis in Copenhagen (1959), a stimulating debate was initiated. Some psychoanalysts felt that experiments on imprinting, epigenesis, stimulus-signals, synaptic facilitation, and the behavioral ontogenesis that constructs human ties buttressed the Freudian concept of drives. Others, however, felt that these ran counter to Freudian theory, since the idea of attachment as a primary bond contradicted that of an anaclitic relationship to drives. They also felt that direct observation added nothing to clear pictures of subject's mental world that could be obtained from a historical approach.
+In contemporary ethnopsychoanalysis, the ethological method is used to observe the structuring of the primary bond and to evaluate it in terms of life events and cultural pressures with, as a base-line, the observation of the "strange situation" (Ainsworth et al., 1978).
+The three levels of interaction distinguish the body, the affect, and the fantasy (Lebovici, 1991), which, as "psychic representative of the drive" (Freud), enables the unconscious to give shape to the drive and thereby fashion the words and gestures (Cosnier, 1984) that act on the other. Interestingly, Jacques Lacan invoked ethology as early as 1936. His study of such phenomena as animal behavior in front of a mirror and the "dance" of sticklebacks enabled him to develop the fundamental concepts of the mirror stage and the interaction of the Real and the Imaginary in humans.
+The psychoanalytic development an ethological anthropology allows us to situate man in the living world by emphasizing how the emergence of symbols and signs has created a specifically human, historicized world.
+
+
+==See Also==
+* [[Clinging instinct]]
+* [[Imaginary]]
+* [[Instinct]]
+* [[Primary need]]
+
+==References==
+<references/>
+# Ainsworth, Mary D. Salter, Blehar, M. C., Waters, E., and Wall, S. (1978). Patterns of attachment: A psychological study of the strange situation. Hillsdale, N.J.: Lawrence Erlbaum.
+# Bowlby, John. (1958). The nature of the child's tie to his mother. International Journal of Psycho-Analysis, 39, 350-373.
+# Cosnier, Jacques. (1984). La psychanalyse, le langage et la communication. Psychothérapies. 4 (4), 215-222
+# Harlow, Harry. (1958). La nature de l'amour. Le psychologue américain, 13, 673-685.
+# Lebovici, Serge. (1991). La dépendance du nouveau-né. In Catherine Dechamp-Le Roux (Ed.), Figures de la dépen-dance, autour d'Albert Memmi (pp. 29-39). Paris: Presses Universitaires de France.
+# Spitz, René A. (1957). No and yes: On the genesis of human communication. New York: International Universities Press.
+
+[[Category:New]]

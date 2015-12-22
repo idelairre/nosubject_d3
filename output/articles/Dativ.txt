@@ -1,0 +1,55 @@
+==[[der Dativ]]==
+====The Dative Case====
+The dative case has four functions.
+# Indirect object
+# Object of a dative verb or dative construction
+# Object of a dative preposition
+# Object of a two-way preposition
+
+
+
+=====Definite Articles=====
+{| border="1"
+|+ The table's caption
+! !! Masculine !! Feminine !! Neuter !! Plural
+|-
+! Definite
+| '''dem''' Mann || '''der''' Frau || '''dem''' Kind || '''den''' Leuten'''
+|-
+! Indefinite
+| '''einem''' Mann || '''einer''' Frau || '''einem''' Kind || '''keinen''' Leuten'''
+|-
+! Indefinite
+| '''diesem''' Mann || '''welcher''' Frau || '''jedem''' Kind || '''manchen''' Leuten'''
+|-
+! Indefinite
+| '''meinem''' Mann || '''seiner''' Frau || '''ihrem''' Kind || '''deinen''' Leuten'''
+|}
+
+==Grammatik==
+[[Verben mit Direktivergänzung]]
+
+
+====External Links====
+=====The Dative Case=====
+http://www.wm.edu/modlang/gasmit/grammar/nouns/datfunc.htm
+http://www.utils.ex.ac.uk/german/abinitio/chap5-6.html
+http://www.vistawide.com/german/grammar/german_cases_dative.htm
+http://www.germanfortravellers.com/learn/lesson/grammar/dative.htm
+http://www.deutsched.com/Grammar/Lessons/0204dative.php
+
+=====The Cases=====
+http://en.wikibooks.org/wiki/German/Grammar/Cases
+http://german.speak7.com/german_cases
+http://www.acampitelli.com/explain_case_in_German.htm
+http://www.mckinnonsc.vic.edu.au/la/lote/german/materials/grammar/derdieds.htm
+http://www.deutsched.com/Grammar/Lessons/0201cases.php
+
+=====Grammar=====
+http://www.arts.uwaterloo.ca/~skidmore/grammarpage.htm
+http://io.uwinnipeg.ca/~oberle/courses/review.html
+http://learno.com/learno_jsp_includes/LearnoIncludeQuestion.jsp?id=48866&jump_to=question_0#question_0
+http://www.mckinnonsc.vic.edu.au/la/lote/german/index.htm
+http://www.deutsched.com/Grammar/
+
+__NOEDITSECTION__

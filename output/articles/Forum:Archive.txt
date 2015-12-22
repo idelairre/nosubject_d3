@@ -1,0 +1,7 @@
+{{forumtop}}
+<table class="forumlist" style="border: 1px solid #aaa" width="100%"><tr style="background: #eee"><th class="forum_title" align="left">Topic</th><th class="forum_edited" align="left">Last Edit</th><th class="forum_editor" align="left">Last Author</th></tr>
+<forum>
+category=Archive
+shownamespace=false
+addlasteditor=true
+</forum></table>

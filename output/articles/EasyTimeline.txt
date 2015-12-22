@@ -1,0 +1,280 @@
+<timeline>
+Preset     = TimeHorizontal_AutoPlaceBars_UnitYear
+ImageSize = width:500 barincrement:50
+Period     = from:0 till:12
+BarData=
+  bar:a
+  bar:b
+  bar:c
+Define $s = fontsize:XL
+BackgroundColors = canvas:white
+PlotData=
+  width:20
+  shift:(45,-5)
+  bar:a from:3 till:4 $s text:[http://en.wikipedia.org/wiki/Leiden|Leiden]
+  bar:a  from:6 till:7 $s text:[http://en.wikipedia.org/wiki/Alphen%20aan%20den%20Rijn|Alphen aan den Rijn]
+  bar:b  from:1 till:2 $s text:[http://en.wikipedia.org/wiki/The%20Hague|The Hague]
+  bar:c  from:3 till:4 $s text:[http://en.wikipedia.org/wiki/Rotterdam|Rotterdam]
+</timeline>
+
+== Charts examples ==
+Three examples of what is possible. For more extensive examples see
+* [[:en:Template:Timeline WW II - Pacific Theatre|WW II - Pacific Theatre]]
+* [[:en:Template:Timeline_History_of_Computing|History of Computing]]
+* [[:de:Vorlage:Zeitleiste_Tour_de_France_Sieger|Tour de France Sieger]]
+* [[:en:Template:Vocal and instrumental pitch ranges|Vocal and instrumental pitch ranges]] (a nice example of a diagram that is not a timeline at all)
+* [[:en:Template:Complete_timeline_of_Macintosh models|Complete timeline of Macintosh models]]
+* [[:en:Template:Timeline_of_English_monarchs|English Monarchs]]
+
+<table><tr>
+<td valign=top>
+
+<timeline>
+ImageSize  = width:160 height:550
+PlotArea   = width:50 height:530 left:50 bottom:10
+
+DateFormat = yyyy
+Period     = from:1919 till:1991
+TimeAxis   = orientation:vertical
+ScaleMajor = unit:year increment:5 start:1920
+
+# there is no automatic collision detection,
+# so shift texts up or down manually to avoid overlap
+
+Define $dx = 25 # shift text to right side of bar
+
+PlotData=
+  bar:Leaders color:red width:25 mark:(line,white) align:left fontsize:S
+
+  from:start till:1922 shift:($dx,15)   text:Vladimir~Ilyich~[[Lenin]]
+  from:1922  till:1953 shift:($dx,5)    text:[[Stalin|Josef Stalin]]
+  from:1953  till:1964 shift:($dx,5)    text:Nikita~[[Khrushchev]]
+  from:1964  till:1982 shift:($dx,5)    text:Leonid~[[Brezhnev]]
+  from:1982  till:1984 shift:($dx,-12)  text:Yuri~[[Andropov]]
+  from:1984  till:1985 shift:($dx,4)    text:Konstantin~[[Chernenko]] fontsize:XS
+  from:1985  till:end  shift:($dx,10)   text:Mikhail~[[Gorbachev]]
+</timeline>
+</td>
+
+<td>&nbsp;&nbsp;</td>
+<td valign=top>
+<timeline>
+ImageSize  = width:800 height:100
+PlotArea   = left:65 right:15 bottom:20 top:5
+AlignBars  = justify
+
+Colors =
+  id:neogene   value:rgb(0.99215,0.8,0.54)
+  id:paleogene value:rgb(1,0.7019,0)
+  id:cretaceous   value:rgb(0.5,0.764,0.1098)
+  id:jurassic      value:rgb(0.302,0.706,0.5) 
+  id:triassic    value:rgb(0.403,0.765,0.716) 
+  id:permian   value:rgb(0.404,0.776,0.867) 
+  id:carboniferous     value:rgb(0.6,0.741,0.855)
+  id:devonian  value:rgb(0.6,0.6,0.788)
+  id:silurian  value:rgb(0.694,0.447,0.714)
+  id:ordovician      value:rgb(0.976,0.506,0.651)
+  id:cambrian  value:rgb(0.984,0.5,0.373)
+  id:neoproterozoic    value:rgb(0.792,0.647,0.583)
+  id:mesoproterozoic    value:rgb(0.867,0.761,0.533)
+  id:paleoproterozoic    value:rgb(0.702,0.698,0.369)
+  id:eoarchean    value:rgb(0.5,0.565,0.565)   
+  id:paleoarchean    value:rgb(0.6,0.592,0.569)   
+  id:mesoarchean    value:rgb(0.698,0.65,0.6)   
+  id:neoarchean    value:rgb(0.796,0.804,0.784)   
+  id:ediacaran     value:rgb(0.918,0.847,0.737)   
+  id:cryogenian    value:rgb(0.863,0.671,0.667)
+  id:tonian        value:rgb(0.796,0.643,0.424)  
+  id:stratherian   value:rgb(1,1,0.8)   # light yellow
+  id:calymmian     value:rgb(1,1,0.8)   # light yellow
+  id:orosirian     value:rgb(1,1,0.8)   # light yellow
+  id:rhyacian      value:rgb(1,1,0.8)   # light yellow
+  id:siderian     value:rgb(1,1,0.8)   # light yellow
+  id:ectasian      value:rgb(1,1,0.8)   # light yellow
+  id:stenian      value:rgb(1,1,0.8)   # light yellow
+  id:cenozoic   value:rgb(1,1,0)
+  id:mesozoic   value:rgb(0.5,0.6784,0.3176)
+  id:paleozoic  value:rgb(0.5,0.7098,0.835)
+  id:phanerozoic value:rgb(0.7019,0.886,0.819)
+  id:proterozoic value:rgb(0.8,0.85,0.568)
+  id:archean   value:rgb(0.6,0.6784,0.6745)
+  id:hadean value:rgb(0.4,0.4,0.4)
+  id:black  value:black
+  id:white  value:white
+
+Period      = from:-4567.17 till:0
+TimeAxis    = orientation:horizontal
+ScaleMajor  = unit:year increment:500 start:-4500
+ScaleMinor  = unit:year increment:100 start:-4500
+
+Define $markred = text:"*" textcolor:red shift:(0,3) fontsize:10
+
+PlotData=
+  align:center textcolor:black fontsize:8 mark:(line,black) width:25 shift:(0,-5)
+
+  bar:eon
+
+  at:      0   align:right  $markred
+  at:   -542   align:left   $markred shift:(2,3)
+  from: -542   till:    0   text:[[Phanerozoic]]  color:phanerozoic   
+  from:-2500   till: -542   text:[[Proterozoic]]  color:proterozoic   
+  from:-3800   till: -2500  text:[[Archean]]      color:archean   
+  from: start  till: -3800  text:[[Hadean]]       color:hadean
+
+
+  bar:era
+
+  from:  -65.5 till:    0   text:[[Cenozoic|C~z]] shift:(0,1.5)        color:cenozoic        
+  from: -251   till:  -65.5 text:[[Mesozoic|Meso~zoic]] shift:(0,1.5)  color:mesozoic        
+  from: -542   till: -251 text:[[Paleozoic|Paleo~zoic]] shift:(0,1.5)  color:paleozoic 
+  from: -1000  till:  -542  text:[[Neoproterozoic|Neoprote-~rozoic]] shift:(0,1.8) color:neoproterozoic   
+  from:-1600   till:  -1000  text:[[Mesoproterozoic]] color:mesoproterozoic  
+  from:-2500   till: -1600  text:[[Paleoproterozoic]] color:paleoproterozoic 
+  from:-2800   till: -2500  text:[[Neoarchean|Neo-~archean]] shift:(0,1.5)     color:neoarchean       
+  from:-3200   till: -2800  text:[[Mesoarchean|Meso-~archean]] shift:(0,1.5)   color:mesoarchean      
+  from:-3600   till: -3200  text:[[Paleoarchean|Paleo-~archean]] shift:(0,1.5) color:paleoarchean     
+  from:-3800   till: -3600  text:[[Eoarchean|Eoar-~chean]] shift:(0,0.5) color:eoarchean fontsize:6       
+  from:start   till: -3800  color:white
+
+  bar:period
+
+  fontsize:6
+  from:   -23.03 till:    0    color:neogene
+  from:  -65.5 till:   -23.03  color:paleogene
+  from: -145.5   till:  -65.5  color:cretaceous
+  from: -199.6   till: -145.5  color:jurassic
+  from: -251   till: -199.6    color:triassic
+  from: -299   till: -251      color:permian
+  from: -359.2   till: -299    color:carboniferous
+  from: -416 till: -359.2      color:devonian
+  from: -443.7 till: -416      color:silurian
+  from: -488.3   till: -443.7  color:ordovician
+  from: -542   till: -488.3    color:cambrian
+
+  from: -630   till:  -542  text:[[Ediacaran|Ed.]] color:ediacaran
+  from: -850   till:  -630  text:[[Cryogenian|Cryo-~genian]] color:cryogenian shift:(0,0.5)
+  from: -1000  till:  -850  text:[[Tonian|Ton-~ian]] color:tonian shift:(0,0.5)
+  from: -1200  till:  -1000 text:[[Stenian|Ste-~nian]] color:mesoproterozoic shift:(0,0.5)
+  from: -1400  till:  -1200 text:[[Ectasian|Ect-~asian]] color:mesoproterozoic shift:(0,0.5)
+  from: -1600  till:  -1400 text:[[Calymmian|Calym-~mian]] color:mesoproterozoic shift:(0,0.5)
+  from: -1800  till:  -1600 text:[[Statherian|Stath-~erian]] color:paleoproterozoic shift:(0,0.5)
+  from: -2050  till:  -1800 text:[[Orosirian|Oro-~sirian]] color:paleoproterozoic shift:(0,0.5)
+  from: -2300  till:  -2050 text:[[Rhyacian|Rhy-~acian]] color:paleoproterozoic shift:(0,0.5)
+  from: -2500  till:  -2300 text:[[Siderian|Sid-~erian]] color:paleoproterozoic shift:(0,0.5)
+  from: start  till:  -2500 color:white
+</timeline>
+
+<timeline>
+ImageSize  = width:800 height:100
+PlotArea   = left:65 right:15 bottom:20 top:5
+AlignBars  = justify
+
+Colors =
+  id:neogene   value:rgb(0.99215,0.8,0.54)
+  id:paleogene value:rgb(1,0.7019,0)
+  id:cretaceous   value:rgb(0.5,0.764,0.1098)
+  id:jurassic      value:rgb(0.302,0.706,0.5) 
+  id:triassic    value:rgb(0.403,0.765,0.716) 
+  id:permian   value:rgb(0.404,0.776,0.867) 
+  id:carboniferous     value:rgb(0.6,0.741,0.855)
+  id:devonian  value:rgb(0.6,0.6,0.788)
+  id:silurian  value:rgb(0.694,0.447,0.714)
+  id:ordovician      value:rgb(0.976,0.506,0.651)
+  id:cambrian  value:rgb(0.984,0.5,0.373)
+  id:cenozoic   value:rgb(1,1,0)
+  id:mesozoic   value:rgb(0.5,0.6784,0.3176)
+  id:paleozoic  value:rgb(0.5,0.7098,0.835)
+  id:phanerozoic value:rgb(0.7019,0.886,0.819)
+  id:black  value:black
+  id:white  value:white
+  id:darkgreen value:rgb(0,0.35,0)
+
+
+Period      = from:-542 till:0
+TimeAxis    = orientation:horizontal
+ScaleMajor  = unit:year increment:100 start:-500
+ScaleMinor  = unit:year increment:10  start:-540
+
+Define $markred   = text:"*" textcolor:red   shift:(0,3) fontsize:10
+Define $markgreen = text:"*" textcolor:darkgreen shift:(0,3) fontsize:10
+
+PlotData=
+  align:center textcolor:black fontsize:8 mark:(line,black) width:25 shift:(0,-5)
+
+  bar:eon
+  at:      0   align:right  $markred 
+  at:   -542   align:left   $markred shift:(2,3)
+  from: -542   till:    0   text:[[Phanerozoic]] color:phanerozoic
+
+  bar:era
+  at:      0   align:right  $markgreen
+  at:    -65.5 align:left   $markgreen shift:(2,3)
+  from:  -65.5 till:    0   text:[[Cenozoic]] color:cenozoic
+  from: -251   till:  -65.5 text:[[Mesozoic]] color:mesozoic
+  from: -542   till: -251   text:[[Paleozoic]] color:paleozoic
+
+  bar:period fontsize:8
+  from: -23.03    till:  0     text:[[Neogene|Neo-~gene]] shift:(0,0.5) color:neogene
+  from: -65.5  till:  -23.03   text:[[Paleogene|Paleo-~gene]] shift:(0,0.5) color:paleogene
+  from: -145.5   till:  -65.5 text:[[Cretaceous]] color:cretaceous
+  from: -199.6   till: -145.5   text:[[Jurassic]] color:jurassic
+  from: -251   till: -199.6   text:[[Triassic]]   color:triassic
+  from: -299   till: -251   text:[[Permian]]      color:permian
+  from: -359.2   till: -299   text:[[Carboniferous]] color:carboniferous
+  from: -416 till: -359.2   text:[[Devonian]]        color:devonian
+  from: -443.7 till: -416 text:[[Silurian|Sil-~urian]] shift:(0,0.5) color:silurian
+  from: -488.3   till: -443.7 text:[[Ordovician]] color:ordovician
+  from: -542   till: -488.3   text:[[Cambrian]]   color:cambrian
+</timeline>
+
+<timeline>
+ImageSize = width:800 height:100
+PlotArea  = left:65 right:15 bottom:20 top:5
+AlignBars = justify
+
+Colors =
+  id:neogene   value:rgb(0.99215,0.8,0.54)
+  id:paleogene value:rgb(1,0.7019,0)
+  id:cenozoic   value:rgb(1,1,0)
+  id:holocene   value:rgb(1,1,0.702)
+  id:pleistocene  value:rgb(1,0.922,0.384)
+  id:pliocene     value:rgb(1,0.922,0.675)
+  id:miocene      value:rgb(1,0.871,0)
+  id:oligocene    value:rgb(0.918,0.776,0.447)
+  id:eocene       value:rgb(0.918,0.678,0.263)
+  id:paleocene    value:rgb(0.92,0.576,0.005)
+  id:black  value:black
+  id:white  value:white
+  id:darkgreen value:rgb(0,0.35,0)
+
+Period     = from:-65.5 till:0
+TimeAxis   = orientation:horizontal
+ScaleMajor = unit:year increment:10 start:-60
+ScaleMinor = unit:year increment:1  start:-65
+
+Define $markgreen = text:"*" textcolor:darkgreen  shift:(0,3) fontsize:10
+
+PlotData=
+  align:center textcolor:black fontsize:8 mark:(line,black) width:25 shift:(0,-5)
+
+  bar:era
+  at:     0  align:right $markgreen 
+  at: start  align:left  $markgreen shift:(2,3)
+  from:start  till:  0    text:[[Cenozoic]] color:cenozoic
+
+  bar:period
+  from: -23.03   till:  0   text:[[Neogene]] color:neogene
+  from:start  till: -23.03   text:[[Paleogene]] color:paleogene
+
+  bar:epoch
+  from: -0.1  till:  0  color:holocene
+  from: -1.806  till: -0.1  text:[[Pleistocene|P]] color:pleistocene
+  from: -5.332    till: -1.806  text:[[Pliocene|Plio-~cene]] shift:(0,1) color:pliocene fontsize:7
+  from:-23.03    till: -5.332    text:[[Miocene]] color:miocene
+  from:-33.9    till:-23.03    text:[[Oligocene]] color:oligocene
+  from:-55.8    till:-33.9    text:[[Eocene]]     color:eocene
+  from:start  till:-55.8    text:[[Paleocene]]    color:paleocene
+</timeline>
+</td></tr>
+<tr><td colspan=3 align=left>{{Wikimedia Growth}}</td></tr>
+</table>

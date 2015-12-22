@@ -1,0 +1,36 @@
+
+==Id==
+The id is defined as the oldest part of the mind from which the other structures are derived.
+
+<blockquote>It contains everything that is inherited, that is present at birth, that is laid down in the constitution - above all, therefore, the instincts which originate from the somatic organization and which find a first psychical expression here in forms unknown to us. (SE, XXIII.145)</blockquote>
+
+The id is primitive, unorganized, and emotional: ‘the realm of the illogical’. 
+
+
+<blockquote>It is the dark, inaccessible part of our personality; what little we know of it we have learnt from our study of the dream-work and of the construction of neurotic symptoms, and most of that is of a negative character and can be described only as a contrast to the ego. We approach the id with analogies: we call it a chaos, a cauldron full of seething excitations … It is filled with energy reaching it from the instincts, but it has no organization, produces no collective will, but only a striving to bring about the satisfaction of instinctive needs subject to the observance of the pleasure principle.    (SE, XXII.73)</blockquote>
+
+Freud made a sharp distinction between two varieties of mental functioning which he called primary process and secondary process. The id uses primary process, which employs the mechanisms of condensation, displacement, symbolization, and hallucinatory wish fulfilment to which we referred in Chapter 4 when discussing dreams. It also ignores the categories of time and space, and treats contraries like dark/light or high/deep as if they were identical. As indicated in Freud's description, the id is governed only by the most basic, primitive principle of mental dynamics: avoidance of ‘unpleasure’ caused by instinctual tension, which can only be achieved by satisfaction of instinctual needs accompanied by pleasure.
+
+It is characteristic of Freud's predominantly pessimistic view of human nature that the so-called ‘pleasure principle’, upon which so much of his thought depends, is much more concerned with the avoidance of pain than with the pursuit of pleasure. In Chapter 2, we noted that powerful emotions were treated by Freud as disturbances which must be got rid of, not as pleasures to be sought.
+
+The ego is that part of the mind representing consciousness. It employs secondary process: that is, reason, common sense, and the power to delay immediate responses to external stimuli or to internal instinctive  promptings. It is originally derived from the id. Freud pictured the ego as a ‘special organization’, which is closely connected with the organs of perception, since it first develops as a result of stimuli from the external world impinging upon the senses.
+
+<blockquote>The ego is first and foremost a bodily ego. (SE, XIX.26)</blockquote>
+
+Freud means by this that the ego, being originally derived from sensations springing from the surface of the body, is a projection of the surface of the body. The sense of ‘I’ depends upon the perception of one's own body as a separate entity. Once in existence, the ego ‘acts as an intermediary between the id and the external world’. Because of the neural link between sensory perception and motor activity, the ego controls voluntary movement. The prime function of the ego is selfpreservation.
+
+<blockquote>As regards external events, it performs that task by becoming aware of stimuli, by storing up experiences about them (in the memory), by avoiding excessively strong stimuli (through flight), by dealing with moderate stimuli (through adaptation) and finally by bringing about expedient changes in the external world to its own advantage (through activity). As regards internal events, in relation to the id, it performs that task by gaining control over the demands of the instincts, by deciding whether they are to be allowed satisfaction, by postponing that satisfaction to times and circumstances favourable to the external world or by suppressing their excitations entirely.     (SE, XXIII.145–6)</blockquote>
+
+Freud's third division of mind is described by him as follows:
+
+<blockquote>The long period of childhood, during which the growing human being lives in dependence on his parents, leaves behind it as a precipitate the formation in his ego of a special agency in which this parental influence is      prolonged. It has received the name of super-ego. In so far as this superego is differentiated from the ego or is opposed to it, it constitutes a third power which the ego must take into account.
+
+    (SE, XXIII.146)</blockquote>
+
+The origin of Freud's concept of the super-ego can be traced to the paper on narcissism to which we referred earlier. Freud thought that, as the child developed, his megalomaniac primary narcissism was gradually eclipsed: that is, he came no longer to regard himself as the omnipotent ‘King Baby’, as centre of the universe. As the child gradually acquires cultural and ethical ideas, his libidinal instinctual impulses undergo repression. Because of this split within the psyche, the child comes to realize that he can no longer idealize himself; that there is an ego-ideal to which his own ego does not always conform. Freud postulated an agency within the mind that devoted itself to selfobservation: which watched the ego, and decided whether or not the ego was conforming to, or fell short of, the ego-ideal. This agency was what Freud later named the super-ego. As indicated in the last quotation, the super-ego originally derived from parental prohibitions and criticism. Because of the long period of childhood dependency, parental standards and subsequently the standards of society become introjected; that is, incorporated as part of the subject's own psyche with the consequence that the voice of conscience is heard whenever the ego falls short of the ego-ideal.
+
+Freud might equally well have used Pavlovian terminology. The superego can be regarded as the product of repeated conditioning by parental injunctions and criticism: for example, ‘You must clean your teeth after breakfast’, may become so ingrained a command that the adult who has long ago left home continues to feel uncomfortable if he does not obey it.
+
+The ego, therefore, is uneasily poised between three agencies: the external world, the id, and the super-ego, each of which may be urging  	
+
+a different course. It is not surprising that human actions sometimes appear vacillating or indecisive.

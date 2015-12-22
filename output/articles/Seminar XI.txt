@@ -1,0 +1,91 @@
+{{S}}
+{| style="width:450px; border:1px solid #aaa;text-align:left; line-height:2.0em; padding-left:10px;"
+|width="100px"|
+|width="350px"|
+|-
+| [[{{Y}}|1963 - 1964]]
+| ''[[Les quatre concepts fondamentaux de la psychanalyse]]''<BR>[[The Four Fundamental Concepts of Psychoanalysis]]
+|}
+
+
+[[Image:Sem11.jpg|350px|right]]
+{| class="wikitable" width="250px" cellpadding="4" cellspacing="4" align="center" bgcolor="#ffffff" style="line-height:2.0em; padding-left:30px; background:#ffffff; text-align:center;"
+|-
+| bgcolor="#ffffff" width="200px" style="padding-left:10px" | [[{{Y}}|Date]]
+| bgcolor="#ffffff" width="50px" style="padding-left:10px" | [[{{Y}}|PDF]]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|15 janvier 1964]] 
+| [http://nosubject.com/archive/seminaires/seminaireXI/1964.01.15.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|22 janvier 1964]] 
+| [http://{{archive}}/seminaireXI/1964.01.22.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|29 janvier 1964]] 
+| [http://{{archive}}/seminaireXI/1964.01.29.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|5 février 1964]] 
+| [http://{{archive}}/seminaireXI/1964.02.05.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|12 février 1964]] 
+| [http://{{archive}}/seminaireXI/1964.02.12.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|19 février 1964]] 
+| [http://{{archive}}/seminaireXI/1964.02.19.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|26 février 1964]] 
+| [http://{{archive}}/seminaireXI/1964.02.26.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|4 mars 1964]]
+| [http://{{archive}}/seminaireXI/1964.03.04.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|11 mars 1964]]
+| [http://{{archive}}/seminaireXI/1964.03.11.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|15 avril 1964]]
+| [http://{{archive}}/seminaireXI/1964.04.15.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|23 avril 1964]]
+| [http://{{archive}}/seminaireXI/1964.04.23.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|29 avril 1964]]
+| [http://{{archive}}/seminaireXI/1964.04.29.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|6 mai 1964]]
+| [http://{{archive}}/seminaireXI/1964.05.06.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|13 mai 1964]]
+| [http://{{archive}}/seminaireXI/1964.05.13.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|20 mai 1964]]
+| [http://{{archive}}/seminaireXI/1964.05.20.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|27 mai 1964]]
+| [http://{{archive}}/seminaireXI/1964.05.27.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|3 juin 1964]] 
+| [http://{{archive}}/seminaireXI/1964.06.03.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|10 juin 1964]] 
+| [http://{{archive}}/seminaireXI/1964.06.10.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|17 juin 1964]] 
+| [http://{{archive}}/seminaireXI/1964.06.17.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|24 juin 1964]] 
+| [http://{{archive}}/seminaireXI/1964.06.24.pdf link]
+|}
+
+
+<b>Le séminaire, Livre XI: Les quatre concepts fondamentaux de la psychanalyse.</b><br>
+French: (texte établi par Jacques-Alain Miller), Paris: Seuil, 1973.<br>
+English: <b>Book XI: The Four Fundamental Concepts of Psychoanalysis</b> (edited by Jacques-Alain Miller), New York: Norton, 1978.
+
+January 15 1964, marks the opening session of the seminars at the École Nationale Supérieure where, in the presence of celebrities (Lévi-Strauss, Althusser, Fernand Braudel) and a new younger audience, Lacan talks about the censorship of his teachings and his excommunication from official psychoanalytical circles. He wants to train analysts and, at the same time, address the non-analyst by raising the following questions: Is psychoanalysis a science? If so, under what conditions? If it is - the "science of the unconscious" or a "conjectural science of the subject" - what can it teach us about science?<br>
+Praxis, which "places the subject in a position of dealing with the real through the symbolic," produces concepts; four are offered here: the unconscious, repetition, transference and the drive. The 1973 title has often been contested in favor of the 1964's: <i>Les fondements de la psychanalyse</i>, which implies neither that it is a matter of concepts, nor that there are only four of them. Lacan is suspicious of the rapport between psychoanalysis, religion and science. Did they not have a founding father and quasi-secret texts? Freud was "legitimately the subject presumed to know," at least as to the unconscious: "He was not only the subject who was presumed to know, he knew." "He gave us this knowledge in terms that may be said to be indestructible." "No progress has been made that has not deviated whenever one of the terms has been neglected around which Freud ordered the ways that he traced and the paths of the unconscious." This declaration of allegiance contrasts with the study of Freud's dream about the dead son screaming "Father, can't you see I'm burning?" The main problem remains that of transference: the Name-of-the-Father is a foundation, but the legacy of the Father is sin, and the original sin of psychoanalysis is Freud's desire that was not analyzed. In "The Freudian thing" (<i>Écrits: A Selection</i>), Lacan presents the Name-of-the-Father as a treasure to be found, provided it implies self-immolation as a sacrificial victim to truth.<br>
+
+Of the four concepts mentioned, three were developed between 1953 and 1963. As to drives, whose importance has increased since the study of <i>objet a</i> in <i>L'angoisse</i>, Lacan considers them as different from biological needs in that they can never be satisfied. The purpose of the drive is not to reach a goal (a final destination) but to follow its aim (the way itself), which is to circle round the object. The real source of <i>jouissance</i> is the repetitive movement of this closed circuit. Freud defined <i>Trieb</i> as a montage of four discontinuous elements: "Drive is not thrust (<i>Drang</i>); in <i>Triebe und Triebschicksale</i> (1915, S.E. XIV) Freud distinguishes four terms in the drive: <i>Drang</i>, thrust; <i>Quelle</i>, the source; <i>Objekt</i>, the object; <i>Ziel</i>, the aim. Such a list may seem quite natural; my purpose is to prove that the text was written to show that it is not as natural as that." The drive is a thoroughly cultural and symbolic construct. Lacan integrates the aforementioned elements into the drive's circuit, which originates in an erogenous zone, circles the object and returns to the erogenous zone. This circuit is structured by the three grammatical voices:<br>1. the active (to see)<br>2. the reflexive (to see oneself)<br>3. the passive (to make oneself be seen).<br>The first two are autoerotic; only in the passive voice a new subject appears, "this subject, the other, appears in so far as the drive has been able to show its circular course." The drive is always active, which is why he writes the third instance as "to make oneself be seen" instead of "to be seen."<br>
+
+Lacan rejects the notion that partial drives can attain any complete organization since the primacy of the genital zone is always precarious. The drives are partial, not in the sense that they are a part of a whole (a genital drive), but in that they only represent sexuality partially: they convey the dimension of <i>jouissance</i>. "The reality of the unconscious is sexual reality - an untenable truth," much as it cannot be separated from death. "<i>Objet a</i> is something from which the subject, in order to constitute itself, has separated itself off as organ. This serves as symbol of the lack, of the phallus, not as such, but in so far as it is lacking. It must be an object that is separable and that has some rapport to the lack. At the oral level, it is the nothing; at the anal level, it is the locus of the metaphor - one object for another, give the feces in place of the phallus - the anal drive is the domain of the gift; at the scopic level, we are no longer at the level of demand, but of desire, of the desire of the Other; it is the same at the level of the invocatory drive, which is the closest to the experience of the unconscious." The first two relate to demand, the second pair to desire. Under the form of <i>objet a</i>, Lacan groups all the partial drives linked to part objects: the breast, feces, the penis, and he adds the gaze and the voice. Here, he asserts the split between the eye and the gaze when he analyzes Holbein's <i>The Ambassadors</i> as a "trap for the gaze" (<i>piège à regards</i>), but also as a <i>dompte-regard</i> (the gaze is tamed by an object) and a <i>trompe-l'oeil</i>. In the foreground, a floating object, a phallic ghost object gives presence to the - </font><font face="Symbol" size="3">F</font><font face="BOOKMAN" size="3"> of castration. This object is the heart of the organization of desire through the framework of the drives.<br>
+
+In "La Lettre volée" (<i>Écrits</i>) Lacan states that "the unconscious is the discourse of the Other," meaning that "one should see in the unconscious the effects of speech on the subject." The unconscious is the effect of the signifier on the subject - the signifier is what gets repressed and what returns in the formations of the unconscious. How then is it possible to reconcile desire linked to the signifier and to the Other with the libido, now an organ under the shape of the "lamella," the placenta, the part of the body from which the subject must separate in order to exist? A new conception of repetition comes into play, whose functionning stems from two forces: automatism on the side of the signifier and the missed yet desired encounter on the side of the drive, where <i>objet a</i> refers to the "impossible" Real (that as such cannot be assimilated). If transference is the enactment (<i>la mise en acte</i>) of the reality of the unconscious - what Lacan's deconstruction of the drive wants to bring to light - if desire is the nodal point where the motion of the unconscious, an untenable sexual reality, is also at work, what is to be done? The analyst's role is to allow the drive "to be made present in the reality of the unconscious": he must fall from the idealized position so as to become the upholder of <i>objet a</i>, the separating object.
+__NOTOC__

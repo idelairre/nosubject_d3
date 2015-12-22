@@ -1,0 +1,41 @@
+Sociology is the methodological study of social facts, processes, and actions. Depending on the author, it is a general nomothetic science of society (Émile Durkheim), a science of the social forms resulting from the interaction among individuals (Georg Simmel), a discipline that strives to comprehend social activity (Max Weber), or "the living aspect, "the living aspect, the fleeting moment when society, or men, become sentimentally aware of themselves and of their relation to others" (Mauss M., 1923/1990, 80). Psychoanalysis is a method of investigating the individual psychic apparatus and a psychotherapeutic method that uses the transference that occurs during treatment as a powerful means of healing. Sociopsychoanalysis (a term not yet fully accepted) is a discipline that aims to articulate the relationship between the psychic and the social. In this respect, sociopsychoanalysis continues in the tradition of Freud's sociological and anthropological efforts.
+The term "sociology" was created by Auguste Comte, who used it in volume 4 of his <i>Cours de philosophie positive</i> (1847). It replaced the term "social physiology," put forward by Henri de Saint-Simon (1813). Yet it did not take on its modern meaning until Durkheim's <i>Rules of Sociological Method</i> (1895). The French terms "sociopsychanalyse," "socioanalyse, " and
+
+
+
+"sociothérapie" were used by different French authors after World War II (André Amar, Guy Palmade, Max Pagès, Jacques and Maria Van Bockstaele, Gérand Mendel, among others). It seems that the Englishman Eliott Jaques was the first to use the English term "socio-analysis," in 1947, in his work of rehabilitating soldiers back from the war.
+The desire to establish a link between psychoanalysis and sociology appears very early on in Freud's work. The articles "Obsessive Actions and Religious Practices" (1907b) and " 'Civilized' Sexual Morality and Modern Nervous Illness" (1908d) are evidence of this. In 1913 in "The Claims of Psychoanalysis to Scientific Interest," Freud stressed the contributions that psychoanalysis could make to all the previously constituted psychological and social sciences, the unconscious often playing a role of primordial importance in all sorts of human behavior. In his later works, from <i>Totem and Taboo</i> (1912-1913a) to <i>Moses and Monotheism</i> (1939a), Freud analyzed the events that presided over the foundation and modification of social links, the advent of civilization, and the rise of its current discontents.
+Many authors have followed in the path opened up by Freud in an effort to understand the evolution of civilization. Wilhelm Reich, the founder of "Freudo-Marxism," analyzed the role of the family in the creation of authoritarian behaviors and the role of capitalist-patriarchal society in suppressing the instincts. Herbert Marcuse stressed the excessive suppression engendered by the capitalist system and the capacity of the most alienated classes to fight against the modern state and its tendency to make the individual into a "one-dimensional man." By studying various types of societies and analyzing many different myths and legends, the anthropologist and psychoanalyst Géza Róheim succeeded in demonstrating that Freud's fundamental hypotheses (the primitive horde, murder of the father, the Oedipus complex) are pertinent to all cultures, regardless of how different they might be.
+Other researchers have taken a greater interest in the relations between psychoanalysis and politics and the phenomenon of power in modern societies. Theodor W. Adorno attempted to define the authoritarian personality, the source of all fascisms. Norman Brown tried to demonstrate the role of the life and death instincts in social functioning. Serge Moscovici studied crowds and the role of the leader, thus paying homage to the pioneering character of Freud's <i>Totem and Taboo</i> (1912-1913a) and <i>Group Psychology and the Analysis of the Ego</i> (1921c). Eugène Enriquez found in Freud's work the elements necessary for his theory of the social link, and Cornelius Castoriadis used this theory to define the primary role of the imaginary in the institution of society. Pierre Legendre highlighted underdogs' love for superiors, and Pierre Ansart focused on how political passions are managed.
+Moreover, psychoanalysis has contributed to the creation of an original school of psychology and clinical sociology by analyzing the unconscious processes at work in groups, organizations, and institutions. First British authors (Wilfred R. Bion, Eliott Jaques), then French authors (Max Pagès, Gérard Mendel, Didier Anzieu, René Kaës, Jean-Claude Rouchy, André Lévy, and Eugène Enriquez), contributed new elements on the fantasies, projections, and identifications constantly at play in these groups, as well as on the organizational imaginary and on the processes of repression, suppression, and idealization at work in organizations. In South America, a school was formed to conduct a "social clinic."
+Undergoing particular development since 1990 have been "psycho-sociology," the science of groups, organizations, and institutions (Kurt Lewin and the French authors mentioned above), and clinical sociology (Louis Wirth), particularly in Quebec and in France. In fact, clinical sociology was recognized as a branch of sociology by the International Sociological Association in 1993. It seeks to create a sociology that is close to lived experience and that makes the subject and the subject's splitting and contradictions central elements in social construction.
+Efforts to link sociology and psychoanalysis have yielded varied results. While some authors have defined original approaches, enriched analytic theory, and furthered the comprehension of social phenomena, others in France, intoxicated by the success of analysis, have indiscriminately applied psychoanalytic concepts to social reality and have succeeded only in bastardizing psychoanalysis (making it a management tool) and disfiguring social processes.
+
+==See Also==
+* [["Claims of Psychoanalysis to Scientific Interest"]]
+* [[Collective psychology]]
+* [[Criminology and psychoanalysis]]
+* [[Ego]]
+* [[Group Psychology and the Analysis of the Ego]]
+* [[Le Bon, Gustave]]
+* [[Moses and Monotheism]]
+* [[Politics and psychoanalysis]]
+* [[Reich, Wilhelm]]
+* [[Rite and ritual]]
+* [[Taboo]]
+* [[Totem and Taboo]]
+
+==References==
+<references/>
+# Freud, Sigmund. (1907b). Obsessive actions and religious practices. SE, 9: 115-127.
+# ——. (1908d). "Civilized" sexual morality and modern nervous illness. SE, 9: 177-204.
+# ——. (1913j). The claims of psychoanalysis to scientific interest. SE, 13: 163-190.
+# ——. (1912-1913a). Totem and taboo. SE, 13: 1-161.
+# ——. (1921c). Group psychology and the analysis of the ego. SE, 18: 65-143.
+# ——. (1930a [1929]). Civilization and its discontents. SE, 21: 57-145.
+# ——. (1939a [1934-1938]). Moses and monotheism: three essays. SE, 23: 1-137.
+# Kaës, René. (1993). Le groupe et le sujet du groupe. Paris: Dunod.
+# Marcuse, Herbert. (1964). One dimensional man. Boston: Beacon Press.
+# Mauss, Marcel. (1990). The gift: The form and reason for exchange in archaic societies (W. D. Halls, Trans.) New York: W.W. Norton. (Original work published 1923)
+
+[[Category:New]]

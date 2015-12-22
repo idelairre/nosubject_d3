@@ -1,0 +1,55 @@
+{{Topp}}noeud borroméen{{Bottom}}          
+[[Image:Borromean.Knot.jpg|thumb|300px|right|The Borromean knot]]  
+==Jacques Lacan==
+[[Lacan]] used the concept or [[image]] of the [[borromean knot|knot]] quite frequently. References to [[knot]]s can be found in [[Lacan]]'s [[Works of Jacques Lacan|work]] as early as the 1950s,<ref> {{E}} p. 281</ref> but it is not until the ealy 1970s that [[Lacan]] begins to examine [[knot]]s from the point of view of their [[topology|topological properties]]. In the mid-1970s he tried to theorize the interrelation of the [[Symbolic]], the [[Imaginary]] and the [[Real]] in terms of the [[topology]] of [[borromean knot|knots]].
+
+==Topology==
+The study of "[[knot|knot theory]]" marks an important development in [[Lacan]]'s [[topology]]; from the study of surfaces (the [[moebius strip]], the [[torus]], etc.) [[Lacan]] moves to a much more complex area of the [[topology]] of [[knot]]s. [[Topology]] is increasingly seen as a radically [[metaphor|non-metaphorical]] way of exploring the [[symbolic order]] and its interactions with the [[imaginary]] and the [[real]]; rather than simply representing [[structure]], [[topology]] is that [[structure]].
+
+==Knot==
+In this late period of his work, one kind of [[knot]] comes to interest [[Lacan]] more than any other: the [[Borromean knot]]. The [[Borromean knot]] -- shown to the right -- so called because the [[List of Figures|figure]] is found on the coat of arms of the Borromeo family, is a group of three rings which are linked in such a way that if any one of them is severed, all three become separated.<ref>{{S20}} p. 112</ref>
+
+==Chain==
+Strictly speaking, it would be more appropriate to refer to this figure as a [[chain]] rather than a [[knot]], since it involves the interconnection of several different threads, whereas a [[knot]] is formed by a single thread. Although a minimum of three threads or rings are required to form a [[Borromean knot|Borromean chain]], there is no maximum number; the [[chain]] may be extended indefinitely by adding further rings, while still preserving its [[Borromean knot|Borromean]] quality (i.e. if any of the rings is cut, the whole chain falls apart).
+
+==Three Orders==
+[[Lacan]] first takes up the [[Borromean knot]] in the [[seminar]] of 1972-3, but his most detailed discussion of the [[knot]] comes in the [[seminar]] of 1974-5. It is in this [[seminar]] that [[Lacan]] uses the [[Borromean knot]] as, among other things, a way of illustrating the interdependence of the [[order|three order]]s of the [[real]], the [[symbolic]] and the [[imaginary]], as a way of exploring what it is that these [[order|three order]]s have in common. Each ring represents one of the [[order|three order]]s, and thus certain elements can be located at intersections of these rings. (In his view these orders are tied together in the form of a "Borromean knot".  The "Borromean knot" is a linkage of three "string rings" in such a way that no two rings intersect.  The structure of the knot is such that the cutting of any one ring will liberate all of the others.  [[Lacan]] used the theory of knots to stress the relations which bind or link the [[Imaginary]], [[Symbolic]] and [[Real]], and the [[subject]] to each, in a way which avoids any notion of hierarchy, or any priority of any one of the three terms.)
+
+==Psychosis==
+In the [[seminar]] of 1975-6, [[Lacan]] goes on to describe [[psychosis]] as the unravelling of the [[Borromean knot]], and proposes that in some cases this is prevented by the addition of a fourth ring, the ''[[sinthome]]'', which holds the other three together.
+
+==See Also==
+{{See}}
+* ''[[Extimacy]]''
+* [[Imaginary]]
+||
+* [[Moebius strip]]
+* [[Order]]
+||
+* [[Psychosis]]
+* [[Real]]
+||
+* ''[[Sinthome]]''
+* [[Structure]]
+||
+* [[Subject]]
+* [[Symbolic]]
+||
+* [[Torus]]
+* [[Topology]]
+{{Also}}
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+[[Category:Psychoanalysis]]
+[[Category:Jacques Lacan]]
+[[Category:Science]]
+[[Category:Figures]]
+[[Category:Dictionary]]
+[[Category:Concepts]]
+[[Category:Terms]]
+
+__NOTOC__

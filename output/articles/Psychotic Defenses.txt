@@ -1,0 +1,27 @@
+Psychotic defenses are psychic processes involving unconscious, or more-or-less conscious, attempts to deal with reality. They take the form of disavowal or withdrawal as the subject tries to avoid or circumscribe conflicts encountered in his relationship with the external world.
+In "The Neuro-Psychoses of Defense" (1894a), Freud wrote: "There is, however, a much more energetic and successful kind of defense. Here, the ego rejects the incompatible idea together with its affect and behaves as if the idea never occurred to the ego at all. But from the moment at which this has been successfully done the subject is in psychosis" (p. 58)—to which he added in 1896 that "<i>projection</i>," as a "defensive symptom," signified "<i>distrust of other people</i>" (p. 184).
+The chief psychotic defenses in Freud's view were <i>foreclosure</i> (<i>Verwerfung</i>, reformulated by Lacan in 1956), <i>projection,</i> and <i>delirium.</i> All of these were in evidence in Freud's analysis of the case of President Schreber (1912a). The <i>disavowal</i> (of reality) as a defense (1927e) was described in the context of the castration complex, particularly in the case of fetishism.
+
+
+
+The work of Melanie Klein underscored the major role of the defense mechanism of projective identification in psychotic functioning. Such post-Kleinian authors as Wilfred R. Bion and Donald Meltzer viewed it also as an essential mechanism of psychic growth. Later, other mechanisms became the subject of important conceptual developments: projection, splitting (of ego or object), and the disavowal/idealization pair.
+Psychic defenses are not confined to psychotics. Since Bion, they have been deemed a part of the mental functioning of every individual, as long as they have not yet acquired an invasive and systematic quality.
+==See Also==
+* [[Defense]] 
+* [[Manic defenses]]
+
+==References==
+<references/>
+# Freud, Sigmund. (1894a). The neuro-psychoses of defence. SE, 3: 41-61.
+# ——. (1927e). Fetishism. SE, 21: 147-157.
+# Green, André. (1971). La projection: De l'identification projective au projet. In La folie privé. Paris: Gallimard.
+# Lacan, Jacques. (1966). Commentaire sur la Verwerfung. In Écrits. Paris: Seuil. (Original work published 1956)
+
+[[Category:New]]
+
+
+[[Category:Psychoanalysis]]
+[[Category:Terms]]
+[[Category:Concepts]]
+[[Category:Sigmund Freud]]
+[[Category:Jacques Lacan]]

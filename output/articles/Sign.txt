@@ -1,0 +1,63 @@
+{{Top}}signe{{Bottom}}
+
+===Ferdinand de Saussure===
+[[Image:SAUSSUREANALGORITHM.gif|thumb|200px|right|The Saussurean Sign]]
+According to [[Saussure]], the [[sign]] is the basic unit of [[language]]
+
+The [[sign]] is constituted by two elements: 
+# the [[signified]], a conceptual element (or concept), and 
+# the [[signifier]], a phonological element (or sound-image). 
+
+The two elements are linked by an arbitrary but unbreakable bond.
+
+=====Saussurean Sign=====
+[[Saussure]] represented the [[sign]] by means of a diagram.<ref>[[Saussure|Saussure, Ferdinand de]]. (1916) ''[[Saussure|Course in General Linguistics]]'', ed. Charles Bally and Albert Sechehaye, trans. Wade Baskin, Glasgow: Collins Fontana. p.114</ref> In this diagram, the line between the [[signified]] and the [[signifier]] represents union, the reciprocal implication of the two elements.  ([[Saussure]] put the [[signifier]] and the [[signified]] in an ellipse which indicates [[structure|structural unity]] of the [[sign]].)
+
+=====Jacques Lacan=====
+[[Lacan]] takes up the [[Saussure]]an concept of the [[sign]] in his "linguistic turn" in [[psychoanalysis]] during the 1950s, but subjects it to several modifications. During the 1950s [[Lacan]] began to make us of [[Saussure]]'s concepts but adapted them in important ways.
+
+=====Relation between Signifier and Signified=====
+Firstly, whereas [[Saussure]] posited the reciprocal implication between [[signifier]] and [[signified]] (they are as mutually interdependent as two sides of a sheet of paper), [[Lacan]] argues that the relation between [[signifier]] and [[signified]] is extremely unstable. 
+
+=====Primacy of the Signifier=====
+Secondly, [[Lacan]] asserts the [[existence]] of an order of "pure signifiers," where [[signifier]]s exist prior to [[signified]]s; this [[order]] of purely logical [[structure]] is the [[unconscious]]. This amounts to a destruction of [[Saussure]]'s concept of the [[sign]]; for [[Lacan]], a [[language]] is not composed of [[sign]]s but of [[signifier]]s.
+
+=====Saussurean algorithm=====
+[[Image:SAUSSUREANALGORITHM.gif|right|thumb|Saussurean algorithm|The Saussurean algorithm]] To illustrate the contrast between his own views and those of [[Saussure]], [[Lacan]] replaces [[Saussure]]'s diagram of the [[sign]] with an [[Saussurean algorithm|algorithm]] which, [[Lacan]] argues, should be attributed to [[Saussure]] -- and is thus now sometimes referred to as the "[[Saussure]]an algorithm."<ref>{{E}} p.149</ref> The '''S''' stands for the [[signifier]], and the '''s''' for the [[signified]]; the position of the [[signified]] and the [[signifier]] is thus inverted, showing the primacy of the [[signifier]] (which is capitalized, whereas the [[signifier]] is reduced to mere lower-case italic). The arrows and the circle are abolished, representing the [[absence]] of a stable or fixed relation between [[signifier]] and [[signified]]. The [[bar]] between the [[signifier]] and the [[signified]] no longer represents union but the [[resistance]] inherent in [[signification]]. For [[Lacan]], this [[algorithm]] defines "the [[topography]] of the [[unconscious]]."<ref>{{E}} p. 163</ref>
+
+==See Also==
+{{See}}
+* [[Enunciation]]
+* [[Index]]
+* [[Language]]
+||
+* [[Metaphor]]
+* [[Materialism]]
+* [[Signification]]
+||
+* [[Signified]]
+* [[Signifying Chain]]
+* [[Shifter]]
+||
+* [[Subject]]
+* [[Symbol]]
+* [[Symptom]]
+{{Also}}
+
+== References ==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+[[Category:Psychoanalysis]]
+[[Category:Jacques Lacan]]
+[[Category:Linguistics]]
+[[Category:Dictionary]]
+[[Category:Language]]
+[[Category:Symbolic]]
+[[Category:Concepts]]
+[[Category:Terms]]
+[[Category:OK]]
+
+__NOTOC__
+__NOEDITSECTION__

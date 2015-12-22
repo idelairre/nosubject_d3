@@ -1,0 +1,39 @@
+Both Emmanuel Kant and Arthur Schopenhauer, his disciple and interpreter, had a profound influence on psychoanalysis, although their underlying theories sometimes need to be differentiated. Just as important, however, is the fact that psychoanalysis can be considered an avatar of Kantianism, if not of metaphysics in general.
+
+References to Kant appear in Freud's work in three different contexts:
+
+   1. Freud presents Kant's "categorical imperative" as the "inheritor of the Oedipus complex."
+   2. Freud contested the universal and necessary character of the categories of space and time in human sensibility. These categories undergo a process of development that depends on the relationship between consciousness and the unconscious.
+   3. Freud compares the unconscious and the thing-in-itself (Assoun, 1976). Although the first reference serves only to legitimate and anticipate Freudian theory, the other two references situate Freud's metapsychological reflections in terms of their differences from Kantian thought. Freud read Kant according to Schopenhauer's interpretation, which ties transcendentalism to anthropology.
+
+Many of Freud's ideas (dreams and repression, the unconscious, sexuality, love, and death) are similar to those of Schopenhauer. Freud recognized a connection to some of his ideas, though he denied Schopenhauer's influence, which he is said to have come across late in life under the influence of Otto Rank. However, between 1830 and 1920 Schopenhauer's ideas were quite popular. The interpretation Schopenhauer gave to Kantian thought resulted in a "marriage between a neo-Kantian philosophic orientation and the scientific work conducted under the aegis of materialist psycho-physiology" (Assoun, 1976), a position held by Theodore Meynert, Johann Herbart, and others, who were well known to Freud.
+
+Whatever the situation may have been, through his work with hysterics, Freud discovered transference, resistance, and the therapeutic framework. In spite of their shared pessimism, Freud was careful to distinguish himself from Schopenhauer in his conception of the death impulse. Also, Freud's metapsychology cannot be confused with a weltanschauung (worldview), which characterized Schopenhauer's work as far as Freud was concerned.
+
+When Jacques Lacan attempted to define an ethics of psychoanalysis, he questioned Kant's conception of morality. Although he, like Kant, tried to ground ethics in something unconditioned that is distinct from the Sovereign Good, he rejected the Kantian choice between duty and the categorical imperative. Similarly, he rejects the notion that an ethics of psychoanalysis should be a morality of the superego. For Lacan, the truth of Kant's Critique of Practical Reason is found in the marquis de Sade's Philosophy in the Bedroom (1990) and, more particularly, in his long theoretical chapter "One more try for the republicans" (Lacan, 1966). The Sadean imperative of enjoyment, "You should seek enjoyment," is a fulfillment of the Kantian categorical imperative. For Lacan, enjoyment is beyond pleasure, or rather, it is the extreme of pleasure, "to the extent that this extreme consists in forcing access to the 'Thing' (das Ding)" (Lacan, 1986), that is, the absolute Other of the lost subject. Hence, the ethics of psychoanalysis needs to be grounded somewhere else: in desire itself. If there is a law of desire, Lacan's associated imperative would be, "Do not give in to your desire." It remains to be determined what this desire is: pure desire, desire of castration, desire of death (Guyomard, 1992)?
+
+For a number of philosophers who want to bring psychoanalysis within the fold of the metaphysics of subjectivity, Kant and Schopenhauer are two links in a chain that, by way of Spinoza and others, joins Freud and Lacan to Descartes (Henry, 1993; Vaysse, 1999).
+
+==See Also==
+* [[Civilization]]
+* [[Determinism]]
+* [[Grid]]
+* [[L' Inconscient]]
+* [[Internal/external reality]]
+* [[Love-Hate-Knowledge (L/H/K links)]]
+* [[Memoirs of the future]]
+* [[Nostalgia]]
+* [[Otherness]]
+* [[Philosophy]]
+* [[Preconception]]
+* [[Taboo]]
+* [[Thing-presentation]]
+
+==References==
+<references/>
+# Lacan, Jacques. (1966). Kant avec Sade. In hisÉcrits, pp. 765-790. Paris: Le Seuil. (Original work published 1963)
+# Lacan, Jacques. (1986). Le séminaire: livre vii: l'éthique de la psychanalyse. Paris: Le Seuil.
+# Sade, Marquis de. (1990). Justine, philosophy in the bedroom, and other writings. New York: Grove Press.
+
+[[Category:New]]
+[[Category:Enotes]]

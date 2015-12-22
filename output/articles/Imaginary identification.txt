@@ -1,0 +1,29 @@
+Jacques Lacan differentiated between an imaginary identification, that forms the ego from a symbolic one that founds the subject. He discussed the first in his essay on the "Mirror Stage" (1936) and he examined the second primarily in his seminar on [[Identification]] (1961-1962).
+
+Imaginary identification involves the image of one's "fellow being." Before the subject develops the proper neurological connection, he grasps the unity of his body image by identifying with the image of the other, the ideal ego. Thus the subject escapes the feeling of having a fragmented body. The mirror stage is also the source of the aggressive tension that characterizes relations with the one's fellow being, and it is the source of desire as the other's.
+
+Symbolic identification, or "signifier identification," involves an ideal signifier—an insignia of the Other or a unary trait—as the nucleus of the ego-ideal that the subject depends on.
+
+This situation is modeled on Freud's second form of identification, that is, an identification by adopting a single trait taken from the object. In fact, imaginary identification depends on symbolic identification. In the mirror stage, the infant looks for a sign from the maternal Other holding him up to the mirror in order to confirm that the image is his. Behind the signifier of the ego-ideal are the Name-of-the-Father and the symbolic phallus.
+
+A subject's sexual identity does not depend on his relation to an image, but on his position in relation to the symbolic phallus—a male subject has it, while the female subject does not have it, but is it.
+
+In the last years of his Seminar lectures, Lacan introduced the idea of identification with a symptom and added it to the notions of imaginary and symbolic identification.
+
+==See Also==
+* [[Body image]]
+* [[Demand]]
+* [[Ego ideal/ideal ego]]
+* [[I]]
+* [[Identification]]
+* [[Mirror stage]]
+* [[Object a]]
+* [[Seminar, Lacan's]]
+* [[Unary trait]]
+
+==References==
+<references/>
+# Lacan, Jacques. (2002). The mirror stage as formative of the I function as revealed in psychoanalytic experience. In Écrits: A selection. (Bruce Fink, Trans.). New York: W. W. Norton. (Original work published 1949).
+# ——. Le Séminaire-Livre IX, L'identification (1961-62). (unpublished seminar).
+
+[[Category:New]]

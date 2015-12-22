@@ -1,0 +1,42 @@
+{{Top}}mathématiques{{Bottom}}
+
+==Symbolic==
+In his attempt to theorize the category of the [[symbolic]], [[Lacan]] adopts two basic approaches.
+# The first approach is to describe it in terms borrowed from [[linguistics]], using a [[Saussure]]an-inspired model of [[language]] as a system of [[signifiers]].
+# The second approach is to describe it in terms borrowed from [[mathematics]]. 
+The two approaches are complementary, since both are attempts to describe formal systems with precise rules, and both demonstrate the power of the [[signifier]].
+
+===History===
+Although there is a general shift in [[Lacan]]'s work from the [[linguistic]] approach which predominates in the 1950s to a [[mathematical]] approach which predominates in the 1970s, there are traces of the [[mathematical]] approach as early as the 1940s.  The branches of [[mathematics]] which [[Lacan]] uses most are [[algebra]] and [[topology]], although there are also incursions into set theory and number theory.<ref>{{E}} pp. 316-18</ref>
+
+==Formalization==
+[[Lacan]]'s use of [[mathematics]] represents an attempt to [[formalize]] [[psychoanalytic theory]], in keeping with his view that [[psychoanalytic theory]] should aspire to the [[formalization]] proper to [[science]].
+<blockquote>"Mathematical formalization is our goal, our ideal."<ref>{{S20}} p. 108</ref></blockquote>
+[[Mathematics]] serve [[Lacan]] as a paradigm of modern [[scientific]] [[discourse]], which "emerged from the little letters of mathematics."<ref>{{S7}} p. 236</ref>
+
+==Metalanguage==
+However, this use of [[mathematics]] is not an attempt to produce a [[metalanguage]], since "no metalanguage can be spoken."<ref> {{E}} p.311</ref>
+<blockquote>"The root of the difficulty is that you can only introduce symbols, mathematical or otherwise, by using everyday language, since you have, after all, to explain what you are going to do with them."<ref>{{S1}} p.2</ref></blockquote>
+Thus [[Lacan]]'s use of [[mathematics]] is not an attempt to escape from the ambiguity of [[language]], but, on the contrary, to produce a way of [[formalization|formalizing]] [[psychoanalysis]] which produces multiple effects of sense without being reducible to a univocal [[signification]].  Also, by using [[mathematics]] [[Lacan]] attempts to prevent all attempts at [[imaginary]] [[knowledge|intuitive understanding]] of [[psychoanalysis]].
+
+==See Also==
+{{See}}
+* [[Algebra]]
+* [[Linguistics]]
+||
+* [[Mathemes]]
+* [[Science]]
+||
+* [[Symbolic]]
+* [[Topology]]
+{{Also}}
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+{{OK}}
+[[Category:Science]]
+
+__NOTOC__

@@ -1,0 +1,55 @@
+{|style="border-spacing:8px;margin:0px -8px"
+|class="MainPageBG" style="width:55%;border:1px solid #d3d3d3;background-color:#f5faff;vertical-align:top;color:#000"|
+{|width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top;background-color:#f5faff"
+! [[No_Subject:News|<h2 style="margin:0;background-color:#f5faff;font-family:sans-serif;font-size:120%;font-weight:bold;border:1px solid #f5faff;text-align:left;color:#00000;padding-left:0.4em;padding-top:0.2em;padding-bottom:0.2em;">News</h2>]]
+|-
+|style="color:#000"|{{No Subject:News}}
+|-
+
+|}<!-- Start of right-column -->
+|class="MainPageBG" style="width:45%;border:1px solid #d3d3d3;background-color:#f5faff;vertical-align:top"|
+{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top;background-color:#f5faff"
+! [[No_Subject:Community_Portal|<h2 style="margin:0;background-color:#f5faff;font-family:sans-serif;font-size:120%;font-weight:bold;border:1px solid #f5faff;text-align:left;color:#00000;padding-left:0.4em;padding-top:0.2em;padding-bottom:0.2em;">Community</h2>]]
+|-
+|style="color:#000"|{{No_Subject:Community}}
+|-
+
+|}
+|}
+
+{|style="border-spacing:8px;margin:0px -8px"
+|class="MainPageBG" style="width:55%;border:1px solid #d3d3d3;background-color:#f5faff;vertical-align:top;color:#000"|
+{|width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top;background-color:#f5faff"
+! [[Special:Allpages|<h2 style="margin:0;background-color:#f5faff;font-family:sans-serif;font-size:120%;font-weight:bold;border:1px solid #f5faff;text-align:left;color:#00000;padding-left:0.4em;padding-top:0.2em;padding-bottom:0.2em;">Articles</h2>]]
+|-
+|style="color:#000"|{{No Subject:Content}}
+|-
+
+|}<!-- Start of right-column -->
+|class="MainPageBG" style="width:45%;border:1px solid #d3d3d3;background-color:#f5faff;vertical-align:top"|
+{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top;background-color:#f5faff"
+! [[No_Subject:Featured_Article|<h2 style="margin:0;background-color:#f5faff;font-family:sans-serif;font-size:120%;font-weight:bold;border:1px solid #f5faff;text-align:left;color:#00000;padding-left:0.4em;padding-top:0.2em;padding-bottom:0.2em;">Community</h2>]]
+|-
+|style="color:#000"|{{No_Subject:Featured_Article}}
+|-
+
+|}
+|}<!-- Start of Featured Picture -->
+{|style="border-spacing:8px;margin:-8px -8px"
+|class="MainPageBG" style="width:100%;border:1px solid #ddcef2;background-color:#faf5ff;vertical-align:top;color:#000"|
+{|cellpadding="2" cellspacing="5" style="vertical-align:top;background-color:#faf5ff;color:#000"
+! <h2 style="margin:0;background-color:#ddcef2;font-family:sans-serif;font-size:120%;font-weight:bold;border:1px solid #afa3bf;text-align:left;color:#000;padding:0.2em 0.4em;">Today's featured picture</h2>
+|-
+|style="color:#000"|{{Wikipedia:POTD row/{{CURRENTMONTHNAME}} {{CURRENTDAY}}, {{CURRENTYEAR}}}} <!-- standardize format with other Pic of the day features -->
+|-
+|}
+|}<!-- Start of reference section -->
+==Other areas of Wikipedia==
+{{WikipediaOther}}<!--Template:WikipediaOther-->
+==Wikipedia's sister projects==
+{{WikipediaSister}}<!--Template:WikipediaSister-->
+==Wikipedia languages==
+{{Wikipedialang}}<!--Template:Wikipedialang-->
+</div>
+</div>__NOTOC__ __NOEDITSECTION__
+{{newpagelinksmain}}<!--Template:Newpagelinksmain-->

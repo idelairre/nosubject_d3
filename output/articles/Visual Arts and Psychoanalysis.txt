@@ -1,0 +1,68 @@
+
+The [[visual arts]] make use of nonverbal [[representation]] and therefore require a different [[psychoanalysis|psychoanalytic]] approach than the [[language arts]]. 
+
+==The Work of Art==
+The [[work of art]] can be considered as a [[compromise solution]] between [[impulse]]s and [[defense]]s. 
+[[Psychoanalysis]] can then try to reveal the [[unconscious]] [[ideas]] behind the [[creativity|creative work]]. 
+But in the [[visual arts]], even more so than in the [[language arts]], it is [[form]] itself, more than the [[representation|represented]] [[subject]], that must be [[interpretation|interpreted]].
+
+==Sigmund Freud==
+The first [[:category:works|psychoanalytic text]] to examine the [[visual arts]] was [[Freud]]'s <i>[[Leonardo da Vinci and a Memory of his Childhood]]</i>.<ref>1910c</ref> 
+
+[[Freud]] opened the way for [[psycho-biography]] by demonstrating the impact of [[instincts|instinctual]] and [[childhood|infantile life]] on the [[artist]]'s [[creativity|creative work]]. 
+(In his analysis of La Gioconda and Saint Anne, he approached the analysis of formal elements: the Gioconda's enigmatic smile owes its existence to Leonardo's infantile life; the confusion of the bodies of Anne and Mary in the London drawing is said to be a form of condensation.)
+
+[[Freud]] published "[[The Moses of Michelangelo]]"<ref>1914b</ref> but did not sign it, proof of his prudence in using [[psychoanalysis]] for the [[interpretation]] of [[art]]istic phenomena. 
+[[Freud]] based his [[interpretation]] of the statue on his own [[feeling]]s. 
+Since he [[identification|identified]] with the [[subject]] of the [[representation]], he understood the statue in terms of his own [[affect|emotional investment]], thus opening a path to an approach to [[art]]istic phenomena that was little used by later psychoanalysts, who were primarily interested in an analysis of the process of artistic creation. 
+
+There were a number of important contributions to this field aside from the work of Freud: Otto Rank, Melanie Klein, Hanna Segal, Ernst Kris, Donald Winnicott, and Didier Anzieu.
+
+Children's drawings and the work of psychotics have been used as nonverbal material, but strangely they have had little influence on the psychoanalysis of the visual arts. 
+
+Along with the approach taken by psychobiography and interpretations of the creative process, both of which are focused on the artist, psychoanalysis can also help us understand the work of art itself, providing it can avoid using verbal language as the only source of reference. 
+
+When Freud wrote that the lack of expression of the visual arts was due to the material used by those arts, he was referring to this.
+
+
+The [[image]] is not only a [[metaphor]] or [[symbol]]; it [[signification|signifies]], through its [[materiality]], the setting aside of its [[metaphor]]ic or [[symbol]]ic [[meaning]] and the context in which our [[perceptual field]] has classified it. 
+It comes to prominence through the brilliance of its [[materiality]] as a new [[external]] [[perception]] that we nonetheless are able to recognize. 
+For the [[visual arts]] much more than for [[literature]], [[meaning]] is hidden in [[form]], the result of the [[conscious]] and [[unconscious]] intentions of the [[author]].
+
+
+It is in the [[form]]al specifics of the work — that is, its style — that the process of figuration unique to the [[author]] is found. 
+This is what [[Freud]] called, referring to the [[dream work]], "[[pictorial language]]," our first mode of [[expression]]. The [[painting|painted]] or [[sculpture|sculpted]] [[image]] should not be considered only the transcription of verbal [[thought]] but the expression of a visual [[unconscious]] that preserves our earliest impressions. 
+
+The [[artist]] uses a sensory material that bears the [[trace]]s of his first [[affect]]ive [[perception]]s and experiences, producing a figurative [[representation]] that balances [[desire]] with [[external reality]], actual [[perception]] with what has been irremediably [[lost]].
+
+The psychoanalytic approach to the [[art]]s requires a methodology first used by [[Freud]] in "[[The Moses of Michelangelo]]." 
+The effect the work has on the [[spectator]] is the [[object]] of [[analysis]]. 
+The [[image]] must be considered a [[libido|libidinal]] [[object]] of [[investment]] that is offered to the [[spectator]] and apprehended on the basis of the effects it provokes in him. 
+The [[work of art]] reactivates the [[spectator]]'s [[unconscious]] [[desire]] and awakens, step by step, the [[representation]]s he has used as a support. 
+Through this associative process, the [[spectator]]-[[analyst]] juxtaposes the resonances the work provokes in him and the formal aspects that can be considered traces of the [[unconscious]] life of its [[author]]. 
+It is through this [[chain of association]] that he will be able to reconstruct the [[fantasy|fantasies]] that generated the [[work of art]].
+
+==See Also==
+* [[Charles Baudouin]]
+* [[Claims of Psychoanalysis to Scientific Interest]]
+* [[Literary and artistic creation]]
+* [[Illusion]]
+* [[Ernst Kris]]
+* [[Leonardo da Vinci and a Memory of his Childhood]]
+* [[The Moses of Michelangelo]]
+* [[Otto Rank]] [[Rosenfeld]]
+* [[Representability]]
+* [[Sublimation]]
+
+==References==
+<references/>
+# [[Freud, Sigmund]]. 1914b. [[The Moses of Michelangelo]]. SE, 13: 209-238.
+
+[[Category:New]]
+[[Category:Sigmund Freud]]
+[[Category:Psychoanalysis]]
+[[Category:Terms]]
+[[Category:Concepts]]
+[[Category:Art]]
+[[Category:Culture]]
+[[Category:Jacques Lacan]]

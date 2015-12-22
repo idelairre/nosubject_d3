@@ -1,0 +1,53 @@
+{{S}}
+{| style="width:450px; border:1px solid #aaa;text-align:left; line-height:2.0em; padding-left:10px;"
+|width="100px"|
+|width="350px"|
+|-
+| [[{{Y}}|1970 - 1971]]
+| ''[[D'un discours qui ne serait pas du semblant]]''<BR>[[On a Discourse That Would Not Be Semblance]]
+|}
+{| class="wikitable" width="250px" cellpadding="4" cellspacing="4" align="center" bgcolor="ffffff" style= "line-height:2.0em; padding-left:30px; background:#ffffff; text-align:center;"
+| bgcolor="#ffffff" width="200px" height"30" style="padding-left:10px" |  [[{{Y}}|Date]]
+| bgcolor="#ffffff" width="50px" style="padding-left:10px" |  [[{{Y}}|PDF]]
+| bgcolor="#ffffff" width="50px" style="padding-left:10px" |  [[Jacques Lacan:Audio|MP3]]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|13 janvier 1971]]
+| [http://{{archive}}/seminaireXVIII/1971.01.13.pdf link]
+| [http://{{archive}}/seminaireXVIII/1971.01.13.mp3 link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|20 janvier 1971]] 
+| [http://{{archive}}/seminaireXVIII/1971.01.20.pdf link]
+| [http://{{archive}}/seminaireXVIII/1971.01.20.mp3 link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|10 février 1971]] 
+| [http://{{archive}}/seminaireXVIII/1971.02.10.pdf link]
+| [http://{{archive}}/seminaireXVIII/1971.02.10.mp3 link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|17 février 1971]]  
+| [http://{{archive}}/seminaireXVIII/1971.02.17.pdf link]
+| [http://{{archive}}/seminaireXVIII/1971.02.17.mp3 link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|10 mars 1971]] 
+| [http://{{archive}}/seminaireXVIII/1971.03.10.pdf link]
+| [http://{{archive}}/seminaireXVIII/1971.03.10.mp3 link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|17 mars 1971]] 
+| [http://{{archive}}/seminaireXVIII/1971.03.17.pdf link]
+| [http://{{archive}}/seminaireXVIII/1971.03.17.mp3 link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|12 mai 1971]] 
+| [http://{{archive}}/seminaireXVIII/1971.05.12.pdf link]
+| [http://{{archive}}/seminaireXVIII/1971.05.12.mp3 link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|18 mai 1971]] 
+| [http://{{archive}}/seminaireXVIII/1971.05.19.pdf link]
+| [http://{{archive}}/seminaireXVIII/1971.05.19.mp3 link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|09 juin 1971]] 
+| [http://{{archive}}/seminaireXVIII/1971.06.09.pdf link]
+| [http://{{archive}}/seminaireXVIII/1971.06.09.mp3 link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|16 juin 1971]] 
+| [http://{{archive}}/seminaireXVIII/1971.06.16.pdf link]
+| [http://{{archive}}/seminaireXVIII/1971.06.16.mp3 link]
+|}

@@ -1,0 +1,77 @@
+{{Topp}}aliénation]]'', [[German]]: ''[[Entfremdung{{Bottom}}
+
+==Sigmund Freud==
+The term "[[alienation]]" does not constitute part of [[Freud]]'s [[theory|theoretical]] [[:category:concepts|vocabulary]]. 
+
+==Jacques Lacan==
+===References===
+In [[Lacan]]'s [[Jacques Lacan:Bibliography|work]] the term implies both [[psychiatric]] and [[philosophical]] references:
+
+;Psychiatry
+[[French]] [[psychiatry]] in the nineteenth century (e.g. Pinel) conceived of mental illness as ''[[alienation|aliénation mentale]]'', and a common term in [[French]] for "[[madness|madman]]" is ''[[alienation|aliéné]].''<ref>{{Ec}} p. 154</ref>
+
+;Philosophy
+The term "[[alienation]]" is the usual translation for the [[German]] term ''[[alienation|Entfremdung]]'' which features in the '''[[philosophy]]''' of [[Hegel]] and [[Marx]].
+
+However, the [[Lacan]]ian concept of [[alienation]] differs greatly from the ways that the term is employed in the [[Hegel]]ian and [[Marx]]ist tradition.<ref>{{S11}} p. 215</ref>
+
+===Subject===
+For [[Lacan]], [[alienation]] is not an accident that befalls the '''[[subject]]''' and which can be transcended, but an essential constitutive feature of the '''[[subject]]'''. 
+
+The [[subject]] is fundamentally '''[[split]]''', [[alienation|alienated]] from himself, and there is no escape from this [[division]], no possibility of "[[wholeness]]" or [[synthesis]].
+
+===Ego===
+[[Alienation]] is an inevitable consequence of the process by which the '''[[ego]]''' is constituted by '''[[identification]]''' with the [[counterpart]]: 
+
+<blockquote>"The initial synthesis of the ''ego'' is essentially an ''alter ego'', it is alienated."<ref>{{S3}} p. 39</ref></blockquote>
+
+In Rimbaud's words, "I is an other."<ref>{{E}} p. 23</ref>
+
+===Imaginary===
+Thus [[alienation]] belongs to the '''[[imaginary]] [[order]]''': 
+
+<blockquote>"Alienation is constitutive of the imaginary order. Alienation is the imaginary as such."<ref>{{S3}} p. 146</ref></blockquote>
+
+===Psychosis===
+Although [[alienation]] is an essential characteristic of all [[subjectivity]], '''[[psychosis]]''' represents a more extreme form of [[alienation]].
+
+==="Extimacy"===
+[[Lacan]] coined the term "'''[[extimacy]]'''" to designate the nature of this [[alienation]], in which [[alterity]] inhabits the innermost core of the [[subject]]. 
+
+===Separation===
+[[Lacan]] devotes the whole of chapter 16 of [[Seminar_XI|The Seminar, Book XI, The Four Fundamental Concepts of Psychoanalysis]] (1964a) to a discussion of [[alienation]] and the related concept of '''[[separation]]'''.
+
+==See Also==
+{{See}}
+* [[Counterpart]]
+* [[Ego-ideal]]
+||
+* ''[[Extimacy]]''
+* [[Identification]]
+||
+* [[Imaginary]]
+* [[Mirror stage]]
+||
+* [[Philosophy]]
+* [[Psychosis]]
+||
+* [[Split]]
+* [[Subject]]
+{{Also}}
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+[[Category:Philosophy]]
+[[Category:Psychoanalysis]]
+[[Category:Jacques Lacan]]
+[[Category:Imaginary]]
+[[Category:Dictionary]]
+[[Category:Concepts]]
+[[Category:Terms]]
+[[Category:New]]
+{{OK}}
+
+__NOTOC__

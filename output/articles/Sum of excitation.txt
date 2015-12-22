@@ -1,0 +1,27 @@
+In his earliest psychological investigations Freud explored the interface between the psychological and the physical, a context in which a "sum of excitation" had the following connotations: (1) a quantity of energy present in the nervous system and its psychical manifestations: the greater or lesser strength and vividness of ideas and memories and of the affects bound to them; (2) a regulatory dynamic governing that energy: the tendency to establish constancy through abreaction and the failures of this tendency in neurosis; (3) the aggregate of excitations and their limits, in accordance with neurophysiology, in the emergence and overdetermination of symptoms; and (4) the idea that the energetic processes involved here are quantifiable and measurable.
+
+As he worked on a proposed joint publication with Josef Breuer in 1892, Freud spoke of "the constancy of the sum of excitation" and "displacements . . . of sums of excitation" (1941a, pp. 147, 148; see also 1940a, p. 153-54). In his lecture "On the Psychical Mechanism of Hysterical Phenomena" (1893h), he introduced the notion as follows: "If a person experiences a psychical impression, something in his nervous system which we will for the moment call the sum of excitation is increased. Now in every individual there exists a tendency to diminish this sum of excitation once more, in order to preserve his health. . . . and when someone cannot get rid of the increase in stimulation by 'abreacting' it, we have the possibility of the event in question remaining a psychical trauma" (pp. 36, 37).
+
+Freud continued to use this expression until 1897. In its initial context, it was synonymous with "affect" or "amount of affect"; the fate of the sum of excitation in the event of repression was somatic innervation in the shape of hysterical conversion, and in the case of compulsive neurosis it underlay the creation of substitute ideas. But the notion that a principle of constancy affected the sum of excitation led Freud into overarching issues of dynamic and economic neuropsychology; this emerging set of problems was already present in the "quantities" Q and Qg of the "Project for a Scientific Psychology" (1950c [1895]).
+
+An intuition in the early days, the idea of the sum of excitation and its attendant problems were bound to evolve. The notion of "cathexis" was soon added to those of affect and amount or quota of affect. The instincts and instinctual impulses refined the energetic model of the psyche, while the tendency toward constancy was broken down into principles of inertia, constancy, pleasure, reality, and eventually even into the death instinct. The vividness of repressed memories led to the notions of the timelessness of the unconscious and of repetition. And, lastly, the economic standpoint became the tool with which to study the centrality of the quantitative factor in the etiology of mental disturbances.
+
+This idea was thus a rich theoretical seed, but it remained neurophysiological in character, and ultimately embodied too many other notions to survive in its original form.
+
+==See Also==
+* [[Conversion]]
+* [[Decathexis]]
+* [[Excitation]]
+* [[Hyper-cathexis]]
+* [[Principle of constancy]]
+* [[Psychosomatic limit/boundary]]
+* [[Quantitative/qualitative]]
+
+==References==
+<references/>
+# Freud, Sigmund. (1941a [1892]). Letter to Josef Breuer. SE,1.
+# ——. (1950c [1895]). Project for a scientific psychology. SE, 1: 281-387.
+# Freud, Sigmund, and Breuer, Josef. (1893a). On the psychical mechanism of hysterical phenomena: Preliminary communication. SE, 2: 1-17.
+# ——. (1940d [1892]). On the theory of hysterical attacks. SE, 1: 11-154.
+
+[[Category:New]]

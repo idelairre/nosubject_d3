@@ -1,0 +1,31 @@
+Commentary on the graphs ,H~ 
+If it is true that perception eclipses structure, a schema will infallibly lead the subject 'to forget in an intuitive image the analysis on which it is based' (p. 214). 
+It is the task of symbolism to forbid imaginary capture - and, indeed, its difficulty follows from the theory. 
+When gaining some illumination from lacan's schemata, we should not forget this warning. 
+Such a precaution reveals the inadequation in principle between the graphic representation and its object (the object of psychoanalysis). More­over, all the constructions gathered together here have no more than a didactic role: their relation with the structure is one of analogy. 
+On the other hand, there is no occultation of the symbolic in the topology that lacan sets up, because this space is the very space in which the re­lations of the logic of the subject are schematized. The inadequation of the analogies is pointed out by Lacan quite unambiguously on the optical model of the ideals of the person, precisely in the absence of the symbolic object 0 (objet petit a). From the note added to SchemaR (note 18, p. 223), one may learn the rules of transformation of intuitive geometry in the topology of the subject. 
+f·-A.M. 
+,,~~ 
+I The schema of the intersubjective dialectic 
+('Schema L', p. 193) 
+The schema shows that the dual relation between the ego and its pro­jection 0 0' (indifferently its image and that of the other) constitutes an obstacle to the advent of the subject S in the locus of its signifying deter­mination, A. The quaternary is fundamental: 'a quadripartite structure has, since the introduction of the unconscious, always been required in the construction of a subjective ordering' ('Kant avec Sade', Ecrits, p. 774). Why? Because to restore the imaginary relation in the structure that presents it involves a duplication of its terms: the 'small other' being 
+
+	Commentary on the graphs 	333 
+eY..ponentiated into 'capital Other', the undoing of the subject of the signifying chain coming to double the ego. The symmetry or reciprocity belongs to the imaginary register, and the position of the Third Party implies that of the fourth, which is given according to the levels of the analysis, the name of 'barred subject', or dummy (mort). (Cf. p. 229, 
+psychoanalytic bridge). 
+,~~ 
+II The structure of the subject 
+('Schema R', p. 193; 'Schreber's Schema' (1), p. 212) 
+Il• Composition of the symbolic, the imaginary and the real ('Schema R') 'Schema R' is made up of the meeting of two triangles, the symbolic ternary and the imaginary ternary, delimited in a sq'.lare by the base of each triangle. If the triangle of the symbolic occupies half of the square to itself, the other two figures sharing the other half, it is because, in structuring them, it must make them overlap. The dotted line stands for 
+the imaginary. 
+This construction requires a dOl1~le reading: 
+It may be read as a representation of the statlCS of the subject. Thus it consists of: (a) the triangle I resting on the dual relation between the Ego and the Other (narcissism, projection, captation), with, for its apex, the phallus, the imaginary object 'in which the subject identifies himself .•. with himself as a living being' (p. 196), that is to say, the species under which the subject represents himself to himself; (b) the field S, with the three functions of the Ego Ideal I in which the subject is mapped in the register of the symbolic, of the signifier of the Object M, of the Name-of-the-Father F in the locus of the Other O. The line I M may be regarded as doubling the relation between the subject and the object of desire through the mediation of the signifying chain, a relation that the lacanian algebra was to write as $00 (but the line immediately proves to be an inadequate representation); (c) the field R, framed by the imaginary relation and the symbolic relation. 
+But it is also the history of the subject that is notated here: on the seg­ment i M are placed the figures of the imaginary Other, which cul­minate in the figure of the mother, the real Other, inscribed in the symbolic under the signifier of the primal object, the first exterior to the subject, which bears in Freud the name of das Ding (cf. Bcrits, 
+p. 656); on the segment m I follow the imaginary identifications that form the Ego of the child until he receives his statute in the real and form the symbolic identification. One finds once again, therefore, a specified synchrony of the ternary S: the child in I is linked to the mother in M, as desire of her desire; in the third position is the Father, transmitted by the speech of the mother. 
+In his note of 1966, Lacan shows how to translate this square into his topology. The surface R is to be taken as the 'flattened form' (mise-a.-plat) of the figure that would be obtained by joining i to I and m to M, that is, by the torsion that characterizes the Moebius strip in complete space: the presentation of the schema in two dimensions is to be referred, therefore, to the cut that spreads the strip out. This explains why the straight line 1M cannot refer to the relation between the subject and the object of desire: the subject is simply the cut of the strip, and what falls from it is called the object 0 (objet petit a). This verifies and complements Jean-Claude Milner's formula on '$Oa': 'the terms are heterogeneous, whereas there is homogeneity attached to the places' (Cahiers pour l' analyse, no. 3, p. 96). That is the power of the subject. 
+anticipation, whose law imposes at the first intersection (on the vector -- 
+S-S') the last word (that is to say, punctuation )and retroaction, enumerated 
+in the formula of intersubjective communication, which necessitates a second intersection, in which is situated the receiver and his battery. Graph 2 composes, on the basis of the elementary cell, the imaginary identification and the symbolic identification in the subjective synchrony; the signifying chain is here given its specification as speech. It becomes the vector of the drive, between desire and phantasy, in the complete graph­the intermediary graph simply punctuating the question of the subject to the Other: 'What does he want of me?' to be inverted in its return, 'What 
+do you want of me?'
+
+[[Category:Écrits: A Selection]]

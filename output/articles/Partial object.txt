@@ -1,0 +1,80 @@
+{{Top}}objet partiel{{Bottom}}
+
+=====Melanie Klein=====
+=====Child Development=====
+According to [[Melanie Klein]], the [[infant]]'s underdeveloped capacity for perception, together with the fact that he is only concerned with his immediate gratifications, means that the [[subject]] begins by relating only to a part of a person rather than the whole.  The primordial [[part-object]] is, according to [[Klein]], the [[mother]]'s [[breast]].  As the [[child]]'s visual apparatus develops, so also does his capacity to perceive people as whole [[object]]s rather than collections of separate parts.
+
+=====Sigmund Freud=====
+While the term "[[part-object]]" was first introduced by the [[Kleinian]] [[school]] of [[psychoanalysis]], the origins of the concept can be traced back to [[Karl Abraham]]'s work and ultimately to [[Freud]]. 
+
+=====Partial Drives=====
+For example, when [[Freud]] states that [[drive|partial drive]]s are directed towards [[object]]s such as the [[breast]] or [[part-object|faeces]], these are clearly [[part-object]]s. 
+
+=====Penis=====
+[[Freud]] also implies that the [[penis]] is a [[part-object]] in his discussion of the [[castration complex]] (in which the [[penis]] is imagined as a separable organ) and in his discussion of [[fetishism]].
+
+=====Jacques Lacan=====
+The concept of the [[part-object]] plays an important part in [[Lacan]]'s work from early on. 
+
+=====Object-Relations Theory=====
+[[Lacan]] finds the concept of the [[part-object]] particularly useful in his criticism of [[object-relations theory]], which he attacks for attributing a false sense of completeness to the [[object]]. 
+
+In opposition to this tendency, [[Lacan]] argues that just as all [[drives]] are [[drive|partial drives]], so all [[objects]] are necessarily
+[[part-objects]].
+
+=====Kleinian psychoanalysis=====
+[[Lacan]]'s focus on the [[part-object]] is clear evidence of the important [[Klein]]ian influences in his work. 
+
+=====Partiality=====
+However, whereas [[Klein]] defines these [[object]]s as partial because they are only part of a [[whole]] [[object]], [[Lacan]] takes a different view.  They are partial, he argues, "not because these objects are part of a total object, the body, but because they represent only partially the function that produces them."<ref>{{E}} p. 315</ref>
+
+=====Biology=====
+In other words, in the [[unconscious]] only the [[pleasure]]-giving function of these [[object]]s is represented, while their [[biological]] function is not represented.  Furthermore, [[Lacan]] argues that what isolates certain parts of the [[body]] as a [[part-object]] is not any [[biological]] given but the [[signification|signifying]] [[system]] of [[language]].
+
+===Partial Objects===
+In addition to the [[partial object]]s already discovered by [[psychoanalytic theory]] before [[Lacan]] (the [[breast]], the [[part-object|faeces]], the [[phallus]] as [[imaginary]] [[object]], and the [[part-object|urinary flow]]), [[Lacan]] adds (in 1960) several more: the [[phoneme]], the [[gaze]], the voice and the nothing.<ref>{{E}} p. 315</ref>  These [[partial object]]s all have one feature in common: "they have no specular image."<ref>{{E}} p. 315</ref>   In other words, they are precisely that which cannot be assimilated into the [[subject]]'s [[narcissistic]] [[illusion]] of [[lack|completeness]].
+
+===''Objet petit a''===
+[[Lacan]]'s conceptualization of the [[part-object]] is modified with the development around 1963-4 of the concept of ''[[objet petit a]]'' as the [[cause]] of [[desire]].  Now each [[partial object]] becomes an [[object]] by virtue of the fact that the [[subject]] takes it for the [[object]] of [[desire]], ''[[objet petit a]]''.<ref>{{S11}} p. 104</ref>
+
+From this point on in his work, [[Lacan]] usually restricts his discussion of [[part-object]]s to only four: 
+# the [[voice]], 
+# the [[gaze]], 
+# the [[breast]] and 
+# [[part-object|faeces]].
+
+==Quotes==
+"[[Partial object]]" is [[Klein]]ian term that "has never been subjected to criticism since [[Karl Abraham]] introduced it."<ref>{{E}} p. 283, 687</ref>
+
+==See Also==
+{{See}}
+* [[Biology]]
+* [[Desire]]
+||
+* [[Kleinian psychoanalysis]]
+* [[Language]]
+||
+* [[Mother]]
+* [[Object-relations theory]]
+||
+* ''[[Objet (petit) a]]''
+* [[Unconscious]]
+{{Also}}
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+[[Category:Freudian psychology]]
+[[Category:Sigmund Freud]]
+[[Category:Jacques Lacan]]
+[[Category:Terms]]
+[[Category:Concepts]]
+[[Category:Psychoanalysis]]
+[[Category:Theory]]
+[[Category:Psychoanalytic theory]]
+[[Category:Dictionary]]
+[[Category:New]]
+{{OK}}
+
+__NOTOC__

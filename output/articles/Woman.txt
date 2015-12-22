@@ -1,0 +1,77 @@
+{{Top}}femme{{Bottom}}
+
+==Sigmund Freud==
+<!-- 
+===Masculine and Feminine Psychical Characteristics===
+[[Freud]]'s account of [[sexual difference]] is based on the view that there are certain psychical characteristics that can be called "[[masculine]]" and others that can be called "[[feminine]]", and that these differ from each other significantly.  However, [[Freud]] constantly refuses to give any definition of the terms "[[masculine]]" and "[[feminine]]", arguing that they are foundational concepts which can be used but not elucidated by [[psychoanalytic theory]].<ref>{{F}} "[[Works of Sigmund Freud|The Psychogenesis of a Case of Female Homosexuality]]", 1920a. [[SE]] XVIII, 171</ref>  One feature of this opposition is that the two terms do not function in an exactly symmetrical way. 
+-->
+===Femininity and Masculinity===
+[[Masculinity]] is taken by [[Freud]] as the paradigm; he asserts that there is only one [[libido]], which is [[masculine]], and that the [[psyche|psychical]] [[development]] of the [[girl]] is at first identical to that of the [[boy]], only diverging at a later moment.  [[Femininity]] is thus that which diverges from the [[masculinity|masculine paradigm]], and [[Freud]] regards it as a mysterious, unexplored region, a "dark continent."<ref>{{F}} ''[[Works of Sigmund Freud|The Question of Lay-Analysis]]'', 1926e. [[SE]] XX, 212</ref>  The "riddle of the nature of femininity" comes to preoccupy [[Freud]] in his later writings, and drives him to ask the famous question, "What does woman want?"<ref>{{F}} ''[[Works of Sigmund Freud|New Introductory Lectures on Psycho-Analysis]]'', 1933a. [[SE]] XXII, 113</ref>  [[Masculinity]] is a self-evident given, [[femininity]] is a zone of mystery:
+
+<blockquote>[[Psychoanalysis]] does not try to describe what a [[woman]] is -- that would be a task it could scarcely perform -- but sets about enquiring how she comes into being, how a [[woman]] develops out of a [[child]] with a bisexual disposition.<ref>{{F}} ''[[Works of Sigmund Freud|New Introductory Lectures on Psycho-Analysis]]'', 1933a. [[SE]] XXII, 116</ref></blockquote>
+
+==Jacques Lacan==
+<!--
+===Development of Thought===
+Apart from a few remarks on the function of the [[mother]] in the family complexes,<ref>{{1938}}</ref> [[Lacan]]'s pre-war writings do not engage with the debate on [[femininity]]. 
+===Women as Objects of Exchange===
+The occasional statements on the [[subject]] which occur in [[Lacan]]'s [[Works of Sigmund Freud|work]] in the early 1950s are couched in terms derived from [[Claude Lévi-Strauss]]; [[woman|women]] are seen as objects of exchange which circulate like [[sign]]s between kinship groups.<ref>[[Claude Lévi-Strauss|Lévi-Strauss, Claude]]. ''[[The Elementary Structures of Kinship]]'', Boston: Beacon Press, 1969 [1949b].</ref> 
+<blockquote>"Women in the real order serve .  . . as objects for the exchanges required by the elementary structures of kinship."<ref>{{E}} p. 207</ref></blockquote>
+[[Lacan]] argues that it is precisely the fact that [[woman]] is pushed into the position of an exchange object that constitutes the difficulty of the [[feminine position]]:
+<blockquote>For her, there's something insurmountable, let us say unacceptable, in the fact of being placed in the position of an [[object]] in the [[symbolic order]], to which, on the other hand, she is entirely subjected no less than the man.<ref>{{S2}} p. 262</ref></blockquote>
+====Dora Case====
+[[Lacan]]'s analysis of the [[Dora]] case makes the same point: what is unacceptable for [[Dora]] is her position as object of exchange between her [[father]] and Herr K.<ref>{{L}} 1951a</ref> 
+Being in this position of exchange object means that [[woman]] "has a relation of the second degree to this symbolic order."<ref>{{S2}} p.262; {{S4}} p.95-6</ref>
+-->
+===Hysteria===
+In 1956, [[Lacan]] takes up the traditional association of [[hysteria]] with [[femininity]], arguing that [[hysteria]] is in fact nothing other than the question of [[femininity]] itself, the question which may be phrased "[[woman|What is a woman?]]".  This is true for both [[male]] and [[female]] [[hysteric]]s.<ref>{{S3}} p. 178</ref>   The term "[[woman]]" here refers not to some [[biology|biological]] essence but to a position in the [[symbolic order]]; it is synonymous with the term "[[feminine position]]". 
+
+[[Lacan]] also argues that "there is no symbolization of woman's sex as such", since there is no feminine equivalent to the "highly prevalent symbol" provided by the [[phallus]].<ref>{{S3}} p.176</ref>  This symbolic dissymmetry forces the [[woman]] to take the same route through the [[Oedipus complex]] as the boy, i.e. to [[identify]] with the [[father]].  However, this is more [[complex]] for the [[woman]], since she is required to take the [[image]] of a member of the other [[sex]] as the basis for her [[identification]].<ref>{{S3}} p. 176</ref>
+
+<!--
+===Feminine Sexuality===
+[[Lacan]] returns to the question of [[femininity]] in 1958, in a paper entitled "Guiding remarks for a congress on feminine sexuality."<ref>{{L}} "[[Works of Jacques Lacan|Propos directifs pour un congrès sur la sexualité féminine]]," 1958d, in {{E}} pp. 725-36</ref> 
+In this paper he notes the impasses which have beset [[psychoanalytic]] discussions of [[feminine]] [[sexuality]], and argues that [[woman]] is the [[Other]] for both [[men]] and [[women]].
+<blockquote>"Man here acts as the relay whereby the woman becomes this Other for herself as she is this Other for him."<ref>{{Ec}} p. 732</ref></blockquote>
+-->
+===Feminine ''Jouissance''===
+[[Lacan]]'s most important contributions to the debate on [[femininity]] come, like [[Freud]]'s, late in his work.  In the [[seminar]] of [[{{Y}}|1972-3]], [[Lacan]] advances the concept of a specifically [[feminine]] ''[[jouissance]]'' which goes "beyond the phallus";<ref>{{S20}} p. 69</ref> this ''[[jouissance]]'' is "of the order of the infinite," like mystical ecstasy.<ref>{{S20}} p. 44</ref>  [[Women]] may experience this ''[[jouissance]]'', but they know nothing about it.<ref>{{S20}} p. 71</ref>
+
+==="Woman Does Not Exist"===
+It is also in this [[seminar]] that [[Lacan]] takes up his controversial formula, first advanced in the [[seminar]] of 1970-1, "[[woman|Woman does not exist]]" (''la femme n'existe pas''),<ref>{{L}} (1973a) ''[[Works of Jacques Lacan|Télévision]]'', Paris: Seuil, 1973 [''[[Works of Jacques Lacan|Television: A Challenge to the Psychoanalytic Establishment]]'', ed. Joan Copjec, trans. Denis Hollier, Rosalind Krauss and Annette Michelson, New York: Norton, 1990]. p.60</ref> which he here rephrases as "[[woman|there is no such thing as Woman]]" (''il n'y a pas La femme'').<ref>{{S20}} p. 68</ref>  As is clear in the original [[French]], what [[Lacan]] puts into question is not the noun "[[woman]]", but the definite article which precedes it.  In [[French]] the definite article indicates universality, and this is precisely the characteristic that [[women]] [[lack]]; [[women]] "do not lend themselves to generalisation, even to phallocentric generalisation."<ref>{{L}} "[[Works of Jacques Lacan|Conférence à Genève sur le symptôme]]", 1975b. ''Les Block-Notes de la psychanalyse'', Brussels.</ref>
+
+===Not-All===
+Hence [[Lacan]] strikes through the definite article whenever it precedes the term ''[[femme]]'' in much the same way as he strikes through the '''A''' to produce the [[symbol]] for the [[bar]]red [[Other]], for like [[woman]], the [[Other]] does not [[exist]].  To press home the point, [[Lacan]] speaks of [[woman]] as "[[not-all]]" (''[[not-all|pas-toute]]'');<ref>{{S20}} p. 13</ref> unlike [[masculinity]], which is a universal function founded upon the phallic exception ([[castration]]), [[woman]] is a non-universal which admits of no exception. 
+
+<!-- [[Woman]] is compared to [[truth]], since both partake of the logic of the [[not-all]] (there is no such thing as all [[women]]; it is impossible to say "the whole truth."<ref>{{L}} (1973a) ''[[Works of Jacques Lacan|Télévision]]'', Paris: Seuil, 1973 [''[[Works of Jacques Lacan|Television: A Challenge to the Psychoanalytic Establishment]]'', ed. Joan Copjec, trans. Denis Hollier, Rosalind Krauss and Annette Michelson, New York: Norton, 1990]. p. 64</ref> -->
+==="Woman is a Symptom of Man"===
+[[Lacan]] goes on in 1975 to state that a "[[woman|woman is a symptom]]."<ref>{{L}} (1974-5) ''[[Seminar XXII|Le Séminaire. Livre XXII. RSI, 1974-75]]'', published in ''[[Ornicar?]]'', nos. 2-5, 1975. [[Seminar]] of 21 January 1975.</ref>  More precisely, a [[woman]] is a [[symptom]] of a [[man]], in the sense that a [[woman]] can only ever enter the psychic economy of men as a [[fantasy]] [[object]] (a), the [[cause]] of their [[desire]].
+
+===Feminist Theory===
+[[Lacan]]'s remarks on [[woman]] and on [[feminine sexuality]] have become the focus of controversy and debate in feminist theory.  Feminists have divided over whether to see [[Lacan]] as an ally or an enemy of the feminist cause.  Some have seen his theories as providing an incisive description of patriarchy and as a way of challenging fixed concepts of sexual identity.<ref>Mitchell, Juliet and Rose, Jacqueline (eds) (1982) ''Feminine Sexuality: Jacques Lacan and the école freudienne'', London: Macmillan.</ref>  Others have argued that his concept of the [[symbolic order]] reinstates patriarchy as a transhistorical given, and that his privileging of the [[phallus]] simply repeats the alleged misogynies of [[Freud]] himself.<ref>Gallop, Jane. (1982) ''Feminism and Psychoanalysis: The Daughter's Seduction'', London: Macmillan. ; Grosz, Elizabeth. (1990) ''Jacques Lacan: A Feminist Introduction'', London and New York: Routledge.</ref>
+
+==See Also==
+{{See}}
+* [[Castration]]
+* ''[[Jouissance]]''
+||
+* [[Libido]]
+* [[Sexual difference]]
+||
+* [[Sexual relationship]]
+* [[Symptom]]
+{{Also}}
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+[[Category:Psychoanalysis]]
+[[Category:Jacques Lacan]]
+[[Category:Dictionary]]
+[[Category:Sexuality]]
+[[Category:Concepts]]
+[[Category:Terms]]
+
+__NOTOC__

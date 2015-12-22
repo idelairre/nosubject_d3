@@ -1,0 +1,5 @@
+<inputbox>
+type=create
+width=20
+preload=Template:New
+</inputbox>

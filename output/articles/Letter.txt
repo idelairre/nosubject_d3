@@ -1,0 +1,52 @@
+{{Topp}}lettre{{Bottom}}
+
+==Jacques Lacan==
+===Ferdinand de Saussure===
+[[Lacan]]'s frequent references to the "[[letter]]" must be seen within the context of [[Saussure]]'s discussion of [[language]].  In his ''[[Saussure|Course in General Linguistics]]'', [[Saussure]] privileges [[speech|spoken]] [[language]] above [[writing|written]] [[language]], on the grounds that the former appears before the latter both in the [[time|history]] of [[human|humanity]] and in the life of the individual. [[Writing]] is conceived of as a mere secondhand representation of [[speech|spoken]] [[language]], and the [[signifier]] is conceived of as purely an acoustic image and not as a graphic one.<ref>[[Saussure|Saussure, Ferdinand de]]. ''[[Saussure|Course in General Linguistics]]'', 1916. Ed. Charles Bally and Albert Sechehaye, trans. Wade Baskin, Glasgow: Collins Fontana.</ref>
+
+===Materiality===
+When [[Lacan]] takes up [[Saussure]]'s work in the 1950s, he adapts it freely to his own purposes. He thus conceives of the [[letter]], not as a mere graphic representation of a sound, but as the [[materialism|material basis]] of [[language]] itself.
+<blockquote>"By ''letter'' I designate that material support that concrete discourse borrows from language."<ref>{{E}} p. 147</ref></blockquote>
+
+The [[letter]] is thus connected with the [[real]], a [[materialism|material substrate]] that underpins the [[symbolic order]]. The concept of [[materialism|materiality]] implies, for [[Lacan]], both the indivisibility and the idea of locality; the [[letter]] is therefore "the essentially localized structure of the signifier."<ref>{{E}} p. 153</ref>
+
+===Meaning===
+As an element of the [[real]], the [[letter]] is [[meaning]]less in itself.  [[Lacan]] illustrates this by referring to ancient [[Egyptian hieroglyphics]], which were indecipherable to Europeans for so long. Until Champollion was able to decipher them on the basis of the Rosetta Stone, no one knew how to understand these enigmatic inscriptions, but it was nevertheless clear that they were organized into a signifying system.<ref>{{S1}} p. 244-5; {{E}} p. 160</ref> In the same way, the [[signifier]] persists as a [[meaning]]less [[letter]] which makes the destiny of the [[subject]] and which he must decipher.
+
+A good example of this is the case of the [[Wolf Man]], in which [[Freud]] noted that the [[meaning]]less [[letter]] V reappeared under many guides in the [[Wolf Man]]'s life.<ref>{{F}} "[[Works of Sigmund Freud|From the History of an Infantile Neurosis]]," 1918b [1914]. [[SE]] XVII, 3.</ref>  As the example of the [[Wolf Man]] demonstrates, the [[letter]] is essentially that which [[return]]s and [[repetition|repeats]] itself; it constantly insists in inscribing itself in the [[subject]]'s life.
+
+===Repetition===
+[[Lacan]] illustrates this [[repetition]] by reference to [[Edgar Allan Poe]]'s story ''[[The Purloined Letter]]''.<ref>Poe, Edgar Allan. 1844. "The Purloined Letter," in ''Great Tales and Poems of Edgar Allan Poe'', New York: Pocket Library, 1951.</ref>  Playing on the double-meaning of the term "[[letter]]", [[Lacan]] presents [[Poe]]'s account of a written document (a [[letter]]) which passes through various hands as a [[metaphor]] for the [[signifier]] which circulates between various [[subject]]s, assigning a peculiar position to whoever is possessed by it.<ref>{{L}} 1955a. "[[Works of Jacques Lacan|Le séminaire sur 'La lettre volée']]", in [[Jacques Lacan]], ''[[Écrits]]'', Paris: Seuil, 1966, pp. 11-61 ["[[Works of Jacques Lacan|Seminar on 'The Purloined Letter']]", trans. Jeffrey Mehlman, ''Yale French Studies'', 48 (1972): 38-72.</ref>  It is in this paper that [[Lacan]] proposes that "a letter always arrives at its destination."<ref>{{Ec}} p.41</ref>
+
+===To the Letter===
+It is because of the role of the [[letter]] in the [[unconscious]] that the [[analyst]] must focus not on the [[meaning]] or the [[signification]] of the [[analysand]]'s [[discourse]], but purely on its formal properties; the [[analyst]] must read the [[analysand]]'s [[speech]] as if it were a text, "taking it literally" (''prendre à la lettre'').
+
+=====Writing=====
+There is thus a close connection between the [[letter]] and [[writing]], a connection which [[Lacan]] explores in his [[seminar]] of 1972-3.<ref>{{S20}} pp. 29-38</ref>  Although both the [[letter]] and [[writing]] are located in the [[order]] of the [[real]], and hence partake of a [[meaning]]less quality, [[Lacan]] argues that the [[letter]] is that which one reads, as opposed to [[writing]], which is not to be read.<ref>{{S20}} p. 29</ref>  [[Writing]] is also connected with the idea of [[formalization]] and the [[matheme]]s; [[Lacan]] thus speaks of his [[algebra]]ic [[symbol]]s as "[[letter]]s."<ref>{{S20}} p. 30</ref>  [[Lacan]]'s concept of the [[letter]] is the subject of a critique by [[Jacques Derrida]]<ref>[[Jacques Derrida|Derrida, Jacques]] 1975. "Le facteur de la vérité," in ''The Post Card: From Socrates to Freud and Beyond'', trans. Alan Bass, Chicago and London: University of Chicago Press, 1987, pp. 413-96.</ref> and by two of Derrida's followers.<ref>Lacoue-Labarthe, Philippe, and Nancy, Jean-Luc. 1973. ''Le Titre de la lettre'', Paris: Galilée.</ref>. [[Lacan]] refers to the latter work in his 1972-3 [[seminar]].<ref>{{S20}} p. 62-6.</ref>
+
+==See Also==
+{{See}}
+* [[Language]]
+* [[Materialism]]
+||
+* [[Meaning]]
+* [[Signifier]]
+||
+* [[Speech]]
+* [[Unconscious]]
+{{Also}}
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+[[Category:Psychoanalysis]]
+[[Category:Jacques Lacan]]
+[[Category:Dictionary]]
+[[Category:Language]]
+[[Category:Symbolic]]
+[[Category:Concepts]]
+[[Category:Terms]]
+[[Category:OK]]
+__NOTOC__

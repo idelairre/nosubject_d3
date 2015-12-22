@@ -1,0 +1,50 @@
+{{Top}}besoin{{Bottom}}
+
+=Jacques Lacan=
+Around 1958, [[Lacan]] develops an important distinction between three terms: 
+* [[need]], 
+* '''[[demand]]''' and 
+* '''[[desire]]'''.
+
+==Need==
+In the context of this distinction, "[[need]]" comes close to what [[Freud]] referred to as "'''[[instinct]]'''" (''[[Instinkt]]''); that is, a purely '''''[[biological]]''''' concept opposed to the realm of the '''[[drive]]''' (''[[Trieb]]'').
+
+==Demand==
+[[Lacan]] bases this distinction on the fact that in order to [[desire|satisfy]] his [[needs]] the [[infant]] must articulate them in '''[[language]]'''; in other words, the [[infant]] must articulate his [[needs]] in a "'''[[demand]]'''".  However, in doing so, something else is introduced which causes a '''[[split]]''' between [[need]] and '''[[demand]]'''; this is the fact that every '''[[demand]]''' is not only an articulation of [[need]] but also an (unconditional) '''[[demand]]''' for '''[[love]]'''.  Now, although the [[other]] to whom the [[demand]] is addressed (in the first instance, the [[mother]]) can and may supply the [[object]] which [[satisfies]] the [[infant]]'s [[need]], she is never in a position to answer the [[demand]] for [[love]] unconditionally, because she too is [[division|divided]].  The result of this '''[[split]]''' between [[need]] and '''[[demand]]''' is an [[insatiable]] leftover, which is '''[[desire]]''' itself.
+
+==Desire==
+[[Need]] is thus an ''intermittent tension'' which arises for purely [[organic]] reasons and which is [[discharged]] entirely by the specific [[action]] corresponding to the particular [[need]] in question.  [[Desire]], on the other hand, is a ''constant force'' which can never be [[satisfied]], the constant 'pressure' which underlies the [[drives]].
+
+==A Pre-Linguistic Need==
+This account presents in [[chronological]] terms what is in fact a question of [[structure]].  In truth, it is not the case that there first exists a [[subject]] of pure [[need]] which then attempts to articulate that [[need]] in [[language]], since the distinction between pure [[need]] and its articulation in [[demand]] only exists from the moment of its articulation, by which time it is impossible to determine what that pure [[need]] could have been.  The concept of a [[linguistics|pre-linguistic]] [[need]] is thus merely a hypothesis, and the [[subject]] of this pure [[need]] is a mythical [[subject]]; even the paradigmatic [[need]] of hunger never exists as a pure [[biological]] given, but is marked by the [[structure]] of [[desire]]. Nevertheless, this hypothesis is useful to [[Lacan]] for maintaining his theses about the radical divergence between [[human]] [[desire]] and all [[natural]] or [[biological]] categories.
+
+=See Also=
+{{See}}
+* [[Biology]]
+* [[Development]]
+||
+* [[Demand]]
+* [[Desire]]
+||
+* [[Drive]]
+* [[Instinct]]
+||
+* [[Love]]
+* [[Mother]]
+||
+* [[Nature]]
+{{Also}}
+
+<!--
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+-->
+[[Category:Psychoanalysis]]
+[[Category:Jacques Lacan]]
+[[Category:Dictionary]]
+[[Category:Science]]
+[[Category:Concepts]]
+[[Category:Terms]]
+__NOTOC__

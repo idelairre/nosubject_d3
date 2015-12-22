@@ -1,0 +1,127 @@
+{{S}}
+
+{| class="wikitable" width="100%" cellpadding="2" align="left" bgcolor="ffffff" style="background:#ffffff;width:100%; height:200px; text-align:center; line-height:2.0em;"
+|-
+| bgcolor="#ffffff" width="50px" | ''[[Seminar_Index|Livre]]''<BR>[[Seminar_Index|Book]] 
+| bgcolor="#ffffff" width="50px" | ''[[Seminar_Index|Années]]''<BR>[[Seminar_Index|Years]]
+| bgcolor="#ffffff" width="500px" | ''[[Seminar_Index|Titre]]''<BR>[[Seminar_Index|Title]] 
+|-
+| bgcolor="#ffffff" | [[Seminar I|I]]<BR><BR>
+| [[Jacques Lacan:Chronology|1953-4]]<BR><BR> 
+|| ''[[Seminar I|Les écrits techniques de Freud]]''<BR>[[Seminar I|Freud's technical writings]]
+|-
+| bgcolor="#ffffff" | [[Seminar II|II]]<BR><BR>
+| [[Jacques Lacan:Chronology|1954-5]]<BR><BR> 
+|| ''[[Seminar II|Le moi dans la théorie de Freud et dans la technique de la psychanalyse]]'' <BR>[[Seminar II|The Ego in Freud's Theory and in the Technique of Psychoanalysis]]
+|-
+| bgcolor="#ffffff" | [[Seminar III|III]]<BR><BR>
+| [[Jacques Lacan:Chronology|1955-6]]<BR><BR> 
+|| ''[[Seminar III|Les psychoses]]'' <BR>[[Seminar III|The Psychoses]]
+|-
+| bgcolor="#ffffff" | [[Seminar IV|IV]]<BR><BR>
+| [[Jacques Lacan:Chronology|1956-7]]<BR><BR> 
+|| ''[[Seminar IV|La relation d'objet et les structures freudiennes]]''<BR>[[Seminar IV|The Object Relations]]
+|-
+| bgcolor="#ffffff" | [[Seminar V|V]]<BR><BR>
+| [[Jacques Lacan:Chronology|1957-8]]<BR><BR> 
+|| ''[[Seminar V|Les formations de l'inconscient]]'' <BR>[[Seminar V|The Formations of the Unconscious]]
+|-
+| bgcolor="#ffffff" | [[Seminar VI|VI]]<BR><BR>
+| [[Jacques Lacan:Chronology|1958-9]]<BR><BR> 
+|| ''[[Seminar VI|Le désir et son interprétation]]''<BR>[[Seminar VI|Desire and its Interpretation]]
+|-
+| bgcolor="#ffffff" | [[Seminar VII|VII]]<BR><BR>
+| [[Jacques Lacan:Chronology|1959-60]]<BR><BR> 
+|| ''[[Seminar VII|L'éthique de la psychanalyse]]'' <BR>[[Seminar VII|The Ethics of Psychoanalysis]]
+|-
+| bgcolor="#ffffff" | [[Seminar VIII|VIII]]<BR><BR>
+| [[Jacques Lacan:Chronology|1960-1]]<BR><BR> 
+|| ''[[Seminar VIII|Le transfert (dans sa disparité subjective)]]'' <BR>[[Seminar VIII|Transference]]
+|-
+| bgcolor="#ffffff" | [[Seminar IX|IX]]<BR><BR>
+| [[Jacques Lacan:Chronology|1961-2]]<BR><BR> 
+|| ''[[Seminar IX|L'identification]]'' <BR>[[Seminar IX|Identification]] 
+|-
+| bgcolor="#ffffff" | 
+| [[Jacques Lacan:Chronology|1963]]<BR><BR> 
+|| ''[[Les Noms du père]]''<BR>[[The Names of the Father]]
+|-
+| bgcolor="#ffffff" | [[Seminar X|X]]<BR><BR> 
+| [[Jacques Lacan:Chronology|1962-3]]<BR><BR> 
+|| ''[[Seminar X|L'angoisse]]'' <BR>[[Seminar X|Anxiety]]
+|-
+| bgcolor="#ffffff" | [[Seminar XI|XI]]<BR><BR>
+| [[Jacques Lacan:Chronology|1964]]<BR><BR> 
+|| ''[[Seminar XI|Les quatre concepts fondamentaux de la psychanalyse]]'' <BR>[[Seminar XI|The Four Fundamental Concepts of Psychoanalysis]]
+|-
+| bgcolor="#ffffff" | [[Seminar XII|XII]]<BR><BR>
+| [[Jacques Lacan:Chronology|1964-5]]<BR><BR> 
+|| ''[[Seminar XII|Problèmes cruciaux pour la psychanalyse]]'' <BR>[[Seminar XII|Crucial Problems for Psychoanalysis]]
+|-
+| bgcolor="#ffffff" | [[Seminar XIII|XIII]]<BR><BR> 
+| [[Jacques Lacan:Chronology|1965-6]]<BR><BR> 
+|| ''[[Seminar XIII|L'objet de la psychanalyse]]''<BR> [[Seminar XIII|The Object of Psychoanalysis]]
+|-
+| bgcolor="#ffffff" | [[Seminar XIV|XIV]]<BR><BR>
+| [[Jacques Lacan:Chronology|1966-7]]<BR><BR> 
+|| ''[[Seminar XIV|La logique du fantasme]]''<BR>[[Seminar XIV|The Logic of Fantasy]]
+|-
+| bgcolor="#ffffff" | [[Seminar XV|XV]]<BR><BR>
+| [[Jacques Lacan:Chronology|1967-8]]<BR><BR> 
+|| ''[[Seminar XV|L'acte psychanalytique]]''<BR>[[Seminar XV|The Psychoanalytic Act]]
+|-
+| bgcolor="#ffffff" | [[Seminar XVI|XVI]]<BR><BR>
+| [[Jacques Lacan:Chronology|1968-9]]<BR><BR> 
+|| ''[[Seminar XVI|D'un Autre à l'autre]]''<BR> [[Seminar XVI|From One Other to the Other]]
+|-
+| bgcolor="#ffffff" | [[Seminar XVII|XVII]]<BR><BR>
+| [[Jacques Lacan:Chronology|1969-70]]<BR><BR> 
+|| ''[[Seminar XVII|L'envers de la psychanalyse]]'' <BR>[[Seminar XVII|The Reverse of Psychoanalysis]]
+|-
+| bgcolor="#ffffff" | [[Seminar XVIII|XVIII]]<BR><BR> 
+| [[Jacques Lacan:Chronology|1971]]<BR><BR> 
+|| ''[[Seminar XVIII|D'un discours qui ne serait pas du semblant]]''<BR>[[Seminar XVIII|On a Discourse That Would Not Be Semblance]]
+|-
+| bgcolor="#ffffff" | [[Seminar XIX|XIX]]<BR><BR>
+| [[Jacques Lacan:Chronology|1971-2]]<BR><BR> 
+|| ''[[Seminar XIX|...ou pire]]''<BR>[[Seminar XIX|...Or Worse]]
+|-
+| bgcolor="#ffffff" | [[Seminar XX|XX]]<BR><BR>
+| [[Jacques Lacan:Chronology|1972-3]]<BR><BR> 
+|| ''[[Seminar XX|Encore]]'' <BR>[[Seminar XX|Encore]]
+|-
+| bgcolor="#ffffff" | [[Seminar XXI|XXI]]<BR><BR>        
+| [[Jacques Lacan:Chronology|1973-4]]<BR><BR> 
+|| ''[[Seminar XXI|Les non-dupes errent]]''<BR>[[Seminar XXI|The Non-Duped Err/The Names of the Father]]
+|-
+| bgcolor="#ffffff" | [[Seminar XXII|XXII]]<BR><BR>      
+| [[Jacques Lacan:Chronology|1974-5]]<BR><BR> 
+|| ''[[Seminar XXII|RSI]]''<BR>[[Seminar XXII|RSI]]
+|-
+| bgcolor="#ffffff" | [[Seminar XXIII|XXIII]]<BR><BR> 
+| [[Jacques Lacan:Chronology|1975-6]]<BR><BR> 
+|| ''[[Seminar XXIII|Le sinthome]]''<BR>[[Seminar XXIII|The Sinthome]]
+|-
+| bgcolor="#ffffff" | [[Seminar XXIV|XXIV]]<BR><BR> 
+| [[Jacques Lacan:Chronology|1976-7]]<BR><BR> 
+|| ''[[Seminar XXIV|L'insu que sait de l'une-bévue s'aile à mourre]]''<BR>[[Seminar XXIV|One Knew That It Was a Mistaken Moon on the Wings of Love]]
+|-
+| bgcolor="#ffffff" | [[Seminar XXV|XXV]]<BR><BR>
+| [[Jacques Lacan:Chronology|1977-8]]<BR><BR> 
+|| ''[[Seminar XXV|Le moment de conclure]]''<BR>[[Seminar XXV|The Moment of Concluding]]
+|-
+| bgcolor="#ffffff" | [[Seminar XXVI|XXVI]]<BR><BR> 
+| [[Jacques Lacan:Chronology|1978-9]]<BR><BR> 
+|| ''[[Seminar XXVI|La topologie et le temps]]''<BR>[[Seminar XXVI|Topology and Time]]
+|-
+| bgcolor="#ffffff" | [[Seminar XXVII|XXVII]]<BR><BR>       
+| [[Jacques Lacan:Chronology|1980]]<BR><BR> 
+|| ''[[Seminar XXVII|Dissolution]]''<BR>[[Seminar XXVII|Dissolution]]
+|}
+
+
+[[Category:Seminars]]
+[[Category:Jacques Lacan]]
+[[Category:Works]]
+
+__NOTOC__

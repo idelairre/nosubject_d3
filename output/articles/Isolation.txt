@@ -1,0 +1,15 @@
+=Freudian Dictionary=
+<blockquote>A technique peculiar to compulsion neurosis, is that of ''isolation''. Its reference is likewise to the motor sphere; and it consists in the interposition, after an unpleasant experience, as also after some act of the subject's own which is of significance in the sense of his neurosis, of a refractory period in which nothing more is allowed to happen, no perception registered, and no action performed. This at first sight strange behavior soon betrays its relation to repression. The effect of this isolation is the same, as in repression with amnesia. The isolation phenomena of compulsion neurosis reproduce this technique, but intensified by motor means and with a magic intent motor isolation is to furnish a guaranty of the interruption of coherence in thinking.<ref>{{PoA}} Ch. 6</ref></blockquote>
+
+
+=Below=
+
+"Isolation" is the defense mechanism characteristic of obsessional neurosis. The links of a thought, idea, impression, or feeling with other thoughts or behaviors are broken by means of pauses, rituals, magical formulas, or other such devices.
+
+In "The Neuro-Psychoses of Defense," Freud conceived of defense, in hysteria as well as in phobias and obsessions, as a form of isolation: "defense against the incompatible idea [is] effected by separating it from its affect; the idea itself [remains] in consciousness, even though weakened and...
+
+
+[[Category:Psychoanalysis]]
+[[Category:Terms]]
+[[Category:Concepts]]
+{{Freudian Dictionary}}

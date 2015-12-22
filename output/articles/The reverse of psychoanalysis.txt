@@ -1,0 +1,167 @@
+[[Image:Sem17.jpg|thumb|right]]
+
+1969-1970 	Le séminaire, Livre XVII: L'envers de la psychanalyse.
+French: (texte établi par Jacques-Alain Miller), Paris: Seuil, 1991.
+English: unpublished.
+
+Lacan identifies four viables types of social bond which regulate intersubjective relations. Articulations of the symbolic network, the Four Discourses get structured throughout dramatic reflection: plus-de-jouir and jouisance; the master and the slave; Marx; knowledge, truth and jouissance; the Father of Totem and Taboo who is all love - or all jouissance - and whose murder generates the love of the Dead Father, a father to whom Lacan opposes both the Father presiding over the first idealization - the one deserving love - and the Father who enters the discourse of the Master and is thereby castrated ab initio. For Lacan "the death of the father is the key to supreme jouissance, later identified with the mother as aim of incest." Psychoanalyis "is not constructed on the proposition 'to sleep with the mother' but on the death of the father as primal jouissance." The real father is not the father of biological reality, be he who upholds "the Real as impossible." From the Oedipus complex Lacan only saves the paternal metaphor and the Name-of-the-Father which "is positioned where knowledge acts as truth. Psychoanalysis consolidates the law."
+The novelty in this seminar is the return of the hysteric, with Dora and la Belle Bouche erre - the Beautiful Mouth wanders - an allusion to the dream of the beautiful butcher's wife analyzed by Freud and carried on in "The direction of the treatment and the principles of power" (Écrits: A Selection). Three questions: the rapport between jouissance and the desire for unfulfilled desire; the hysteric who makes man - fait l'homme or the Master - she constructs him as "a man prompted by the desire to know"; a new conception of the cure as a "hystericizaton of dicourse," which the analyst introduces at the structural level. This leaves untouched hysteria as attributed to woman - the only discourse where sexual difference comes openly into play. Castration is "the deprivation of woman," insofar as "she would fulfill herself in the smallest signifier." Woman is absent from the field of the signifier.
+As to the mathemes "a fundamental starting relation" functions as a postulate:
+[[Image:lacansem1c2.gif]]
+
+
+S1 refers to "the marked circle of the field of the Other," it is the Master-Signifier. S2 is the "battery of signifiers, already there" at the place where "one wants to determine the status of a discourse as status of statement," that is knowledge - savoir. S1 comes into play in a signifying battery conforming the network of knowledge. is the subject, marked by the unbroken line - trait unaire - which represents it and is different from the living individual who is not the locus of this subject. Add the objet a, the object-waste or the loss of the object that ocurred when the originary division of the subject took place - the object that is the cause of desire: the plus-de-jouir.
+
+Discourse of the Master:
+[[Image:lacansem1c3.gif]]
+
+
+
+It is the basic discourse from which the other three derive. The dominant position is occupied by the master signifier, S1, which represents the subject, S, for all other signifiers: S2. In this signifying operation there is a surplus: objet a. All attempts at totalisation are doomed to fail. This discourse masks the division of the subject, it illustrates the structure of the dialectic of the master and the slave. The master, S1, is the agent who puts the slave, S2, to work: the result is a surplus, objet a, that the master struggles to appropriate.
+
+Discourse of the University:
+[[Image:lacansem1c4.gif]]
+
+
+
+It is caused by a anticlockwise quarter turn of the previous discourse. The dominant position is occupied by knowledge - savoir. An attempt to mastery can be traced behind the endeavors to impart neutral knowledge: domination of the other to whom knowledge is transmitted. This hegemony is visible in modernity with science.
+
+Discourse of the Hysteric:
+[[Image:lacansem1c5.gif]]
+
+
+
+It is effected by a clockwise quarter turn of the discourse of the master. It is not simply "that which is uttered by the hysteric," but a certain kind of articulation in which any subject may be inscribed. The divided subject, S, the symptom, is in the pole position. This discourse points toward knowledge. "The cure involves the structural introduction of the discourse of the hysteric by way of artificial conditions": the analyst hystericizes the analysand's discourse.
+
+Discourse of the Analyst:
+[[Image:lacansem1c6.gif]]
+
+
+
+It is produced by a quarter turn of the discourse of the hysteric in the same way as Freud develops psychoanalysis by giving an interpretative turn to the discourse of his hysterical patients. The position of the agent - the analyst - is occipied by objet a: the analyst becomes the cause of the analysand's desire. This discourse being the reverse of the discourse of the master, does it make psychoanalysis an essentially subversive practice which undermines attempts at domination and mastery?
+
+In any case, this algebra is concerned with the positions which are fixed:
+[[Image:lacansem1c7.gif]]
+
+
+
+A the end of the seminar Lacan adds the opposition between 'impossibility' and 'impotence' - impuissance: "the impossible is the real where speech, as objet a, functions like a carrion" and "impotence protects truth." He states in his new translation of Wo Es War, soll Ich werden, work is for the analyst and "plus-de-jouir is for you": "Where plus-de-jouir was, the plus-de-jouir of the other, me, insofar as I utter the psychoanalytic act, I must come."
+There is the story of the three Congolese, analyzed by Lacan after WWII: "Their unconscious functioned according to the rules of the Oedipus complex, it was the unconscious that had been sold to them at the same time as the laws of colonization, an exotic form of the discourse of the Master, a regression before imperialist capitalism." Are the capitalistic or imperialistic discourses mentioned only metamorphoses of the discourse of the Master?
+As to the envers of psychoanalysis, sometimes it is the discourse of the Master when it functions as a foil. Sometimes it is unconscious discourse as the knowledge located where wrong and right sides (analytic discourse) cannot be separated, following the Moebius strip. "The envers is assonant with truth; one moves to the envers, but the envers does not explain any right side."
+
+"Radiophonie" (Autres écrits) is an interview recorded while L'envers... is taking place. In it Lacan declares that if "language is the condition of the unconscious, the unconscious is the condition of linguistics." Freud anticipates Saussure and the Prague Circle when he sticks to the patient's words, jokes, slips of the tongue, and brings to light the importance of condensation and displacement in the production of dreams. The unconscious is the fact "that the subject is not the one who knows what he says. Whoever articulates the unconscious says that it is either that or nothing." Linguistics has no hold on the unconscious since it leaves as a blank that which produces effects on the unconscious, the objet a, the focus of the analytic act - of any act. "Only the discourse that defines itself in terms given by psychoanalysis manifests the subject as other, whereas science, by making the subject a master, conceals him, so the desire that gives way to him bars the subject for me without remedy." There is only one myth in Lacan's discourse: the Freudian Oedipus complex. "In psychoanalysis, as well as in the unconscious, man knows nothing of woman, and woman nothing of man. The phallus epitomizes the point in myth where the sexual becomes the passion of the signifier." There is, however, no algebraic formula for the unconscious discourse: "...the unconscious is only the metaphorical term designating the knowledge only sustained when presented as impossible, so that it can conform by being real - real discourse."
+
+===More===
+Lecture Notes, Lacan’s Seminar XVII, Dr. Kovacevic.
+
+Lacan, Jacques. The Seminar of Jacques Lacan, Book XVII: The Other Side of Psychoanalysis, 1969-1970, Trans. Russell Grigg, unpublished draft.
+
+
+Session 1, November 26, 1969
+
+* being overwhelmed when one’s own preoccupations and the preoccupation of the other person cross paths and are expressed in speech (i.e. Lacan’s anecdote)
+
+-    the theme for the seminar: psychoanalysis upside down 
+* discourse as a necessary structure beyond speech, even “without words;” composed of fundamental and stable relations; “primordial statements” within which one can inscribe human actions, established in relation to the super-ego (p. 2) 
+* a relation of one signifier to another that leads to the emergence of the subject (counts as a fundamental relation); one signifier represents the subject for another one
+
+* S1 as the signifier that intervenes; S2 as the collection of signifiers on which S1 is going to act (the field of the Other) – eventually the field of knowledge; the existence of the subject supposes the existence of this field; the subject is equivalent to the living individual, though the latter is its reference point 
+
+* What is knowledge? Lacan refers to it as the jouissance of the Other  
+*  Lacan draws the discourse of the master & the discourse of the hysteric (without naming these structures as yet); a 90 degree turn from one to the other (a reference to “Kant with Sade,” the overturning of the master)
+* all together, four discourse structures; already inscribed in the world, making it appear as it is
+
+* the intervention of S1 in the field of S2 leads to the emergence of $ (the divided subject) and also the emergence of something that is split off the subject, which is the (lost) object a; the formation of the relation of repetition 
+
+* “a thirst for sense,” not in the various systems of thought, but in human beings 
+
+* What is an instinct (not Freud’s Trieb)? It is something that already “knows,” and that is supposed to make the continuation of life possible. Yet Freud comes up with the death drive, beyond the pleasure principle that keeps tension at the minimum. He uncovers that the analytic experience is a discourse structure.
+
+* Different places in which Lacan taught his seminars:
+-    1) Sainte-Anne Hospital (1953-1963) 
+* 2) Ecole Normale Superieure (1963-1969)
+* 3) Ecole des Hautes Etudes (Seminar XVII -  )
+* different interpretations of what Lacan was doing (ENS – Lacan’s course as a 
+* teaching, finally; SAH - amusement)
+* this time, a “juridical” interpretation; laws – how discourse affects reality (p. 5)
+
+* Freud’s discovery – a return to the inanimate (life returns to death through detours); detours = knowledge, instincts; knowledge as that which “causes life to stop at a certain limit on the way to jouissance,” p. 6. Jouissance = the path to death; a fundamental link between knowledge and jouissance
+
+* The object a – “surplus enjoyment” – the dialectic of frustration; the loss = the emergence of a gap or a hole that connotes the birth of desire; this “surplus enjoyment” is immanent (not transcendent, not a transgression); comparison with Marx and his theory of surplus value (paying the work, having this additional value)
+
+* The discourse of the master and philosophy: this discourse leads to the development of philosophy (the initial discourse in Lacan’s theory)
+
+* Examining the discourse of the master: S1 – the master signifier; S2 – the slave’s knowledge (ancient political systems – Aristotle’s Politics); the slave makes the existence of this knowledge possible (its function within the family or households as the one who has savoir-faire). The master exploits this knowledge of the slave (stealing or forcibly claiming it).  
+* knowledge: 1) the articulated aspect 2) the know-how aspect; the former is seized by the master
+* the episteme – the slave’s or craftsman’s knowledge that becomes the knowledge of the master 
+*  Meno – showing that the slave knows but at the same time concealing the fact that he is a creator of this knowledge and appropriating the knowledge for the master (note that in Kojeve’s formulation the master has no direct access to knowing & work only to fighting)
+* jouissance may not be the privilege of the master, as is commonly thought 
+* (historically) philosophy as cheating the slave out of his knowledge and transferring it to the master (p. 8)
+* Aristotle – the master’s knowledge = the theoretical knowledge; v. Descartes’ renunciation of this kind of knowledge and the birth of science (and the subject)
+* Desire for knowledge v. what generates knowledge; the latter is the discourse of the hysteric (p. 9); the master does not desire to know, only that “it work.”   
+
+
+Session 2, Complement, December 10, 1969
+
+* Lacan and the discourse of political agitation; observing it from the discourse of the analyst
+* Lacan says that his discourse has always been viewed suspiciously by “the authorities” (either psychoanalytic or political / administrative); he makes fun of those who in the early 1950s expected his teaching to be “medical”
+* Lacan’s audience always made the authorities uncomfortable
+* Lacan’s lecture is prematurely cut off by a university official
+
+
+Session 3, December 24, 1969
+
+* the formulaic presentation of all the discourses for the first time
+* in Lacan’s axiom – “a signifier represents a subject for another signifier” what is in question is not representation but the representative (that is, the signifier which is representing a subject). 
+* The discussion of the discourse of the master: no knowledge of what the master will want (S1); the kind of knowledge that links S1 and S2 is savoir, not connaissance (acquaintance) or representation; not all knowledge is known (the ego “the little master” v. the unconscious – slips, dreams, accidents)
+* In the Hegelian schema, the slave’s work is in fact analogous to the unconscious knowledge. No absolute knowledge possible, no closure. The contrary assumption, according to Lacan, is “immanent to the political as such,” p. 13. – the body politic (organic ideal), the community (see for instance Rousseau); perfect jouissance (topologically represented, as a sphere); a program of political or any other manipulation will include “the collusion of the [body] image with the idea of satisfaction,” p. 14. 
+* The master discourse continues under the guise of the university discourse (the discourse of the obsessional); S2 which is the agent in this discourse can be represented as “all-knowledge” (tout-savoir) – the bureaucracy. 
+* The classical v. modern master (capitalist) – appropriating something from the worker prior to property; what the worker receives in the case of a successful revolution is the knowledge of the master (but this preserves the relations of master-slave)
+* The essential aspect of the master’s discourse is that the master’s ignorance of what he wants (p. 14); but the slave knows it and that’s the crux of their relation. 
+* Changes: S2 (all-knowledge) in the position of S1 is the master’s knowledge (“the tyranny of knowledge,” p. 15), but this outcome distorts the position of truth (found with those who nowadays substitute for the slave)
+
+* knowledge that is not known is found in the Other in the position of S2; the treasury of the signifiers as the Other constitutes the fantasy of knowledge as totality. But there is something that impacts on it “from the outside” – the unary trait. 
+* discourse of the analyst – enabling the transformation of a given discourse into the discourse of the hysteric (“the hysterization of discourse,” p. 15). 
+
+* signifier & speech; negative impact on sexual relations – no harmony in sex, no wholeness or topologically speaking a sphere (pp. 15-16); hysterics – men & women;
+* the hysteric – the creation of a desire for knowledge (to know what she is); masters can be live without desire; a philosophical discourse – a desire to know on the master’s part; what matters – the hysteric as a precious object; free associations – knowledge that is not known (signifiers); no random links
+* the analyst – listening to the subject, “a little encyclopedia,” p. 17; the analyst as the object a – not the same knowledge as the master’s; knowledge (S2) in the position of truth; Hegel – “the most sublime hysteric;” absolute knowledge – no motivation for knowledge any more, no enjoyment
+
+* truth as knowledge; can we know without knowing? Truth – only “said by halves (mi-dire),” p. 19; Oedipus – the Sphynx (putting forth an enigma); utterance (enonciation) – desire – enigma (but consequences if solved) v. statement (enonce) – citation, already within a discourse; citing Marx or Freud or Lacan – also the half-said; effects differ based on who is cited
+* interpretation takes place in the context provided by enigma and citation, p. 20; knowledge of the analysand – no need for the analyst at the end; the object a as the analyst – the cause of the analysand’s desire
+
+
+Session 4, January 1970
+
+* circular permutation among discourses (all seminars would meet Wednesdays at 12:30); the prince or creator – an arbitrary, free act; Lacan thinks that there is no enough contest of the authority of knowledge
+* Anika Lemaire’s thesis: how does Lacan’s work fit in an academic context? The discourse of the psychoanalyst has different rules than the university or academic discourse; for instance, language is “the condition of the unconscious,” p. 23; this statement is not reversible; what happens is only a translation from one discourse into the other; Lacan doesn’t want to identify himself with a specific position, not even the position of a teacher
+* Other contexts analogous to what Lacan is doing (the driving school), p. 24
+ 
+* The position of the analyst as the object a; the object a – opaque or mis-recognized but essential; the object a position as “the dominant” in the discourse of the analyst (p. 25)
+* S1 – the master signifier – laws are inscribed in the master’s discourse; S1 is the symptom of the hysteric (p. 25); what is produced is the a as surplus-value (Marx’s term) or surplus-enjoyment 
+
+* Freud – 1) the unconscious – the situation of desire, 2) repetition is necessitated by jouissance (beyond the pleasure principle, the death drive); the inanimate (machine-like)
+* the pleasure principle is the principle of the least tension; and the limit to jouissance
+* repetition – the return of enjoyment, but not complete, something is missing; “a leakage of jouissance,” p. 28; there is a loss between what is repeated and what it repeats
+
+* Lacan’s contribution: the unary trait as the origin of knowledge (just a mark on the body); the subject of knowledge (philosophy) v. the subject of the signifier (it is “an underneath,” Aristotle’s hypokeimenon
+* the kind of knowledge found in modern, symbolic logic similar to the knowledge that is created by analysis
+* knowledge as “a means of jouissance,” p. 30; beyond the pleasure principle; the object a is marking that loss of jouissance that happens in repetition; the unary trait – disorganization, entropy (‘entropie’ and ‘anthropie’)
+*  energetics, physics, formulas – the net of signifiers, not physical reality
+
+* the mark on the skin (flagellation) – the subject equals the object of enjoyment (“the gesture that marks and the body [marked]” are equivalent, p. 31; enjoyment or jouissance is how one distinguishes narcissism and object-relation; the lost object – the introduction of enjoyment – but also the support for the consistency of the ego
+* entropy, loss but also surplus-enjoyment (Mehrlust) at the same structural junction 
+* human subject – a pun, “the humus of language,” p. 33
+
+* work, knowledge, enjoyment, truth; the work of the slave – the truth of the master 
+* the evocation of truth – only a half-saying (mi-dire), because “beyond the half there is nothing to say,” p. 33; the key elements of interpretation – the enigma and the citation
+* love of truth is not in support of being; being equal forgetting, the master’s discourse; the unconscious represents a lack of forgetting (see Freud)
+
+* love of weakness – the essence of love; love in Lacan’s well-known definition – “giving something one does not have,” (p. 34) in order to fix a “primordial” weakness in another
+
+* the one who speaks (the analysand) is the one who should know that he or she is supposed to know; the analysand is invited to say whatever comes into his or her mind; this what grounds transference – and the analyst should always hear askew; the point is to get the analysand’s knowledge to function as truth; the analyst – the position of the a
+
+
+[[Category:Seminars]]
+[[Category:Jacques Lacan]]
+[[Category:Works]]

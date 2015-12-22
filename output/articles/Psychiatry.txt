@@ -1,0 +1,145 @@
+'''Psychiatry''' is the branch of [[medicine]] that studies, diagnoses, and treats [[mental illness]] and [[behavior]]al disorders.<!--U.S. only? "Psychiatrists are ordinarily known as primary care givers."--> While all [[physician]]s will encounter patients with mental illnesses and any of them may treat it, psychiatrists specialize in these areas. They are more extensively trained in the [[differential diagnosis]] (the distinguishing of various forms) and treatment of mental illness. Given the advantage of the preliminary medical training as well as further specialist training, psychiatry when practised properly offers a truly [[holistic]] approach to patient care. Many other professionals also provide mental health care, such as [[psychologists]], [[nurse practitioner]]s, [[counselor]]s, [[physician assistants]], and [[social workers]]. In general only doctors, nurse practitioners, or physician assistants may prescribe mental health [[medication]] in the [[United States]]<ref>Psychologists with advanced training in [[psychopharmacology]] who practise in [[New Mexico]], [[Louisiana]], [[Guam]] or the military may also prescribe medication.</ref>. In some countries, mental health medication may only be prescribed by medical doctors.
+
+==Practice of psychiatry== 
+
+Psychiatry is one of the clinical medical disciplines which involve the diagnosis, treatment and prevention of mental and behavioral disorders such as [[clinical depression]], [[bipolar disorder]], [[schizophrenia]] and [[anxiety disorders]].
+
+<!-- The following sentence has been the subject to extended debate. Do not make changes to it without first obtaining consensus on Talk:Psychiatry. -->Most psychiatric illnesses cannot currently be cured.<!-- end delete warning --> While some have short time courses and only minor symptoms, many are [[Chronic (medicine)|chronic]] conditions which can have a significant impact on patients' quality of life and even life expectancy, and as such require long-term or life-long [[Therapy|treatment]]. Efficacy of treatment for any given condition is also variable from patient to patient, with some patients having complete resolution of symptoms and others unfortunately having poor or minimal response to even the strongest measures. The majority of patients will fall somewhere in between.
+
+In general, [[Psychotherapy|psychiatric treatments]] have improved significantly over the past several decades, beginning with the advent of modern [[psychiatric medications]] (see [[Psychiatry#History|History section]], below). In the past, psychiatric patients were often [[Psychiatric hospital|hospitalized]] for six months or more, with a significant number of cases involving hospitalization for many years. Today, most psychiatric patients are managed as [[General out-patient clinic|outpatients]]. If hospitalization is required, the average hospital stay is around two to three weeks, with only a small number of cases involving long-term hospitalization.
+
+The field of psychiatry itself can be divided into various subspecialties. These include:
+* Child and adolescent psychiatry
+* Adult psychiatry
+* Old-age psychiatry (Geriatric psychiatry)
+* [[Learning disability]]
+* [[Liaison psychiatry|Consultation-liaison psychiatry]]
+* Emergency psychiatry
+* Addiction and substance abuse psychiatry
+* Forensic psychiatry
+
+Practicing psychiatrists may specialize in certain areas of interest such as [[psychopharmacology]], [[mood disorder]]s, [[neuropsychiatry]], eating disorders, psychiatric rehabilitation, crisis assessment and treatment, early psychosis intervention, community psychiatry (home treatment and outreach) and various forms of psychotherapy such as [[psychodynamic therapy]] and [[cognitive behavioral therapy]].
+
+Individuals with mental illness are commonly referred to as ''[[patient]]s'' (particularly in the UK) but may also be called ''[[patient|client]]s'', especially when treated [[Healthcare system|privately]]. They may come under the care of a psychiatrist or other psychiatric practitioners by various paths, the two most common being self-[[referral]] or referral by a primary-care physician. Alternatively, a patient may be referred by hospital medical staff, by [[court order]], [[involuntary commitment]], or, in the UK and Australia, by [[sectioning]] under a [[mental health law]].
+
+Whatever the circumstance of their patient's referral, a psychiatrist first assesses their patient's mental and somatic (i.e. general medical) condition. This usually involves interviewing the patient and often obtaining information collated from other sources such as other health and social care professionals, relatives, associates, law enforcement personnel and psychiatric rating scales. [[Physical examination]] is usually performed to establish or exclude other illnesses (e.g. thyroid dysfunction or brain tumors) or identify any signs of [[self-harm]]. [[Blood test]]s and [[medical imaging]] may be also performed and their associated [[medical specialist]]s consulted.
+
+Various forms of medication, therapy and counseling deal with mental and behavioral conditions. [[Psychotherapy]] may be used for many conditions, either exclusively or in combination with medication. Commencing treatment with medication requires the patient to agree to this treatment (although in many countries the law provides overriding circumstances) and that they will follow the dosage prescribed. Many psychiatric medications can produce [[Adverse effect (medicine)|side-effect]]s in patients and hence often involve ongoing [[therapeutic drug monitoring]], for instance [[full blood count]]s or, for patients taking [[lithium salt]]s, [[serum]] levels of [[lithium]]. [[Electroconvulsive therapy]] (ECT) is sometimes administered for serious and disabling conditions, especially those unresponsive to medication. ECT has drawn criticism from anti-psychiatry groups despite evidence for its efficacy.
+
+Psychiatric patients may be either inpatients or outpatients. Psychiatric outpatients periodically visit their psychiatrist for consultation in his or her office, usually for an appointment lasting thirty to sixty minutes. These consultations normally involve the psychiatrist interviewing the patient to update their assessment of the patient's condition and management of any medication. The psychiatrist may also provide psychotherapy. The frequency with which a psychiatrist sees patients varies widely, from days to months, depending on the type, severity and stability of each patient's condition.
+
+Psychiatric inpatients are patients admitted to a hospital to receive psychiatric care, sometimes involuntarily. In [[North America]], the criteria for involuntary admission vary with jurisdiction. It may be as broad as having a mental disorder and being capable of mental or physical deterioration or as narrow as a patient being considered to be an immediate danger to themselves or others. In the UK, involuntary admission is limited to this narrow criterion. In North America, some jurisdictions give psychiatrists the sole authority to admit patients forcibly, while others require a trial.
+
+Once in the care of a hospital, patients are monitored, given medication and psychologically tested. If necessary, they are prevented from harming themselves or others. Hospitalized patients are increasingly being managed in a multidisciplinary fashion, meaning patients may encounter a variety of [[nurse|nursing staff]], [[occupational therapy|occupational therapists]], psychotherapists, [[social work]]ers and other healthcare professionals.
+
+== The DSM system ==
+In the United States, the standard system of psychiatric diagnoses is given in the ''[[Diagnostic and Statistical Manual of Mental Disorders]]'' (known as the ''DSM''), overseen and revised by the [[American Psychiatric Association]]. It is currently in its fourth revised edition (''IV-TR'', published 2000) and is based on five axes:
+* ''Axis I:'' Psychiatric disorders
+* ''Axis II:'' [[Personality disorder]]s / [[mental retardation]]
+* ''Axis III:'' General medical conditions 
+* ''Axis IV:'' Social functioning and impact of symptoms
+* ''Axis V:'' [[Global Assessment of Functioning]] (described using a scale from 1 to 100)
+
+Common axis I disorders include [[substance dependence]] and [[Substance abuse|abuse]] (e.g. [[alcohol dependence]]); mood disorders (e.g. [[Clinical depression|depression]], [[bipolar disorder]]); psychotic disorders (e.g. [[schizophrenia]], [[schizoaffective disorder]]); and [[anxiety disorders]] (e.g. [[post-traumatic stress disorder]], [[obsessive-compulsive disorder]]). Axis II disorders include [[borderline personality disorder]], [[schizotypal personality disorder]], [[avoidant personality disorder]] and [[antisocial personality disorder]].
+
+The intention is to create a set of diagnoses that are replicable and meaningful, although the categories are broad and many of the symptoms overlap. While the system was originally intended to enhance research into both diagnosis and treatment, the nomenclature is now one of two standards widely used by clinicians, administrators and insurance companies in many countries. However, it has been critiqued for being vague, poorly defined and lacking proper scientific foundation <ref>http://www.apa.org/books/431668A.html</ref>.
+<!--The following better placed in the DSM article? :
+These standards have been given legal weight within the criminal justice system and for involuntary commitment. This has lead to heated controversy over defining standards. [[Homosexuality]], for instance, was included as a diagnosis in the DSM until 1973.-->
+
+ICD-10 ([[International Classification of Diseases]]-10), the main alternative to the DSM, is less specific in its criteria for each illness. It is used primarily in Europe.
+
+== Contrast with psychology ==
+Psychiatry is practiced by psychiatrists, who are [[medical doctor]]s specializing in mental illness. They are trained in the medical approach to disorders and in the use of [[psychopharmacology|medications]].  Many (but not all) psychiatrists are also trained to conduct [[psychotherapy]]. Psychiatrists ideally evaluate patients from a [[biopsychosocial model|biopsychosocial]] perspective before prescribing treatment. 
+
+[[Psychology]] is the larger study of human behavior and thought processes.  Psychology is as much an academic field of study (like [[biology]] or [[sociology]]) as a profession, and as a whole, is concerned with the study of normal everyday human behavior as much as it is the study of mental illness.  Psychologists may study how drugs or other chemical agents affect the brain, but generally are not trained to prescribe or administer drugs. There are many psychologists but few complete the rigorous training required of clinical psychologists.
+
+[[Clinical psychology]] is the branch of psychology that specializes in understanding and helping those experiencing mental distress or behavioral problems. Clinical psychologists have extensive postgraduate training in mental health, psychological assessment, psychotherapy, and psychosocial interventions, and are often found working in similar settings and with the same kinds of patients or clients as psychiatrists. Unlike psychiatrists, they start with a general psychological training rather than a general medical training, before going onto postgraduate courses. They do not always assume a medical model or so-called 'neo-Kraepelinian' categories (named after the psychiatrist [[Emil Kraepelin]], the father of descriptive psychiatry). While psychiatrists may claim exclusive expertise in medication-based interventions and the general medical context, clinical psychologists may claim particular expertise in psychosocial interventions and the general psychosocial context, although the two are not always separated in this way. 
+
+Clinical psychologists are generally not authorised to prescribe medications in the United States (exceptions have been made in the [[Department of Defense]], [[Guam]], [[New Mexico]], and [[Louisiana]], but the psychologist must complete a [[Postdoctoral researcher|postdoctoral training]] program in clinical [[psychopharmacology]] and practicum, and pass a licensing examination prior to doing so). The turf battle over prescribing privileges is ongoing in the U.S. A significant subset of psychologists argue that there is an inadequate number of psychiatrists for the number of people with mental health problems, and that focused education in psychopharmacology is adequate to provide medication management. The [[American Psychiatric Association]] has long argued that a full medical training is necessary to make the diagnostic, therapeutic and potentially life-threatening decisions that accompany the pharmacologic treatment of those with serious mental health problems.
+
+== Professional requirements ==
+In the [[United States]], psychiatrists can be board certified as specialists in their field. After completing four years of medical school, physicians practice as psychiatry residents for four years.  Psychiatry residents are required to complete at least four months of medicine (internal medicine or pediatrics) and two months of neurology during these four years.  After completing their training, psychiatrists take written and then oral board examinations, each of which has a failure rate that approaches 50%, before becoming board certified. In the [[United Kingdom]], people work as a [[senior house officer]] (SHO) in psychiatry for 2-3 years while sitting postgraduate exams, after which they may apply for a specialist registrar post, which may be in any one of several areas of specialization within psychiatry. In other countries, similar rules usually apply.
+
+Some psychiatrists specialize in helping certain age groups; child and adolescent psychiatrists work with children and teenagers in addressing psychological problems. Those who work with the elderly are called geriatric psychiatrists, or in the UK, psychogeriatricians. Those who practice psychiatry in the workplace are called industrial psychiatrists (this is a term used in the US but not the UK); those working in the courtroom and reporting to the judge and jury (in both criminal and civil court cases) are forensic psychiatrists. Forensic psychiatrists also treat mentally disordered offenders and other patients whose condition is such that they have to be treated in secure units.
+
+In the [[United Kingdom]] there are several different areas of specialization in which one may train as a specialist registrar (the 3-4 final years of training required before becoming a senior doctor or consultant). They are general adult psychiatry, child and adolescent psychiatry, psychogeriatrics, forensic psychiatry, psychotherapy. After this period as a specialist registrar, one has to be approved by the Royal College of Psychiatrists as an approved specialist in the chosen field before going on to apply for a consultant post in that field.
+
+== History ==
+Psychiatric illnesses are sometimes characterized as disorders of the [[mind]] rather than the [[brain]], although the distinction is not always obvious and has changed in the last few decades as understanding of the treated illnesses grew. Many conditions have been linked to biological or chemical abnormalities in the brain's psychology, but for some conditions the [[etiology]] and [[pathogenesis]] are still the subject of intense research.
+
+For a long period of history, [[neurology]] and psychiatry were a single discipline, and following their division the tremendous advances in [[neurosciences]] (especially in [[genetics]] and [[neuroimaging]]) recently are bringing areas of the two disciplines back together. Indeed, in a 2002 review article in the [[American Journal of Psychiatry]], Professor [[Joseph B. Martin]], Dean of [[Harvard Medical School]] and a neurologist by training, wrote that "the separation of the (neurological versus psychiatric disorders) is arbitrary, often influenced by beliefs rather than proven scientific observations. And the fact that the brain and mind are one makes the separation artificial anyway." <ref name="Martin 2002">Martin J. B. "The integration of neurology, psychiatry and neuroscience in the 21st century". ''Am. J. of Psychiatry'' 2002; 159:695-704. [http://ajp.psychiatryonline.org/cgi/content/full/159/5/695 Fulltext]. PMID 11986119.</ref> One example of this is the overlap between the two fields in the treatment of illnesses such as Alzheimer's disease.
+
+Psychiatry was at first a pragmatic discipline that was part of general medicine, combining medicine and practical psychology. The work of [[Emil Kraepelin]] laid the foundations of scientific psychiatry. A neurologist, [[Sigmund Freud]], used these same powers of medically based observation to develop the field of [[psychoanalysis]]. For many years, Freudian theories dominated psychiatric thinking.  
+
+The discovery of [[lithium carbonate]] as a treatment for [[bipolar disorder]] (and shortly thereafter after by the development of [[typical antipsychotics]] for treatment of [[schizophrenia]]), followed by the development of fields such as [[molecular biology]] and tools such as [[neuroimaging]] has led to psychiatry re-discovering its origins in physical and observational medicine without losing sight of its humane dimension.
+
+==Further considerations==
+===Anti-psychiatry===
+{{main|Anti-psychiatry}}
+Unlike most other areas of medicine, there exists movements opposed to the practices of &ndash; and, in some cases, the existence of &ndash; psychiatry. These movements mostly originated in the [[1960s]] and [[1970s]],  led by figures such as [[David Cooper (psychiatrist)|David Cooper]], [[Thomas Szasz]] and [[R. D. Laing]]. In 1999, psychiatrist [[Peter Breggin]] founded a scholarly journal devoted exclusively to criticism of bio-psychiatry, ''Ethical Human Psychology and Psychiatry''<ref>http://www.springerpub.com/journal.aspx?jid=1523-150X</ref>.
+
+Some mental health professionals sympathetic to anti-psychiatric views claim that there are no known biological markers for many if not all the disorders the DSM purportedly identifies<ref>http://www.mindfreedom.org/mindfreedom/hungerstrike1.shtml#final</ref>. Also, though psychiatrists generally accept a medical model of mental disorders, some professionals and patients advocate a [[trauma model]], especially as regards schizophrenia<ref>http://primal-page.com/ps2.htm</ref><ref>http://www.rossinst.com</ref><ref>http://www.schizosavant.com/</ref>. 
+
+The [[Church of Scientology]] opposes psychiatry for various reasons, mainly through its [[Citizens Commission on Human Rights]]. [[Christian Science]] also forbids the use of psychiatric drugs.
+
+===Other criticisms===
+* Criticism has been made regarding the need for improvement in psychiatric medications, as illustrated by studies of [[Pharmacogenetics|pharmacogenetic polymorphism]] showing that people of various ethnicities, for example one third of African American and Asian groups, have an increased risk of side effects and toxicity<ref name="Wells, 1998"/>.
+
+* As in any medical specialty, different individuals respond differently to a given drug. However, given the long periods (up to several months) needed for adqeuate trials of many psychiatric medications, this can lead to some patients experiencing a prolonged trial-and-error process involving numerous serious adverse effects. 
+
+* Critics also questions whether psychiatric drugs are disorder- or problem-specific in the way that is claimed (Moncrieff and Cohen, 2004).
+
+* The high rate of [[methylphenidate]] (Ritalin) use among school children in the U.S. has come under greater scrutiny{{fact}}. However this may be partly due to the shortage of child and adolescent psychiatrists (A Report of the Surgeon General, 2001) who are able to regulate such prescriptions.
+
+* Critics claim that there are problems in terms of diagnostic reliability, including misdiagnosis (Williams ''et al'', 1992; McGorry ''et al'', 1995; Hirschfeld ''et al'', 2003]), especially when comparing the criteria of the different psychiatric manuals (van Os ''et al'', 1999).
+
+* Another concern centers on the issue of involuntary treatment, which touches on issues of [[civil liberties]] and personal freedoms. However such treatment options have saved the lives of very ill patients. In the U.S. there are many restrictions in place to attempt to protect the rights of the patients. Most states allow involuntary treatment only in the most severe cases, such as if a person were to pose an immediate threat to themself or others or were unable to provide for his or her own basic needs such as food, clothing, or shelter (''see [[Laura's Law]]''). The laws regarding the involuntary treatment of children vary widely from state to state<ref>http://www.psychlaws.org/LegalResources/Index.htm</ref>.
+
+== Related terms ==
+* "[[Alienist]]" was a somewhat derogatory and now obsolete term for a psychiatrist or psychologist.
+* "Shrink", taken from "[[head shrinker]]", is a slang term for a psychiatrist or psychotherapist, sometimes treated as derogatory or offensive.
+
+== Footnotes ==
+<div style=font-size:90%><references/></div>
+
+== References ==
+* Hirschfeld ''et al'' 2003, [http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=12633125 "Perceptions and impact of bipolar disorder: how far have we really come?"], ''J. Clin. Psychiatry'' vol.64(2), p.161-174.
+
+== See also ==
+{{wikibooks|Psychiatry}}
+{{wikiquote}}
+* [[Anti-psychiatry]]
+* [[Biological psychiatry]]
+* [[Chemical imbalance theory]]
+* [[Cognitive neuropsychiatry]]
+* [[Ethnopsychopharmacology]]
+* [[International Center for the Study of Psychiatry and Psychology]]
+* [[Neurology]]
+* [[Neuropsychiatry]]
+* [[Mental health]]
+* [[Psychiatric survivors movement]]
+* [[Psychoanalysis]]
+* [[Psychopathology]]
+* [[Psychopharmacology]]
+* [[Psychotherapy]]
+* [[Scientology and psychiatry]]
+
+===Lists===
+* [[List of famous figures in psychiatry|Famous figures in psychiatry]]
+* [[List of fictional psychiatrists|Fictional psychiatrists]]
+* [[List of psychiatric drugs|Psychiatric drugs]]
+** [[List of psychiatric drugs by condition treated|by condition treated]]
+
+* Significant publications in:
+** [[List of publications in medicine|Medicine]]
+** [[List of publications in biology#Psychiatry|Psychiatry]]
+** [[List of publications in psychology|Psychology]]
+
+== External links ==
+* [http://www.wpanet.org/ World Psychiatric Association] 
+* [http://www.mentalhealth.samhsa.gov/topics/explore/culture/ Culture and Ethnicity, National Mental Health Information Center, SAMHSA]
+* [http://www.psych.org American Psychiatric Association]
+* [http://www.aacap.org American Academy of Child and Adolescent Psychiatry]
+
+
+<!--Categories-->

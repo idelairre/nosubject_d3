@@ -1,0 +1,79 @@
+{{Top}}rapport sexuel{{Bottom}}
+[[Image:Graph.of.Sexuation.jpg|thumb|right]]
+==Jacques Lacan==
+===There is No Relation Between the Sexes===
+[[Lacan]] first proposes his famous formula: ''il n'y a pas de rapport sexuel'' in 1970,<ref>{{L}} ''[[Seminar XVII|Le Séminaire. Livre XVII. L'envers de la psychanalyse, 1969-70]]''. Ed. [[Jacques-Alain Miller]]. Paris: Seuil, 1991: 134</ref> and takes it up again in his [[seminar]] of 1972-3.<ref>{{S20}} p. 17</ref> 
+
+This formula is usually translated into English as "There is no such thing as a sexual relationship", which is misleading since [[Lacan]] is certainly not denying that people have sex! 
+
+The formula might be better rendered "There is no relation between the sexes", thus emphasizing that it is not primarily the [[act]] of '''sexual intercourse''' that [[Lacan]] is referring to but the question of the relation between the [[sexual difference|masculine sexual position]] and the [[sexual difference|feminine sexual position]]. 
+
+===Sexual Difference===
+The formula thus condenses a number of points in [[Lacan]]'s approach to the question of [[sexual difference]]:
+
+====Other of Langage====
+1. There is no direct, unmediated relation between the [[sexual difference|male]] and [[sexual difference|female sexual position]], because the [[Other]] of [[language]] stands between them as a third party.<ref>{{S20}} p. 64</ref> 
+
+<blockquote>"Between male and female human beings there is no such thing as an instinctive relationship' because all sexuality is marked by the signifier."<ref>{{L}} (l975b) "[[Conférence à Genève sur le symptôme]]." ''Les Block-Notes de la psychanalyse''. Brussels.</ref></blockquote>
+
+One consequence of this is that it is not possible to define [[perversion]] by reference to a supposedly [[nature|natural form]] of the [[sexual relationship]] (as [[Freud]] did). 
+
+Heterosexuality is thus not natural but normative.<ref>{{Ec}} p. 223</ref>
+
+====Asymmetry====
+2. There is no reciprocity or symmetry between the [[sexual difference|male]] and [[sexual difference|female sexual positions]] because the [[symbolic order]] is fundamentally asymmetrical; there is no corresponding [[signifier]] which could signify [[Woman]] in the same way that the [[sexual difference|male]] [[sex]] is [[symbolize]]d. 
+
+There is only one [[signifier]], the [[phallus]], which governs the relations between the [[sex]]es.<ref>{{E}} p. 289</ref> 
+
+There is thus no [[symbol]] for a symmetrical [[sexual relationship]]: "the sexual relationship cannot be written."<ref>{{S20}} p. 35</ref>
+
+====Love====
+3. Relations between men and women can never be harmonious; "The most naked rivalry between men and women is eternal."<ref>{{S2}} p. 263</ref> 
+
+[[Love]] is no more than an [[illusion]] designed to make up for the [[absence]] of harmonious relations between the [[sex]]es (whether presented in mythical terms, as in [[Plato]]'s [[Symposium]], or in psychoanalytic terms, as in Balint's concept of [[love|genital love]]).
+
+====Drives====
+4. The [[drive|sexual drives]] are directed not towards a "whole person" but towards [[part-object]]s. 
+
+There is therefore no such thing as a [[sexual relationship]] between two [[subject]]s, only between a [[subject]] and a (partial) object. 
+
+For the man, the [[objet (petit) a|object a]] occupies the place of the missing partner, which produces the [[matheme]] of [[fantasy]] (SOa); in other words, the [[Woman]] does not [[exist]] for the man as a [[real]] [[subject]], but only as a [[fantasy]] [[object]], the [[cause]] of his [[desire]].<ref>{{S20}} p. 58</ref>
+
+====Woman and Mother====
+5. [[Woman]] cannot function sexually qua [[Woman]] but only qua [[mother]]; "[[Woman]] begins to function in the sexual relationship only as mother."<ref>{{S20}} p. 36</ref>
+
+====Sex and Meaning====
+6. As something rooted in the [[real]], [[sex]] is opposed to [[meaning]]; and "sex, in opposing itself to sense, is also, by definition, opposed to relation, to communication."<ref>Copjec, Joan. 1994: 21</ref>
+
+==See Also==
+{{See}}
+* [[Desire]]
+* [[Drive]]
+* [[Existence]]
+||
+* [[Fantasy]]
+* [[Language]]
+* [[Love]]
+||
+* [[Mother]]
+* [[Part Object]]
+* [[Perversion]]
+||
+* [[Phallus]]
+* [[Sexual difference]]
+* [[Signifier]]
+||
+* [[Symbol]]
+* [[Symbolic]]
+* [[Woman]]
+{{Also}}
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+[[Category:Sexuality]]
+{{OK}}
+
+__NOTOC__

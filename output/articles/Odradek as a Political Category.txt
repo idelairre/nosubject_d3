@@ -1,0 +1,26 @@
+{{BSZ}}
+This is how one should approach Odradek, one of Kafka's key achievements:<ref>Franz Kafka, "The Cares of a Family Man," The Complete Stories, New York: Shocken Books, 1986.</ref>
+
+Some say the word Odradek is of Slavonic origin, and try to account for it on that basis. Others again believe it to be of German origin, only influenced by Slavonic. The uncertainty of both interpretations allows one to assume with justice that neither is accurate, especially as neither of them provides an intelligent meaning of the word...
+
+[...]
+ 
+Odradek is thus simply what Lacan, in his Seminar XI and in his seminal écrit "Positions de l'inconscient,"<ref>Jacques Lacan, "Les positions de l'inconscient," Écrits, Paris: Seuil, 1966.</ref> developed as lamella: libido as an organ, the inhuman-human "undead" organ without a body, the mythical pre-subjective "undead" life-substance, or, rather, the remainder of the Life-Substance which has escaped the symbolic colonization, the horrible palpitation of the "acephal" drive which persists beyond ordinary death, nomadic, outside the scope of paternal authority, with no fixed domicile. The choice underlying Kafka's story is thus Lacan's le père ou pire, "the father or worse": Odradek is "the worst" as an alternative to the father.
+
+[...]
+ 
+The father's/narrator's final words in Kafka's Odradek ("the idea that he is likely to survive me I find almost painful") echo the final words of The Trial ("as if the shame will survive him"): Odradek is effectively the shame of the father of the family (the story's narrator). What this indicates is that Odradek is the father's sinthome, the "knot" onto which the father's jouissance is stuck.
+
+[...]
+
+==References==
+<references/>
+
+
+
+==Source==
+* [[Odradek as a Political Category]]. ''Lacanian Ink''. Volume 24/25. Spring. pp. 136-153. <http://www.lacan.com/frameXXIV7.htm>.
+
+
+[[Category:Articles by Slavoj Žižek]]
+[[Category:Works]]

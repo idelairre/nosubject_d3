@@ -1,0 +1,14 @@
+{| cellpadding="12" style="float: right; width:23em; font-size: 90%"
+|+ style="font-size: larger;"|
+|-
+!bgcolor="#ffffff" align="center" colspan="2" style="font-size: larg;"|
+|}
+
+Get annoyed writing out the same piece of text on multiple pages?  You can create your own template on a sub-page of your user page:
+* Add the link <nowiki>[[/TemplateName]]</nowiki> (where &quot;TemplateName&quot; is the name of your template) to your user page.
+* Add the text of your template to this new sub-page.
+* To add the template to a page, you simply have to add this code: 
+
+
+
+__NOTOC__ __NOEDITSECTION__

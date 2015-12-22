@@ -1,0 +1,37 @@
+{{Top}}topologie{{Bottom}}
+
+=====Definition=====
+"[[Topology]]" is a branch of [[mathematics]] which deals with the properties of figures in [[topology|space]] where are preserved under all continuous deformations. These properties are those of continuity, contiguity and delimitation.
+
+=====Toplogical Space=====
+The notion of [[topology|space]] in [[topology]] is one of [[topology|topological space]], which is not limited to Euclidean (two- and three-dimensional space), nor even to spaces which can be said to have a dimension at all. [[topology|Topological space]] thus dispenses with all references to distance, size, area and angle, and is based only on a concept of closeness or neighbourhood.
+
+=====Sigmund Freud=====
+/* In what have been called his two "[[topology|topographies]]" (the first dating from 1900 and the second from 1923), [[Freud]] resorted to [[schema]]s to represent the various parts of the [[psychic apparatus]] and their interrelations.  These schemas implicitly posited an equivalence between psychic space and Euclidean space. */
+
+[[Freud]] used spatial metaphors to describe the psyche in ''[[The Interpretation of Dreams]]'', where he cites G. T. Fechner's idea that the scene of action of dreams is different from that of waking ideational life and proposes the concept of 'psychical locality'.  [[Freud]] is careful to explain that this concept is a purely topographical one, and must not be confused with physical locality in any anatomical fashion.<ref>Freud, 1900a: SE V, 536</ref>  His "[[topology|first topography]]" divided the [[psyche]] into three systems: the [[conscious]] (Cs), the [[preconscious]] ([[Pcs]]) and the [[unconscious]] ([[Ucs]]). The "[[topology|second topography]]" divided the [[psyche]] into the three agencies of the [[ego]], the [[superego]] and the [[id]]. 
+
+[[Lacan]] criticizes these models for not being [[topological]] enough.  He argues that the diagram with which [[Freud]] had illustrated his second topology in ''[[The Ego and the Id]]'' (1923b) led the majority of [[Freud]]'s readers to forget the analysis on which it was based because of the intuitive power of the image.<ref>{{E}} p. 214</ref>  [[Lacan]]'s interest in [[topology]] arises, then, because he sees it as providing a non-intuitive, purely intellectual means of expressing the concept of [[structure]] that is so important to his focus on the [[symbolic order]].  It is thus the task of [[Lacan]]'s topological models "to forbid imaginary capture."<ref>{{E}} p. 333</ref> 
+Unlike intuitive images, in which "perception eclipses structure", in [[Lacan]]'s [[topology]] "there is no occultation of the symbolic."<ref>{{E}} p. 333</ref>
+
+=====Structure=====
+[[Lacan]] argues that [[topology]] is not simply a [[metaphor]]ical way of expressing the concept of [[structure]]; it is [[structure]] itself.<ref>{{L}} "[[Works of Jacques Lacan|L'Étourdit]]," ''Scilicet'', no. 4, 1973: pp. 5-52</ref> He emphasizes that [[topology]] privileges the function of the cut (''coupure''), since the cut is what distinguishes a discontinuous transformation from a continuous one. Both kinds of transformation play a role in [[psychoanalytic treatment]]. As an example of a continuous transformation, [[Lacan]] refers to the [[moebius strip]]; just as one passes from one side to the other by following the strip round continuously, so the [[subject]] can [[traverse]] the [[fantasy]] without making a mythical leap from inside to outside. As an example of a discontinous transformation, [[Lacan]] also refers to the [[moebius strip]], which when cut down the middle is transformed into a single loop with very different topological properties; it now has two sides instead of one. Just as the cut operates a discontinuous transformation in the [[moebius strip]], so an effective [[interpretation]] proferred by the [[analyst]] modifies the [[structure]] of the [[analysand]]'s [[discourse]] in a radical way.
+
+=====Figures=====
+While [[schema L]] and the other schemata which are produced in the 1950s can be seen as [[Lacan]]'s first incursion into [[topology]], topological forms only come into prominence when, in the 1960s, he turns his attention to the figures of the [[torus]], the [[moebius strip]], Klein's bottle, and the cross-cap.<ref>{{L}} ''[[Works of Jacques Lacan|Le Séminaire. Livre IX. L'identification, 1961-62]]'', unpublished.</ref>  Later on, in the 1970s, [[Lacan]] turns his attention to the more complex area of knot theory, especially the [[Borromean knot]].
+
+=====See Also=====
+{{See}}
+* [[Borromean knot]]
+* [[Moebius strip]]
+{{Also}}
+
+==References==
+<references/>
+[[Category:Psychoanalysis]]
+[[Category:Jacques Lacan]]
+[[Category:Dictionary]]
+[[Category:Concepts]]
+[[Category:Terms]]
+
+__NOTOC__

@@ -1,0 +1,19 @@
+{{TV-Video}}
+
+{| class="" width="500px" cellpadding="2" align="center" bgcolor="ffffff" style="background:#ffffff; width:500px; text-align:center; line-height:2.0em;"
+|-
+| bgcolor="#ffffff" width="" | <center>
+<dhflashplayer>file=TV%20-%20Psychoanalysis%20and%20Psychotherapy.flv|width=500|height=384|path=http://nosubject.com/archive/flv/</dhflashplayer></center>
+|}
+
+
+{| class="" width="500px" cellpadding="2" align="center" bgcolor="ffffff" style="background:#ffffff; border: 1px solid #aaaaaa; width:500px; text-align:justify; line-height:2.0em;"
+|-
+| bgcolor="#ffffff" width="" style="text-align:justify" |
+<small>There is no structure except through language.
+There is no sexual relation.
+
+"Every interview is a comedy, as is perhaps every bond built up by speech - including even analysis. [...] Lacan never shied away from theatrics - it goes hand in hand with the use of discourse. The bores reproached him for it; they reason badly. What we agreed upon beforehand was that I would converse with Lacan in front of the cameras. But that was not possibly for after every cut, when it was time to start up again, Lacan shifted a bit - in his discourse. Each time he gave an additional twist to his reflections which were unfolding there, under the spotlights, thwarting any chance of bridge-building. We stopped after two hours; I gave him in writing a list of questions; and he wrote this play, 'Television', in about two weeks time; I saw him every evening and he gave me the day's manuscript pages; then he read or acted out - with a few improvised variations - the written text you have before you. He made a spring-board of this false start.'
+
+[[Jacques-Alain Miller]], 'Microscopia: An Introduction to the Reading of Television', (1987), trans. [[Bruce Fink]] (1990).</small><BR><BR><small>Subtitles adapted from the translation by Denis Hollier, Rosalind Krauss, and Annette Michelson in '[[Television: A Challenge to the Psychoanalytic Establishment]]' - Jacques Lacan (Norton, London: 1990). Complete video (without subtitles) [[Jacques Lacan - Télévision (Video)|available here]].</small>
+|}

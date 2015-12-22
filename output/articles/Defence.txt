@@ -1,0 +1,63 @@
+{{Topp}}défense{{Bottom}}
+
+==Sigmund Freud==
+From his earliest works, [[Freud]] situated the concept of [[defence]] at the heart of his theory of [[neurosis]].
+
+[[Defence]] refers to the reaction of the [[ego]] to certain interior stimuli which the [[ego]] perceives as dangerous.
+
+==Defense Mechanisms==
+Although [[Freud]] later came to argue that there were different "mechanisms of defence" in addition to [[repression]],<ref>{{F}} ''[[Works of Sigmund Freud|The Question of Lay-Analysis]]'', 1926d. [[SE]] XX, 179</ref> he makes it clear that [[repression]] is unique in the sense that it is constitutive of the [[unconscious]].
+
+[[Anna Freud]] attempted to classify some of these mechanisms in her book ''[[Anna Freud|The Ego and the Mechanisms of Defence]]'' (1936).
+
+==Jacques Lacan==
+[[Lacan]] is very critical of the way in which [[Anna Freud]] and [[ego-psychology]] interpret the concept of [[defence]].
+
+He argues that they confuse the concept of [[defence]] with the concept of [[resistance]].<ref>{{Ec}} p. 335</ref>
+
+For this reason, [[Lacan]] urges caution when discussing the concept of [[defence]], and prefers not to center his concept of [[psychoanalytic treatment]] around it.
+
+==Resistance==
+When he does discuss [[defence]], he opposes it to [[resistance]]; whereas [[resistances]] are transitory imaginary responses to intrusions of the [[symbolic]] and are on the side of the [[object]], defences are more permanent [[symbolic]] [[structure]]s of [[subjectivity]] (which [[Lacan]] usually calls [[fantasy]] rather than [[defence]]).
+
+This way of distinguishing between [[resistance]] and [[defence]] is quite different from that of other [[school]]s of [[psychoanalysis]], which, if they have distinguished between [[defence]] and [[resistance]] at all, have generally tended to regard [[defence]]s as transitory phenomena and [[resistance]]s as more stable. 
+
+==Desire and Defence==
+The opposition between [[desire]] and [[defence]] is, for [[Lacan]], a [[dialectic]]al one.
+
+Thus he argues in 1960 that, like the [[neurotic]], the [[pervert]] "defends himself in his desire," since "desire is a defence (''défense''), a prohibition (''défense'') against going beyond a certain limit in ''jouissance''.<ref>{{E}} p. 322</ref>
+
+In 1964 he goes on to argue:
+<blockquote>"To desire involves a defensive phase that makes it identical with not wanting to desire."<ref>{{S11}} p.235</ref></blockquote>
+
+==See Also==
+{{See}}
+* [[Ego-psychology]]
+* [[Fantasy]]
+||
+* [[Neurosis]]
+* [[Perversion]]
+||
+* [[Repression]]
+* [[Resistance]]
+||
+* [[Structure]]
+* [[Subject]]
+||
+* [[Treatment]]
+* [[Unconscious]]
+{{Also}}
+
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+[[Category:Freudian psychology]]
+[[Category:Psychoanalysis]]
+[[Category:Treatment]]
+[[Category:Practice]]
+{{OK}}
+
+__NOTOC__

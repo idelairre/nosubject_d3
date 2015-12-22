@@ -1,0 +1,46 @@
+{{Top}}ordre{{Bottom}}      
+
+==Jacques Lacan==
+===The Three Orders===
+Although [[Lacan]] uses the terms "[[real]]," "[[symbolic]]" and "[[imaginary]]" from early on in his work, it is not until 1953 that he speaks of these as three "[[order]]s" or three "[[order|register]]s.") From that moment on they come to be the fundamental classification system around which all his theorizing turns. The [[imaginary]], the [[symbolic]] and the [[real]] thus comprise a basic classification system (around which all [[Lacan]]'s theorizing turns) which allows important distinctions to be drawn between concepts which, according to [[Lacan]], had previously been confused in [[psychoanalytic theory]]. 
+
+===Psychoanalytic Theory===
+For example [[Lacan]] argues that much misunderstanding has arisen in [[psychoanalytic theory]] due to a failure to distinguish between the [[imaginary]] [[father]], the [[symbolic]] [[father]] and the [[real]] [[father]]. Thus [[Lacan]] claims that his tripartite classification system has shed invaluable light on [[Freud]]'s [[work]]: 
+
+<blockquote>"Without these three systems to guide ourselves by, it would be impossible to understand anything of the Freudian technique and experience."<ref>{{S1}} p. 73</ref></blockquote>
+
+===Distinction===
+The [[imaginary]], the [[symbolic]] and the [[real]] are profoundly heterogeneous, each referring to quite distinct aspects of [[psychoanalytic]] [[experience]]. It is therefore difficult to see what they have in common, and yet, the fact that [[Lacan]] refers to all three as "[[order]]s" implies that they share some common property. [[Lacan]] explores this question of what the three [[order]]s have in common by means of the [[topology]] of the [[Borromean knot]] in his 1974-5 [[seminar]], [[RSI]]. They are not mental forces like the three [[agency|agencies]] in [[Freud]]'s [[structural model]]. However, they are primarily concerned with mental functioning, and together they cover the whole field of [[psychoanalysis]].
+
+===Interdependence===
+Although the three [[orders]] are profoundly heterogeneous, each order must be defined by reference to the other two. The [[structural]] interdependence of the three [[order]]s is illustrated by the [[Borromean knot]], in which the severing of any one of the three rings causes the other two to become separated also.
+<!-- 
+=====More=====
+It should also be noted that the "orders" are not stable concepts; at each moment each may be implicated in the redefinition of the others.
+-->
+
+==See Also==
+{{See}}
+* [[Borromean knot]]
+* [[Imaginary]]
+||
+* [[Psychoanalysis]]
+* [[Symbolic]]
+||
+* [[Real]]
+* [[Topology]]
+{{Also}}
+
+== References ==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+[[Category:Jacques Lacan]]
+[[Category:Terms]]
+[[Category:Concepts]]
+[[Category:Psychoanalysis]]
+[[Category:Dictionary]]
+{{OK}}
+
+__NOTOC__

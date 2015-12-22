@@ -1,0 +1,35 @@
+The terms "act" and "action" are related, both referring to a form of behavior (motor, verbal, etc.) intended to modify the environment, either to avoid a danger or unpleasure, or to satisfy a need or desire. The term "act," however, refers primarily to this event in its uniqueness and effectiveness, whereas "action" designates both a process, which can be more or less complex and durable, and the result of that process. These definitions are not psychoanalytic in themselves, and there is no coherent body of thought in psychoanalysis concerning them, in spite of the rather fragmentary references found in Freud and subsequent attempts to give these concepts a theoretical status.
+
+The first psychoanalytic use of the term by Freud is probably his reference to "specific action," that is, the behavior that results in the satisfaction of a need (Manuscript E, 1894, and "Project for a Scientific Psychology," 1895, in 1950a). This idea, which he returned to only intermittently, may seem narrowly behaviorist. However, even in these early works, Freud gives the term an entirely different dimension. He writes that since the infant is incapable of satisfying its own needs, "specific action" by another person is needed, and he elaborates on what he considers essential to the process: "If the satisfaction of the need is not satisfied in this way, it is manifested as desire through hallucina-tory satisfaction. But the impossibility of maintaining this hallucinatory satisfaction in the face of the persistence of the need gives rise to the representation; the object is born, within the movement of desire, from its presence-absence." A preliminary version of these ideas is found in the following comment by Freud that appears in the "Project": "The initial helplessness of human beings is the primal source of all moral motives."
+
+Freud would return to and develop these ideas in his "Formulations on the Two Principles of Mental Functioning" (1911b), where he attempts to show that, whenever the reality principle gets the upper hand of the pleasure principle, "motor discharge was now employed in the appropriate alternation of reality; it was converted into action. Restraint upon motor discharge (upon action) which then became necessary, was provided by means of the process of thinking, which was developed from the presentation of ideas"(1911b, p. 221).
+
+This idea, whereby thought is a suspension of adaptive perceptual-motor activity, a "trial activity" involving representations, was in fact familiar to a number of authors at the beginning of the twentieth century, as has been shown by Henri Wallon (1942). It was discussed at greater length by Freud in the last part of Totem and Taboo (1912-13a), which he concludes with this quote from Goethe: "In the beginning was the deed."
+
+Although the topic was not fully developed by Freud, the terms "act" and "action" appear frequently in his writings, whether he is discussing failed acts, compulsive acts, symptoms, repetitive acts (1914g), the suspension of motor activity during dreams, etc. The prohibition against action within the analytic situation stimulated, both during Freud's lifetime and after, a number of reflections on the infractions constituted by actings.
+
+Since Freud's day, there have been many attempts to understand these issues. Heinz Kohut advanced the concept of "action-thought," a concrete thought process halfway between action and thought. Roy Schafer (1976) attempted to refine metapsychology in terms of the actions that constituted thought acts. Daniel Widlöcher (1986) attempted to reformulate it in terms of "unconscious presentations of actions" that generate thought actions.
+
+Throughout these approaches the reference to impulse is vague or explicitly eliminated. However, there are no benefits to this. To understand the problem of action and its relationship with mental activity, we must take account of representation and fantasy. If "in the beginning was the deed," (from Goethe's Faust, part I, scene 3, quoted by Freud in 1912-13a, p. 161) this indeed involves understanding the development and functioning of psychic activity within two closely related points of view: representations and symbolization processes that terminate in secondary thought, and the organization of fantasy, where fantasies can be considered to be "representations of actions" (PerronBorelli, 1997; Perron-Borelli, and Perron, 1997).
+
+ROGER PERRON
+
+See also: Acting out/acting in; Action-thought (H. Kohut); Reality principle; Specific action; Totem and Taboo.
+Bibliography
+
+    * Perron-Borelli, Michèle. (1997). Dynamique du fantasme. Paris: Presses Universitaires de France.
+    * Perron-Borelli, Michèle, and Perron, Roger. (1997). Fantasme, action, pensée. Alger:Éditions de la Société algérienne de psychologie.
+    * Schafer, Roy. (1976). A new language for psychoanalysis. New Haven, CT: Yale University Press.
+    * Wallon, Henri. (1970). De l'acteà la pensée. Paris: Flammarion. (Original work published 1942)
+    * Widlöcher, Daniel. (1986). Métapsychologie du sens. Paris: Presses Universitaires de France.
+
+Further Reading
+
+    * Ellman, J., rep. (2000). Panel: The mechanism of action of psychoanalytic treatment. Journal of the American Psychoanalytic Association, 48, 919-928.
+    * Grand, Stanley. (2002). Action in the psychoa situation: internal & external reality. Psychoanalytic Psychology, 19, 254-280.
+    * Katz, Gil. (1998). Where the action is: the enacted dimension of analytic process., Journal of the American Psychoanalytic Association, 46, 1129-1168.
+    * Ogden, Thomas H. (1994). The concept of interpretive action. Psychoanalytic Quarterly, 63, 219-245.
+
+
+
+{{Les termes}}

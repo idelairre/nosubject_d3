@@ -1,0 +1,56 @@
+{{Top}}névrose{{Bottom}}
+
+==Sigmund Freud==
+===Mental Disorder===
+"[[Neurosis]]" is originally a [[psychiatric]] term which came to denote, in the eighteenth-century, a whole range of [[treatment|nervous disorders]] defined by a wide variety of [[symptom]]s.  [[Freud]] uses the term in a number of ways, sometimes as a general term for all [[treatment|mental disorders]] in [[Works of Sigmund Freud|his early work]], and sometimes to denote a specific class of [[treatment|mental disorders]] (i.e. in opposiiton to [[psychosis]]).
+
+It is a pathological mental condition in which there are no observable lesions in the neuropsychological system.  The patient is normally aware of the morbidity of his or her condition and a neurosis can, unlike a psychosis, be treated with the patient's consent.  Neurosis is normally understood as a condition such as hysteria in which somatic symptoms are an expression of a psychical conflict originating in childhood.  Modern psychoanalysis describes patients presenting obsessional, phobic or hysterical symptoms as neurotic.
+
+==Jacques Lacan==
+===Clinical Structure===
+In [[Lacan]]'s work, the term [[neurosis]] always figures in opposition to [[psychosis]] and [[perversion]], and refers not to a set of [[symptom]]s but to a particular [[clinical structure]].  This use of the term to designate a [[structure]] problematizes [[Freud]]'s distinction between [[neurosis]] and normality.
+
+===Neurosis and Normality===
+[[Freud]] bases this distinction purely on a quantitative factors ("psychoanalytic research finds no fundamental but only quantitative distinction between normal and neurotic life"<ref>{{F}} ''[[The Interpretation of Dreams]]'', 1990a: [[SE]] V: 373</ref>) which is not a [[structural]] distinction.  In [[structural]] terms, therefore, there is no distinction between the "normal" [[subject]] and the [[neurotic]].
+
+===Psychosis and Perversion===
+This [[Lacanian]] nosology identifies three [[clinical structures]]: [[neurosis]], [[psychosis]] and [[perversion]], in which there is no position of "mental health" which could be called "normal"<ref>{{S8}} p. 374-5; {{E}} p. 163</ref>. The normal [[structure]], in the sense of that which is found in the statistical majority of the population, is [[neurosis]], and "mental health" is an illusory ideal of [[split|wholeness]] which can never be attained because the [[subject]] is essentially [[split]].  Thus whereas [[Freud]] sees [[neurosis]] as an illness that can be [[cure]]d, [[Lacan]] sees [[neurosis]] as a [[structure]] that cannot be altered.  The aim of [[psychoanalytic treatment]] is therefore not the eradication of the [[neurosis]] but the modification of the [[subject]]'s position ''vis-à-vis'' the [[neurosis]].
+
+===Hysteria and Obsessional Neurosis===
+According to [[Lacan]], "the structure of a neurosis is essentially a question."<ref>{{S3}} p.174</ref>
+
+<blockquote>"[[Neurosis]] is a question that being poses for the subject."<ref>{{E}} p.168</ref></blockquote>
+
+The two forms of [[neurosis]] -- [[hysteria]] and [[obsessional neurosis]] -- are distinguished by the content of the question.  The question of the [[hysteric]] ("[[hysteria|Am I a man or a woman?]]") relates to one's [[sex]], whereas the question of the [[obsessional neurosis]] ("[[obsessional neurosis|To be or not to be?]]") relates to the [[time|contingency]] of one's own [[existence]].  These two questions (the [[hysteria|hysterical]] question about [[sexuality|sexual identity]], and the [[obsessional]] question about [[death]]/[[existence]]) "are as it happens the two ultimate questions that have precisely no solution in the signifier.  This is what gives neurotics this existential value."<ref>{{S3}} p.190</ref>
+
+===Phobia===
+At times [[Lacan]] lists [[phobia]] as a [[neurosis]] alongside [[hysteria]] and [[obsessional neurosis]], thus raising the question of whether there are not two but three forms of [[neurosis]].<ref>{{E}} p.168</ref>
+
+==See Also==
+{{See}}
+* [[End of analysis]]
+* [[Hysteria]]
+||
+* [[Obsessional neurosis]]
+* [[Perversion]]
+||
+* [[Psychosis]]
+* [[Split]]
+||
+* [[Structure]]
+* [[Subject]]
+||
+* [[Symptom]]
+* [[Treatment]]
+{{Also}}
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+{{Cat}}
+[[Category:Neurosis]]
+[[Category:Practice]]
+[[Category:Treatment]]
+__NOTOC__

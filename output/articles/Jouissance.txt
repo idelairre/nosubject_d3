@@ -1,0 +1,161 @@
+<!-- 
+{| align="right" style="line-height:2.0em;text-align:right;background-color:#fcfcfc;border:1px solid #aaa" 
+| [[English]]: ''[[enjoyment]]''
+|}
+-->
+
+==Translation==
+===Enjoyment===
+''[[Jouissance]]'', and the corresponding verb, ''[[jouir]]'', refer to an extreme [[pleasure]].  It is not possible to translate this French word, ''jouissance'', precisely.  Sometimes it is translated as '[[enjoyment]]', but enjoyment has a reference to pleasure, and ''jouissance'' is an enjoyment that always has a deadly reference, a paradoxical pleasure, reaching an almost intolerable level of excitation.  Due to the specificity of the French term, it is usually left untranslated.
+
+<!-- There is no adequate translation in [[English]] of the word ''[[jouissance]]''.<ref>It is therefore left untranslated in most English editions of [[Lacan]].</ref>  "[[Enjoyment]]" does convey the sense, contained in ''[[jouissance]]'', of ''enjoyment of rights'', of ''property'', etc., but it lacks the ''sexual connotations'' of the [[French]] word. (''Jouir'' is slang for "to come".) -->
+<!-- But it also refers to those moments when too much pleasure is pain. -->
+<!-- The term signifies the ecstatic or orgasmic [[enjoyment]] - and exquisite [[pain]] - of something or someone.  In [[French]], ''[[jouissance]]'' includes the [[enjoyment]] of rights and property, but also the slang verb, ''[[jouissance|jouir]]'', to come, and so is related to the [[pleasure]] of the [[sexual relationship|sexual act]].--> 
+
+===Pleasure===
+<!-- Lacan develops this opposition in 1960, in the context of his seminar The Ethics of Psychoanalysis. -->
+<!-- In 1960 [[Lacan]] develops an opposition -->
+[[Lacan]] makes an important distinction between ''[[jouissance]]'' and ''[[plaisir]]'' ([[pleasure]]). [[Pleasure]] obeys the [[law]] of homeostasis that [[Freud]] evokes in ''[[Beyond the Pleasure Principle]]'', whereby, through discharge, the [[psyche]] seeks the lowest possible level of tension.  The [[pleasure principle]] thus functions as a limit imposed on [[enjoyment]]; it commands the [[subject]] to "enjoy as little as possible." ''[[Jouissance]]'' transgresses this [[law]] and, in that respect, it is ''beyond'' the [[pleasure principle]].
+<!-- ''[[Jouissance]]'' goes beyond ''[[plaisir]]''. -->
+<!-- However, the result of transgressing the [[pleasure principle]] is not more [[pleasure]], but pain, since there is only a certain amount of [[pleasure]] that the [[subject]] can bear. Beyond this limit, [[pleasure]] becomes [[pain]], and this "painful pleasure" is what [[Lacan]] calls ''[[jouissance]]''. "''Jouissance'' is suffering."<ref>{{S7}} p. 184</ref> The term ''[[jouissance]]'' thus nicely expresses the paradoxical [[satisfaction]] that the [[subject]] derives from his [[symptom]], or, to put it another way, the suffering that he derives from his on [[satisfaction]]. -->
+
+<!-- ==Masochism== There is an important difference between [[masochism]] and [[jouissance]].  In [[masochism]], [[pain]] is a means to [[pleasure]]; [[pleasure]] is taken in the very fact of [[pain|suffering]] itself, so that it becomes difficult to distinguish [[pleasure]] from [[pain]].  With ''[[jouissance]]'', on the other hand, [[pleasure]] and [[pain]] remain distinct; no [[pleasure]] is taken in the [[pain]] itself, but the [[pleasure]] cannot be obtained without paying the price of [[pain|suffering]].  It is thus a kind of ''deal'' in which "[[pleasure]] ''and'' [[pain]] are presented as a single packet."<ref>Seminar of 27 February 1963. J. Lacan, The Seminar. Book VII: The Ethics of Psychoanalysis. p. 189.</ref> -->
+
+<!-- <blockquote>"Castration means that ''jouissance'' must be refused so that it can be reached on the inverted ladder (''l'échelle renversée'') of the Law of desire."<ref>{{E}} p. 324</ref></blockquote> -->
+The [[symbolic]] [[prohibition]] of [[enjoyment]] in the [[Oedipus complex]] (the [[incest]] [[taboo]]) is thus, paradoxically, the [[prohibition]] of something which is already impossible; its function is therefore to sustain the [[neurotic]] [[illusion]] that [[enjoyment]] would be attainable if it were not forbidden.  The very prohibition creates the [[desire]] to transgress it, and ''[[jouissance]]'' is therefore fundamentally transgressive.<ref>{{S7}} Ch. 15</ref>
+
+==Development==
+===Sigmund Freud===
+=====Death Drive=====
+The [[death drive]] is the name given to that constant [[desire]] in the [[subject]] to break through the [[pleasure principle]] towards the [[Thing]] and a certain [[surplus|excess]] ''[[jouissance]]''; thus ''[[jouissance]]'' is "the path towards death".<ref>{{S17}} p. 17</ref>
+
+Insofar as the [[drive]]s are attempts to break through the [[pleasure principle]] in search of ''[[jouissance]]'', every [[drive]] is a [[death drive]].
+
+===Jacques Lacan===
+====1953 - 1960====
+=====Master-Slave Dialectic=====
+''Jouissance'' is not a central preoccupation during the first part of
+Lacan's teaching.  ''Jouissance'' appears in Lacan's work in the [[seminars]] of [[Seminar I|1953-54]] and [[Seminar II|1954-55]], and is referred to in some other works (''[[Écrits]]'', 1977).  In these early years ''[[jouissance]]'' is not elaborated in any [[structure|structural sense]], the reference being mainly to [[Hegel]] and the [[master—slave]] [[dialectic]], where the [[slave]] must facilitate the [[master]]'s ''jouissance'' through his work in producing objects for the master.
+
+=====Sexual Reference=====
+From 1957 the sexual reference of ''jouissance'' as orgasm emerges into the foreground.  This is the more popular use of the term ''jouissance'', with ''jouir'' meaning `to come'.
+
+=====''The Ethics of Psychoanalysis''=====
+In his [[seminar]] of [[Seminar VII|1959-60]], [[Seminar VII|The Ethics of Psychoanalysis]], Lacan deals for the first time with the [[Real]] and ''jouissance''.  Although the [[Real]] of the 1960s is not the same as his use of the Real in the 1980s, the first concepts emerge in this seminar.  Here ''jouissance'' is considered in its function of [[evil]], that which is ascribed to a neighbour, but which dwells in the most intimate part of the [[subject]], [[extimate|intimate]] and [[alienated]] at the same time, as it is that from which the [[subject]] flees, experiencing [[aggression]] at the very approach of an encounter with his/her own ''jouissance''.  The chapters in this seminar address such concepts as the ''jouissance'' of [[transgression]] and the paradox of ''jouissance''.
+
+====1960s====
+=====Symbolic Castration=====
+It is in the text '[[The subversion of the subject and the dialectic of desire in the Freudian unconscious]]' that a [[structure|structural]] account of ''jouissance'' is first given in connection with the [[subject]]'s entry into the [[symbolic]] (Lacan, 1977).
+
+The [[speaking]] [[being]] has to use the [[signifier]], which comes from the [[Other]].  This has an effect of cutting any notion of a complete ''jouissance'' of the [[Other]].  The [[signifier]] forbids the ''jouissance'' of the [[body]] of the Other.  Complete ''jouissance'' is thus [[forbidden]] to the one who speaks, that is, to all speaking beings.  This refers to a loss of ''jouissance'' which is a necessity for those who use [[language]] and are a product of language.  This is a reference to [[castration]], [[castration]] of ''jouissance'', a [[lack]] of ''jouissance'' that is constituent of the [[subject]].  This loss of ''jouissance'' is a loss of the ''jouissance'' which is presumed to be possible with the [[Other]], but which is, in fact, lost from the beginning.  The myth of a primary experience of satisfaction is an illusion to cover the fact that all satisfaction is marked by a loss in relation to a supposed initial, complete satisfaction.  The primary effect of the [[signifier]] is the [[repression]] of [[the thing]] where we suppose full ''jouissance'' to be.  Once the signifier is there, ''jouissance'' is not there so completely.  And it is only because of the signifier, whose impact cuts and forces an expenditure of ''jouissance'' from the body, that it is possible to enjoy what remains, or is left over from this evacuating.  What cannot be evacuated via the signifying operation remains as a ''jouissance'' around the [[erotogenic zones]], that to which the [[drive]] is articulated.
+
+What is left over after this negativization (—) of ''jouissance'' occurs at two levels.  At one level, ''jouissance'' is redistributed outside the [[body]] in [[speech]], and there is thus a ''jouissance'' of [[speech]] itself, out-of-the-body ''jouissance''.  On another level, at the level of the [[lost object]], [[object a]], there is a plus (+), a little compensation in the form of what is allowed of ''jouissance'', a compensation for the minus of the loss which has occurred in the forbidding of ''jouissance'' of the [[Other]].
+
+=====Symbolic Prohibition=====
+The [[prohibition]] of ''[[jouissance]]'' (the [[pleasure principle]]) is inherent in the [[symbolic]] [[structure]] of [[language]], which is why "''jouissance'' is forbidden to him who speaks, as such."<ref>{{E}} p. 319</ref>  The [[subject]]'s entry into the [[symbolic]] is conditional upon a certain initial [[renunciation]] of ''[[jouissance]]'' in the [[castration complex]], when the [[subject]] gives up his attempts to be the [[imaginary]] [[phallus]] for the [[mother]].
+
+=====Law and Prohibition=====
+The [[Freud]]ian [[Oedipus]] refers to the [[father]] prohibiting access to the [[mother]], that is, the [[law]] prohibiting ''jouissance''.  Lacan refers not only to a ''jouissance'' forbidden to the one who speaks, but the impossibility in the very [[structure]] itself of such a ''jouissance'', that is, a lack of ''jouissance'' in the essential of the [[structure]]. Thus, what is prohibited is, in fact, already impossible.
+
+=====''Plus-de jouir''=====
+The [[lack]] in the [[signifying order]], a [[lack]] in the [[Other]], which designates a lack of ''jouissance'', creates a place where lost objects come, standing in for the missing ''jouissance'' and creating a link between the signifying order and ''jouissance''.  What is allowed of ''jouissance'' is in the [[surplus]] ''jouissance'' connected with [[object a]].  Here ''jouissance'' is embodied in the lost object. Although this object is lost and cannot be appropriated, it does restore a certain coefficient of ''jouissance''. This can be seen in the subject repeating him-/herself with his/her surplus ''jouissance'', ''[[plus-de jouir]]'', in the push of the [[drive]].
+
+=====Drive=====
+''[[Plus-de jouir]]'' can mean both more and no more; hence the ambiguity, both more ''jouir'' and no more ''jouir''.  The [[drive]] turning around this lost object attempts to capture something of the lost ''jouissance''.  This it fails to do, there is always a loss in the circuit of the drive, but there is a ''jouissance'' in the very [[repetition]] of this movement around the [[object a]], which it produces as a ''[[plus-de jouir]]''. In this structural approach, there is a structuring function of lack itself, and the loss of the primordial object of ''jouissance'' comes to operate as a cause, as seen in the function of [[object a]], the ''[[plus-de jouir]]''.
+
+=====Desire=====
+''Jouissance'' is denoted, in these years, in its [[dialectic]] with [[desire]].  Unrecognised [[desire]] brings the [[subject]] closer to a destructive ''jouissance'', which is often followed by retreat.  This destructive ''jouissance'' has a Freudian illustration in the account of the case of the [[Ratman]], of whom Freud notes `the horror of a pleasure of which he was unaware' (Freud, S.E. 10, pp. 167-8).
+
+====1970s====
+[[Seminar XX]], [[Encore]], given in 1972-73, further elaborates Lacan's ideas on ''jouissance'' already outlined, and goes further with another aspect of ''jouissance'', ''[[feminine jouissance]]'', also known as the ''[[Other jouissance]]''. 
+
+The speaking being is alone with his/her ''jouissance'' as it is not possible to share the ''jouissance'' of the Other.  The axiom that Lacan has already given in earlier seminars, [[there is no sexual rapport]], comes to the foreground in Encore as male and female coming from a very different ''jouissance''; different and not complementary.  It is a difference in the relation of the speaking being to ''jouissance'' which determines his being man or woman, not anatomical difference.
+
+=====Phallic ''Jouissance''=====
+Sexual ''jouissance'' is specified as an impasse. It is not what will allow a man and a woman to be joined. Sexual ''jouissance'' can follow no other path than that of [[phallic]] ''jouissance'' that has to pass through [[speech]].  The ''jouissance'' of man is produced by the [[structure]] of the [[signifier]], and is known as [[phallic]] ''jouissance''.  The [[structure]] of [[phallic]] ''jouissance'' is the [[structure]] of the [[signifier]].  Lacan proposes a precise definition of man as being subject to [[castration]] and lacking a part of ''jouissance'', that which is required in order to use [[speech]]. All of man is subjected to the [[signifier]].  Man cannot relate directly with the [[Other]]. His partner is thus not the Other sex but an object, a piece of the body.  Man looks for a little surplus ''jouissance'', that linked with object a, which has phallic value.
+
+The erotics embodied in [[object a]] is the ''jouissance'' that belongs to fantasy, aiming at a piece of the [[body]], and creating an illusion of a union linking the subject with a specific object.  The ''jouissance'' of man is thus phallic ''jouissance'' together with surplus ''jouissance''.  This is linked to his ideas of the 1960s outlined above. 
+
+=====Other ''Jouissance''=====
+[[Woman]] is [[phallic]] ''jouissance'' with something more, a supplementary ''jouissance''.  There is no universal definition of woman.  Every woman must pass, like man, through the signifier. However, not all of woman is subjected to the signifier.  Woman thus has the possibility of the experience of a ''jouissance'' which is not altogether phallic.  This Other ''jouissance'', another kind of satisfaction, has to do with the relation to the Other and is not supported by the object and fantasy. 
+
+Increasingly, in his works of the 1970s, Lacan points to the fact that language, in addition to having a signifier effect, also has an effect of ''jouissance''. In [[Television]], he equivocates between ''jouissance'', ''jouis-sens'' (enjoyment in sense) and the ''jouissance'' effect, the enjoyment of one's own unconscious, even if it is through pain (Lacan, 1990).  The [[unconscious]] is emphasized as enjoyment playing through substitution, with ''jouissance'' located in the jargon itself. ''Jouissance'' thus refers to the specific way in which each subject enjoys his/her unconscious. 
+
+=====''Lalangue''=====
+The motor of the unconscious ''jouissance'' is ''lalangue'', also described as babbling or mother tongue. The unconscious is made of ''lalangue''. Lacan writes it as ''lalangue'' to show that language always intervenes in the form of lallation or mother tongue and that the unconscious is a `knowing how to do things' with ''lalangue''. The practice of psychoanalysis, which promotes free association, aims to cut through the apparent coherent, complete system of language in order to emphasize the inconsistencies and holes with which the speaking being has to deal. The ''lalangue'' of the unconscious, that which blurts out when least expected, provides a ''jouissance'' in its very play. Every ''lalangue'' is unique to a subject. 
+
+''Jouis-sens'' also refers to the [[super-ego]]'s [[demand]] to enjoy, a cruel imperative - enjoy! - that the subject will never be able to satisfy.  The super-ego promotes the ''jouissance'' that it simultaneously prohibits.  The Freudian reference to the super-ego is one of a paradoxical functioning, secretly feeding on the very satisfaction that it commands to be renounced.  The severity of the super-ego is therefore a vehicle for ''jouissance''.
+
+In '[[La Troisième]]', presented in Rome in 1974 (Écrits, 1977), Lacan elaborates the third ''jouissance'', jouis-sens, the ''jouissance'' of meaning, the ''jouissance'' of the unconscious, in reference to its locus in the [[Borromean knot]]. He locates the three ''jouissance''s in relation to the intersections of the three circles of the knot, the circles of the [[Real]], the [[Symbolic]] and the [[Imaginary]].  The Borromean knot is a topos in which the logical and clinical dimensions of the three ''jouissance''s are linked together: the Other ''jouissance'', that is the ''jouissance'' of the body, is located at the intersection of the Real and the Imaginary; phallic ''jouissance'' is situated within the common space of the Symbolic and the Real; the ''jouissance'' of meaning, jouis-sens, is located at the intersection of the Imaginary and the Symbolic.  It is the [[object a]] that holds the central, irreducible place between the Real, the Symbolic and the Imaginary.
+
+=====Feminine ''Jouissance''=====
+<!-- There are strong affinitites between [[Lacan]]'s concept of ''[[jouissance]]'' and [[Freud]]'s concept of the [[libido]], as is clear from [[Lacan]]'s description of ''[[jouissance]]'' as a "bodily substance."<ref>{{S20}} p. 26</ref> In keeping with [[Freud]]'s assertion that there is only one [[libido]], which is [[masculine]], [[Lacan]] states that ''[[jouissance]]'' is essentially [[phallic]]; <blockquote>''Jouissance'', insofar as it is sexual, is phallic, which means that it does not relate to the Other as such."<ref>{{S20}} p. 14</ref></blockquote> 
+However, in 1973 [[Lacan]] admits that there is a specifically [[feminine]] ''[[jouissance]]'', a "supplementary ''jouissance''"<ref>{{S20}} p. 58</ref> which is "beyond the phallus,"<ref>{{S20}} p. 69</ref> a ''jouissance'' of the [[Other]]. This [[jouissance|feminine jouissance]] is ineffable, for [[women]] experience it but know nothing about it.<ref>{{S20}} p. 71</ref>  In order to differentiate between these two forms of ''[[jouissance]]'', [[Lacan]] introduces different [[algebra|algebraic]] [[symbol]]s for each; '''Jφ''' designates [[phallus|phallic ''jouissance'']], whereas '''JA''' designates the ''[[jouissance]]'' of the [[Other]]. -->
+
+[[Lacan]] states that "''[[jouissance]]'', insofar as it is sexual, is [[phallus|phallic]], which means that it does not relate to the Other as such."<ref>{{S20}} p. 14</ref>  However, he argues that there is a specifically [[feminine]] ''[[jouissance]]'', a "supplementary ''jouissance''"<ref>{{S20}} p. 58</ref> which is "beyond the phallus,"<ref>{{S20}} p. 69</ref> a ''jouissance'' of the [[Other]]. In order to differentiate between these two forms of ''[[jouissance]]'', [[Lacan]] introduces different [[algebra|algebraic]] [[symbol]]s for each; '''Jφ''' designates [[phallus|phallic ''jouissance'']], whereas '''JA''' designates the ''[[jouissance]]'' of the [[Other]].
+
+<!-- ==Master and Slave==
+In the [[seminars]] of 1953-4 and 1954-5 [[Lacan]] uses the term occasionally, usually in the context of the [[Hegel]]ian [[dialectic]] of the [[master]] and the [[slave]]: the [[slave]] is forced to work to provide objects for the [[master]]'s [[enjoyment]] (''[[jouissance]]'').<ref>{{S1}} p. 223; {{S2}} p. 269</ref> -->
+
+==''Jouissance'' and the Clinic==
+Lacan's contribution to the clinic is paramount in regard to the operation of ''jouissance'' in neurosis, perversion and psychosis. The three structures can be viewed as strategies with respect to dealing with ''jouissance''.
+
+=====Neurosis=====
+The [[neurotic]] [[subject]] does not want to sacrifice his/her castration to the ''jouissance'' of the Other (Écrits, 1977). It is an imaginary castration that is clung to in order not to have to acknowledge Symbolic castration, the subjection to language and its consequent loss of ''jouissance''. The neurotic subject asks 'why me, that I have to sacrifice this castration, this piece of flesh, to the Other?' Here we encounter the neurotic belief that it would be possible to attain a complete ''jouissance'' if it were not forbidden and if it were not for some Other who is demanding his/her castration. Instead of seeing the lack in the Other the neurotic sees the Other's demand of him/her. 
+
+=====Perversion=====
+The [[Pervert]] imagines him-/herself to be the Other in order to ensure his/her ''jouissance''. The perverse subject makes him-/herself the instrument of the Other's ''jouissance'' through putting the object a in the place of the barred Other, negating the Other as subject. His/her ''jouissance'' comes from placing him-/herself as an object in order to procure the ''jouissance'' of a phallus, even though he/she doesn't know to whom this phallus belongs. Although the pervert presents him-/herself as completely engaged in seeking ''jouissance'', one of his/her aims is to make the law present. Lacan uses the term père-version, to demonstrate the way in which the pervert appeals to the father to fulfil the paternal function.
+
+=====Practice=====
+The [[practice]] of [[psychoanalysis]] examines the different ways and means the subject uses to produce ''jouissance''. It is by means of the bien dire, the well-spoken, where the subject comes to speak in a new way, a way of speaking the truth, that a different distribution of ''jouissance'' may be achieved. The analytic act is a cut, a break with a certain mode of ''jouissance'' fixed in the fantasy. The consequent crossing of the fantasy leaves the subject having to endure being alone with his/her own ''jouissance'' and to encounter its operation in the drive, a unique, singular way of being alone with one's own ''jouissance''. The cut of the analytic act leaves the subject having to make his/her own something that was formerly alien. This produces a new stance in relation to ''jouissance''.
+
+=====Psychosis=====
+In [[psychosis]], ''jouissance'' is reintroduced in the place of the Other. The ''jouissance'' involved here is called ''jouissance'' of the Other, because ''jouissance'' is sacrificed to the Other, often in the most mutilating ways, like cutting off a piece of the body as an offering to what is believed to be the command of the Other to be completed. The body is not emptied of ''jouissance'' via the effect of the signifier and castration, which usually operate to exteriorise ''jouissance'' and give order to the drives.
+
+In [[Schreber]] we see the manifestation of the ways in which the body is not emptied of ''jouissance''. Shreber describes a body invaded by a ''jouissance'' that is ascribed to the ''jouissance'' of the Other, the ''jouissance'' of God. 
+
+The practice of psychoanalysis with the psychotic differs from that of the neurotic. Given that the psychotic is in the position of the object of the Other's ''jouissance'', where the Uncontrolled action of the death drive lies, what is aimed at is the modification of this position in regard to the ''jouissance'' in the structure. This involves an effort to link in a chain, the isolated, persecuting signifiers in order to initiate a place for the subject outside the ''jouissance'' of the Other. Psychoanalysis attempts to modify the effect of the Other's ''jouissance'' in the body, according to the shift of the subject in the structure. The psychotic does not escape the structure, but there can be a modification of unlimited, deadly ''jouissance''.
+
+==See Also==
+{{See}}
+* [[Borromean knot]]
+* [[Castration]]
+* [[Death drive]]
+* [[Drive]]
+||
+* [[Desire]]
+* [[Ethics]]
+* [[Imaginary]]
+* [[Law]]
+||
+* [[Libido]]
+* [[Mother]]
+* [[Neurosis]]
+* [[Oedipus complex]]
+||
+* [[Perversion]]
+* [[Phallus]]
+* [[Pleasure principle]]
+* [[Psychosis]]
+||
+* [[Structure]]
+* [[Super-ego]]
+* [[Symbolic]]
+{{Also}}
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+* Freud, S. (1951) [1905] 'The Three Essays on Sexuality'. S.E. 7: pp. 125-244. In: Standard Edition of the Complete Psychological Works of Sigmund Freud. London: Hogarth Press.
+* Freud, S. (1951) Notes upon a Case of Obsessional Neurosis. S.E. I0: pp. 153-319.
+* Freud, S. (1951) [1920] Beyond the Pleasure Principle. S.E. I8: pp. 3-64.
+* Lacan, J. (1970) 'Of structure as an inmixing of an otherness prerequisite to any subject whatever' in The Structuralist ''Jouissance'' 109 Controversy, Richard Macksay and Eugenio Donato (eds). Baltimore: Johns Hopkins University Press, p. 194. 
+* Lacan, J. (1975) Seminar XX, Encore (1972-73). Text established by Jacques-Alain Miller. Paris: Seuil, p. 10. Now translated by Bruce Fink (1998) under the title of On Feminine Sexuality, The Limits of Love and Knowledge I972-1973, Encore. The Seminar of Jacques Lacan. Book XX. New York: W.W. Norton, p. 3. 
+* Lacan, J. (1958) 'The youth of A. Gide', April, 1958; `The signification of the phallus', May, 1958; 'On the theory of symbolism in Ernest Jones', March, 1959, in Écrits. Paris: Seuil. 
+* Lacan, J. (1977) [1960]. 'The subversion of the subject and the dialectic of desire in the Freudian unconscious' in Écrits: A Selection (trans. A. Sheridan). New York: W.W. Norton. 
+* Lacan, J. (1990) Television. New York: W.W. Norton. (note 5), p. 325. Carmela Levy-Stokes
+</div>
+
+{{OK}}
+[[Category:Real]]
+[[Category:Concepts]]

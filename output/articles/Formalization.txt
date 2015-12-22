@@ -1,0 +1,39 @@
+The translation of a proposition or body of propositions into a more more language, such as that of [[mathematics]] or symbolic logic, usually in order to clarify or explicate the information content, as in the [[matheme]] of [[Lacan]].
+
+
+
+===Formalization of Psychoanalysis===
+
+Three main reasons lie behind this attempt at [[formalization]].
+
+:1. [[Formalization]] is necessary for [[psychoanalysis]] to acquire [[scientific]] status.
+
+:Just as [[Claude Lévi-Strauss]] uses quasi-mathematical formulae in an attempt to set [[anthropology]] on a more [[scientific]] footing, [[Lacan]] attempts to do the same for [[psychoanalysis]]
+
+:[[Lacan]] used quasi-mathematical formulae in an attempt to set [[psychoanalysis]] on a more [[scientific]] footing.
+
+:2. [[Formalization]] can provide a core of [[psychoanalytic theory]] which can be transmitted integrally even to those who have never experienced [[psychoanalytic treatment]].
+
+:The [[matheme|formulae]] thus become an essential aspect of the [[training]] of [[psychoanalysis]] which take their place alongside [[training|training analysis]] as a medium for the transmission of [[psychoanalytic]] [[knowledge]].
+
+:3. [[Formalization]] of [[psychoanalytic theory]] in terms of [[algebraic]] [[symbols]] is a means of preventing [[knowledge|intuitive understanding]], which [[Lacan]] regards as an [[imaginary]] [[lure]] which hinders access to the [[symbolic]].
+
+:Rather than being understood in an intuitive way, the [[algebraic]] [[symbols]] are to be used, manipulated and read in various different ways.<ref>{{E}} p.313</ref>
+
+==See Also==
+* [[Algebra]]
+* [[List of algebraic symbols]]
+* [[Matheme]]
+* [[Formalization]]
+* [[Science]]
+
+==References==
+<references/>
+
+==See Also==
+[[Category:Psychoanalysis]]
+[[Category:Jacques Lacan]]
+[[Category:Science]]
+[[Category:Concepts]]
+[[Category:Science]]
+[[Category:Terms]]

@@ -1,0 +1,80 @@
+[[Image:JOYCE.jpg|thumb|250px|right|Jacques Lacan gives the opening lecture at the International James Joyce Symposiumin in Paris, 1975.]]
+
+[[Jacques Lacan:Index|Jacques-Marie Émile Lacan]] ([[Jacques Lacan:Chronology#1901|April 13, 1901]] – [[Jacques Lacan:Chronology#1981|September 9, 1981]]) was a [[French]] [[psychiatrist]] and [[psychoanalyst]].
+
+He is one of the most important figures in the history of [[psychoanalysis]], but is also acknowledged for his influence across a wide range of disciplines.
+
+
+{| style="line-height:1.5em;valign:top;width:50%;text-align:left;"
+|class="MainPageBG" style="width:50%;border:0px solid #cccccc;background-color:#ffffff;vertical-align:top"|
+{| width="100%" cellpadding="2" cellspacing="0" style="text-align:left;line-height:2em;vertical-align:top;background-color:#ffffff"
+|-
+|style="text-align:left;color:#000;line-height:2.5em;align:justify;"|
+|
+{| width="100%" style="text-align:left;font-size:.95em;line-height:2em;background-color:#fcfcfc;border:1px solid #aaa;padding-left:3px;" 
+|
+{{See}}
+:1. [[Jacques Lacan#Biography|Biography]]
+:2. [[Jacques Lacan#Theory|Theory]]
+||
+:3. [[Jacques Lacan#Practice|Practice]]
+:4. [[Jacques Lacan#Bibliography|Bibliography]]
+||
+:5. [[Jacques Lacan#See Also|See Also]]
+:6. [[Jacques Lacan#References|References]]
+{{Also}}
+|}
+|}
+|}
+__NOTOC__
+
+==Biography==
+<blockquote>''[[Chronology|Click here for a more complete chronology of '''Jacques Lacan''''s life]].''</blockquote>
+
+{| class="wikitable" width="100%" cellpadding="2" align="center" bgcolor="ffffff" style="background:#ffffff;width:100%; height:200px; text-align:center; line-height:2.0em;"
+| width="50px" style="valign:top;" | [[{{Y}}|1901]]<BR>-<BR>[[{{Y}}|1938]]<BR>
+| align="left" style="padding: 0.2em 0.2em 0.2em 0.5em; margin: 0.5em 0 1em 0;" | [[Lacan]] studies medicine and [[psychiatry]] and completes his [[De la psychose paranoiaque dans ses rapports avec la personalité|doctoral thesis]] on [[paranoia|paranoid]] [[psychosis]].
+He presents a paper on the [[mirror stage]] -- his first theoretical contribution to [[psychoanalysis]] -- at a conference of the [[International Psycho-Analytical Association]] ([[IPA]]) in Marienbad.
+|-
+| width="50px" | [[{{Y}}|1938]]<BR>-<BR>[[{{Y}}|1953]]<BR>
+| align="left" style="padding: 0.2em 0.2em 0.2em 0.5em; margin: 0.5em 0 1em 0;" | [[Lacan]] is a member of the ([[IPA]] affiliated) ''[[Société psychanalytique de Paris]]'' ([[SPP]]) until he resigns to join the ''[[Société Française de Psychanalyse]]'' ([[SFP]]).
+|-
+| width="50px" | [[{{Y}}|1953]]<BR>-<BR>[[{{Y}}|1963]]<BR>
+| align="left" style="padding: 0.2em 0.2em 0.2em 0.5em; margin: 0.5em 0 1em 0;" | [[Lacan]] begins his first public [[seminar]] (which he will continue to give annually until his death). 
+Thereafter, he rises to become a renowned and controversial figure in the international psychoanalytic community.
+|-
+| width="50px" | [[{{Y}}|1963]]<BR>-<BR>[[{{Y}}|1980]]<BR>
+| align="left" style="padding: 0.2em 0.2em 0.2em 0.5em; margin: 0.5em 0 1em 0;" | [[Lacan]] leaves the [[SFP]] (after his "expulsion" from the [[IPA]]) and founds his own [[school]], the ''[[École Freudienne de Paris]]'' ([[EFP]]).  
+Following the publication of the [[Écrits]] (1966), there is an explosion of interest in his work in France and abroad.
+|-
+| width="50px" | [[{{Y}}|1980]]<BR>-<BR>[[{{Y}}|1981]]<BR>
+| align="left" style="padding: 0.2em 0.2em 0.2em 0.5em; margin: 0.5em 0 1em 0;" | [[Lacan]] single-handedly dissolves the [[EFP]] and creates in its stead the ''[[École de la Cause freudienne|Cause freudienne]]''.
+However, [[Lacan]] soon dissolves the ''[[École de la Cause freudienne|Cause freudienne]]'' and replaces it with the ''[[École de la Cause freudienne]]''.
+|}
+
+==Bibliography==
+<blockquote>''[[Jacques Lacan:Bibliography|Click here]] for a more complete bibliography of [[Jacques Lacan]]'s [[Jacques Lacan:Bibliography|work]].''</blockquote>
+
+[[Lacan]]'s most important theoretical contributions to [[psychoanalysis]] were presented in his [[seminar]]s.
+
+In 1966, a selection of [[Lacan]]'s most important papers are published under the title ''[[Écrits]]''; fewer than one-third of them are included in the English ''[[Écrits: A Selection]]'' (1977).
+
+==See Also==
+{{See}}
+* [[Psychoanalysis]]
+* [[Psychology]]
+||
+* [[Return to Freud]]
+* [[International Psycho-Analytical Association]]
+||
+* [[Ego-psychology]]
+* [[Kleinian psychoanalysis]]
+||
+* [[Object-relations theory]]
+{{Also}}
+
+[[Category:People|Lacan, Jacques]]
+[[Category:Psychoanalysis|Lacan, Jacques]]
+[[Category:Index|Lacan, Jacques]]
+[[Category:Slavoj Žižek|Lacan, Jacques]]
+[[Category:Looking Awry|Lacan, Jacques]]

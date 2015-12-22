@@ -1,0 +1,91 @@
+{{Top}}mère{{Bottom}}
+
+==Sigmund Freud==
+===Love Object===
+In [[Freud]]'s account of the '''[[Oedipus complex]]''', the [[mother]] is the first '''[[love]] [[object]]''' of the [[child]]; it is only the intervention of the '''[[father]]''', via the threat of '''[[castration]]''', which forces the [[child]] to give up his '''[[desire]]''' for the [[mother]].
+
+==Melanie Klein==
+===Dual Relation===
+In the work of [[Melanie Klein]], the emphasis shifted from the role of the '''[[father]]''' to the [[genital|pre-genital]] [[mother|mother-child]] '''[[dual relation|relation]]'''; the latter was described as a [[sadistic]] relation in which the [[development|child]] makes (in [[fantasy]]) vicious attacks on the [[mother]]'s [[fragmented body|body]] and then [[phobia|fear]]s retaliation from her.
+
+==Jacques Lacan==
+===Devouring Mother===
+In his [[Jacques Lacan:Bibliography|pre-war writings]], [[Jacques Lacan|Lacan]] alludes several times to [[Melanie Klein]]'s work, and describes the cannibalistic [[fantasy|fantasies]] of devouring, and being devoured by, the [[mother]].  [[Lacan]] argues that the first of the [[complex|family complex]]es is the [[complex|weaning complex]], in which the interrruption of the [[dual relation|symbiotic relation]] with the [[mother]] leaves a permanent trace in the [[development|child]]'s [[psyche]].
+
+He also describes the [[death drive]] as a ''nostalgic yearning'' to return to this relation of fusion with the [[mother]]'s [[mother|breast]].  This view of the [[mother]] as an engulfing force which threatens to devour the [[child]] is a constant theme in [[Jacques Lacan|Lacan]]'s [[Jacques Lacan:Bibliography|work]] thereafter.<ref>{{S4}} p. 195; {{S17}} p. 118</ref>
+
+===Socio-Symbolic World===
+[[Lacan]] argues that the [[child]] must detach himself from the '''[[imaginary]] [[dual relation|relation]]''' with the [[mother]] in order to enter the [[symbolic|social world]]; failure to do so can result in any one of various peculiarities ranging from [[phobia]] to [[perversion]].
+
+===Paternal Function===
+Since the agent who helps the [[child]] to overcome the primary attachment to the [[mother]] is the [[father]], these peculiarities may also be said to result from a failure of the [[Name-of-the-Father|paternal function]].
+
+===Oedipus Complex===
+Hence much of [[Lacan]]'s work is aimed at shifting the emphasis in [[psychoanalytic theory]] from the [[mother|mother-child]] relation (the [[preoedipal]], the prototype of the [[imaginary]]) back onto the role of the [[father]] (the [[Oedipus complex]], the prototype of the [[symbolic]]).
+
+===Desire of the Mother===
+According to [[Freud]], a [[woman]]'s [[desire]] to have a [[development|child]] is rooted in her [[envy]] of the [[man]]'s [[penis]].  When the [[girl]] first realizes that she does not possess a [[penis]], she feels deprived of something valuable, and seeks to compensate for this by obtaining a [[child]] as a [[symbolic]] [[fetish|substitute]] for the [[penis]] she has been denied.<ref>{{F}} "[[Works of Sigmund Freud|The Dissolution of the Oedipus Complex]]," 1924d. [[SE]] XIX, 173.</ref>
+
+===Symbolic Phallus===
+[[Lacan]] follows [[Freud]], arguing that the [[child]] always represents for the [[mother]] a [[fetish|substitute]] for the '''[[phallus|symbolic phallus]]''' which she [[lacks]] (see [[privation]]).  However, [[Lacan]] emphasizes that the [[fetish|substitute]] never really [[desire|satisfies]] the [[mother]]; her [[desire]] for the [[phallus]] persists even after she has had a [[child]].
+
+==="Che Vuoi?"===
+The [[development|child]] soon realizes that he does not completely [[desire|satisfy]] the [[mother]]'s '''[[desire]]''', that her [[desire]] aims at something beyond him, and thus attempts to decipher this enigmatic [[desire]]; he must work out an answer to the question ''[[Che vuoi?]]'' ("What do you want from me?").
+
+===Imaginary Phallus===
+The answer the [[child]]] comes up with is that what the [[mother]] [[desire]]s is the '''[[phallus|imaginary phallus]]'''.  The [[child]] then seeks to [[desire|satisfy]] the [[mother]]'s [[desire]] by [[identification|identifying]] with the '''[[phallus|imaginary phallus]]''' (or by [[identifying]] with the [[mother|phallic mother]], the [[mother]] imagined as possessing the [[phallus]]).  In this game of "to be or not to be the phallus," the [[child]] is completely at the mercy of the capricious [[desire]] of the [[mother]], [[helplessness|helpless]] in the face of her omnipotence.<ref>{{S4}} p. 69, 187</ref>
+
+===Anxiety===
+However, this sense of [[helplessness|powerlessness]] may not give rise to much '''[[anxiety]]''' at first; for a time, the [[child]] experiences his attempts at being the [[phallus]] as a relatively satisfying game of seduction.  It is only when the [[development|child]]'s [[drive|sexual drive]]s begin to stire (e.g. in infantile masturbation), and an element of the [[real]] is thus introduced into the [[imaginary]] game, that the omnipotence of the [[mother]] begins to provoke greater [[anxiety]] in the [[development|child]].  This '''[[anxiety]]''' is manifested in images of being devoured by the [[mother]], and is only resolved by the intervention of the [[real]] [[father]] who castrates the [[child]] in the third time of the [[Oedipus complex]].
+
+===Imaginary, Symbolic and Real Mother===
+[[Lacan]] argues that it is important to distinguish between the [[mother|real mother]], the [[mother|symbolic mother]], and the [[mother|imaginary mother]].  The [[mother]] manifests herself in the [[real]] as the primary caretaker of the [[infant]].  The [[infant]] is incapable of [[satisfaction|satisfying]] its own [[needs]] and so depends absolutely on an [[Other]] to care for him (see [[helplessness]]).
+
+===Symbolic Mother===
+The [[mother]] is first of all [[symbolic]]; she only becomes [[real]] by [[frustration|frustrating]] the [[subject]]'s [[demand]] (see [[frustration]]).  When the [[mother]] ministers to the [[infant]], bringing him the [[object]]s that will [[desire|satisfy]] his [[needs]], these [[object]]s soon take on a [[symbolic]] function that completely eclipses their real funciton; the [[object]]s are seen as gifts, symbolic tokens of the [[mother]]'s [[love]].  Finally, it is the [[mother]]'s [[presence]] which testifies to this [[love]], even if she does not bring any [[real]] [[object]] with her.  Consequently, the [[mother]]'s [[absence]] is experienced as a ''traumatic rejection'', as a [[lack|loss]] of her [[love]].
+
+===Symbolization===
+[[Freud]] showed how the [[child]] attempts to cope with this [[castration|loss]] by [[symbol|symbolizing]] the [[mother]]'s '''[[presence]]''' and '''[[absence]]''' in games and [[language]].  [[Lacan]] regards this primary [[symbolization]] as the [[child]]'s first steps into the [[symbolic|symbolic order]]."<ref>{{S4}} p. 67-</ref>  The [[mother]] which interests [[psychoanalytic theory]] is thus above all the [[mother|symbolic mother]], the [[mother]] in her role as the primordial [[Other]].  It is she who introduces the [[child]] into [[language]] by [[interpretation|interpreting]] the [[child]]'s screams and thereby retroactively determining their [[signification|meaning]] (see [[punctuation]]).
+
+===Imaginary Mother===
+The [[mother]] is manifested in the [[imaginary|imaginary order]] in a number of [[specular image|image]]s.  One important [[specular image|image]] that has aleady been mentioned is that of the devouring [[mother]] which is at the root of [[anxiety]].  Another important [[mother|maternal image]] is that of the [[mother|phallic mother]], the [[mother]] imagined as possessing the [[phallus|imaginary phallus]].
+
+===Real Mother===
+Lacan’s remarks on the Real Mother are few and far between, but it is a safe bet to assume that the Real Mother is none other than the [[das Ding|Thing]] itself, as the ultimate object of desire. The Real Mother is the one we are once united with, or indeed the One beyond all symbolization itself.
+
+==See Also==
+{{See}}
+* [[Absence]]
+* [[Anxiety]]
+* [[Demand]]
+||
+* [[Desire]]
+* [[Drive]]
+* [[Dual relation]]
+||
+* [[Father]]
+* [[Frustration]]
+* [[Helplessness]]
+||
+* [[Language]]
+* [[Lack]]
+* [[Love]]
+||
+* [[Name-of-the-Father]]
+* [[Need]]
+* [[Oedipus complex]]
+||
+* [[Other]]
+* [[Phallus]]
+* [[Privation]]
+{{Also}}
+* [http://www.ny-liability-insurance.com/ Liability Insurance NY]
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+{{OK}}
+[[Category:Imaginary]]
+
+__NOTOC__

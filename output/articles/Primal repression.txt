@@ -1,0 +1,33 @@
+The term "primal repression" refers to a hypothetical process postulated by Freud as the originating moment of repression: certain unconscious ideas—the primal repressed material—constitute a "first unconscious nucleus," which then operates as a pole of attraction for elements to be repressed later. "Primal" repression thus complements the work of rejection performed by the censorship or the ego by way of "repression proper" or "after-pressure" (1915d, p. 148).
+
+The existence of primal repression is in essence inferred from its effects. For repression to succeed, in Freud's view, some already repressed material must be present, material which, as a truly constraining force, will draw to itself those ideas now marked for repression. But such unconscious attraction cannot suffice. At the same time, and in tandem with it, a pressure must also come into play from the opposite direction—a truly "repressive" force. Thus "repression proper" is the outcome of the combined forces of attraction and repulsion as directed toward the psychical representatives of the instinct.
+
+Its prerequisite is that other, older, "primal" repressions should have already deposited material that remains in the shape of unconscious ideas manifesting their presence by attracting—from consciousness into the unconscious—ideas deemed disagreeable or unwelcome. This earliest repressed material constitutes a "nucleus of the Unconscious," a primordial nucleus that later "exerts an attraction" upon fresh items to be repressed (1926d, p. 94); in this sense the moment of its formation may well be described as "primal."
+
+In the German term Urverdrängung, "primal repression," the prefix ur- denotes this primordial aspect, for it means "original," "of the origins." It does not, however, provided any key to the meaning of primal repression. In parallel with Urvater, primal father of the horde, and Urszene, primal scene, Urverdrägung designates the matrix, as it were, of the prohibition on knowledge of that which was formerly known. Seen in this light, primal repression is much more than a postulate; the concept has been described as "an epistemological coup de force" marking the tipping point between the unknowable and the first signs of mental functioning, and as "inaugural and structuring" (Menahem, 1986).
+
+This "phylogenetic" thesis seemed necessary to Freud in respect of the process itself, which had to be explained as the result of both pressure and attraction. "The impelling force is in a sense driven from two extremities, being rooted on the one hand in [its] 'patrimonial' foundation and linked on the other to perceptions liable to be unpleasurable. It thus combines the current and the archaic" (Le Guen, 1992).
+
+Treating the attractive force as necessary raises the question of when primal repression occurs: How can a "first" repression take place before anything has yet been repressed? "We have reason to assume that there is a primal repression, a first phase of repression, which consists in the psychical (ideational) representative of the instinct being denied entrance into the conscious. With this a fixation is established; the representative in question persists unaltered from then onwards and the instinct remains attached to it" (1915d, p. 148).
+
+Furthermore, repression "demands a persistent expenditure of force" (ibid., p. 151). Freud invokes anticathexis as the mechanism "which represents the permanent expenditure [of energy] of a primal repression, and which also guarantees the permanence of that repression." Anticathexis is the sole mechanism involved in primal repression; as for "repression proper" or "after-pressure," the withdrawal of pre-conscious cathexis also plays a part (1915e, p. 181). During the primitive period when the unconscious itself is constituted, if a force can be directed to the task of countercathexis, this can be done only by a differentiated mental agency. Inasmuch as the superego is formed subsequent to primal repression, the ego must be assumed to be the agency responsible here. The establishment of the ego and that of primal repression would thus seem to be correlated.
+
+Although the precise nature and the motor force of this initial anticathexis might be obscure, Freud did offer an economic hypothesis concerning its formation: "It is highly probable that the immediate precipitating causes of primal repressions are quantitative factors such as an excessive degree of excitation and the breaking through of the protective shield against stimuli" (1926d [1925], p. 94).
+
+==See Also==
+* [[]]
+* [[Intergenerational]]
+* [[Lifting of amnesia]]
+* [[Metonymy]]
+* [[Repression]]
+* [[Thing-presentation]]
+* [[Unconscious, the]]
+* [[Word-presentation]]
+
+==References==
+<references/>
+# Freud, Sigmund. (1915d). Repression. SE, 14.
+# ——. (1915e). The unconscious. SE, 14.
+# ——. (1926d [1925]). Inhibitions, symptoms and anxiety. SE, 20.
+
+[[Category:New]]

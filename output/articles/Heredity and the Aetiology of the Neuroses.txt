@@ -1,0 +1,29 @@
+Sigmund Freud first published this article in French in the <i>Revue neurologique</i> in Paris. It is important for two independent reasons. The first reason is historical, in that it contains the first occurrence of the word "psychoanalysis." The second reason is more theoretical, in that the article makes a clear distinction between Freud's theories and those deriving from Jean Martin Charcot's teaching on the role of heredity in the etiology of the neuroses. The article goes on to provide a complete exposition of Freud's thoughts on the sexual etiology of neuroses, and his theory of seduction.
+The opening sentence reads: "I am addressing in particular the disciples of J.-M. Charcot, in order to put forward some objections to the aetiological theory of the neuroses which was handed on to us by our teacher" (1896a, 143). Heredity is only a "condition," to borrow the term used in the distinction already made the year before (1895f), but it is the "specific causes" that must be sought.
+Referring back to the nosographical distinctions he made between hysteria, obsessional neurosis, neurasthenia, and anxiety neurosis, he affirms that these "functional pathological modifications <i>have as their common source the subject's sexual life, whether they lie in a disorder of his contemporary sexual life or in important events in his past life</i>" (p. 149). He adds: 'I am quite sure that this theory will call up a storm of contradictions from contemporary physicians" (pp. 149-50).
+The etiology of neurasthenia lies in immoderate onanism and spontaneous pollutions, and that of anxiety neuroses in forced abstinence, or genital irritation that does not result in orgasm. With regard to the other states: "I owe my results to a new method of psycho-analysis, Josef Breuer's exploratory procedure; it is a little intricate, but it is irreplaceable, so fertile has it shown itself to be in throwing light upon the obscure paths of unconscious ideation" (p. 151). The origin of the disorders is a memory that is related to the sexual life: "The event of which the subject has retained an unconscious memory is <i>a precocious experience of sexual relations with actual excitement of the genitals, resulting from sexual abuse committed by another person</i>; and <i>the period of life</i> at which this fatal event takes place is <i>earliest youth</i>—the years up to the age of eight to ten, before the child has reached sexual maturity" (p. 152). The memory of this act passively suffered in dread: "<i>The memory will operate as though it were a contemporary event</i>. What happens is, as it were, <i>a posthumous action by a sexual trauma</i>" (p. 154).
+The precocious event can also be found in "obsessional neurosis," but with a "capital" difference: "it is a question . . . of an event which has given <i>pleasure</i>, of an act of aggression inspired by desire (in the case of a boy) or of a participation in sexual relations accompanied by enjoyment (in the case of a little girl). The obsessional ideas . . . are nothing other than <i>reproaches addressed by the subject to himself on account of this anticipated seuxal enjoyment</i>" (p. 155).
+Sent to the <i>Neurologisches Zentralblatt</i> on the same day, February 5, 1896, the article <i>Further Remarks on the Neuro-Psychoses of Defence</i> reviews the last two etiologies and develops the notion of <i>repression</i>, which is missing from the French text. Freud also adds the analysis of a "case of chronic paranoia" that shows that this affection also comes "from the repression of distressing memories and that its symptoms are determined in their form by the content of what has been repressed" (1896b, pp. 174-75).
+Of course Freud had sent these considerations to Wilhelm Fleiss a few months earlier, but they find their first public expression here. He made the following comment to Fleiss on April 26, 1896: "A lecture on the etiology of hysteria at the psychiatric society was given an icy reception by the asses and a strange evaluation by Krafft-Ebbing: 'It sounds like a scientific fairy tale.' And this, after one has demonstrated to them the solution of a more-than-thousand-year-old problem, a <i>caput Nili</i>. They can go to hell, euphemistically expressed"(1985c [1887-1904]).
+The seduction theory has often been called into question in the course of the history of psychoanalysis, from Freud's abandonment of his "neurotica" in September 1897. Taken up again by Sándor Ferenczi in 1932, then by his disciples, the theory has also seen polemical use, by Jeffrey Masson in 1984.
+
+==See Also==
+* [[Choice of neurosis]]
+* [[Constitution]]
+* [[France]]
+* [[Memories]]
+* [[Obsession]]
+* [[Reminiscence.
+Source Citation
+# Freud, Sigmund. (1896a). L'hérédité et l'étiologie des név-roses. Revue neurologique, 4: 161-169]]
+* [[GW, 1: 407-422]]
+* [[Heredity and the aetiology of the neuroses. SE, 3: 141-156]]
+
+==References==
+<references/>
+# Freud, Sigmund. (1895f). A reply to criticisms of my paper on anxiety neurosis. SE, 3: 118-139.
+# ——. (1896b). Further remarks on the neuro-psychoses of defence. SE, 3: 157-185.
+# ——. (1896c). The aetiology of hysteria. SE, 3: 186-221.
+# ——. (1985c [1887-1904]). The complete letters of Sigmund Freud to Wilhelm Fliess 1887-1904 (Jeffrey M. Masson, Ed. and Trans.). Cambridge, MA : Belknap/Harvard University Press.
+
+[[Category:New]]

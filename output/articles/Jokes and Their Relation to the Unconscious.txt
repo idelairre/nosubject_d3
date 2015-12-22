@@ -1,0 +1,30 @@
+Freud wrote Jokes and Their Relation to the Unconscious (1905) at nearly the same time as Three Essays on the Theory of Sexuality (1905), but here pleasure is approached from the angle of wit and its mechanisms and motives. In this work Freud further develops his principal discoveries on mental activity elaborated in The Interpretation of Dreams (1900), a text already containing a reference to wit in the structure of dreams.
+
+Jokes and Their Relation to the Unconscious is divided into three sections: analytic, synthetic, and theoretical. As in The Interpretation of Dreams, Freud discusses at length the theories of philosophers (Theodor Vischer, Kuno Fischer, Theodor Lipps) and writers (Jean Paul, Heinrich Heine, Georg Licthenberg), and gives examples from Jewish folklore in the self-analytical part of the book. This self-analysis is as essential here as it was in Freud's Interpretation of Dreams and The Psychopathology of Everyday Life (1901).
+
+The first part (analytic) is essentially descriptive: the mechanisms of jokes makes use of the principal elements of dream work, which Freud summarizes, providing an overview of the techniques used in telling jokes. As with dreams, these mechanisms are unconscious and can only be determined after the fact. But to these mechanisms Freud adds the element of meaning, that is, the aims of wit, the pleasurable or hostile satisfaction obtained in telling jokes. It is this meaning that makes his investigation of jokes profound.
+
+The second part (synthetic) investigates the pleasure of jokes and its mechanisms and psychogenesis. Building on the work of Gustav Theodor Fechner, Freud developed an economic perspective based on the notion of mental economies. Here he makes use of ideas developed earlier in the Project for a Scientific Psychology (1950c [1895]). The distinction between jokes and the comic allowed Freud to emphasize that the former is essentially a social activity requiring the presence of a third party. The activity is further complicated by the fact that group as well as individual dynamics are at play: "Why are we driven to tell our own joke to someone else? . . . [B]ecause we are unable to laugh at it ourselves" (Freud, 1905c, p. 190).
+
+The third part (theoretical) returns to the comparison between dreams and jokes, but from the point of view of the unconscious. Freud indicated that he hoped to convince readers of the richness of the hypotheses presented in 1900, which were often reduced to the simplistic idea of "wish fulfillment." He also related his theories to those of Theodor Lipps and noted "there is a return of the mind in dreams to an embryonic point of view" (p. 211). In the pleasure of jokes, adults rediscover the infantile as a source of the unconscious, as illustrated by play with words and thoughts. The chapter closes with an analysis of the varieties of the comic, which is more difficult to analyze because it is not a process elaborated like a dream or joke but an encounter with a situation. According to Freud, "The comic arises in the first instance as an unintended discovery derived from human social relations" (1905c, p. 234). The production of the comic (imitation, caricature) highlights a narcissistic aspect of the psyche, that is, the comparison of self and other.
+
+The book concludes with some of Freud's subtlest and richest ideas about the subject, namely the distinction between humor and irony. He returned to this distinction in his short article on humor in 1927.
+
+Though this book has not always received the attention it deserves, it is definitely an important work. Lacan (1998) discussed it in his seminar on the formations of the unconscious. Theodor Reik (1935) related Freud's economic perspective on jokes to the concepts of surprise and discovery.
+
+SOPHIE DE MIJOLLA-MELLOR
+
+==Bibliography==
+* Freud, Sigmund. (1905). Der Witz und seine Beziehung zum Unbewussten. Leipzig: Deuticke. G.W., VI. Jokes and their relation to the unconscious. SE,8.
+* Freud, Sigmund. (1900a). The interpretation of dreams. SE, 4: 1-338; 5: 339-625.
+* ——. (1901). The psychopathology of everyday life. SE,6.
+* ——. (1927). Humour. SE, 21: 159-166..
+* ——. (1950c [1895]). Project for a scientific psychology. SE, 1: 281-387.
+* Lacan, Jacques. (1998). Le séminaire. Book 5: Les formations de l'inconscient. Paris: Seuil.
+
+
+[[Category:Psychoanalysis]]
+[[Category:Terms]]
+[[Category:Concepts]]
+
+[[Category:Culture]]

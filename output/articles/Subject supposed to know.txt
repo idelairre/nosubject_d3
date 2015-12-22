@@ -1,0 +1,75 @@
+{{Top}}sujet supposé savoir{{Bottom}}
+
+==Jacques Lacan==
+===Translation===
+The term [[Subject supposed to know|sujet supposé savoir]] can be translated as the "[[subject supposed to know]]" or as the "[[Subject supposed to know|supposed subject of knowledge]]".
+
+<!--
+==Self-Consciousness==
+The [[illusion]] of a [[self-consciousness]] which is transparent to itself in its [[act]] of [[knowledge|knowing]], constituted in the [[mirror stage]], is put into question by [[psychoanalysis]].
+
+==Symbolic Knowledge==
+[[Psychoanalysis]] demonstrates that [[knowledge]] (''[[savoir]]'') is not located in any particular [[subject]] but is, in fact, [[intersubjective]].<ref>{{L}} [[Seminar IX|Le Séminaire. Livre IX. L'identification, 1961-62]]'', unpublished. [[Seminar]] of 15 November 1961.</ref>
+-->
+===Transference===
+In 1964, [[Lacan]] defines [[transference]] as the attribution of [[knowledge]] to a [[subject]].
+
+<blockquote>"As soon as the subject who is supposed to know exists somewhere there is transference."<ref>{{S11}} p. 232</ref></blockquote>
+
+It is the [[analysand]]'s ''supposition'' of a [[subject]] who [[knowledge|knows]] that initiates the [[analytic]] [[process]] rather than the [[knowledge]] actually possessed by the [[analyst]].  The term [[subject supposed to know]] does not designate the [[analyst]], but rather a function which the [[analyst]] may come to embody in the [[treatment]].  It is only when the [[analyst]] is perceived by the [[analysand]] to embody this function that the [[transference]] can be said to be established.<ref>{{S11}} p. 233</ref> 
+
+===Signification===
+When this occurs, what kind of [[knowledge]] is it that the [[analyst]] is presumed to possess? 
+
+<blockquote>"He is supposed to know that from which no one can escape, as soon as he formulates it - quite simply, signification."<ref>{{S11}} p. 253</ref></blockquote>
+
+In other words, the [[analyst]] is often thought to [[knowledge|know]] the [[secret]] [[meaning]] of the [[analysand]]'s [[word]]s, the [[signification]]s of [[speech]] of which even the speaker is unaware. This supposition alone (the supposition that the [[analyst]] is one who knows) causes otherwise insignificant details (chance gestures, ambiguous remarks) to acquire retroactively a special [[meaning]] for the [[patient]] who "supposes".
+
+===Practice===
+It may happen that the [[patient]] supposes the [[analyst]] to be a [[subject]] who knows from the very first [[treatment]], or even before, but it often takes some time for the [[transference]] to become established. In the latter case, "when the subject enters the [[analysis]], he is far from giving the [[analyst]] this place of the [[subject supposed to know]]."<ref>{{S11}} p. 233</ref>  The [[analysand]] may initially regard the [[analyst]] as a buffoon, or may withhold information from him in order to maintain his ignorance.<ref>{{S11}} p. 137</ref> However, "even the [[psychoanalyst]] put in question is credited at some point with a certain infallibility."<ref>{{S11}} p.234</ref>  
+
+Sooner or later some [[chance]] gesture of the [[analyst]] is taken by the [[analysand]] as a [[sign]] of some secret [[intention]], some hidden [[knowledge]].  At this point the [[analyst]] has come to embody the [[subject supposed to know]]; the [[transference]] is established.  The [[end of analysis]] comes when the [[analysand]] de-supposes the [[analyst]] of [[knowledge]], so that the [[analyst]] falls from the position of the [[subject supposed to know]].
+
+===Position of the Analyst===
+The term "[[subject supposed to know]]" also emphasizes the fact that it is a particular relationship to [[knowledge]] that constitutes the unique position of the [[analyst]]; the [[analyst]] is aware that there is a [[split]] between him and the [[knowledge]] attributed to him.  In other words, the [[analyst]] must realize that he only occupies the position of one who is presumed (by the [[analysand]]) to know, without fooling himself that he really does possess the [[knowledge]] attributed to him.  The [[analyst]] must realise that, of the [[knowledge]] attributed to him by the [[analysand]], he knows nothing.<ref>{{L}} "[[Works of Jacques Lacan|Proposition du 9 octobre 1967 sur le psychanalyste de l'École]]," 1967, ''Scilicet'', no. 1 (1968) p. 20</ref> 
+
+===Training===
+However, the fact that it is a supposed [[knowledge]] that is the mainstay of the [[treatment|analytic process]], rather than the [[knowledge]] actually possessed by the [[analyst]], does not mean that the [[analyst]] can therefore be content with knowing nothing; on the contrary, [[Lacan]] argues that [[analyst]]s should emulate [[Freud]] in becoming experts in [[cultural]], [[literary]] and [[linguistic]] matters.
+
+<!--
+==Analysand==
+[[Lacan]] also remarks that, for the [[analyst]], the [[analysand]] is a [[subject supposed to know]].  When the [[analyst]] explains the [[fundamental rule]] of [[free association]] to the [[analysand]], he is effectively saying; "Come on, say anything, it will all be marvellous."<ref>{{S17}} p. 59</ref>  In other words, the [[analyst]] tells the [[analysand]] to behave as if he knew what it was all about, thereby instituting him as a [[subject supposed to know]].
+-->
+==See Also==
+{{See}}
+* [[Analysand]]
+* [[Analyst]]
+||
+* [[Consciousness]]
+* [[End of analysis]]
+||
+* [[Intersubjective]]
+* [[Knowledge]]
+||
+* [[Signification]]
+* [[Subject]]
+||
+* [[Transference]]
+* [[Treatment]]
+{{Also}}
+
+== References ==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+[[Category:Jacques Lacan]]
+[[Category:Terms]]
+[[Category:Dictionary]]
+[[Category:New]]
+[[Category:Concepts]]
+[[Category:Psychoanalysis]]
+[[Category:Subject]]
+[[Category:People]]
+{{OK}}
+
+__NOTOC__

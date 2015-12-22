@@ -1,0 +1,11 @@
+
+
+# TV%20-%20La%20Jouissance.flv
+# TV - Lacan%20on%20La%20Guerison (the Cure).flv
+# TV - Lacan on the unconscious.flv
+# TV - Le Versant De L'Analyse.flv
+# TV - Psychoanalysis and Psychotherapy.flv
+# TV - Repression, Family, & Society.flv
+# TV - What Freud Discovered in the Unconscious.flv
+
+<dhflashplayer>file=TV%20-%20La%20Jouissance.flv|width=320|height=240|path=http://nosubject.com/archive/flv/</dhflashplayer>

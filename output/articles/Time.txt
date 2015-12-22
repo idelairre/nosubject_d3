@@ -1,0 +1,69 @@
+{{Top}}temps{{Bottom}}
+
+==Jacques Lacan==
+One of the most distinctive features of [[Lacanian psychoanalysis]] is [[Lacan]]'s approach to questions of [[time]]. 
+
+Broadly speaking, [[Lacan]]'s approach is characterized by two important innovations: the concept of [[logical time]], and the stress on [[retroaction]] and [[anticipation]].
+
+===Logical Time===
+In his paper entitled "[[Jacques Lacan:Bibliography|Logical Time]]" (1945), [[Lacan]] undermines the pretensions of [[logic]] to [[timelessness]] and [[eternity]] by showing how certain logical calculations include an inescapable reference to a '''[[temporality]]'''.  However, the kind of [[temporality]] involved is not specificable by reference to the clock, but is itself the product of certain logical articulations.  This distinction between [[logical time]] and [[chronological time]] underpins [[Lacan]]'s whole theory of '''[[temporality]]'''.
+
+===Tripartite Structure===
+The fact that [[logical time]] is not [[objective]] does not mean that it is simply a question of [[subjective]] [[feeling]]; on the contrary, as the adjective "[[logical]]" indicates, it is a precise [[dialectical]] [[structure]] which may be formulated rigorously in [[mathematical]] [[terms]]. In the 1945 paper, [[Lacan]] argues that [[logical time]] has a [[tripartite]] [[structure]], the three moments of which are: 
+# the instant of [[seeing]]; 
+# the time for [[understanding]]; 
+# the moment of concluding. 
+
+By means of a sophism (the problem of the [[three prisoners]]) [[Lacan]] shows how these three moments are constructed not in terms of objective chronometric units but in terms of an [[intersubjective]] [[logic]] based on a tension between waiting and haste, between hesitation and urgency.  [[Logical time]] is thus "the [[intersubjective]] [[time]] that [[structure]]s [[human]] [[action]]."<ref>{{E}} p.75</ref>
+
+===Treatment===
+[[Lacan]]'s notion of [[logical time]] is not just an exercise in logic; it also has practical consequences for [[psychoanalytic treatment]].  The most famous of these consequences, historically speaking, has been [[Lacan]]'s use of [[sessions of variable duration]] ([[French]]: séances scandées), which was regarded by the [[International Psycho-Analytical Association]] ([[IPA]]) as sufficient grounds for excluding him from membership.  However, to focus exclusively on this particular [[practice]] is to miss various other interesting clinical dimensions of the theory of [[logical time]], such as the way in which [[Lacan]]'s concept of "[[time|the time for understanding]]" can throw light on the [[Freud]]ian concept of [[working-through]].
+
+===Saussurean Linguistics===
+[[Lacan]]'s concept of [[logical time]] anticipates his incursions into [[Saussure]]an [[linguistics]], which is based on the distinction between the [[diachronic]] (or temporal) and the [[synchronic]] ([[time|atemporal]]) aspects of [[language]].  Hence [[Lacan]]'s increasing stress, beginning in the 1950s, on [[synchronic]] or [[timeless]] [[structure]]s rather than on [[developmental]] "[[stages]]".  Thus when [[Lacan]] uses the term "[[time]]", it is usually to be understood not as a fleeting [[diachronic]] moment but as a [[structure]], a relatively [[stable]] [[synchronic]] [[state]]. 
+
+Similarly, when he speaks of "the three [[times]] of the [[Oedipus complex]]," the ordering is one of [[logical]] priority rather than of a [[chronological]] sequence.  [[Change]] is not seen as a gradual or smooth move along a continuum, but as an abrupt shift from one discrete [[structure]] to another. [[Lacan]]'s emphasis on [[synchronic]] or [[timeless]] [[structure]]s can be seen as an attempt to explore [[Freud]]'s statement about the non-[[existence]] of [[time]] in the [[unconscious]]. However, [[Lacan]] modifies this with his proposal, in 1964, that the [[unconscious]] be characterized in terms of a [[temporal]] movement of opening and closing.<ref>{{S11}} p. 143, 204</ref>
+
+===Retroaction and Anticipation===
+Other forms of [[psychoanalysis]], such as [[ego-psychology]] are based on a linear concept of [[time]] (as can be seen, for example, in their stress on a linear sequence of [[development]]al [[stage]]s through which the [[child]] [[naturally]] passes; see [[development]]).  [[Lacan]], however, completely abandons such a linear notion of [[time]], since in the [[psyche]] [[time]] can equally well act in reverse, by [[retroaction]] and [[anticipation]].
+
+====Retroaction====
+[[Lacan]]'s term ''[[time|après coup]]'' is the term used by [[French]] [[analysts]] to translate [[Freud]]'s ''[[Nachträglichkeit]]'' ("[[time|deferred action]]").  These terms refer to the way that, in the [[psyche]], [[present]] [[event]]s affect [[past]] events a posteriori, since the [[past]] [[exist]]s in the [[psyche]] only as a set of [[memories]] which are constantly being re[[work]]ed and [[reinterpreted]] in the light of [[present]] experience.  What concerns [[psychoanalysis]] is not the real [[past]] sequence of events in themselves, but the way that these events [[exist]] now in [[memory]] and the way that the [[patient]] reports them.  Thus when [[Lacan]] argues that the [[aim]] of [[psychoanalytic treatment]] is 'the complete reconstitution of the [[subject]]'s [[history]],"<ref>{{S1}} p.12</ref> he makes it clear that what he means by the term "[[history]]" is not simply a real sequence of [[past]] events, but "the present synthesis of the past."<ref>{{S1}} p. 36</ref> 
+
+<blockquote>"[[History]] is not the past.  [[History]] is the [[past]] inso far as it is [[historicised]] in the [[present]]."<ref>{{S1}} p. 12</ref></blockquote>
+
+Hence the [[pregenital]] [[stage]]s are not to be seen as real events chronologically prior to the [[genital]] [[stage]], but as forms of [[demand]] which are [[project]]ed [[retroactively]] onto the [[past]].<ref>{{E}} p. 197</ref>  [[Lacan]] also shows how [[discourse]] is [[structure]]d by [[retroaction]]; only when the last [[word]] of the [[sentence]] is uttered do the initial [[word]]s acquire their [[full]] [[meaning]] (see [[punctuation]]).<ref>{{E}} p. 303</ref> 
+
+=====Anticipation=====
+If [[retroaction]] refers to the way the [[present]] affects the [[past]], [[anticipation]] refers to the way the [[future]] affects the [[present]].  Like [[retroaction]], [[anticipation]] marks the [[structure]] of [[speech]]; the first [[word]]s of a [[sentence]] are ordered in [[anticipation]] of the [[word]]s to come.<ref>{{E}} p. 303</ref>  In the [[mirror stage]], the [[ego]] is [[construct]]ed on the basis of the [[anticipation]] of an imagined [[future]] [[wholeness]] which never, in fact, arrives.  The [[structure]] of [[anticipation]] is best illustrated [[linguistically]] by the future-perfect tense.<ref>{{E}} p. 306</ref>  [[Anticipation]] also plays an important role in the [[tripartite]] [[structure]] of [[logical time]]; the moment of concluding "is arrived at in haste, in [[anticipation]] of [[future]] [[certainty]]."<ref>{{Ec}} p. 209</ref>
+
+==See Also==
+{{See}}
+* [[Development]]
+* [[Dialectic]]
+* [[Ego]]
+||
+* [[International Psycho-Analytical Association]]
+* [[Intersubjectivity]]
+* [[Language]]
+||
+* [[Linguistics]]
+* [[Progress]]
+* [[Punctuation]]
+||
+* [[Signification]]
+* [[Structure]]
+* [[Treatment]]
+{{Also}}
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+{{OK}}
+[[Category:Sigmund Freud]]
+[[Category:Index]]
+[[Category:New]]
+
+__NOTOC__

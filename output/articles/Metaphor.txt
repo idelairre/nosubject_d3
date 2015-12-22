@@ -1,0 +1,108 @@
+{{Top}}métaphore{{Bottom}}
+
+=====Definition=====
+[[Metaphor]] is usually defined as a trope in which one thing is described by comparing it to another, but without directly asserting a comparison.
+
+=====Jacques Lacan=====
+However, [[Lacan]]'s use of the term owes little to this definition and much to the work of [[Roman Jakobson]], who, in a major article published in 1956, established an opposition between [[metaphor]] and [[metonymy]].
+
+On the basis of a distinction between two kinds of aphasia, [[Jakobson]] distinguished two fundamentally opposed axes of [[language]]: the [[metaphor]]ical axis which deals with the selection of [[linguistic]] terms and allows for their substitution, and the [[metonymy|metonymic]] axis which deals with the combination of [[linguistic]] items (both sequentially and simultaneously).
+
+[[Metaphor]] thus corresponds to [[Saussure]]'s paradigmatic relations (which hold ''in absentia'') and [[metonymy]] to syntagmatic relationships (which hold ''in praesentia'').<ref>Jakobson, Roman. (1956) "Two aspects of language and two types of aphasic disturbances. ''Selected Writings'', vol. II, ''Word and Language'', The Hague: Mouton, 1971, pp. 239-59.</ref>
+
+=====Influence=====
+[[Lacan]], like many other French intellectuals of the time (such as [[Claude Lévi-Strauss]] and [[Roland Barthes]]), was quick to take up [[Jakobson]]'s [[interpretation|reintepretation]] of [[metaphor]] and [[metonymy]].
+
+In the very same year that [[Jakobson]]'s seminal article was published, [[Lacan]] refers to it in his [[seminar]] and begins to incorporate the opposition into his [[linguistic]] rereading of [[Freud]].<ref>{{S3}} p. 218-20, 222-30</ref>
+
+A year later he dedicates a whole paper to a more detailed analysis of the opposition.<ref>{{L}} ''[[Seminar V|Le Séminaire. Livre V. Les formations de l'inconscient, 1957-58]]'', unpublished.</ref>
+
+=====Substitution=====
+Following [[Jakobson]]'s [[identification]] of [[metaphor]] with the substitutive axis of [[language]], [[Lacan]] defines [[metaphor]] as the substitution of one [[signifier]] for another, and provides the first formula of [[metaphor]].<ref>{{E}} p.164</ref>
+
+=====Algebraic Formula=====
+[[Image:Lacan-firstmetaphor.jpg|center]]
+
+This formula is to be read as follows.
+
+On the lefthand side of the equation, outside the brackets, [[Lacan]] writes '''<i>f</i>''' '''S''', the signifying function, which is to say the effect of [[signification]].
+
+Inside the brackets, he writes '''S'/S''', which means "the substitution of one signifier for another."
+
+On the righthand side of the equation there is '''S''', the [[signifier]], and '''<i>s</i>''', the [[signified]].
+
+Between these two [[symbol]]s there is the [[symbol]] (+) which represents the crossing of the [[bar]] ('''-''') of the [[Saussure]]an [[sign|algorithm]], and which represents "the emergence of signification."
+
+The [[sign]] = is to be read: "is congruent with."
+
+Thus the whole formula reads: the signifying function of the substitution of one [[signifier]] for another is congruent with the crossing of the [[bar]].
+
+[[Image:Lacan-secondmetaphor.jpg|center]]
+
+=====Signification=====
+The idea behind this rather obscure formulation is that there is an inherent [[resistance]] to [[signification]] in [[language]] (a [[resistance]] which is [[symbolize]]d by the [[bar]] in the [[Saussure]]an [[sign|algorithm]]).
+
+[[Meaning]] does not simply appear spontaneously, but is the product of a specific operation which crosses over the [[bar]].
+
+The formula is meant to illustrate [[Lacan]]'s thesis that this operation, the production of [[meaning]], which [[Lacan]] calls "[[signification]]", is only made possible by [[metaphor]].
+
+[[Metaphor]] is thus the passage of the [[signifier]] into the [[signified]], the creation of a new [[signified]].
+
+=====Second Formula=====
+[[Lacan]] presents another formula for [[metaphor]] in a paper written a few months later.<ref>{{E}} p. 200</ref>
+
+[[Lacan]]'s own explanation of this second formula is as follows:
+
+<blockquote>The capital Ss are signifiers, x the unknown signification and s the signified induced by the metaphor, which consists in substitution in the signifying chain of S for S'.  The elision of S', represented here by the bar through it, is the condition of the success of the metaphor.<ref>{{E}} p.200</ref></blockquote>
+
+=====Contexts=====
+[[Lacan]] puts his concept of [[metaphor]] to use in a variety of contexts.
+
+=====Oedipus Complex=====
+[[Lacan]] analyzes the [[Oedipus complex]] in terms of a [[metaphor]] because it invovles the crucial concept of substitution; in this case, the substitution of the [[Name-of-the-Father]] for the [[desire]] of the [[mother]].
+
+This fundamental [[metaphor]], which founds the possibility of all ther [[metaphor]], is designated by [[Lacan]] as the [[paternal metaphor]].
+
+=====Repression and Neurotic Symptoms=====
+[[Lacan]] argues that [[repression]] (secondary repression) has the [[structure]] of a [[metaphor]].
+
+The "metonymic object" (the [[signifier]] which is elided, S' in the previous formula) is repressed, but returns in the surplus meaning (+) produced in the [[metaphor]].
+
+The return of the [[repressed]] (the [[symptom]]) therefore also has the [[structure]] of a [[metaphor]]; indeed; [[Lacan]] asserts that "the symptom ''is'' a metaphor."<ref>{{E}} p.175</ref>
+
+=====Condensation=====
+[[Lacan]] also follows [[Jakobson]] in linking the [[metaphor]]-[[metonymy]] distinction to the fundamental mechanisms of the dream work described by [[Freud]].
+
+However, he differs from [[Jakobson]] over the precise nature of this parallel.
+
+Whereas for [[Jakobson]], [[metonymy]] is linked to both [[displacement]] and [[condensation]], [[metaphor]] to [[identification]] and [[symbolism]], [[Lacan]] links [[metaphor]] to [[condensation]] and [[metonymy]] to [[displacement]].
+
+[[Lacan]] then argues that just as [[displacement]] is logically prior to [[condensation]], so [[metonymy]] is the condition for [[metaphor]].
+
+=====The Anal Drive=====
+In his paper, "[[Sigmund Freud:Bibliography|On transformations of instinct as exemplified in anal eroticism]]"', [[Freud]] shows how [[anal eroticism]] is closely connected with the possibility of substitution.
+
+[[Lacan]] takes this as grounds for linking [[anal eroticism]] to [[metaphor]].
+
+<blockquote>"The anal level is the locus of metaphor - one object for another, gives the faeces in place of the phallus."<ref>{{S11}} p. 104</ref></blockquote>
+
+=====Identification=====
+[[Metaphor]] is also the [[structure]] of [[identification]], since the latter consists in substituting oneself for another.<ref>{{S3}} p. 218</ref>
+
+=====Love=====
+[[Love]] is [[structure]]d like a [[metaphor]] since it involves the operation of substitution.
+
+<blockquote>"It is insofar as the function of the ''érastès'', of the lover, who is the subject of lack, comes in the place of, substitutes himself for, the function of ''érômènos'', the loved object, that the signification of love is produced."<ref>{{S8}} p. 53</ref></blockquote>
+
+==See Also==
+{{See}}
+{{Also}}
+
+==References==
+<references/>
+
+{{OK}}
+
+__NOTOC__
+
+{{Encore}} pp. 112, 120, 127, 128

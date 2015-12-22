@@ -1,0 +1,30 @@
+According to Jacques Lacan, the unary trait is the elementary form of the signifier as pure difference that supports symbolic identification.
+
+In the second of the three forms of identification described by Freud, the subject identifies regressively with a love object or rival by adopting a "single trait" of the other person (einziger Zug) (1921c, p. 107). Dora's cough, for example, was an imitation of her father's.
+
+Lacan recognized this single trait as a signifier. Or more precisely, insofar as this signifier is isolated and is not part of a chain of signifiers, it is first a sign or an "insignia of the Other" (cf. Lacan, 1957-58, p. 304; 2002, p. 253). This insignia of the Other constitutes the nucleus of the ego-ideal.
+
+In his seminar on Identification (1961-62), Lacan used Saussure's linguistics, to compare the einziger Zug with the signifier as a distinct element. Thus he translated it as "unary trait" to emphasize its mathematical sense, comparing it with a binary number.
+
+Ferdinand de Saussure defined the signifier negatively. It is not the same, but is different from the other signifiers in a given structure. This implies that a signifier is also different from itself. This pure difference characterizes the unary trait. As an example of the first primitive indication of the existence of the signifier, Lacan referred to a prehistoric hunter carving notches into a piece of bone. One notch signifies each kill, with no reference to the different types of prey or the particular events of each hunt. Each animal killed counts as one, and that is the only aspect of the hunt marked by the trait.
+
+Of course, the traits in a series need not resemble each other. They do not need to be identical in order to be the same. In fact, the contrary is true. Because no simple trait is recognizable as a thing itself, once it becomes part of a series you cannot tell which was the first mark.
+
+When the thing is erased, the unary trait remains as symbolic of its absence. Thus the trait transforms the absent thing into an object of desire. A second mark, indistinguishable from the first, creates a hole in which this object is lost. Thus the unary trait merges with the phallic mark and the castration threat, insofar as it forever prohibits access to the incestuous Thing. The existence of the subject of the enunciation is suspended by the trait that names it, but this subject immediately disappears in the trait that fixes it, such that the subject only exists between two traits.
+
+To formalize the unary trait, Lacan relied on the topology of the torus, insofar as the unary trait is the mark of a double loss, the loss of an object, which corresponds to the central hole of the torus, and the absence of the subject of the unconscious, which is the uncounted turn of the repeated demand. A single cut that makes a Möbius strip, where the two surfaces are one, corresponds to the structure of the unary trait, identical neither to itself nor to the structure of the subject.
+
+==See Also==
+* [[Identification]]
+* [[Imaginary identification]]
+* [[symbolic identification]]
+* [[Infans]]
+* [[Topology]]
+
+==References==
+<references/>
+# Freud, Sigmund. (1921c). Group psychology and the analysis of the ego. SE, 18: 65-143.
+# Lacan, Jacques. (1958). The direction of the treatment and the principles of its power. In Bruce Fink (Trans.),Écrits: A selection. New York: W. W. Norton, 2002.
+# Lacan, Jacques. (1964). The four fundamental concepts of psychoanalysis (Alan Sheridan, Trans.). New York: W. W. Norton, 1978.
+# Lacan, Jacques. (1957-58). Le Séminaire-Livre V, Les Formations de l'Inconscient. Paris: Seuil, 1998.
+# Lacan, Jacques. (1961-62). Le Séminaire-Livre IX, L'identification (unpublished seminar).

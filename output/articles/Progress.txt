@@ -1,0 +1,38 @@
+{{Top}}progrès{{Bottom}}          
+
+==Jacques Lacan==
+===Rejection of Progress===
+[[Lacan]] claims that the idea of [[progress]], like other [[humanist]] [[:category:concepts|concepts]], is alien to his teaching: 
+
+<blockquote>"There is not the slightest idea of progress in anything I articulate, in the sense that this term would imply a happy solution."<ref>{{S17}} p.122</ref></blockquote>
+
+In this respect, [[Lacan]] is a basically [[pessimistic]] thinker, and he finds support for such [[pessimism]] in the gloomier works of [[Freud]] such as [[Civilization and its Discontents]]. 
+
+These texts allow [[Lacan]] to argue that "Freud was in no way a progressive."<ref>{{S7}} p.183</ref>
+
+===Unidirectional Concept of Time===
+[[Lacan]] rejects the idea of [[progress]] because it is based on a linear unidirectional concept of [[time]], and because it implies the possibility of [[synthesis]].  [[Lacan]] rejects other related concepts such as that of a unilinear sequence of [[phase]]s of psychosexual [[development]].
+
+===Progress in Psychoanalytic Treatment===
+There is one sense, however, in which [[Lacan]] does speak of [[progress]]: the [[progress]] in [[psychoanalytic]] [[treatment]].  [[Treatment]] is a process which has a beginning and an [[end of analysis|end]].  When the [[treatment]] is moving and not 'stuck', we may speak of [[progress]].  Indeed, [[psychoanalytic treatment]] may be described as "a progress towards truth."<ref>{{E}} p. 253</ref>
+
+==See Also==
+* [[Time]]
+* [[Development]]
+* [[Treatment]]
+
+== References ==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+[[Category:Jacques Lacan]]
+[[Category:Terms]]
+[[Category:Dictionary]]
+[[Category:Concepts]]
+[[Category:Psychoanalysis]]
+[[Category:Treatment]]
+[[Category:Practice]]
+{{OK}}
+
+__NOTOC__

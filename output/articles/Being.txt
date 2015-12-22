@@ -1,0 +1,64 @@
+{{Topp}}être{{Bottom}}
+
+=====Jacques Lacan=====
+=====Metaphysical and Philosophical Foundations of Psychoanalytic Theory=====
+=====Metaphysics and Philosophy=====
+[[Lacan]]'s use of the term "[[being]]" introduces a metaphysical note to his discourse that distinguishes it from most other [[school]]s of [[psychoanalytic theory]], which refuse to engage with their metaphysical and philosophical foundations.<ref>{{E}} p.228</ref>
+
+=====Analyst in Relation to Being=====
+[[Lacan]] argues that it is necessary for [[psychoanalyst]]s to engage with such concerns, for when the [[analyst]] intervenes his action "goes to the heart of [the analysand's] being," and this also affects his own [[being]], since he cannot "remain alone outside the field of play."<ref>{{E}} p. 228</ref>  Hence "it is certainly in the relation to being that the analyst has to find his operating level."<ref>{{E}} p.252</ref>
+
+=====Psychoanalytic Treatment=====
+=====Loss of Being=====
+[[Lacan]] also argues that during the course of the [[treatment]] the [[analyst]] is subjected to a progressive [[being|loss of being]] (''[[being|désêtre]]''), as he is gradually reduced to being a mere [[object]] for the [[analysand]].
+
+=====Martin Heidegger=====
+[[Lacan]]'s discussion of [[being]] is clearly influenced by the ideas of [[Martin Heidegger]].
+
+=====Symbolic Order=====
+[[Being]] belongs to the [[symbolic order]], since it is "the relation to the Other in which being finds its status."<ref>{{E}} p.251</ref>
+
+=====Lack of Being=====
+=====Desire for Being=====
+This relation, like the [[Other]] itself, is marked by a [[lack]] (''[[lack|manque]]''), and the [[subject]] is constituted by this [[lack]] of [[being]] (''[[lack|manque-à-être]]''), which gives rise to [[desire]], a [[lack|want-to-be]] (''[[lack|manque-à-être]]''); [[desire]] is thus essentially a [[desire]] for [[being]].
+
+=====Being and Existence=====
+Whenever [[Lacan]] opposes [[being]] to [[existence]], it is with [[existence]] in the [[real]], which contrasts with the [[symbolic]] function of [[being]].  Something may thus ''be'' without ''[[existence|existing]]'', when it is constructed from [[speech]] but finds no correlate in the [[real]] (e.g. the complete [[Other]]).  Conversely, something may ''[[existence|exist]]'' without ''[[being]]'', such as the "ineffable, stupid existence" of the [[subject]], which cannot be completely reduced to a signifying articulation.<ref>{{E}} p.194</ref>
+
+<!-- 
+==More==
+[[Lacan]] coins the neologism '''[[parlêtre]]''' from the verbal noun ''[[être]]'' ("[[being]]") and the verb ''[[speech|parler]]'' ("[[speech|to speak]]") to emphasize his point that [[being]] is constituted in and through [[language]].  A [[human]] [[being]] is above all a [[parlêtre|speaking being]].
+-->
+
+==See Also==
+{{See}}
+* [[Analysand]]
+* [[Analyst]]
+||
+* [[Desire]]
+* [[Existence]]
+||
+* [[Speech]]
+* [[Subject]]
+||
+* [[Symbolic]]
+{{Also}}
+
+== References ==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+[[Category:Jacques Lacan]]
+[[Category:Psychoanalysis]]
+[[Category:Philosophy]]
+[[Category:Dictionary]]
+[[Category:Language]]
+[[Category:Symbolic]]
+[[Category:Concepts]]
+[[Category:Subject]]
+[[Category:Terms]]
+[[Category:Real]]
+[[Category:OK]]
+
+__NOTOC__ __NOEDITSECTION__

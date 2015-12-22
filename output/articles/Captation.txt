@@ -1,0 +1,39 @@
+{{Top}}capter|captation{{Bottom}}
+
+==Origin of the Term==
+The [[French]] substantive ''[[captation]]'' is a neologism coined by [[French]] [[psychoanalysts]] from the verb ''[[captation|capter]]''.<ref>Édouard Pichon and Odile Codet</ref>
+
+==Jacques Lacan==
+It was adopted by [[Jacques Lacan]] in [[1948]] and occurs regularly in his [[work]] from this point on.
+
+==Imaginary Effects of the Specular Image==
+[[Lacan]] uses the term ''[[captation]]'' to describe the [[imaginary]] effects of the [[specular image]] on the [[subject]].<ref>{{E}} p. 18</ref>
+
+The double sense of the [[French]] term nicely  indicates the ambiguous nature of the [[power]] of the [[specular image]]:
+
+* On the one hand, it conveys the sense of "[[captivation]]," thus expressing the fascinating, [[seduction|seductive power]] of the [[image]].
+
+* On the other hand, the term also conveys the idea of "[[capture]]," which evokes the more sinister power of the [[image]] to imprison the [[subject]] in a disabling fixation.
+
+==See Also==
+{{See}}
+* [[Imaginary]]
+* [[Specular image]]
+||
+* [[Seduction]]
+* [[Subject]]
+{{Also}}
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+[[Category:Psychoanalysis]]
+[[Category:Jacques Lacan]]
+[[Category:Imaginary]]
+[[Category:Dictionary]]
+[[Category:Concepts]]
+[[Category:Terms]]
+{{OK}}
+
+__NOTOC__

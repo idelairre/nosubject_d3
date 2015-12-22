@@ -1,0 +1,120 @@
+{{Top}}pervert|perversion{{Bottom}}
+
+=====Sigmund Freud=====
+[[Perversion]] was defined by [[Freud]] as any form of ''[[perversion|sexual behaviour]]'' which deviates from the [[perversion|norm]] of [[sexuality|heterosexual]] [[sexual relationship|genital intercourse]].<ref>{{F}} ''[[Works of Sigmund Freud|Three Essays on the Theory of Sexuality]]''. [[SE]] VII, 125. 1905d.</ref> 
+
+=====Polymorphous Perversity=====
+However, this defmition is problematized by [[Freud]]'s own notions of the [[perversion|polymorphous perversity]] of all [[human]] [[sexuality]], which is characterized by the [[absence]] of any [[nature|pregiven natural order]].
+
+=====Jacques Lacan=====
+[[Lacan]] overcomes this impasse in [[Freud]]ian [[theory]] by defining [[perversion]] not as a form of ''behaviour'' but as a [[structure|clinical structure]].
+
+<blockquote>"What is perversion? It is not simply an aberration in relation to social criteria, an anomaly contrary to good morals, although this register is not absent, nor is it an atypicality according to natural criteria, namely that it more or less derogates from the reproductive finality of the sexual union. It is something else in its very structure."<ref>{{S1}} p. 221</ref></blockquote>
+
+=====Perverse Acts, Perverse Structure=====
+The distinction between [[perversion|perverse acts]] and the [[perversion|perverse structure]] implies that, while there are certain [[perversion|sexual acts]] which are closely associated with [[perversion|perverse structures]], it is also possible that such [[perversion|act]]s may be engaged in by [[perversion|non-perverse subjects]], and equally possible that a [[perversion|perverse subject]] may never actually engage in such [[perversion|act]]s. 
+
+=====Social Dis/Approval=====
+It also implies a universalist position; while social disapproval and the infraction of "good morals" may be what determines whether a particular [[perversion|act]] is [[perversion|perverse]] or not, this is not the essence of the [[perversion|perverse structure]]. 
+
+A [[perversion|perverse structure]] remains [[perversion|perverse]] even when the [[perversion|acts]] associated with it are socially approved.
+Moreover, in Lacan's formulation, it is the [[neurotic subject]] who is in conflict with the [[Name-of-the-Father]], in other words, with [[Law]] as such. The [[perverse subject]], on the other hand, 'knows very well' the letter of the [[Law]]--in other words, knows what the [[Other]] desires. The perverse structure follows the [[Law]] to the letter, follows the "''No''" of the [[Father]]--the dictum not to enjoy. According to Jean Clavreul, " As far as the pervert is concerned, this conflict [between [[desire]] and [[Law]]] is resolved by making desire the law of his acts."[http://www.lacan.com/conformperf.htm]
+
+=====Homosexuality=====
+Hence [[Lacan]] regards [[perversion|homosexuality]] as a [[perversion]] even when practiced in Ancient Greece, where it was widely tolerated.<ref>{{S8}} p. 43</ref> 
+
+This is not because [[perversion|homosexuality]] or any other form of [[sexuality]] is [[nature|naturally]] [[perversion|perverse]]; on the contrary, the [[perversion|perverse nature]] of [[perversion|homosexuality]] is entirely a question of its infringement of the normative requirements of the [[Oedipus complex]].<ref>{{S4}} p. 201</ref>
+
+=====Norms Not Nature=====
+Thus [[Lacan]] criticizes [[Freud]] for forgetting at times that the importance of [[perversion|heterosexuality]] in the [[Oedipus complex|Oedipal myth]] is a question of [[perversions|norms]] and not of [[nature]].<ref>{{Ec}} p. 223</ref>
+
+The [[analyst]]'s [[ethics|neutrality]] forbids him from taking sides with these [[perversion|norms]]; rather than defending such [[perversion|norms]] or attacking them, the [[analyst]] seeks merely to expose their incidence in the [[subject]]'s history.
+
+=====Perverse Structure=====
+There are two main ways in which [[Lacan]] characterizes the [[perversion|perverse structure]].
+
+=====Disavowal=====
+[[Perversion]] is distinguished from the other [[structure|clinical structures]] by the operation of [[disavowal]]. 
+
+The [[perversion|pervert]] [[disavowal|disavows]] [[castration]]; he perceives that the [[mother]] [[lack]]s the [[phallus]], and at the same time refuses to accept the [[reality]] of this traumatic perception. 
+
+This is most evident in [[fetishism]] (the "[[perversion|perversion of perversions]]")<ref>{{S4}} p. 194</ref> where the [[fetish]] is a [[symbolic]] [[metaphor|substitute]] for the [[mother]]'s [[lack|missing]] [[phallus]]. One can also formulate the fetish object as a 
+[[veil]] that the perverse subject erects in front of the [[Thing]] in order to avoid an encounter with it.
+
+=====Phallus=====
+However, this problematic relation to the [[phallus]] is not exclusive to [[fetishism]] but extends to all the [[perversion]]s.<ref>{{S4}} p. 192-3</ref> 
+
+<blockquote>"The whole problem of the perversions consists in conceiving how the child, in his relation to the mother      .  . . identifies himself with the imaginary object of [her] desire [i.e. the phallus]."<ref>{{E}} p. 197-8</ref></blockquote>
+
+This is why the [[preoedipal]] [[imaginary]] [[structure|triangle]] plays such an important role in the [[perversion|perverse structure]]. 
+
+In the [[perversion]]s, the [[phallus]] can only function as veiled.
+
+=====Drive=====
+[[Perversion]] is also a particular way in which the [[subject]] situates himself in relation to the [[drive]]. 
+
+In [[perversion]], the [[subject]] locates himself as [[object]] of the [[drive]], as the means of the [[Other]]'s ''[[jouissance]]''.<ref>{{S11}} p. 185</ref>
+
+This is to [[inversion|invert]] the [[structure]] of [[fantasy]], which is why the formula for [[perversion]] appears as ''a <> $'' in the first [[matheme|schema]] in "[[Kant with Sade]]",<ref>{{Ec}} p. 774</ref> the [[inversion]] of the [[matheme]] of [[fantasy]].
+
+=====Instrumentalization=====
+The [[perversion|pervert]] assumes the position of the [[perversion|object-instrument]] of the "[[perversion|will-to-enjoy]]" (''[[perversion|volonté-de-jouissance]]''), which is not his own will but that of the [[Other|big Other]]. 
+
+The [[perversion|pervert]] does not pursue his activity for his own [[pleasure]], but for the [[enjoyment]] of the [[Other|big Other]]. 
+
+He finds [[enjoyment]] precisely in this [[perversion|instrumentalization]], in working for the [[enjoyment]] of the [[Other]].
+
+<blockquote>"The subject here makes himself the instrument of the Other's jouissance."<ref>{{E}} p. 320</ref></blockquote> 
+
+
+Thus in [[perversion|scopophilia]] (also spelled [[perversion|scoptophilia]]), which comprises [[perversion|exhibitionism]] and [[perversion|voyeurism]], the [[perversion|pervert]] locates himself as the [[object]] of the [[drive|scopic drive]].
+
+In [[sadism/masochism]], the [[subject]] locates himself as the [[object]] of the [[drive|invocatory drive]].<ref>{{S11}} p. 182-5</ref> 
+
+The [[perversion|pervert]] is the person in whom the [[structure]] of the [[drive]] is most clearly revealed, and also the person who carries the attempt to go beyond the [[pleasure principle]] to the limit, "he who goes as far as he can along the path of jouissance."<ref>{{E}} p. 323</ref>
+
+=====Natural Instinct=====
+[[Freud]]'s remark that "the neuroses are the negative of the perversions" has sometimes been [[interpretation|interpreted]] as [[signification|meaning]] that [[perversion]] is simply the direct expression of a [[natural]] [[instinct]] which is [[repression|repressed]] in [[neurosis]].<ref>{{F}} 1905d: [[SE]] VII, 165</ref>
+
+However, [[Lacan]] rejects this [[interpretation]] entirely.<ref>{{S4}} p. 113, 250</ref>
+
+Firstly, the [[drive]] is not to be conceived of as a [[natural]] [[instinct]] which could be discharged in a direct way; it has no zero degree of satisfaction.
+
+Secondly, as is clear from the above remarks, the [[perversion|pervert]]'s relation to the [[drive]] is just as complex and elaborated as that of the [[neurotic]]. 
+
+From the point of view of [[development|genetic development]], [[perversion]] is at the same level as [[neurosis]]; both have reached the third "time" of the [[Oedipus complex]].<ref>{{S4}} p. 251</ref> 
+
+=====Neurosis=====
+[[Perversion]] therefore "presents the same dimensional richness as [a neurosis], the same abundance, the same rhythms, the    same stages."<ref>{{S4}} p. 113</ref> 
+
+It is therefore necessary to [[interpretation|interpret]] [[Freud]]'s remark in another way: [[perversion]] is [[structure]]d in an [[inversion|inverse]] way to [[neurosis]], but is equally [[structure]]d.<ref>{{S4}} p. 251</ref>        
+
+While [[neurosis]] is characterized by a question, [[perversion]] is characterised by the [[lack]] of a question; the [[perversion|pervert]] does not doubt that his [[perversion|acts]] serve the ''[[jouissance]]'' of the [[Other]]. 
+
+=====Psychoanalytic Treatment=====
+Thus it is extremely rare for a [[perversion|perverse subject]] to [[demand]] [[treatment|analysis]], and in the rare cases when he does, it is not because he seeks to change his mode of ''[[jouissance]]''. 
+
+This perhaps explains why many [[psychoanalysis|psychoanalysts]] have argued that [[psychoanalytic treatment]] is not appropriate for [[perversion|perverse subjects]], a line which even some [[Lacan]]ian [[psychoanalysis|analysts]] have taken, comparing the certainty of the [[perversion|pervert]] with that of the [[psychosis|psychotic]], and arguing that [[perversion|perverts]] cannot take the position of "one who does not know" before a  "[[subject supposed to know]]."
+
+However, most [[Lacan]]ian [[psychoanalysis|analysts]] do not take this view, since it is a view completely at odds with [[Lacan]]'s own position. 
+
+In the [[seminar]] of 1956-7, for example, [[Lacan]] points to the [[formation|dream]] of the young homosexual [[woman]] whom [[Freud]] treated as a clear manifestation of [[transference]] in a [[perversion|perverse subject]].<ref>{{S4}} p. 106-7; {{F}} 1920a</ref>
+
+Also, in the 1960-1 [[seminar]], [[Lacan]]'s principal example of [[transference]] is that shown by Alcibiades, whom he clearly regards as a [[perversion|pervert]] ("Alcibiades is certainly not a neurotic").<ref>{{E}} p. 323</ref>
+
+Thus [[Lacan]] argues that [[perversion|perverse subjects]] can be treated at the same level as [[neurosis|neurotics]], although there will of course be different problems in the direction of the [[treatment]]. 
+
+One important implication of this is that the [[psychoanalytic treatment]] of a [[perversion|perverse subject]] does not set as its objective the elimination of his [[perversion|perverse behaviour]].
+
+=====See Also=====
+{{See}}
+{{Also}}
+
+=====References=====
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+{{OK}}
+
+__NOTOC__

@@ -1,0 +1,35 @@
+Idealization is a concentrated libidinal investment in an object that is thus exalted and overvalued. The term first appeared in connection with Freud's definition of narcissism (1914), but the concept can already be found in <i>Leonardo da Vinci and a Memory of His Childhood</i> (1910), where Freud speaks of the biographer who sacrifices the truth to idealize the biographical subject, "reviving in him, perhaps, the child's idea of the father" (p. 130). From the time of the <i>Three Essays on the Theory of Sexuality</i> (1905), Freud used the notion of "sexual overvaluation" in relation to fetishism and sexual deviations. This overvaluation makes the subject dependent and submissive toward an object containing traces of the earliest oedipal attachments: "One always returns to one's first love" (1905d, p. 154). This attitude reappears in the subject's passionate dependence on an idealized object.
+Idealization involves an object of a drive, but not the drive itself. Since the origin of this libidinal overinvestment is unconscious, the investment appears to be an effect of the superior value of the object itself. The subject denies, however, that he is overinvesting and allows the overvalued object to remain overvalued. The subject thus overcomes ambivalence toward the object. This defense mechanism promotes an illusion that has effects in reality, both for the subject and those around the subject. The latter are at times forced to conform with an alienating image, as members of an idealized nation or race.
+Idealization must be distinguished from both sublimation and identification with the ego ideal, even if the notion of value is prominent in each. Idealization and sublimation are comparable in that both notions involve a modification of early object choices and sexual aims. These two notions also involve a psychical working through that detaches the drive from its primitive support and sets it off in another direction as a partial drive. Finally, both concepts involve valuations expressed in the social sphere. But whereas sublimation allows the drive to deviate from its goal, idealization blocks it from attaining its goal—thus creating an inhibition—because of a feeling of inequality between the great object to be attained and the small subject who feels libidinally impoverished in comparison with the idealized object. Thus, in place of libidinal fulfillment, the subject experiences an inhibiting fascination or, as the case may be, a destructive rage.
+Similarly, idealization of the object is different from identification with the ego ideal, first of all because in the former case the ego has impoverished libido, while in the latter case the ego introjects both the object and its qualities. Furthermore, in idealization the object is external to the ego, while in identification the object becomes internal. Most important, in idealization the object is set up in place of the ego ideal, while in identification it is the ego that takes the place of the object.
+Idealization results from a failure of the superego and the ego ideal to form at the outcome of the oedipal conflict. In idealization, the ego cannot serve as the ideal in a healthy process of identification that would insure that the first idealized objects belong to the ego.
+
+Instead, the ego is dispossessed of its narcissistic libido for the benefit of the independently existing, and thus alienating, object. It is thus forced to externalize its most important constitutive element, the ego ideal. This results in an infantile situation of helplessness, a "paralysis derived from the relation between someone with superior power and someone who is without power and helpless" (1921c, p. 115). The notion of idealization thus enables one to understand both individual psychological mechanisms (such as passion, perversion, and psychotic identification) and collective ones (such as a group's fascination with its leader).
+Numerous authors have contributed to enriching the concept of idealization. Melanie Klein (1952) has developed the notions of the idealized good object and the persecutory bad object, Piera Aulagnier (1979) has written on idealization in passion and psychosis, and Janine Chasseguet-Smirgel (1975) has discussed the disease of ideality.
+
+==See Also==
+* [[Bipolar self]]
+* [[Desexualization]]
+* [[Ego ideal]]
+* [[Idealizing transference]]
+* [[Intellectualization]]
+* [[Narcissistic defenses]]
+* [[Paranoid-schizoid position]]
+* [[Passion]]
+
+==References==
+<references/>
+# Freud, Sigmund. (1905). Three essays on the theory of sexuality. SE, 7: 123-245.
+# ——. (1910). Leonardo da Vinci and a memory of his childhood. SE, 11: 57-137.
+# ——. (1914). On narcissism: an introduction. SE, 14: 67-102.
+# ——. (1921). Group psychology and the analysis of the ego. SE, 18: 65-143.
+# Klein, Melanie. (1946). Notes on some schizoid mechanisms. International Journal of Psychoanalysis, 27, 99-110.
+
+[[Category:New]]
+
+
+[[Category:Psychoanalysis]]
+[[Category:Terms]]
+[[Category:Concepts]]
+[[Category:Sigmund Freud]]
+[[Category:Jacques Lacan]]

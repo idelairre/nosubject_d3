@@ -1,0 +1,7 @@
+<forum>
+namespace=Forum
+category=Forum
+title=Forum
+shownamespace=false
+addlasteditor=true
+</forum>

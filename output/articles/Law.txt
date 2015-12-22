@@ -1,0 +1,56 @@
+{{Topp}}loi{{Bottom}}
+==Jacques Lacan==
+===Social Relations===
+[[Lacan]]'s discussions of the "[[Law]]" (which [[Lacan]] often writes with a capital "L") owe much to the work of [[Claude Lévi-Strauss]].  As in the work of [[Lévi-Strauss]], the [[Law]] in [[Lacan]]'s work refers not to a particular piece of legislation, but to ''the fundamental principles which underlie all social relations''.  The [[law]] is the set of universal principles which make social existence possible, ''the [[structure]]s that govern all forms of [[anthropology|social exchange]]'', whether [[anthropology|gift-giving]], [[anthropology|kinship relations]] or the formation of pacts.
+
+=====Symbolic Order=====
+Since the most basic form of [[anthropology|exchange]] is [[communication]] itself, the [[law]] is fundamentally a [[linguistic]] entity -- it is the [[law]] of the [[signifier]]:
+<blockquote>This law, then, is revealed clearly enough as identical with an order of language.  For without kinship nominations, no power is capable of instituting the order of preferences and taboos that bind and weave the yarn of lineage through succeeding generations.<ref>{{E}} p. 66</ref></blockquote>
+This [[legal]]-[[linguistic]] [[structure]] is in fact no more and no less than the [[symbolic order]] itself.
+
+===Human===
+Following [[Lévi-Strauss]], [[Lacan]] argues that the [[law]] is essentially [[human]]; it is the [[law]] which separates [[man]] from the other [[nature|animal]]s, by regulating [[sexual relationship|sexual relations]] that are, among [[nature|animal]]s, unregulated: 
+<blockquote>"([[Human]] [[law]] is) the primordial Law... which in regulating marriage ties superimposes the kingdom of culture on that of a nature abandoned to the law of mating.  The prohibition of incest is merely its subjective pivot."<ref>{{E}} p. 66</ref></blockquote>
+
+=====Oedipus Complex=====
+It is the [[father]] who imposes this [[law]] on the [[subject]] in the [[Oedipus complex]]; the [[Name-of-the-Father|paternal agency]] (or [[Name-of-the-Father|paternal function]]) is no more than the name for this prohibitive and legislative role.  In the second time of the [[Oedipus complex]] the [[father]] appears as the omnipotent "father of the primal horde" of ''[[Totem and Taboo]]''.<ref>{{F}} ''[[Works of Sigmund Freud|Totem and Taboo]]'', 1912-13. [[SE]] XIII, 1-161.</ref>  This is the lawgiver who is not included in his own [[law]] because he ''is'' the [[Law]], denying others access to the [[women]] of the tribe while he himself has access to them all. In the third time of the [[Oedipus complex]] the [[father]] is included in his own [[law]], the [[law]] is revealed as a pact rather than an imperative.
+
+=====Regulation of Desire=====
+The [[Oedipus complex]] represents the regulation of [[desire]] by the [[law]].  It is the [[law]] of the [[pleasure principle]], which commands the [[subject]] to "Enjoy as little as possible!", and thus maintains the [[subject]] at a safe distance from the [[Thing]].  The relationship between the [[law]] and [[desire]] is, however, a [[dialectic]]al one; "desire is the reverse of the law."<ref>{{Ec}} p. 787</ref>  If, on the one hand, [[law]] imposes limits on [[desire]], it is also true that the [[law]] creates [[desire]] in the first place by creating interdiction.  [[Desire]] is essentially the [[desire]] to [[transgress]], and for there to be [[transgression]] it is first necesary for there to be [[prohibition]].<ref>{{S7}} p.83-4</ref>  Thus it is not the case that there is a pregiven [[desire]] which the [[law]] then regulates, but that [[desire]] is born out of the process of regulation.
+<blockquote>"What we see here is the tight bond between desire and Law."<ref>{{S7}} p. 177</ref></blockquote>
+
+<!-- =====Murder of the Father===== -->
+<!-- If the [[law]] is closely connected to the [[father]], this is not only because the [[father]] is one who imposes the [[law]], but also because the [[law]] is born out of the murder of the [[father]].  This is clearly illustrated in the [[myth]] of the [[father]] of the [[primal horde]] which [[Freud]] recounts in ''[[Totem and Taboo]]''.  In this [[myth]], the murder of the [[father]], far from freeing the sons from the [[law]], only reinforces the [[law]] which [[prohibit]]s [[incest]]. -->
+
+==See Also==
+{{See}}
+* [[Communication]]
+* [[Desire]]
+* [[Father]]
+||
+* [[Oedipus complex]]
+* [[Name-of-the-Father]]
+* [[Pleasure principle]]
+||
+* [[Primal horde]]
+* [[Signifier]]
+* [[Structure]]
+{{Also}}
+
+== References ==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+
+[[Category:Psychoanalysis]]
+[[Category:Jacques Lacan]]
+[[Category:Linguistics]]
+[[Category:Dictionary]]
+[[Category:Language]]
+[[Category:Symbolic]]
+[[Category:Concepts]]
+[[Category:Terms]]
+[[Category:OK]]
+
+__NOTOC__

@@ -1,0 +1,38 @@
+From the perspective of literary studies, the discovery of Lacan in the mid-1970s, initially by feminist and Marxist literary critics,  revitalized the rather moribund practice of psychoanalytic criticism and reinstated psychoanalysis at the cutting edge of critical theory. After much initial enthusiasm for Freudian and post-Freudian readings of literature (see Wright (1998) for an account of classical Freudian readings), psychoanalytic criticism had degenerated into the reductive practice of identifying Oedipal scenarios within texts and spotting phallic symbolism. Lacan's conception of the unconscious as structured like a language (see Chapter 4) and the relationship between the symbolic order and the subject (see Chapter 2) opened up a whole new way of understanding the play of unconscious desire in the text. The object of psychoanalytic criticism was no longer to hunt for phallic symbols or to explain Hamlet's hesitation to revenge his father's death by his repressed sexual desire for his mother (see Jones 1949) but to analyse the way unconscious desires manifest themselves in the text, through language. The focus of Lacanian criticism, therefore, is not upon the unconscious of the character or the author but upon the text itself and the relationship between text and reader.
+
+
+
+Psychoanalytically based approaches to literature and the other arts take a wide variety of forms.
+Freud's paper on family romance has been used to formulate a typological study of the novel, whilst his essay on the uncanny has inspired a more thematic approach.
+All are grounded or based upon Freud's descriptions of the workings of the unconscious and they usually claim to uncover or work with material that is not consciously present in the mind of the author or artis tin question.
+It would be erroneous, however, to speak of the  psychoanalysis of authors; psychoanalytic criticism is an application of Freudian theory and not an equivalent to a [[talking cure]] involving a direct encounter between [[analyst]] and [[analysand]].
+It cannot, by definition, have nay therapeutic goal or dimension.
+
+
+
+Freud's writings and references to literature, usually in the form of the German classical tradition, and he believe stha tthe sources of literary creativity and psychoanalysis are similar.
+
+Literary models play an important role int he development of psychoanalysis; the theory of the Oedipus complex origiantes in Freud's reading of Sophocles and Greek mythology and his contention that ''Oedipus Rex'' encapsulates a universal experience or memory.
+Yet Freud is less interested in aesthetics as such than in the psychology and psychopathology of creativity; as he notes, psychoanalysis therefore tends to move from the analysis of works of art to the analysis of their creators.
+Literary examples are often used by Freud to illustrate or confirm his theories.
+
+Freud devotes a number of papers to aesthetic and literary topics.
+The important are the study of Dostoyevsky, the essays on Leonardo da Vinci and Michelangelo, and the shorter an dmore general paper on creative writing.
+In these papers, creative activity is usually described as the adult wish-fulfilment and a pleasurable exploration of imaginary identifications iwth heroes and heroines.
+Freud's investigations into creativity make frequent reference to his concept of [[sublimation]]: Leonardo's scientific curiosity, for example, is analyzed as a sublimated expression of his chilhood curiosity about sexuality, whislt the famous smile of the Mona Lisa is traced back to a childhood fantasy of suckling and passive oral intercourse.
+
+The study of Leonardo, which is in fact flawed by Freud's reliance on inaccurate ifnormation, provides the prototype for psychobiography, which is the domiannt mode of classical psychoanalytic criticism.
+
+
+
+Like Freud before him, Lacan makes frequent use of literary and cultural allusions, often for illustrative or pedagogic purposes.
+His style is heavily influenced by his youthful association with [[surrealism]], but hsi use of literature can be surprisingly conventional and even utilitarian, as when he describes ''Hamlet'' as illustrating a decadent form of the [[Oedipus complex]]<ref>1958-9</ref> or when he reads [[Poe]]'s '[[Purloined Letter]]' as an allegory of the workings of the [[signifier]].<ref>1955b</ref>
+
+Post-Lacanian psychoanalysis has developed into a highly literate, even literary style of reading and writing, perhaps because so many of those who have turned to Lacan have, especially otuside France, backgrounds in the humanities and literary studies.
+As Lacanian psychoanalysis fuses with Derridean [[deconstruction]] and [[hermeneutics]], the traditional divorce between 'theory' and 'fiction' become blurred.
+THe sophistication and erudition of such studies cannot be denied.
+
+...
+
+[[Category:Literary theory]]
+[[Category:Psychoanalysis]]

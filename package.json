@@ -1,0 +1,45 @@
+{
+  "name": "no_subject_webscraper",
+  "version": "1.0.0",
+  "description": "webscraper for nosubject.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "babel-node --plugins syntax-async-functions --plugins syntax-async-generators --plugins transform-decorators-legacy --presets stage-0 --presets es2015 index.js",
+    "build": "babel src -d lib",
+    "lint": "eslint index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^6.1.18",
+    "babel-cli": "^6.3.17",
+    "babel-eslint": "^5.0.0-beta6",
+    "babel-plugin-syntax-async-functions": "^6.1.4",
+    "babel-plugin-syntax-async-generators": "^6.3.13",
+    "babel-plugin-transform-decorators-legacy": "^1.3.3",
+    "babel-plugin-transform-object-rest-spread": "^6.3.13",
+    "babel-plugin-transform-regenerator": "^6.1.4",
+    "babel-plugin-transform-runtime": "^6.3.13",
+    "babel-preset-airbnb": "~1.0.1",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-es2015-node": "^5.0.1",
+    "babel-preset-stage-0": "^6.3.13",
+    "better-console": "^0.2.4",
+    "eslint": "^1.10.3",
+    "eslint-config-airbnb": "^2.1.1",
+    "eslint-plugin-babel": "^3.0.0",
+    "eslint-plugin-react": "^3.11.3",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^6.1.1",
+    "nodemw": "^0.8.0",
+    "parsoid": "^0.4.0"
+  },
+  "dependencies": {
+    "core-decorators": "^0.9.1",
+    "d3": "^3.5.12",
+    "prompt": "^0.2.14"
+  },
+  "engines": {
+    "node": "5.1.0"
+  }
+}

@@ -1,0 +1,26 @@
+Heinz Hartmann introduced the concepts of primary and secondary ego autonomy in 1939, and elaborated on them in later writings (Hartmann, 1964). Within the framework of his description lies a conflict-free sphere of the ego. The notion of "ego autonomy" implies that the ego and the id derive from a common matrix where certain ego precursors prefigure functions destined to develop autonomously, independently of the instincts and their vicissitudes.
+
+Primary and secondary autonomy involve two sets of hypotheses, which together constitute the conflict-free ego sphere. Hartmann replaced Freud's view that the ego grows out of the id with the hypothesis that both ego and id are derived from a common undifferentiated medium.
+
+Related concepts are change of function, neutralization, automatization, and ego interests. Hartmann focused especially on the autonomy of specific ego functions, and stressed that ego autonomy is relative, since both primary and secondarily autonomous components can be drawn into conflict.
+
+Prior to Hartmann, psychoanalytic theory held that all psychic mechanisms and processes result from the effects of the influence of life experience on the instinctual drives. In primary autonomy, Hartmann identified constitutional factors influencing ego development in addition to instinctual drives and external reality. The ego apparatuses of perception, object comprehension, intention, thinking, and language capacity are all congenital, and are influenced by maturation and learning. But they are neither derived from conflict, nor are they developmentally dependent on conflict. Even so, these structures of primary autonomy can become caught up in conflict, resulting in inhibition of their functioning. This formulation took some of the explanatory burden off the concept of sublimation.
+
+In secondary autonomy, behaviors and attitudes which are initially associated with a conflict between drive manifestations and defenses can become detached from their sources. This takes place through a change of function, made possible by a de-sexualization and a de-aggressivization of the associated mental energy. The degree of secondary autonomy is defined by how resistant the trend is to regressive re-instinctualization. More generally, both the stability of secondarily autonomous functions and ego strength can be defined by the capacity of the various ego functions to withstand regression in the face of a focal conflict. Insufficient secondary autonomy interferes with the ability to bind id strivings, and increases vulnerability to ego regression.
+
+Neutralization is seen as the basis for secondary autonomy of ego interests, habits and skills, while ego interests include sets of ego functions that mostly entail secondary autonomy. They encompass what Freud called the ego instincts. Two ego interests in conflict are an example of an intrasystemic conflict.
+
+Secondary autonomy is seen to be established through the structure-building process called automatization, by means of the change of function via neutralization. Automatisms are ego apparatuses, somatic and preconscious, that are adaptive themselves, or are utilized by adaptive mechanisms.
+
+David Rapaport (1951/1967; 1957/1967) saw a reciprocal relationship between the ego's autonomy from the drives on the one hand, and from the environment on the other. Autonomy from the drives is insured by the reality-related autonomous apparatuses, and from the environment by the endogenous drives.
+
+Hartmann's formulations of ego autonomy have been highly influential in psychoanalysis. Most of his contributions stand, but serious questions have subsequently been raised about the scientific status and validity of energy transformations, which are part of the neutralization-deneutralization hypothesis.
+
+==See Also==
+* [[Ego]]
+* [[Ego psychology]]
+
+==References==
+<references/>
+
+[[Category:New]]

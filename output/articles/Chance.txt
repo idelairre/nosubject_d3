@@ -1,0 +1,64 @@
+{{Top}}contingency|chance{{Bottom}}
+
+==Sigmund Freud==
+[[Freud]] has often been accused of a [[chance|crude determinism]], since no slip or blunder, no matter how apparently insignificant, is ever ascribed to [[chance]]. 
+
+Indeed, [[Freud]] wrote, "I believe in external (real) chance, it is true, but not in internal (psychical) accidental events."<ref>{{F}} ''[[Works of Sigmund Freud|The Psychopathology of Everyday Life]]'', 1901. [[SE]] VI. p. 257</ref>
+
+==Jacques Lacan==
+[[Lacan]] expresses the same [[belief]] in his own terms: [[chance]], in the sense of pure [[time|contingency]], only [[exists]] in the [[real]]. 
+
+In the [[symbolic]] [[order]], there is no such thing as pure [[chance]].
+
+==''Automaton'' and ''Tyche''==
+In the seminar of 1964, [[Lacan]] uses [[Aristotle]]'s distinction between two kinds of [[chance]] to illustrate this distinction between the [[real]] and the [[symbolic]]. 
+
+In the second book of the ''Physics'', where the concept of [[causality]] is discussed, [[Aristotle]] explores the role of [[chance]] and [[chance|fortune]] in [[causality]].
+ 
+He distinguishes between two types of [[chance]]: 
+* ''[[automaton]]'', which refers to chance events in the world at large, and 
+* ''[[tyche]]'', which designates [[chance]] insofar as it affects agents who are capable of [[ethics|moral]] [[action]].
+
+==Symbolic==
+[[Lacan]] redefines ''[[automaton]]'' as "the network of signifiers", thus locating it in the [[symbolic order]]. 
+
+The term thus comes to designate those phenomena which seem to be [[chance]] but which are in truth the [[repetition|insistence]] of the [[signifier]] in determining the [[subject]]. 
+
+''[[Automaton]]'' is not truly arbitrary: only the [[real]] is truly arbitrary, since "the real is beyond the ''automaton''."<ref>{{S11}} p. 59</ref>
+
+==Real==
+The [[real]] is aligned with ''[[tyche]]'', which [[Lacan]] redefines as "the encounter with the real". 
+
+''[[Tyche]]'' thus refers to the incursion of the [[real]] into the [[symbolic]] [[order]]: unlike the ''[[automaton]]'', which is the [[structure]] of the [[symbolic order]] which determines the [[subject]], ''[[tyche]]'' is purely arbitrary, beyond the determinations of the [[symbolic]] [[order]]. 
+
+==Trauma==
+It is a knock on the door that interrupts a [[dream]], and on a more painful level it is [[trauma]]. 
+
+The [[trauma]]tic [[event]] is the encounter with the [[real]], extrinsic to [[signification]].
+
+==See Also==
+{{See}}
+* [[Causality]]
+* [[Real]]
+||
+* [[Signification]]
+* [[Signifier]]
+||
+* [[Subject]]
+* [[Symbolic]]
+{{Also}}
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+[[Category:Psychoanalysis]]
+[[Category:Sigmund Freud]]
+[[Category:Jacques Lacan]]
+[[Category:Dictionary]]
+[[Category:Concepts]]
+[[Category:Terms]]
+{{OK}}
+
+__NOTOC__

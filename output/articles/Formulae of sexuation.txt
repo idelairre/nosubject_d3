@@ -1,0 +1,230 @@
+In the [[seminars|seminar]] of [[chronology|1970-1]] [[Jacques Lacan]] attempts to [[formalize]] his [[sexual difference|theory of sexual difference]] by means of [[mathemes|formulae]] derived from [[symbolic]] [[logic]].  
+
+These reappear in the [[formulae of sexuation|diagram of sexual difference]] which [[Lacan]] presents in the 1972-3 [[seminar]].<ref>{{S20}} p.73</ref>
+
+The [[formulae of sexuation|diagram]] is divided into two sides: on the left, [[formulae of sexuation|the male side]], and on the right, [[formulae of sexuation|the female side]]. 
+
+The [[formulae of sexuation]] appear at the top of the [[formulae of sexuation|diagram]].
+
+[[Image:DIAGRAM.jpg|500px|right|The diagram of sexual difference]]
+==Symbolic Logic==
+
+
+"E" stands for the existential quantifier.
+
+Existential quantifiers are used in logic to denote finite collections and can be read as "there exists."
+
+By contrast, "V" denotes (stands for) universal quanitifiers.
+
+"Phi" stands for the [[phallic function]].
+
+
+
+
+
+==The Male Side==
+
+Thus the formulae on the male side are  (= there is at least one x which is not submitted to the phallic function) and (= for all x, the phallic funciton is valid).
+
+===Upper Level===
+
+
+[[Image:form1.jpg|100px]]
+
+On the male side of the [[formulae of sexuation|diagram]] we have the following.
+
+
+The [[formulae]] on the male side are.
+
+
+
+
+
+[[Image:form1.jpg|100px]] can be read as "there is a form of ''jouissance'' that is not subject to castration."
+
+[[Image:form1.jpg|100px]] can be read as "there is at least one x which is not submitted to the phallic function]]."
+
+"There exists an x determined by its saying no to the function of castration."
+
+
+
+
+---
+
+In [[Freud]]'s myth of the primal [[father]] in ''[[Totem and Taboo]]'', the primal [[father]] exemplifies this proposition as he has no limits on his sexual [[enjoyment]].
+
+That is, not only can the primal [[father]] enjoy ''all'' the women of the trible, he can enjoy his own mother and daughters as well.
+
+There are no limitations on his enjoyment.
+
+===Lower Level===
+
+Next we have: [[Image:form3.jpg]].
+
+[[Image:form3.jpg]] can be read as "all of a man's ''jouissance'' is phallic ''jouissance''.  Every single one of his satisfactions may come up short.<ref>Fink, Bruce. p.160</ref>
+
+
+
+---
+
+The idea here is that all ''jouissance'' is mediated in the [[symbolic]] such that it is experienced as coming up short or lacking in some way.
+
+Every time I get a bit of recognition, I experience this satisfaction as less than expected or as coming up short.
+
+The ''jouissance'' I actually obtain is less than the ''jouissance'' I actually expected.
+
+<blockquote>As Fink writes, "There is a barrier between my desire for something as formulated or articulated in signifiers (S) and what can satisfy me. Thus, the satisfaction I take in realizing my desire is always disappointing. This satisfaction, subject to the bar between the signifier and the signified, fails to fulfill me-- it always leaves something more to be desired. That is phallic jouissance. Just as one cannot take the lack out of Lacan, one cannot take the failure out of the phallus."<ref>Fink, Bruce. p.160</ref></blockquote>
+
+The abstractness of the signifier-- if that's a good way of putting it --is always in conflict with the concreteness of jouissance, such that each concrete jouissance we obtain is experienced as not being it. 
+
+More fundamentally, I experience myself as limited or lacking, as constitutively incomplete.
+
+---
+
+Now here's the key point:
+
+The upper level and lower level of the masculine graph of sexuation must be read together to signify a particular deadlock within the masculine form of relating to ''[[jouissance]]''. 
+
+====Masculine Fantasy====
+
+Let the upper portion of the graph be a specifically [[masculine]] [[fantasy]] of complete or total ''[[jouissance]]''. 
+
+It is because a man believes either that 
+
+a) total jouissance is possible through some action or object, or 
+
+b) that some other person or being has total jouissance, that he comes to find all the jouissance that is available in his day to day life insufficient.
+
+--
+
+As one can sense palpably in the clinic, those subjects that occupy the "masculine" position with respect to ''[[jouissance]]'', are tormented by the unconscious belief that somewhere, somehow, an uncastrated or complete form of ''[[jouissance]]'' is possible. 
+
+As a result, all ''[[jouissance]]'' that is actually available to these subjects turns to shit or loses its ability to satisfy. 
+
+The result is that masculine sexuated subjects will often concoct [[fantasies]] of how to acheive this ''[[jouissance]]'' and then do everything in their power to prevent actually acting on their [[fantasies]] (as they would then be disappointed once again). 
+
+====Courtly Love====
+As [[Lacan]] puts it in the context of [[courtly love]], "It is a highly refined way of making up for the absence of the sexual relationship, by feigning that we are the ones who erect an obstacle thereto."<ref>69</ref> 
+
+In [[courtly love]] the [[man]] admires the [[woman]] from afar, while the woman pretends to ignore the [[man]]. 
+
+Generally the [[woman]] is married or perhaps a nun, so the two are prevented from ever consummating their [[love]]. 
+
+Perhaps they send pages and pages of beautiful correspondance to one another, bemoaning their inability to consummate their passion, but the whole point is to avoid passing to the act so as to sustain the belief that complete ''[[jouissance]]'' exists and discovering, once again, the disappointment of [[phallic]] ''[[jouissance]]''.
+
+==The Female Side==
+
+The female side of the [[formulae of sexuation|graph of sexuation]] is far more difficult. 
+
+Like the male side, it expresses a fundamental deadlock within female sexuality itself that serves as the motor of [[drive]].
+
+---
+
+The formulae on the female side are [[Image:form2.jpg]] (= there is not one x which is not submitted to the phallic function) and [[Image:form4.jpg]] (= for not all x, the phallic function is valid).
+
+The last formula illustrates the relationship of [[woman]] to the logic of the not-all.
+
+===Upper Portion===
+
+The upper portion of the graph reads: [[Image:form2.jpg]].
+
+<blockquote>According to Fink, "There is not any jouissance that is not phallic jouissance, the emphasis going on the first 'is.' All the jouissance that do exist are phallic (in order to exist, according to Lacan, something must be articulable within our signifying system determined by the phallic signifier); but that does not mean that there cannot be some jouissance that are not phallic. It is just that they do not exist; instead, they ex-sist. The Other jouissances can only ex-sist, it cannot exist, for to exist it would have to be spoken, articulated, symbolized."<ref>p.161</ref></blockquote>
+
+--
+
+The concept of ex-sistence is complicated. 
+
+While initially it might sound absurd to say that something must be formulable within language in order to say that it exists, all that is here being said is that anything in the symbolic is subject to a rule for or of its construction. 
+
+We can say what it is and give its defining features. 
+
+To say that something ex-sists is to say that it is outside language and not subject to a rule that can be expressed in language. 
+
+For instance, sometimes people say that love is unspeakable or say that we can't know certain experiences without trying them for ourselves. 
+
+The first half of the graph is thus saying that there is no jouissance, for speaking beings, that is outside of language. 
+
+Or put otherwise, all speaking-beings are subject to the phallic function of castration (subordination to the signifier).
+
+
+--
+
+At this level, the feminine position is indistinguishable from the position of the castrated male. 
+
+The difference between the masculine and feminine position can here only be detected in terms of the specific conflict or deadlock that organizes the feminine position's relation to jouissance, or its object choice of desire. 
+
+Looking back at the graphs we see that there's an arrow underneath pointing from the "barred woman" to the symbol for the Phallus. 
+
+Here we're no longer talking about the phallic function or castration, but signifiers of power such as wealth, prestige, strength, intelligence, political power, etc. 
+
+---
+
+===Lower Portion===
+
+The lower portion of the graph for feminine sexuation reads: [[Image:form4.jpg]] 
+
+This can be read "for not all x, the phallic function is valid."
+
+"Not all of a woman's ''jouissance'' is phallic ''jouissance''."
+
+
+-----
+
+In short, [[Lacan]] hypothesizes a form of ''[[jouissance]]'' that is outside of [[language]], or which cannot be expressed in [[language]].
+
+He associates this ''[[jouissance]]'' with experiences described by mystics, such as Saint Teresa which describe such experiences as ec-static or beyond finite limitations, knowing no earthly limits.
+
+In relation to the mystical experiences of Saint Teresa, [[Lacan]] remarks that: 
+
+<blockquote>...it's like for Saint Teresa-- you need to go to Rome and see the statue by Bernini to immediately understand that she's coming. There's no doubt about it. What is she getting off on? It is clear that the essential testimony of the mystics consists in saying that they experience it, but don't know anything about it.<ref>{{S20}} p.76</ref></blockquote>
+
+One might be inclined to be skeptical as to whether this sort of ''[[jouissance]]'' outside the [[symbolic]] actually occurs, but given the diversity of cultures in which these experiences are asserted, there seems to be evidence that it does, in fact, occur.
+
+
+----
+
+
+More modestly, this Other jouissance need not be thought of solely in terms of something so grand as mystical experiences, but might also be thought in terms of a certain relationship to the body such as the experience biological women have of their body in terms of menstration or carrying children. 
+
+Lacan also seems to entertain the possibility that this jouissance might not be a jouissance outside of language at all, but a certain way of enjoying speaking itself (masculine sexuated speech being goal directed or always aimed at a specific point, feminine sexuated speech, like Joyce's writing, taking pleasure in the act of speaking itself even if it's about nothing at all). 
+
+Lacan describes this enjoyment as a certain satisfaction taken in speech itself (Seminar 20, 72), where signification ("making a point"/conveying information), loses its importance.
+
+--
+
+Unlike the masculine side of the graph where the masculine sexuated subject struggles with a fantasy of total jouissance that transforms all existing jouissance into something dissatisfying, the deadlock or conflict of the feminine side of the graph of sexuation would be that of how to navigate between this mysterious Other jouissance that is outside of language and which disturbs language, and the fact that "there is no jouissance that isn't phallic jouissance or governed by the law of castration". 
+
+That is, here the subject has to navigate her subordination to the symbolic while also encountering a jouissance that ex-sists with regard to the symbolic. Great mystics such as Plotinus, for instance, devoted their life to finding a way to mediate the relationship between finite things (the world of castration) and the One that perturbs and abolishes these distinctions.
+
+--
+
+Philosophically and politically what is important in Lacan's graph is the way it facilitates schematizing certain ways of relating to the law and what lies outside the law or what cannot be inscribed in the law. 
+
+If the feminine side of the graph is so interesting, then this is because it allows us to conceptualize an order that's completely subordinated to the law of language (as is argued by reigning linguistic constructivists) and claim that this order is not-all. 
+
+Badiou's entire ontology, for instance, can be seen as thematizing a way of saying that all situations are subordinated to the phallic function or the law of castration (the symbolic order of knowledge) while nonetheless explaining how an aleatory event can come to rupture and supplement a situation (i.e., that the situation is not-all). 
+
+What is here even more promising is that such a supplementation is not the way of the mystic.
+
+
+
+
+==The Sexual Relationship==
+What is most striking is that the two propositions on each side of the diagram seem to contradict each other:
+
+<blockquote>"Each side is defined by both an affirmation and a negation of the phallic funciton, an inclusion and exclusion of absolute (non-phallic) ''jouissance''."<ref>Copjec. 1994. p.24</ref></blockquote>
+
+However, there is no symmetry between the two sides (no sexual relationship); eahc side represents a radically different way in which the [[sexual relationship]] can misfire.<ref>{{S20}} p.53-4</ref>
+
+==See Also==
+* [[Sexual Difference]]
+* [[Sexual Relationship]]
+
+==References==
+<references/>
+
+[[Category:Psychoanalysis]]
+[[Category:Jacques Lacan]]
+[[Category:Concepts]]
+[[Category:Terms]]
+[[Category:Sexuality]]

@@ -1,0 +1,78 @@
+
+This page is a portal to various community-related tasks, current events and discussions, and links to helpful pages.
+
+'''[[No_Subject:About|No Subject]]''' is a collaborative project building a library of free content texts using the [[w:wiki|wiki]] process. Everyone is welcome to join in! So far, our collection contains '''{{NUMBEROFARTICLES}} text units'''. You can [[Help:Starting a new page|create]] and [[w:Wikipedia:How to edit a page|edit]] texts at [[No Subject:About|No Subject]] right now. If you haven't done so already, you may want to [[Special:Userlogin|create an account]], which provides a [[w:Wikipedia:Why create an account?|range of benefits]].
+
+'''If you're new to the project, please see our [[Help:Contents|help pages]] which will explain anything you need to know.''' For discussions of current operations, policies, technical issues and other concerns of No Subject editors, see the [[No Subject:Discussion|discussion page]].
+
+<div align="center">
+{| {{prettytable}} width="80%"
+|- align="center"
+|'''There are four parts to No Subject...'''
+[[#Get involved|Getting involved]] — [[#Current and requested texts|Finding areas needing work]] — [[#Collaboration|Collaborating]] — [[#Improve and maintain|Improving and maintaining]]
+
+You can pick and choose which areas you work on, but it's helpful if we try and cover a bit of each!
+|}
+</div>
+
+{| {{prettytable}} width="100%"
+| style="width: 50%; vertical-align: top; background-color: #fff5f5"|
+
+==Improve and maintain==
+Use the sections here to list items that need improving or that you believe need deleting.
+
+*'''[[No Subject:Requests for expansion|Expand]]:''' [[Slavoj Zizek]], ''[[:Category:Requests for expansion|More...]]''
+*'''[[No Subject:Split texts|Split]]:''' [[Slavoj Zizek]], ''[[:Category:Texts to be split|More...]]''
+*'''[[No Subject:Requests for cleanup|Cleanup]]:''' [[Slavoj Zizek]], ''[[:Category:Clean up|More...]]''
+*'''[[No Subject:How to proofread|Proofread]]:''' [[Slavoj Zizek]], ''[[:Category:No Subject texts needing proofreading|More...]]''
+*'''[[w:Wikify#Wiki markup|Wikify]]:''' [[Slavoj Zizek]], ''[[:Category:Articles that need to be wikified|Backlog...]]''
+*'''[[Wikipedia:Duplicate articles|Merge]]:''' ''[[:Category:Articles to be merged|More...]]''
+
+<!-- LEAVE THE FOLLOWING LINES if editing a single section! -->
+| style="width: 50%; vertical-align: top; background-color: #fffff5"|
+
+==Current and requested texts==
+A large variety of tasks are available, if you cannot find one to suit — start your own!
+
+*[[Special:Allpages|All current texts]] — listed in alphabetical order.
+*[[Special:Recentchanges|Recent changes]] — see what others are working on.
+*[[No Subject:Incomplete works|Incomplete texts]]
+*'''Requested texts:''' ([[No Subject:Requested texts|see all]])
+
+<!-- LEAVE THE FOLLOWING LINES if editing a single section! -->
+|-
+| style="vertical-align: top; background-color: #f5ffff"|
+
+==Get involved==
+New people are always welcome at No Subject. 
+
+;'''About the project'''
+:[[No Subject:What|What is No Subject?]] 
+:[[No Subject:General disclaimer|General disclaimer]]
+:[[Help:Introduction|Introduction]]
+:[[Special:Statistics|Statistics]]
+:[[No Subject:Administrators|Administrators]]
+:[[Help:Contents|Help pages]]
+;'''Communication'''
+:[[No Subject:Mailing List|Mailing List]]
+:*[[No Subject:Discussion|Discussion]]
+
+;'''Submitting a text'''
+: [[No Subject:Policies and guidelines|Policies and guidelines]] — [[No Subject:Copyright|Copyright]] — [[No Subject:copyright tags|Copyright tags]] — [[No Subject:How to edit a page|How to edit]] — [[No Subject:How to submit a text|How to submit a text]] — [[w:Wikipedia:Guide to Layout|Guide to layout]] — [[No Subject:Style guide|Style guide]] — [[No Subject:Public domain resources|Public domain]] — [[w:Wikipedia:Public domain resources|Public domain resources on Wikipedia]] — [[No Subject:Primary source resources|Primary source resources]] — [[No Subject:GNU FDL|GFDL]] — [[No Subject:Disambiguation pages|Disambiguation pages]] — [[No Subject:Title formats|Title formats]] — [[Help:Author pages|Author pages]]
+
+<!-- LEAVE THE FOLLOWING LINE if editing a single section! -->
+| style="vertical-align: top; background-color: #f5f5ff"|
+
+==Collaboration==
+Use this section to organise any large-scale projects.
+;'''General discussion pages'''
+:[[No Subject:Mailing List|Mailing List]]
+:*[[No Subject:Discussion|Discussion]]<!-- LEAVE THE FOLLOWING 2 LINES in place if editing a single section! -->
+|}
+</div>
+
+==Further resources==
+Some of these may be filed above, but as this is a work-in-progress they are going here until we can work out what to do with them.
+* [[No Subject:Template messages]] — an attempt to get a complete listing of useful template messages.
+
+__NOTOC__

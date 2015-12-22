@@ -1,0 +1,728 @@
+1945-03-00.htm
+
+<CENTER><I><FONT SIZE=+2>Le temps logique et l'assertion</FONT></I></CENTER>
+
+<CENTER><I><FONT SIZE=+2>de certitude anticip&eacute;e</FONT></I></CENTER>
+
+<CENTER><I><FONT SIZE=+1>Un nouveau sophisme</FONT></I></CENTER>
+
+<CENTER><B><FONT SIZE=+1>Jacques Lacan</FONT></B></CENTER>
+&nbsp;
+
+<FONT SIZE=-1>&nbsp; Il nous fut demand&eacute; en mars 1945<B> </B>par
+Christian Zervos de contribuer avec un certain nombre d'&eacute;crivains
+au num&eacute;ro de reprise de sa revue, <I>les Cahiers d'Art, </I>con&ccedil;u
+au dessein de combler du palmar&egrave;s de son sommaire, une parenth&egrave;se
+de chiffres sur sa couverture : 1940-1944, signifiante pour beaucoup de
+gens.</FONT>
+<BR><FONT SIZE=-1>&nbsp; Nous y all&acirc;mes de cet article, bien au fait
+de ce que c'&eacute;tait le rendre introuvable aussit&ocirc;t.</FONT>
+<BR><FONT SIZE=-1>&nbsp; Puisse-t-il retentir d'une note juste entre l'avant
+et l'apr&egrave;s o&ugrave; nous le pla&ccedil;ons ici, m&ecirc;me s'il
+d&eacute;montre que l'apr&egrave;s faisait antichambre, pour que l'avant
+p&ucirc;t prendre rang.</FONT>
+
+&nbsp;
+
+<H3>
+<I>Un probl&egrave;me de logique.</I></H3>
+Le directeur de la prison fait compara&icirc;tre trois d&eacute;tenus de
+choix et leur communique l'avis suivant :
+
+<I>"Pour des raisons que je n'ai pas &acirc; vous rapporter maintenant,
+messieurs, je dois lib&eacute;rer un d'entre vous. Pour d&eacute;cider
+lequel, j'en remets le sort &agrave; une &eacute;preuve que vous allez
+courir, s'il vous agr&eacute;e.</I>
+
+<I>"Vous &ecirc;tes trois ici pr&eacute;sents. Voici cinq disques qui
+ne diff&egrave;rent que par leur couleur : trois sont blancs, et deux sont
+noirs. Sans lui faire conna&icirc;tre duquel j'aurai fait choix, je vais
+fixer &acirc; chacun de vous un de ces disques entre les deux &eacute;paules,
+c'est-&agrave;-dire hors de la port&eacute;e directe de son regard, toute
+possibilit&eacute; indirecte d'y atteindre par la vue &eacute;tant &eacute;galement
+exclue par l'absence ici d'aucun moyen de se mirer.</I>
+
+<I>"D&egrave;s lors, tout loisir vous sera laiss&eacute; de consid&eacute;rer
+vos compagnons et les disques dont chacun d'eux se montrera porteur, sans
+qu'il vous soit permis, bien entendu, de vous communiquer l'un &agrave;
+l'autre le r&eacute;sultat de votre inspection. Ce qu'au reste votre int&eacute;r&ecirc;t
+seul vous interdirait. Car c'est le premier &agrave; pouvoir en conclure
+sa propre couleur qui doit b&eacute;n&eacute;ficier de la mesure lib&eacute;ratoire
+dont nous disposons.</I>
+
+<I>"Encore faudra-t-il que sa conclusion soit fond&eacute;e sur des
+motifs de logique, et non seulement de probabilit&eacute;. A cet effet,
+il est convenu que, d&egrave;s que l'un d'entre vous sera pr&ecirc;t &agrave;
+en formuler une telle, il franchira cette porte afin que, pris &agrave;
+part, il soit jug&eacute; sur sa r&eacute;ponse."</I>
+
+Ce propos accept&eacute;, on pare nos trois sujets chacun d'un disque
+blanc, sans utiliser les noirs, dont on ne disposait, rappelons-le, qu'au
+nombre de deux.
+
+Comment les sujets peuvent-ils r&eacute;soudre le probl&egrave;me?
+<BR>&nbsp;
+<H3>
+<B><I>La solution parfaite.</I></B></H3>
+Apr&egrave;s s'&ecirc;tre consid&eacute;r&eacute;s entre eux <I>un certain
+temps</I>, les trois sujets font ensemble <I>quelques pas</I> qui les m&egrave;nent
+de front &agrave; franchir la porte. S&eacute;par&eacute;ment, chacun fournit
+alors une r&eacute;ponse semblable qui s'exprime ainsi :
+
+<I>"Je suis un blanc, et voici comment je le sais. Etant donn&eacute;
+que mes compagnons &eacute;taient des blancs, j'ai pense que, Si j'&eacute;tais
+un noir, chacun d'eux e&ucirc;t pu en inf&eacute;rer ceci : "Si j'&eacute;tais
+un noir moi aussi, l'autre, y devant reconna&icirc;tre imm&eacute;diatement
+qu'il est un blanc, serait sorti aussit&ocirc;t, donc je ne suis pas un
+noir" Et tous deux seraient sortis ensemble, convaincus d'&ecirc;tre des
+blancs. S'ils n'en faisaient rien, c'est que j'&eacute;tais un blanc comme
+eux. Sur quoi, j'ai pris la porte, pour faire conna&icirc;tre ma conclusion."</I>
+
+Câ€™est ainsi que tous trois sont sortis simultan&eacute;ment forts des
+m&ecirc;mes raisons de conclure.
+<BR>&nbsp;
+<H3>
+<B><I>Valeur sophistique de cette solution.</I></B></H3>
+Cette solution, qui se pr&eacute;sente comme la plus parfaite que puisse
+comporter le probl&egrave;me, peut-elle &ecirc;tre atteinte &agrave; l'exp&eacute;rience?
+Nous laissons &agrave; lâ€™initiative de chacun le soin d'en d&eacute;cider.
+
+Non certes que nous allions &agrave; conseiller d'en faire l'&eacute;preuve
+au naturel, encore que le progr&egrave;s antinomique de notre &eacute;poque
+semble depuis quelque temps en mettre les conditions &agrave; la port&eacute;e
+d'un toujours plus grand nombre nous craignons, en effet, bien qu'il ne
+soit ici pr&eacute;vu que des gagnants, que le fait ne s'&eacute;carte
+trop de la th&eacute;orie, et par ailleurs nous ne sommes pas de ces r&eacute;cents
+philosophes pour qui la contrainte de quatre murs n'est qu'une faveur de
+plus pour le fin du fin de la libert&eacute; humaine.
+
+Mais, pratiqu&eacute;e dans les conditions innocentes de la fiction,
+l'exp&eacute;rience ne d&eacute;cevra pas, nous nous en portons garant,
+ceux qui gardent quelque go&ucirc;t de s'&eacute;tonner. Peut-&ecirc;tre
+s'av&eacute;rera-t-elle pour le psychologue de quelque valeur scientifique,
+du moins Si nous faisons foi &agrave; ce qui nous a paru s'en d&eacute;gager,
+pour l'avoir essay&eacute;e sur divers groupes convenablement choisis d'intellectuels
+qualifi&eacute;s, d'une toute sp&eacute;ciale m&eacute;connaissance, chez
+ces sujets, de la r&eacute;alit&eacute; d'autrui.
+
+Pour nous, nous ne voulons nous attacher ici qu'&agrave; la valeur logique
+de la solution pr&eacute;sent&eacute;e. Elle nous appara&icirc;t en effet
+comme un remarquable sophisme, au sens classique du mot, c'est-&agrave;-dire
+comme un exemple significatif pour r&eacute;soudre les formes d'une fonction
+logique au moment historique o&ugrave; leur probl&egrave;me se pr&eacute;sente
+&agrave; l'examen philosophique. Les images sinistres du r&eacute;cit s'y
+montreront certes contingentes. Mais, pour peu que notre sophisme n'apparaisse
+pas sans r&eacute;pondre &agrave; quelque actualit&eacute; de notre temps,
+il n'est pas superflu qu'il en porte le signe en de telles images, et c'est
+pourquoi nous lui en conservons le support, tel que l'h&ocirc;te ing&eacute;nieux
+d'un soir l'apporta &agrave; notre r&eacute;flexion.
+
+Nous nous mettons maintenant sous les auspices de celui qui parfois
+se pr&eacute;sente sous l'habit du philosophe, qu'il faut plus souvent
+chercher ambigu dans les propos de lâ€™humoriste, mais qu'on rencontre toujours
+au secret de l'action du politique, le bon logicien, odieux au monde.
+<BR>&nbsp;
+<H3>
+<B><I>Discussion du sophisme.</I></B></H3>
+Tout sophisme se pr&eacute;sente d'abord comme une erreur logique, et l'objection
+&agrave; celui-ci trouve facilement son premier argument. On appelle A
+le sujet r&eacute;el qui vient conclure pour lui-m&ecirc;me, B et C ceux
+r&eacute;fl&eacute;chis sur la conduite desquels il &eacute;tablit sa d&eacute;duction.
+Si la conviction de B, nous dira-t-on, se fonde sur l'expectative de C,
+l'assurance de celle-l&agrave; doit logiquement se dissiper avec la lev&eacute;e
+de celle-ci; r&eacute;ciproquement pour C par rapport &agrave; B; et tous
+deux de rester dans l'ind&eacute;cision. Rien ne n&eacute;cessite donc
+leur d&eacute;part dans le cas o&ugrave; A serait un noir. D'o&ugrave;
+il r&eacute;sulte que A ne peut en d&eacute;duire qu'il soit un blanc.
+
+A quoi il faut r&eacute;pliquer d'abord que toute cette cogitation de
+B et de C leur est imput&eacute;e <I>&agrave; faux</I>, puisque la situation
+qui seule pourrait la motiver chez eux de voir un noir n'est pas la vraie,
+et qu'il s'agit de savoir si, cette situation &eacute;tant suppos&eacute;e,
+son d&eacute;veloppement logique leur est imput&eacute; <I>&agrave; tort</I>.
+Or il n'en est rien. Car, dans cette hypoth&egrave;se, c'est le fait qu'aucun
+des deux n'est <I>parti le premier</I> qui donne &agrave; chacun &agrave;
+se penser comme blanc, et il est clair qu'il suffirait qu'ils h&eacute;sitassent
+un instant pour que chacun d'eux soit rassur&eacute;, sans doute possible,
+dans sa conviction dâ€™&ecirc;tre un blanc. Car l'h&eacute;sitation est exclue
+logiquement pour quiconque verrait deux noirs. Mais elle est aussi exclue
+r&eacute;ellement, dans cette premi&egrave;re &eacute;tape de la d&eacute;duction,
+car, personne ne se trouvant en pr&eacute;sence d'un noir et d'un blanc,
+il n'est question que personne sorte pour la raison qui s'en d&eacute;duit.
+
+Mais l'objection se repr&eacute;sente plus forte &agrave; la seconde
+&eacute;tape de la d&eacute;duction de A. Car, Si c'est &agrave; bon droit
+qu'il est venu &agrave; sa conclusion qu'il est un blanc, en posant que,
+s'il &eacute;tait noir, les autres ne tarderaient pas &agrave; se savoir
+blancs et devraient sortir, voici qu'il lui faut en revenir, aussit&ocirc;t
+l'a-t-il form&eacute;e, puisque au moment d'&ecirc;tre m&ucirc; par elle,
+il voit les autres s'&eacute;branler avec lui.
+
+Avant d'y r&eacute;pondre, reposons bien les termes logiques du probl&egrave;me.
+A d&eacute;signe chacun des sujets en tant qu'il est lui-m&ecirc;me sur
+la sellette et se d&eacute;cide ou non &agrave; sur soi conclure. B et
+C ce sont les deux autres en tant<B> </B>qu'objets du raisonnement de A.
+Mais, Si celui-ci peut lui imputer correctement, nous venons de le montrer,
+une cogitation en fait fausse, il ne saurait tenir compte que de leur comportement
+r&eacute;el.
+
+Si A, de voir B et C s'&eacute;branler avec lui, revient &agrave; douter
+d'&ecirc;tre par eux vu noir, il suffit qu'il repose la question, en s'arr&ecirc;tant,
+pour la r&eacute;soudre. Il les voit en effet s'arr&ecirc;ter aussi : car
+chacun &eacute;tant r&eacute;ellement dans la m&ecirc;me situation que
+lui, ou, pour mieux dire, chacun des sujets &eacute;tant A en tant que
+r&eacute;el, c'est-&agrave;-dire en tant qu'il se d&eacute;cide ou non
+&agrave; sur soi conclure, rencontre le m&ecirc;me doute au m&ecirc;me
+moment que lui. Mais alors, quelque pens&eacute;e que A impute &agrave;
+B et &agrave; C, c'est &agrave; bon droit qu'il conclura &agrave; nouveau
+d'&ecirc;tre soi-m&ecirc;me un blanc. Car il pose derechef - que, s'il
+&eacute;tait un noir, B et C eussent d&ucirc; <I>poursuivre</I>, - ou bien,
+s'il admet qu'ils h&eacute;sitent, selon l'argument pr&eacute;c&eacute;dent
+qui trouve ici l'appui du fait et les ferait douter s'ils ne sont pas eux-m&ecirc;mes
+des noirs, qu'&agrave; tout le moins devraient-ils <I>repartir avant lui</I>
+(puisqu'en &eacute;tant noir il donne &agrave; leur h&eacute;sitation m&ecirc;me
+sa port&eacute;e certaine pour qu'ils concluent d'&ecirc;tre des blancs).
+Et c'est parce que, de le voir en fait blanc, ils n'en font rien, qu'il
+prend lui-m&ecirc;me lâ€™initiative de le faire, c'est-&agrave;-dire qu'ils
+repartent tous ensemble, pour d&eacute;clarer qu'ils sont des blancs.
+
+Mais l'on peut nous opposer encore qu'&agrave; lever ainsi l'obstacle
+nous n'avons pas pour autant r&eacute;fut&eacute; l'objection logique,
+et qu'elle va se repr&eacute;senter la m&ecirc;me avec la r&eacute;it&eacute;ration
+au mouvement et reproduire chez chacun des sujets le m&ecirc;me doute et
+le m&ecirc;me arr&ecirc;t.
+
+Assur&eacute;ment, mais il faut bien qu'il y ait eu un progr&egrave;s
+logique d'accompli. Pour la raison que cette fois A ne peut tirer de l'arr&ecirc;t
+commun qu'une conclusion sans &eacute;quivoque. C'est que, s'il &eacute;tait
+un noir, B et C n'eussent pas <I>d&ucirc; sâ€™arr&ecirc;ter, absolument</I>.
+Car au point pr&eacute;sent il est exclu qu'ils puissent h&eacute;siter
+une seconde fois &agrave; conclure qu'ils sont des blancs : une seule h&eacute;sitation,
+en effet, est suffisante &agrave; ce que l'un &agrave; l'autre ils se d&eacute;montrent
+que certainement ni l'un ni l'autre ne sont des noirs. Si donc B et C se
+sont arr&ecirc;t&eacute;s, A ne peut &ecirc;tre qu'un blanc. C'est-&agrave;-dire
+que les trois sujets sont cette fois confirm&eacute;s dans une certitude,
+qui ne permet ni &agrave; l'objection ni au doute de rena&icirc;tre.
+
+Le sophisme garde donc, &agrave; lâ€™&eacute;preuve de la discussion toute
+la<B> </B>rigueur contraignante d'un proc&egrave;s logique, &agrave; la
+condition qu'on lui int&egrave;gre la valeur des deux <I>scansions suspensives</I>,
+que cette &eacute;preuve montre le v&eacute;rifier dans l'acte m&ecirc;me
+o&ugrave; chacun des sujets manifeste qu'il l'a men&eacute; &agrave; sa
+conclusion.
+<BR>&nbsp;
+<H3>
+<B><I>Valeur des motions suspendues dans le proc&egrave;s.</I></B></H3>
+Est-il justifi&eacute; d'int&eacute;grer &agrave; la valeur du sophisme
+les deux <I>motions suspendues</I> ainsi apparues? Pour en d&eacute;cider,
+il faut examiner quel est leur r&ocirc;le dans la solution du proc&egrave;s
+logique.
+
+Elles ne jouent ce r&ocirc;le, en effet, qu'apr&egrave;s la conclusion
+du proc&egrave;s logique, puisque l'acte qu'elles suspendent manifeste
+cette conclusion m&ecirc;me. On ne peut donc objecter de l&agrave; qu'elles
+apportent dans la solution un &eacute;l&eacute;ment externe au proc&egrave;s
+logique lui-m&ecirc;me.
+
+Leur r&ocirc;le, pour &ecirc;tre crucial dans la pratique du proc&egrave;s
+logique, n'est pas celui de l'exp&eacute;rience dans la v&eacute;rification
+d'une hypoth&egrave;se, mais bien d'un fait intrins&egrave;que &agrave;
+lâ€™ambigu&iuml;t&eacute; logique.
+
+Du premier aspect en effet, les donn&eacute;es du probl&egrave;me se
+d&eacute;composeraient ainsi :
+
+1&deg; trois combinaisons sont logiquement possibles des attributs caract&eacute;ristiques
+des sujets : deux noirs, un blanc, - un noir, deux blancs, - trois blancs.
+La premi&egrave;re &eacute;tant exclue par l'observation de tous, une inconnue
+reste ouverte entre les deux autres, que vient r&eacute;soudre :
+
+2&deg; la donn&eacute;e d'exp&eacute;rience des motions suspendues,
+qui &eacute;quivaudrait &agrave; un signal par o&ugrave; les sujets se
+communiqueraient l'un &agrave; l'autre, sous une forme d&eacute;termin&eacute;e
+par les conditions de l'&eacute;preuve, ce qu'il leur est interdit d'&eacute;changer
+sous une forme intentionnelle : savoir ce qu'ils voient l'un de l'attribut
+de l'autre.
+
+Il n'en est rien, car ce serait l&agrave; donner du proc&egrave;s logique
+une conception spatialis&eacute;e, celle-l&agrave; m&ecirc;me qui transpara&icirc;t
+chaque fois qu'il prend l'aspect de l'erreur et qui seule objecte &agrave;
+la solubilit&eacute; du probl&egrave;me.
+
+C'est justement parce que notre sophisme ne la tol&egrave;re pas, qu'il
+se pr&eacute;sente comme une aporie pour les formes de la logique classique,
+dont le prestige "&eacute;ternel" refl&egrave;te cette infirmit&eacute;
+non moins reconnue pour &ecirc;tre la leur<A NAME="bknote1"></A><SUP><A HREF="#note1">[1]</A></SUP>
+: &agrave; savoir qu'elles n'apportent jamais rien qui ne puisse d&eacute;j&agrave;
+<I>&ecirc;tre vu d'un seul coup</I>.
+
+Tout au contraire, l'entr&eacute;e en jeu comme signifiants des ph&eacute;nom&egrave;nes
+ici en litige fait-elle pr&eacute;valoir la structure temporelle et non
+pas spatiale du proc&egrave;s logique. Ce que les <I>motions suspendues</I>
+d&eacute;noncent, ce n'est pas ce que les sujets voient, c'est ce qu'ils
+ont trouv&eacute; positivement de <I>ce qu'ils ne voient pas :</I> &agrave;
+savoir l'aspect des disques noirs. Ce par quoi elles sont signifiantes,
+est constitu&eacute; non pas par leur direction, mais par leur <I>temps
+d'arr&ecirc;t</I>. Leur valeur cruciale n'est pas celle d'un choix binaire
+entre deux combinaisons juxtapos&eacute;es dans l'inerte<A NAME="bknote2"></A><SUP><A HREF="#note2">[2]</A></SUP>,
+et d&eacute;pareill&eacute;es par l'exclusion visuelle de la troisi&egrave;me,
+mais du mouvement de v&eacute;rification institu&eacute; d'un proc&egrave;s
+logique o&ugrave; le sujet a transform&eacute; les trois combinaisons possibles
+en trois <I>temps de possibilit&eacute;</I>.
+
+C'est pourquoi aussi, tandis qu'<I>un seul</I> signal devrait suffire
+pour le seul choix qu'impose la premi&egrave;re interpr&eacute;tation erron&eacute;e,
+<I>deux</I> scansions sont n&eacute;cessaires pour la v&eacute;rification
+des deux laps qu'implique la seconde et seule valable.
+
+Loin d'&ecirc;tre une donn&eacute;e d'exp&eacute;rience externe dans
+le proc&egrave;s logique, les <I>motions suspendues</I> y sont si n&eacute;cessaires
+que seule l'exp&eacute;rience peut y faire manquer le synchronisme qu'elles
+impliquent de se produire d'un sujet de pure logique et faire &eacute;chouer
+leur fonction dans le proc&egrave;s de la v&eacute;rification.
+
+Elles n'y repr&eacute;sentent rien en effet que les paliers de d&eacute;gradation
+dont la n&eacute;cessit&eacute; fait appara&icirc;tre l'ordre croissant
+des instances du temps qui s'enregistrent dans le proc&egrave;s logique
+pour s'int&eacute;grer dans sa conclusion.
+
+Comme on le voit dans la d&eacute;termination logique des <I>temps dâ€™arr&ecirc;t</I>
+qu'elles constituent, laquelle, objection du logicien ou doute du sujet,
+se r&eacute;v&egrave;le &agrave; chaque fois comme le d&eacute;roulement
+subjectif d'une instance du temps, ou pour mieux dire, comme la fuite du
+sujet dans une exigence formelle.
+
+Ces instances du temps, constituantes du proc&egrave;s du sophisme,
+permettent d'y reconna&icirc;tre un v&eacute;ritable mouvement logique.
+Ce proc&egrave;s exige l'examen de la qualit&eacute; de ses temps.
+<BR>&nbsp;
+<H3>
+<B><I>La modulation du temps dans le mouvement du sophisme : l'instant
+du regard, le temps pour comprendre et le moment de conclure.</I></B></H3>
+Il s'isole dans le sophisme trois <I>moments de l'&eacute;vidence</I>,
+dont les valeurs logiques se r&eacute;v&eacute;leront diff&eacute;rentes
+et d'ordre croissant. En exposer la succession chronologique, c'est encore
+les spatialiser selon un formalisme qui tend &agrave; r&eacute;duire le
+discours &agrave; un alignement de signes. Montrer que l'instance du temps
+se pr&eacute;sente sous un <I>mode</I> diff&eacute;rent en chacun de ces
+moments, c'est pr&eacute;server leur hi&eacute;rarchie en y r&eacute;v&eacute;lant
+une discontinuit&eacute; tonale, essentielle &agrave; leur valeur. Mais
+saisir dans la <I>modulation</I> du temps la fonction m&ecirc;me par o&ugrave;
+chacun de ces moments, dans le passage au suivant, s'y r&eacute;sorbe,
+seul subsistant le dernier qui les absorbe; c'est restituer leur succession
+r&eacute;elle et comprendre vraiment leur gen&egrave;se dans le mouvement
+logique. C'est ce que nous allons tenter &agrave; partir d'une formulation,
+aussi rigoureuse que possible, de ces moments de l'&eacute;vidence.
+
+&nbsp; 1&deg; <I>A &ecirc;tre en face de deux noirs, on sait qu'on est
+un blanc.</I>
+<BR>&nbsp; C'est l&agrave; une <I>exclusion logique</I> qui donne sa base
+au mouvement. Qu'elle lui soit ant&eacute;rieure, qu'on la puisse tenir
+pour acquise par les sujets <I>avec</I> les donn&eacute;es du probl&egrave;me,
+lesquelles interdisent la combinaison de trois noirs, est ind&eacute;pendant
+de la contingence dramatique qui isole leur &eacute;nonc&eacute; en prologue.
+A l'exprimer sous la forme <I>deux noirs :: un blanc</I>, on voit la valeur
+<I>instantan&eacute;e</I> de son &eacute;vidence, et son temps de fulguration,
+si l'on peut dire, serait &eacute;gal &agrave; z&eacute;ro.
+<BR>&nbsp; Mais sa formulation au d&eacute;part d&eacute;j&agrave; se module
+: par la subjectivation qui s'y dessine, encore qu'impersonnelle sous la
+forme de l' "on sait que...", et par la conjonction des propositions qui,
+plut&ocirc;t qu'elle n'est une hypoth&egrave;se formelle, en repr&eacute;sente
+une matrice encore ind&eacute;termin&eacute;e, disons cette forme de cons&eacute;quence
+que les linguistes d&eacute;signent sous les termes de la <I>prothase</I>
+et de l'<I>apodose</I>: "A &ecirc;tre..., <I>alors seulement</I> on sait
+qu'on est... "
+<BR>&nbsp; Une instance du temps creuse l'intervalle pour que le donn&eacute;
+de la <I>prothase</I>, "en face de deux noirs", se mue en la donn&eacute;e
+de l'<I>apodose</I>, "on est un blanc" : il y faut l'<I>instant du regard</I>.
+Dans l'&eacute;quivalence logique des deux termes "Deux noirs : un blanc",
+cette modulation du temps introduit la forme qui, dans le second moment,
+se cristallise en hypoth&egrave;se authentique, car elle va viser la r&eacute;elle
+inconnue du probl&egrave;me, &agrave; savoir l'attribut ignor&eacute; du
+sujet lui-m&ecirc;me. Dans ce passage, le sujet rencontre la suivante combinaison
+logique et, seul &agrave; pouvoir y assumer l'attribut du noir, vient,
+dans la premi&egrave;re phase du mouvement logique, &agrave; formuler ainsi
+l'&eacute;vidence suivante
+
+&nbsp; 2&deg; <I>Si j'&eacute;tais un noir, les deux blancs que je vois
+ne tarderaient pas &agrave; se reconna&icirc;tre pour &ecirc;tre des blancs</I>.
+<BR>&nbsp; C'est l&agrave; une <I>intuition</I> par o&ugrave; le sujet
+<I>objective</I> quelque chose de plus que les donn&eacute;es de fait dont
+l'aspect lui est offert dans les deux blancs; c'est un certain temps qui
+se d&eacute;finit (aux deux sens de prendre son sens et de trouver sa limite)
+par sa fin, &agrave; la fois but et terme, a savoir pour chacun des deux
+blancs <I>le temps pour comprendre</I>, dans la situation de voir un blanc
+et un noir, qu'il tient dans l'inertie de son semblable la clef de son
+propre probl&egrave;me. L'&eacute;vidence de ce moment suppose la dur&eacute;e
+d'un <I>temps de m&eacute;ditation</I> que chacun des deux blancs doit
+constater chez l'autre et que le sujet manifeste dans les termes qu'il
+attache aux l&egrave;vres de l'un et de l'autre, comme s'ils &eacute;taient
+inscrit sur une banderole : "<I>Si j'&eacute;tais un noir, il serait sorti
+sans attendre un instant, s'il reste a m&eacute;diter, c'est que je suis
+un blanc.</I>"
+<BR>&nbsp; Mais, ce temps ainsi objectiv&eacute; dans son sens, comment
+mesurer sa limite? Le temps pour comprendre peut se r&eacute;duire a l'instant
+du regard, mais ce regard dans son instant peut inclure tout le temps qu'il
+faut pour comprendre. Ainsi, l'objectivit&eacute; de ce temps vacille avec
+sa limite. Seul subsiste son sens avec la forme qu'il engendre de sujets
+<I>ind&eacute;finis sauf par leur r&eacute;ciprocit&eacute;</I>; et dont
+l'action est suspendue par une causalit&eacute; mutuelle &agrave; un temps
+qui se d&eacute;robe sous le retour m&ecirc;me de l'intuition qu'il a objectiv&eacute;e.
+C'est par cette modulation du temps que s'ouvre, avec la seconde phase
+du mouvement logique, la voie qui m&egrave;ne &agrave; l'&eacute;vidence
+suivante:
+
+&nbsp; 3&deg; <I>Je me h&acirc;te de m'affirmer pour &ecirc;tre un blanc,
+pour que ces blancs, par moi ainsi consid&eacute;r&eacute;s, ne me devancent
+pas &agrave; se reconna&icirc;tre pour ce qu'ils sont.</I>
+<BR>&nbsp; C'est l&agrave; l'<I>assertion sur soi</I>, par o&ugrave; le
+sujet conclut le mouvement logique dans la d&eacute;cision d'un <I>jugement</I>.
+Le retour m&ecirc;me du mouvement de comprendre, sous lequel a vacill&eacute;
+l'instance du temps qui le soutient objectivement, se poursuit chez le
+sujet en une r&eacute;flexion, o&ugrave; cette instance ressurgit pour
+lui sous le mode subjectif d'un <I>temps de retard</I> sur les autres dans
+ce mouvement m&ecirc;me, et se pr&eacute;sente logiquement comme l'urgence
+du <I>moment de conclure</I>. Plus exactement, son &eacute;vidence se r&eacute;v&egrave;le
+dans la p&eacute;nombre subjective, comme l'illumination croissante d'une
+frange &agrave; la limite de l'&eacute;clipse que subit sous la r&eacute;flexion
+l'objectivit&eacute; du <I>temps pour comprendre</I>.
+<BR>&nbsp; Ce temps, en effet, pour que les deux blancs comprennent la
+situation qui les met en pr&eacute;sence d'un blanc et d'un noir, il appara&icirc;t
+au sujet qu'il ne diff&egrave;re pas logiquement du temps qu'il lui a fallu
+pour la comprendre lui-m&ecirc;me, puisque cette situation n'est autre
+que sa propre hypoth&egrave;se. Mais, si cette hypoth&egrave;se est vraie,
+les deux blancs voient r&eacute;ellement un noir, ils n'ont donc pas eu
+&agrave; en supposer la donn&eacute;e. Il en r&eacute;sulte donc que, Si
+le cas est tel, les deux blancs le devancent du temps de battement qu'implique
+&agrave; son d&eacute;triment d'avoir eu &agrave; former cette hypoth&egrave;se
+m&ecirc;me. C'est donc le <I>moment de conclure</I> qu'il est blanc; s'il
+se laisse en effet devancer dans cette conclusion par ses semblables, il
+<I>ne pourra plus reconna&icirc;tre</I> s'il n'est pas un noir. Pass&eacute;<I>
+le temps pour comprendre le moment de conclure, c'est le moment de conclure
+le temps pour comprendre</I>. Car autrement ce temps perdrait son sens.
+Ce n'est donc pas en raison de quelque contingence dramatique, gravit&eacute;
+de l'enjeu, ou &eacute;mulation du jeu, que le temps presse; c'est sous
+l'urgence du mouvement logique que le sujet <I>pr&eacute;cipite</I> &agrave;
+la fois son jugement et son d&eacute;part, le sens &eacute;tymologique
+du verbe, la t&ecirc;te en avant, donnant la modulation o&ugrave; la tension
+du temps se renverse en la tendance &agrave; l'acte qui manifeste aux autres
+que le sujet a conclu. Mais arr&ecirc;tons-nous en ce point o&ugrave; le
+sujet dans son assertion atteint une v&eacute;rit&eacute; qui va &ecirc;tre
+soumise &agrave; l'&eacute;preuve du doute, mais quâ€™il ne saurait v&eacute;rifier
+s'il ne l'atteignait pas d'abord dans la certitude. La <I>tension temporelle</I>
+y culmine, puisque, nous le savons d&eacute;j&agrave;, c'est le d&eacute;roulement
+de sa d&eacute;tente qui va scander l'&eacute;preuve de sa n&eacute;cessit&eacute;
+logique. Quelle est la valeur logique de cette assertion conclusive? C'est
+ce que nous allons tenter maintenant de mettre en valeur dans le mouvement
+logique o&ugrave; elle se v&eacute;rifie.
+<BR>&nbsp;
+<H3>
+<I>La tension du temps dans l'assertion subjective et sa valeur manifest&eacute;e
+dans la d&eacute;monstration du sophisme.</I></H3>
+La valeur logique du troisi&egrave;me moment de l'&eacute;vidence, qui
+se formule dans l'assertion par o&ugrave; le sujet conclut son mouvement
+logique, nous para&icirc;t digne d'&ecirc;tre approfondie. Elle r&eacute;v&egrave;le
+en effet une forme propre &agrave; une <I>logique assertive</I>, dont il
+faut d&eacute;montrer &agrave; quelles <I>relations</I> originales elle
+s'applique.
+
+Progressant sur les relations propositionnelles des deux premiers moments,
+<I>apodose</I> et <I>hypoth&egrave;se</I>, la conjonction ici manifest&eacute;e
+se noue en une motivation de la conclusion, "<I>pour qu'il nâ€™y ait pas</I>"
+(de retard qui engendre l'erreur), o&ugrave; semble affleurer la forme
+ontologique de l'angoisse, curieusement refl&eacute;t&eacute;e dans l'expression
+grammaticale &eacute;quivalente, "<I>de peur que</I>" (le retard n'engendre
+l'erreur)...
+
+Sans doute cette forme est-elle en relation avec l'originalit&eacute;
+logique du sujet de l'assertion : en raison de quoi nous la caract&eacute;risons
+comme <I>assertion subjective</I>, &agrave; savoir que le sujet logique
+n'y est autre que la forme <I>personnelle</I> du sujet de la connaissance,
+celui qui ne peut &ecirc;tre exprim&eacute; que par "<I>je</I>". Autrement
+dit, le jugement qui conclut le sophisme ne peut &ecirc;tre port&eacute;
+que par le sujet qui en a form&eacute; l'assertion sur soi, et ne peut
+sans r&eacute;serve lui &ecirc;tre imput&eacute; par quelque autre, - au
+contraire des relations du sujet <I>impersonnel</I> et du sujet <I>ind&eacute;fini
+r&eacute;ciproque</I> des deux premiers moments qui sont essentiellement
+transitives, puisque le sujet personnel du mouvement logique les assume
+&agrave; chacun de ces moments.
+
+La r&eacute;f&eacute;rence &agrave; ces deux sujets manifeste bien la
+valeur logique du sujet de l'assertion. Le premier, qui s'exprime dans
+l' "<I>on</I>" de l' "<I>on sait que...</I>", ne donne que la forme g&eacute;n&eacute;rale
+du sujet no&eacute;tique: il peut &ecirc;tre aussi bien dieu, table ou
+cuvette. Le second, qui s'exprime dans "<I>les deux blancs</I>" qui doivent
+"<I>l'un l'autre se</I>" reconna&icirc;tre, introduit la forme de <I>l'autre
+en tant que tel</I>, c'est-&agrave;-dire comme pure r&eacute;ciprocit&eacute;,
+puisque l'un ne se reconna&icirc;t que dans l'autre et ne d&eacute;couvre
+l'attribut qui est le sien que dans l'&eacute;quivalence de leur temps
+propre. Le "<I>je</I>", sujet de l'assertion conclusive, s'isole par un
+<I>battement de temps</I> logique d'avec l'autre, c'est-&agrave;-dire d'avec
+la relation de r&eacute;ciprocit&eacute;. Ce mouvement de gen&egrave;se
+logique du "<I>je</I>" par une d&eacute;cantation de son temps logique
+propre est assez parall&egrave;le &agrave; sa naissance psychologique.
+De m&ecirc;me que, pour le rappeler en effet, le "je" psychologique se
+d&eacute;gage d'un transitivisme sp&eacute;culaire ind&eacute;termin&eacute;,
+par l'appoint d'une tendance &eacute;veill&eacute;e comme jalousie, le
+"<I>je</I>" dont il s'agit ici se d&eacute;finit par la subjectivation
+d'une <I>concurrence</I> avec l'autre dans la fonction du temps logique.
+Il nous parait comme tel donner la forme logique essentielle (bien plut&ocirc;t
+que la forme dite existentielle) du "<I>je</I>" psychologique<A NAME="bknote3"></A><SUP><A HREF="#note3">[3]</A></SUP>.
+
+Ce qui manifeste bien la valeur essentiellement subjective ("<I>assertive</I>"
+dans notre terminologie) de la conclusion du sophisme, c'est l'ind&eacute;termination
+o&ugrave; sera tenu un observateur (le directeur de la prison qui surveille
+le jeu, par exemple), devant le d&eacute;part simultan&eacute; des trois
+sujets, pour affirmer d'aucun s'il a conclu juste quant &agrave; l'attribut
+dont il est porteur. Le sujet, en effet, a saisi le moment de conclure
+qu'il est un blanc sous l'&eacute;vidence <I>subjective</I> d'un temps
+de retard qui le presse vers la sortie, mais, s'il n'a pas saisi ce moment,
+il n'en agit pas autrement sous l'&eacute;vidence <I>objective</I> du d&eacute;part
+des autres, et du m&ecirc;me pas qu'eux sort-il, seulement assur&eacute;
+d'&ecirc;tre un noir. Tout ce que l'observateur peut pr&eacute;voir, c'est
+que, s'il y a un sujet qui doit d&eacute;clarer &agrave; l'enqu&ecirc;te
+&ecirc;tre un noir pour s'&ecirc;tre h&acirc;t&eacute; &agrave; la suite
+des deux autres, il sera seul &agrave; se d&eacute;clarer tel en ces termes.
+
+Enfin, le jugement assertif se manifeste ici par un <I>acte</I>. <B>La
+pens&eacute;e moderne a montr&eacute; que tout jugement est essentiellement
+un acte</B>, et les contingences dramatiques ne font ici qu'isoler cet
+acte dans le geste du d&eacute;part des sujets. On pourrait imaginer d'autres
+modes d'expression &agrave; l'acte de conclure Ce qui fait la singularit&eacute;
+de l'acte de conclure dans l'assertion subjective d&eacute;montr&eacute;e
+par le sophisme c'est qu'il anticipe sur sa certitude en raison de la tension
+temporelle dont il est charg&eacute; subjectivement et quâ€™&agrave; condition
+de cette anticipation m&ecirc;me, sa certitude se v&eacute;rifie dans une
+pr&eacute;cipitation logique que d&eacute;termine la d&eacute;charge de
+cette tension, pour qu'enfin la conclusion ne se fonde plus que sur des
+instances temporelles toutes objectiv&eacute;es, et que l'assertion se
+d&eacute;subjective au plus bas degr&eacute;. Comme le d&eacute;montre
+ce qui suit.
+
+D'abord repara&icirc;t le <I>temps objectif</I> de l'intuition initiale
+du mouvement qui, comme aspir&eacute; entre l'instant de son d&eacute;but
+et la h&acirc;te de sa lin, avait paru &eacute;clater comme une bulle.
+Sous le coup du doute qui exfolie la certitude subjective du <I>moment
+de conclure</I>, voici qu'il se condense comme un noyau dans l'intervalle
+de la premi&egrave;re <I>motion suspendue</I> et qu'il manifeste au sujet
+sa limite dans le <I>temps pour comprendre</I> qu'est pass&eacute; pour
+les deux autres l'<I>instant du regard</I> et qu'est revenu le <I>moment
+de conclure</I>.
+
+Assur&eacute;ment, si le doute, depuis Descartes, est int&eacute;gr&eacute;
+&agrave; la valeur du jugement, il faut remarquer que, pour la forme d'assertion
+ici &eacute;tudi&eacute;e, cette valeur tient moins au doute qui la suspend
+qu'&agrave; la <I>certitude anticip&eacute;e</I> qui l'a introduite.
+
+Mais, pour comprendre la fonction de ce doute quant au sujet de l'assertion,
+voyons ce que vaut objectivement la premi&egrave;re suspension pour l'observateur
+que nous avons d&eacute;j&agrave; int&eacute;ress&eacute; &agrave; la motion
+d'ensemble des sujets. Rien de plus que ceci c'est que chacun, s'il &eacute;tait
+impossible jusque-l&agrave; de juger dans quel sens il avait conclu, rnanifeste
+une incertitude de sa conclusion, mais qu'il l'aura certainement confort&eacute;e
+si elle &eacute;tait correcte, rectifi&eacute;e peut-&ecirc;tre si elle
+&eacute;tait erron&eacute;e.
+
+Si, en effet, subjectivement, l'un quelconque a su prendre les devants
+et s'il s'arr&ecirc;te, c'est qu'il s'est pris &agrave; douter s'il a bien
+saisi le <I>moment de conclure</I> qu'il &eacute;tait un blanc, mais il
+va le ressaisir aussit&ocirc;t, puisque d&eacute;j&agrave; il en a fait
+l'exp&eacute;rience subjective. Si, au contraire, il a laiss&eacute; les
+autres le devancer et ainsi fonder en lui la conclusion qu'il est un noir,
+il ne peut douter d'avoir bien saisi le moment de conclure, pr&eacute;cis&eacute;ment
+parce qu'il ne l'a pas <I>saisi subjectivement</I> (et en effet il pourrait
+m&ecirc;me trouver dans la nouvelle initiative des autres la confirmation
+logique de ce qu'il se croit d'eux dissemblable). Mais, s'il s'arr&ecirc;te,
+c'est qu'il subordonne sa propre conclusion si &eacute;troitement &agrave;
+ce qui manifeste la conclusion des autres, qu'il la suspend aussit&ocirc;t
+quand ils paraissent suspendre la leur, donc qu'il met en doute qu'il soit
+un noir, jusqu'&agrave; ce qu'ils lui montrent &agrave; nouveau la voie
+ou que lui-m&ecirc;me la d&eacute;couvre, selon quoi il conclura cette
+fois d'&ecirc;tre un noir, soit d'&ecirc;tre un blanc : peut-&ecirc;tre
+faux, peut-&ecirc;tre juste, point qui reste imp&eacute;n&eacute;trable
+&agrave; tout autre qu'&agrave; lui-m&ecirc;me.
+
+Mais la descente logique se poursuit vers le second temps de suspension.
+Chacun des sujets, s'il a ressaisi la certitude subjective du <I>moment
+de conclure</I>, peut &agrave; nouveau la mettre en doute. Mais elle est
+maintenant soutenue par l'objectivation une fois faite du <I>temps pour
+comprendre</I>, et sa mise en doute ne durera que l'<I>instant du regard</I>,
+car le seul fait que l'h&eacute;sitation apparue chez les autres soit la
+seconde, suffit &agrave; lever la sienne, aussit&ocirc;t qu'aper&ccedil;ue,
+puisqu'elle lui indique irnm&eacute;diatement qu'il n'est certainement
+pas un noir.
+
+Ici le temps subjectif du <I>moment de conclure</I> s'objective enfin.
+Comme le prouve ceci que, m&ecirc;me si l'un quelconque des sujets ne l'avait
+pas saisi encore, il s'impose &agrave; lui pourtant maintenant; le sujet,
+en effet, qui aurait conclu la premi&egrave;re scansion en prenant la suite
+des deux autres, convaincu par l&agrave; d'&ecirc;tre un noir, serait en
+effet, de par la pr&eacute;sente et seconde scansion, contraint de renverser
+son jugement.
+
+Ainsi l'assertion de certitude du sophisme vient, dirons-nous, au terme
+du rassemblement logique des deux motions suspendues dans l'acte o&ugrave;
+elles s'ach&egrave;vent, &agrave; <I>se d&eacute;subjectiver au plus bas</I>.
+Comme le manifeste ceci que notre observateur, s'il les a constat&eacute;es
+synchrones chez les trois sujets, ne peut douter d'aucun d'entre eux qu'il
+ne doive &agrave; l'enqu&ecirc;te se d&eacute;clarer pour &ecirc;tre un
+blanc.
+
+Enfin, l'on peut remarquer quâ€™&agrave; ce m&ecirc;me moment, si tout
+sujet peut, &agrave; l'enqu&ecirc;te, exprimer la certitude qu'il a enfin
+v&eacute;rifi&eacute;e, par l'<I>assertion subjective</I> qui la lui a
+donn&eacute;e en conclusion du sophisme, &agrave; savoir en ces termes
+: "<I>Je me suis h&acirc;t&eacute; de conclure que j'&eacute;tais un blanc,
+parce qu'autrement ils devaient me devancer &agrave; se reconna&icirc;tre
+r&eacute;ciproquement pour des blancs (et que, si je leur en avais laiss&eacute;
+le temps, ils m'auraient, par cela m&ecirc;me qui e&ucirc;t &eacute;t&eacute;
+mon fait, plong&eacute; dans l'erreur)</I>", ce m&ecirc;me sujet peut aussi
+exprimer cette m&ecirc;me certitude par sa <I>v&eacute;rification d&eacute;subjectiv&eacute;e</I>
+au plus bas dans le mouvement logique, &agrave; savoir en ces termes :
+"<I>On doit savoir qu'on est un blanc, quand les autres ont h&eacute;sit&eacute;
+deux fois &agrave; sortir</I>." Conclusion qui, sous sa premi&egrave;re
+forme, peut &ecirc;tre avanc&eacute;e comme v&eacute;ritable par le sujet,
+d&egrave;s qu'il a constitu&eacute; le mouvement logique du sophisme,.
+mais ne peut comme telle &ecirc;tre assum&eacute;e par ce sujet que personnellement,
+- mais qui, sous sa seconde forme, exige que tous les sujets aient consomm&eacute;
+la descente logique qui v&eacute;rifie le sophisme, mais est applicable
+par quiconque &agrave; chacun d'entre eux. N'&eacute;tant pas m&ecirc;me
+exclu que l'un des sujets, mais un seul, y parvienne, sans avoir constitu&eacute;
+le mouvement logique du sophisme et pour avoir seulement suivi sa v&eacute;rification
+manifest&eacute;e chez les deux autres sujets.
+<BR>&nbsp;
+<H3>
+<I>La v&eacute;rit&eacute; du sophisme comme r&eacute;f&eacute;rence temporalis&eacute;e
+de soi &agrave; l'autre : l'assertion subjective anticipante comme forme
+fondamentale d'une logique collective.</I></H3>
+Ainsi, la v&eacute;rit&eacute; du sophisme ne vient &agrave; &ecirc;tre
+v&eacute;rifi&eacute;e que de sa <I>pr&eacute;somption</I>, si l'on peut
+dire, dans l'assertion qu'il constitue. Elle se r&eacute;v&egrave;le ainsi
+d&eacute;pendre d'une tendance qui la vise, notion qui serait un paradoxe
+logique, si elle ne se r&eacute;duisait &agrave; la tension temporelle
+qui d&eacute;termine le moment de conclure.
+
+La v&eacute;rit&eacute; se manifeste dans cette forme comme devan&ccedil;ant
+l'erreur et s'avan&ccedil;ant seule dans l'acte qui engendre sa certitude;
+inversement <B>l'erreur, comme se confirmant de son inertie</B>, et se
+redressant mal &agrave; suivre l'initiative conqu&eacute;rante de la v&eacute;rit&eacute;.
+
+Mais &agrave; quelle sorte de relation r&eacute;pond une telle forme
+logique? A une forme d'objectivation qu'elle engendre dans son mouvement,
+c'est &agrave; savoir &agrave; la r&eacute;f&eacute;rence d'un "<I>je</I>"
+&agrave; la commune mesure du sujet r&eacute;ciproque, ou encore : des
+autres en tant que tels, soit en tant qu'ils sont autres les uns pour les
+autres. Cette commune mesure est donn&eacute;e par un certain <I>temps
+pour comprendre</I>, qui se r&eacute;v&egrave;le comme une fonction essentielle
+de la relation logique de r&eacute;ciprocit&eacute;. Cette r&eacute;f&eacute;rence
+du "<I>je</I>" aux autres en tant que tels doit, dans chaque moment critique,
+&ecirc;tre temporalis&eacute;e, pour dialectiquement r&eacute;duire le
+<I>moment de conclure le temps pour comprendre</I> &agrave; durer aussi
+peu que l'<I>instant du regard</I>.
+
+Il n'est que de faire appara&icirc;tre au terme logique des <I>autres</I>
+la moindre disparate pour qu'il s'en manifeste combien <B>la v&eacute;rit&eacute;
+pour tous d&eacute;pend de la rigueur de chacun</B>, et m&ecirc;me que
+la v&eacute;rit&eacute;, &agrave; &ecirc;tre atteinte seulement par les
+uns, peut engendrer, sinon confirmer, l'erreur chez les autres. Et encore
+ceci que, si dans cette course &agrave; la v&eacute;rit&eacute;, on n'est
+que seul, si l'on n'est tous, &agrave; toucher au vrai, aucun n'y touche
+pourtant sinon par les autres.
+
+Assur&eacute;ment ces formes trouvent facilement leur application dans
+la pratique &agrave; une table de bridge ou &agrave; une conf&eacute;rence
+diplomatique, voire dans la manÅ“uvre du "complexe" en pratique psychanalytique.
+
+Mais nous voudrions indiquer leur apport a la notion logique de collectivit&eacute;.
+
+<I>Tres faciunt collegium</I>, dit l'adage, et la <I>collectivit&eacute;</I>
+est d&eacute;j&agrave; int&eacute;gralement repr&eacute;sent&eacute;e dans
+la forme du sophisme, puisqu'elle se d&eacute;finit comme un groupe form&eacute;
+par les relations r&eacute;ciproques d'un nombre d&eacute;fini d'individus,
+au contraire de la <I>g&eacute;n&eacute;ralit&eacute;</I>, qui se d&eacute;finit
+comme une classe comprenant abstraitement un nombre ind&eacute;fini d'individus.
+
+Mais il suffit de d&eacute;velopper par r&eacute;currence la d&eacute;monstration
+du sophisme pour voir qu'il peut s'appliquer logiquement a un nombre illimit&eacute;
+de sujets<A NAME="bknote4"></A><SUP><A HREF="#note4">[4]</A></SUP>, &eacute;tant
+pos&eacute; que l'attribut "n&eacute;gatif" ne peut intervenir qu'en un
+nombre &eacute;gal au nombre des sujets moins un<A NAME="bknote5"></A><SUP><A HREF="#note5">[5]</A></SUP>.
+Mais l'objectivation temporelle est plus difficile &agrave; concevoir &agrave;
+mesure que la collectivit&eacute; s'accro&icirc;t, semblant faire obstacle
+&agrave; une <I>logique collective</I> dont on puisse compl&eacute;ter
+la logique classique.
+
+Nous montrerons pourtant quelle r&eacute;ponse une telle logique devrait
+apporter &agrave; l'inad&eacute;quation qu'on ressent d'une affirmation
+telle que "Je suis un homme", &agrave; quelque forme que ce soit de la
+logique classique, qu'on la rapporte en conclusion de telles pr&eacute;misses
+que l'on voudra. ("<I>L'homme est un animal raisonnable</I>"..., etc.)
+
+Assur&eacute;ment plus pr&egrave;s de sa valeur v&eacute;ritable appara&icirc;t-elle
+pr&eacute;sent&eacute;e en conclusion de la forme ici d&eacute;montr&eacute;e
+de l'assertion subjective anticipante, &agrave; savoir comme suit :
+
+&nbsp; 1&deg; Un homme sait ce qui n'est pas un homme;
+
+&nbsp; 2&deg; Les hommes se reconnaissent entre eux pour &ecirc;tre
+des hommes;
+
+&nbsp; 3&deg; Je m'affirme &ecirc;tre un homme, de peur d'&ecirc;tre
+convaincu par les hommes de n'&ecirc;tre pas un homme.
+
+Mouvement qui donne la forme logique de toute assimilation "humaine",
+en tant pr&eacute;cis&eacute;ment qu'elle se pose comme assimilatrice d'une
+barbarie, et qui pourtant r&eacute;serve la d&eacute;termination essentielle
+du "<I>je</I>"â€¦<A NAME="bknote6"></A><SUP><A HREF="#note6">[6]</A></SUP>.
+<BR><FONT SIZE=-1>&nbsp;</FONT></UL>
+
+<HR SIZE=3 NOSHADE WIDTH="100%">
+<BR><FONT SIZE=-2>&nbsp;</FONT>
+<BR><A NAME="note1"></A><FONT SIZE=-1><A HREF="#bknote1">[1]</A> Et non
+moins celle des esprits form&eacute;s par cette tradition, comme en t&eacute;moigne
+le billet suivant que nous re&ccedil;&ucirc;mes d'un esprit pourtant aventureux
+en d'autres domaines, apr&egrave;s une soir&eacute;e o&ugrave; la discussion
+de notre f&eacute;cond sophisme avait provoqu&eacute; dans les esprits
+choisis d'un coll&egrave;ge intime une v&eacute;ritable panique confusionnelle.
+Encore, malgr&eacute; ses premiers mots, ce billet porte-t-il les traces
+d'une laborieuse mise au point.</FONT>
+
+<FONT SIZE=-1>&nbsp; "Mon cher Lacan, ce mot en h&acirc;te pour diriger
+votre r&eacute;flexion sur une nouvelle difficult&eacute; &agrave; vrai
+dire, le raisonnement admis hier n'est pas concluant, car aucun des trois
+&eacute;tats possibles : ooo â€“ oo* - o** , n'est r&eacute;ductible &agrave;
+l'autre (malgr&eacute; les apparences) : il n'y a que le dernier qui soit
+d&eacute;cisif.</FONT>
+<BR><FONT SIZE=-1>&nbsp; "Cons&eacute;quence: quand A se suppose noir,
+ni B ni C ne peuvent sortir, car ils ne peuvent d&eacute;duire de leur
+comportement s'ils sont noirs ou blancs : car, si l'un est noir, l'autre
+sort, et, s'il est blanc l'autre sort aussi, puisque le premier ne sort
+pas (et r&eacute;ciproquement). Si A Se suppose blanc, ils ne peuvent non
+plus sortir. De sorte que, l&agrave; encore, A ne peut d&eacute;duire du
+comportement des autres la couleur de son disque."</FONT>
+
+<FONT SIZE=-1>Ainsi, notre contradicteur, pour trop bien <I>voir </I>le
+cas, restait-il aveugle &agrave; ceci que ce n'est pas le d&eacute;part
+des autres, mais leur attente, qui d&eacute;termine le jugement du sujet.
+Et pour nous r&eacute;futer en effet avec quelque h&acirc;te, lassait-il
+lui &eacute;chapper ce que nous tentons de d&eacute;montrer ici : la fonction
+de la h&acirc;te en logique.</FONT>
+
+<A NAME="note2"></A><FONT SIZE=-1><A HREF="#bknote2">[2]</A> "Irr&eacute;ductibles",
+comme s'exprime le contradicteur cit&eacute; dans la note ci-dessus.</FONT>
+
+# Ainsi le "je", tierce forme du sujet de l'&eacute;nonciation dans la logique, y
+est encore la "premi&egrave;re personne", mais aussi la seule et la derni&egrave;re.
+Car la deuxi&egrave;me personne grammaticale rel&egrave;ve d'une autre
+fonction du langage. Pour la troisi&egrave;me personne grammaticale, elle
+n'est que pr&eacute;tendue c'est un d&eacute;monstratif, &eacute;galement
+applicable au champ de l'&eacute;nonc&eacute; et &agrave; tout ce qui s'y
+particularise.
+# En voici l'exemple pour quatre sujets, quatre disques blanc, trois disques noirs.<BR>A pense que, s'il &eacute;tait un noir, l'un quelconque de B, C, D pourrait penser des deux autres que, si lui-m&ecirc;me &eacute;tait noir, ceux-ci ne tarderaient pas &agrave; savoir qu'ils sont des blancs.<BR>L'un quelconque de B, C, D devrait donc en conclure rapidement qu'il est lui-m&ecirc;me blanc, ce qui n'appara&icirc;t pas. Lors A se rendant compte que, s'ils le voient lui noir, B, C, D ont sur lui l'avantage de n'avoir pas &agrave; en faire la supposition, se h&acirc;te de conclure qu'il est un blanc.<BR>Mais ne sortent-ils pas tous en m&ecirc;me temps que lui?<BR>A, dans le doute, sâ€™arr&ecirc;te, et tous aussi. Mais, si tous aussi sâ€™arr&ecirc;tent, qu'est-ce &agrave; dire? Ou bien c'est qu'ils sâ€™arr&ecirc;tent en proie au m&ecirc;me doute que A, et A peut reprendre sa course sans souci. Ou bien c'est que A est noir, et que l'un quelconque de B, C, D est venu &agrave; douter Si le d&eacute;part des deux autres ne signifierait pas qu'il est un noir, aussi bien &agrave; penser que, s'ils sâ€™arr&ecirc;tent, ce n'est pas pour autant qu'il soit lui-m&ecirc;me blanc, puisque l'un ou l'autre peut encore douter un instant s'il n'est pas un noir; encore peut-il poser qu'il devraient tous les deux repartir avant lui s'il est lui-m&ecirc;me un noir, et repartir lui-m&ecirc;me de cette attente vaine, assur&eacute; d'&ecirc;tre ce qu'il est, câ€™est-&agrave;-dire blanc. Que B, C, D, donc ne le font-ils? Car alors je le fais, dit A. Tous repartent alors.<BR><BR>Second arr&ecirc;t. En admettant que je sois noir, se dit A, l'un quelconque de B, C, D doit maintenant &ecirc;tre fix&eacute;sur ceci qu'il ne saurait imputer aux deux autres une nouvelle h&eacute;sitation, s'il &eacute;tait noir; qu'il est donc blanc. B, C, D doivent donc repartir avant lui. Faute de quoi A repart, et tous avec<B> </B>lui.<BR><BR>Troisi&egrave;me arr&ecirc;t. Mais tous doivent savoir
+d&egrave;s lors qu'ils sont des blancs, si j'&eacute;tais vraiment noir,
+se dit A. Si donc, ils s'arr&ecirc;tent...<BR><BR>Et la certitude est v&eacute;rifi&eacute;e en trois <I>scansions suspensive.
+# Cf. la condition de ce moins un dans l'attribut avec la fonction psychanalytique
+de l'Un-en-plus dans le sujet de la psychanalyse, p. 480 de ce recueil
+(Les &eacute;crits).
+# Que le lecteur qui poursuivra dans ce recueil, revienne &agrave; cette r&eacute;f&eacute;rence au collectif qui est la fin de cet article, pour en situer ce que Freud a produit sous le registre de la psychologie collective <I>(Massen : Psychologie und Ichana1yse,</I>1920) : le collectif n'est rien, que le sujet de
+l'individuel.

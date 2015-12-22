@@ -1,0 +1,14 @@
+<gallery caption="" widths="100px" align="center" heights="100px" perrow="6">
+Image:Sem1.jpg|[[Seminar I]]
+Image:Sem2.jpg|[[Seminar II]]
+Image:Sem3.jpg|[[Seminar III]]
+Image:Sem4.jpg|[[Seminar IV]]
+Image:Sem5.jpg|[[Seminar V]]
+Image:Sem7.jpg|[[Seminar VII]]
+Image:Sem8.jpg|[[Seminar VII]]
+Image:Sem10.jpg|[[Seminar X]]
+Image:Sem11.jpg|[[Seminar XI]]
+Image:Sem16.jpg|[[Seminar XVI]]
+Image:Sem17.jpg|[[Seminar XVII]]
+Image:Sem20.jpg|[[Seminar XX]]
+</gallery>

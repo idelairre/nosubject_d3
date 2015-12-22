@@ -1,0 +1,839 @@
+
+Chapter 9 
+The Subversion of the Subject and the Dialectic of Desire in the Freudian Unconscious 
+OVERVIEW 
+In this essay Lacan formally addresses a colloquium not of psychoanalysts but of philosophers, gathered at Royaumont (September 1960), under the leadership of J ean Wahl, to discuss the theme "Dialectic." It is altogether appropriate, then, that Lacan take for his own theme the issue of "dialectic" in Freud and, indeed, the aspect most specific to the Freudian discovery, namely, the nature of the unconscious. For philosophers, dialectic 
+. implies movement through a series of negations, each of which is followed by a sublation (Aufhebung), which assumes the negated moment into a higher synthesis. Since the basic dynamism of the subject for Lacan arises from desire, it is not surprising that he focuses attention on the "dialectic of desire," nor should it be surprising that negation and negativity come to playa crucial role in the discussion. 
+As the essay develops one gets the impression that Lacan 
+355 
+
+356 
+LACAN AND LANGUAGE 
+has moved to a new level of reflection - not because the essay is probably the most enigmatic of this particular collection, but rather because over the years his thought has led him into deeper and deeper waters. We know that his doctoral dissertation (1932) left Lacan with a dual interest: in the role of image and the role of milieu in personality formation. The former interest is explored in the first two essays of this collection, "The Mirror Stage" (Chapter 1) and "Aggressivity in Psychoanalysis" (Chapter 2). The latter interest is developed in the essays that begin to elaborate Lacan's conception of the unconscious as "the Other" that is "structured like a language," namely, "The Function and Field of Speech and Language" (Chapter 3), "The Freudian Thing" (Chapter 4) and "The Agency of the Letter in the Unconscious" (Chapter 5). The discussion of the Schreber case in "On a Question Preliminary to Any Possible Treatment of Psychosis" (Chapter 6) raises in a general way the question about the relation between the subject and the unconscious insofar as this is conceived as the Law of the Father and what happens if the subject is somehow "foreclosed" from this Law. Here for the first time in these essays the importance of the phallus in the oedipal resolution becomes explicated. The next two essays in the collection, "The Direction of the Treatment" (Chapter 7) and "The Signification of the Phallus" (Chapter 8), both address with increasing subtlety the problems involved in the castration complex. In the present essay this issue receives a still further refinement on a new level of complexity, insofar as the role that the phallus plays in a dialectical assumption by the subject of his own desire now becomes thematized. 
+Be that as it may, the obscurity of this essay almost defies paraphrase without support from a complementary text, "Position de l'inconscient" (1966, pp. 829-850), delivered one month later at Bonneval, as well as from the text of the seminars (still unpublished) on which both papers are based. Without these supports we must content ourselves with a kind of make-do coherence which is forced to take its bearings from a few relatively clear points of reference that peek through the shifting clouds 
+
+SUBVERSION OF SUBJECT AND DIALECTIC OF DESIRE 
+357 
+from time to time, but then must poke along as best it can through the long, foggy night. 
+But the fog does not descend really until we put out to sea. 
+At the beginning of the essay there is, so to speak, only the babble of greetings and farewells along the dockside. Lacan greets his audience of philosophers with appropriate allusions to the philosophy of science, to the dialectic of Hegel, to the status of Freud as a scientist (at least of ambi tion). His "farewells" are to the "empiricist" conception of science (1977, p. 293/795), to Hegel's "immanentism" (the march of the conscious subject to complete identity with itself in total self-awareness) as an account of the vagaries of the history of science (1977, p. 296/798), to the alleged radicality of the so-called "Copernican revolution" that still left man conceiving of himself as a conscious subject, i.e., in the sense of the Cartesian cogito. 
+Since these early passages may be taken as introductory, we shall not delay over them. Rather, let us disregard the order of the text and cull a few propositions that seem to us to articulate the essence of what Lacan is trying to say. "The praxis that we call psychoanalysis," he tells us, "is constituted by a structure" (1977, p. 292/793), so his fundamental question is: What is the nature of this structure that makes psychoanalysis possible? He chooses for special focus in this essay the structure of the subject, the traditional conception of which has been "subverted" by psychoanalysis. He will attempt to discuss this "subversion proper" and explain how radical it is. 
+Fundamentally at issue is the subversion (i.e., the overthrow) of the Cartesian subject (i.e., the presumed identity of subjectivity and conscious thought). Freud's assault on man's conception of himself as subject was more radical than either the "revolution" of Copernicus (1977, p. 296/798) or that of Darwin (1977, p. 295/797). The overthrow took place through Freud's discovery of the unconscious as "a chain of signifiers that somewhere (on another stage, on another scene, he wrote) is repeated, and insists on interfering in the breaks offered it by the effective [i.e., conscious] discourse and the cogitation that it in- 
+
+358 
+LACAN AND LANGUAGE 
+forms" (1977, p. 297/799). Here "the crucial term is the signifier, brought back to life from the ancient art ofrhetoric by modern linguistics" but unavailable as such to Freud because of the dislocations of history. Nonetheless, "the mechanisms described by Freud as those of 'the primary process', in which the unconscious assumes its role, correspond exactly to the functions that this school [of linguistics] believes determines the most radical aspects of the effects of language, namely metaphor and metonymy" (1977, pp. 297-298/799). 
+The conception implied here of a divided subject re<;:eived direct treatment in "The Agency of the Letter in the U nconscious" (see Chapter 5, pp. 167-168), where we saw that "the place that I occupy as the subject of a signifier [is] ... excentric, in relation to the place that I occupy as subject of the signified" (1977, p. 165/517). Such a conception obviously is incompatible with that of any simplistic psychology that takes as its criterion the "unity of the subject" or assumes that "the psychical had to obtain its credentials as a double of the physical organism" (1977, p. 294/795). 
+What is significant for Freud, then, is not any "state" of mind (1977, p. 294/795) or "some archetypal, or in any sense ineffable, experience" of the subject (1977, p. 295/796), even though such phenomena might offer some auxiliary "illumination." What really matters - even in the case of the hysteric - is not the "phenomena associated with hysteria" but rather the patient's "discourse" (1977, p. 294/795; italics added). An emphasis of this kind on the discourse of the subject in psychoanalysis leads us to the question that will polarize the remainder of the essay: "Once the structure of language has been recognized in the unconscious, what sort of subject can we conceive for it" (1977, p. 298/800)? 
+Lacan now makes his first assay at answering that question. Whatever the answer turns out to be, it must take account of the relationship between the unconscious and the "I" who 
+~ 
+speaks. Lacan begins with a certain "methodological rigor" by 
+recalling what the linguists have said about "I" as a "shifter," i.e., 
+
+SUBVERSION OF SUBJECT AND DIALECTIC OF DESIRE 
+359 
+a double structure that functions both as a signifier within the spoken discourse (hence, as "subject of the statement," the "spoken I") and as a designation of the subject as "now speaking" (1977, p. 298/800) by reason of what Barthes calls an "existential bond" (1964, p. 22) (hence, as "subject of the enunciation," the "speaking I"). Now it is obvious enough that the speaking subject may not be represented in the spoken discourse by any signifier at all, or may be signified in only the most subtle ways, as, for example, in the nuances of the expletive ne (1977, p. 298/ 800). Fair enough, but the question we are pursuing is: " 'Who is speaking?', when it is the subject of the unconscious that is at issue" (1977, p. 299/800). The unconscious itself cannot answer if the subject of the unconscious "does not know what [it] is saying, or even if [it] is speaking, [which] the entire experience of analysis has taught us" (1977, p. 299/800). 
+This unconscious is both immanent and transcendent to individual subjects, and marks the frontier beyond which the traditional subject, presumed to be "transparent" to himself, loses the self-transparency and begins to "fade," with all the consequent effects that lead to those characteristic manifestations of unconscious processes, such as slips of the tongue, witticisms, etc. In more technical terms, what happens here is that the "cut" (coupure) in the discourse, i.e., the bar between the signifier and signified - a fundamental principle of linguistics and basic ingredient of the law of the language - begins to have its effect. The result is that the irruptions of unconscious processes into conscious discourse become more manifest - and these are the focus of psychoanalysis. Hence, "the paradox of conceiving that the discourse in an analytic session is valuable only in so far as it stumbles or is interrupted" (1977, p. 299/801). Paradox or not, the fact remains: "If linguistics enables us to see the signifier as the determinant of the signified, analysis reveals the truth of this relation by making 'holes' in meaning the determinants of its discourse" (1977, p. 299/801). 
+In this context Lacan comes again to the familiar words of Freud: "Wo Es war, sol! Ich werden"(cf. 1977, pp. 128-129/417- 
+
+360 
+LACAN AND LANGUAGE 
+418). He underlines the fact that the tense of Freud's war corresponds not to the French past historical tense but to the imperfect, designating an incomplete action/state-of-being in past time. The point is important and worth stressing. Lacan makes it again, and more clearly, in the complementary essay "Position de l'inconscient" (1966, pp. 829-850). There he is discussing the nature of the subject (barred, of course) as definable only in terms of its relation to the signifying chain in which the signifier is understood essentially as that which "represents the subject for another signifier" (1966, p. 840; our translation). Speaking of the subject in this sense, Lacan clarifies: "What [i.e., the subject who] was there ready to speak [has] the double sense that the imperfect tense in French gives to [the expression] there was." Here Lacan is referring "to the moment preceding (e. g., "he was here but is no longer") and to the moment following (e.g., "a little longer and he was there"). In other words, he adds, "what was there disappears insofar as it is no longer anything but a signifier" (1966, p. 840; our translation). What is important here is not so much the conception of the subject that is at stake (we shall return to this below) but Lacan's use of the double sense of the French imperfect to interpret the "was" (war) in Freud's formula. In any case, the complementary text permits a better understanding of his remark in the essay we are presently considering: "There where it was just now, there where it was for a while, between an extinction that is still glowing and a birth that is retarded, I [no quotes] can come into being [as the speaking subject] and [yet] disappear from what I say" (1977, p. 300/801). 
+This disappearance is what we take to be the "fading' of the subject. To illustrate what he has in mind, Lacan recalls a dream related by Freud: 
+A man who had once nursed his father through a long and painful mortal illness, told me that in the months following his father's death he had repeatedly dreamt that his father was alive once more and that he was talking to him in his usual way. But he felt it exceedingly pairiful that his father had really died, only without knowing it [1911a, p. 225]. 
+
+SUBVERSION OF SUBJECT AND DIALECTIC OF DESIRE 
+361 
+Now for Lacan, what the father did not know was the fact "that he'was dead" (1977, p. 300/802). What life the father had, then, was only in the signifying chain of the dreamer's psyche. But does the dreaming/speaking subject fare any better? The dreaming subject, too, withdraws from the signifying chain of his dream/discourse. "[T]hat is how I as subject comes on the scene, conjugated with the double aporia of a true survival that is abolished by knowledge of itself, and by a discourse in which it is death [of the speaking subject in his withdrawal] that sustains existence [in the discourse]" (1977, p. 300/802). 
+How does a subject conceived in this way compare with the subject as conceived by Hegel? In fact the two conceptions are separated by a "gap" that can be seen most clearly if we compare them in terms of the way the subject in each case relates to knowing (savoir). Traditionally and in the most general terms, knowing has always been considered to be some kind of union between one being (the knower) and another being (the known) that involves a "presence" of the known to the knower and reciprocal "awareness" in the knower of the known that is not purely physical, which often has been called (for want of a better term) "intentiona1." Traditionally, too, knowledge is considered true if the awareness in the knower corresponds to the object known, and in that sense the knower depends on the object known as a standard to which the knowledge must conform in order to guarantee its truth. With Descartes, however, truth came to be conceived not merely as conformity of knower to known but as certitude in the knowing subject (i.e., "knowing' that he knows). Henceforth, in order to be true the knowing depended not only on its objects but on its own assurance of itself. Now when a Hegel talks about knowledge as "absolute," this must be understood in the most radical sense of"absolute"-at least so one astute co~mentator (Martin Heidegger [1950, p. 124]), namely, suggests - in the Latin sense (ab-solvere) of "to loosen." In other words, if truth is conceived as stated here, then knowing is absolved (loosened) from its complete dependence on the object in the process of truth. The more the nature of self-assurance is 
+
+362 
+LACAN AND LANGUAGE 
+explored, the more the object, if it remains part of the process at all, becomes a matter of indifference. To the extent that knowing is released from dependence on the presentation of objects and becomes more aware of itself as knowing, the subject becomes "absolute." In any case, what matters for Hegel is Knowing's knowing itself, i.e., as absolute. 
+The entire thrust of Hegel's The Phenomenology of Mind (1807a) consists in the process by which Knowing comes to know itself. Initially, indeed, what the subject knows is an object (an sich), say, of sense perception. In a second moment, however, the subject becomes aware of itself as knowing the object (fur sich), and then becomes aware of its own role in constituting the object for itself (an undfur sich), thereby "loosening' itself (in whatever small degree) from dependence on this object to assure itself of the truth of its knowledge. 
+This, then, is the basic movement of the dialectic. The knowing subject passes from an initial moment of "affirmation" of its object to an awareness of the inadequacy of this perception (hence, negation) to a new moment of reconciliation of these two previous moments in a higher (or deeper) view of the process, which then becomes the starting point of a new cycle of the dialectic. This movement of affirmation-negation-synthesis on the part of the subject is called "mediation," i.e., the means by which the initial im-mediate experience (affirmation) is processed through negation into synthesis. The initial, un-mediated moment of knowing is what we understand by knowledge-asconnaissance. Through the mediation it is assumed into the ongoing process of savoir coming to know itself. To the extent that the mediation is also a process of self-assurance on the part of the subject, it is also a moment of truth, which, of course, yields to synthesis within a higher truth as the dialectic moves on. What propels the dialectic for Hegel, however, is not some hidden thrust within knowing itself but fundamentally desire. 
+Now for Freud, the relation between truth and savoir, as we find it in Hegel, is broken. There is indeed in Freud a desire, but it must be understood as desire of the Other. If one wishes 
+
+SUBVERSION OF SUBJECT AND DIALECTIC OF DESIRE 
+363 
+to call this a desire of savoir, that may be possible, provided that one understands savoir in a very special sense, i.e., not as "knowledge" in any traditional sense of intentional union between knower and known but as a "knowing" that takes the form of an inscription in the discourse of the subject, "of which, like the 'messenger-slave' of ancient usage, the subject who carries under his hair the codicil that condemns him to death knows neither the meaning nor the text, nor in what language it is written, nor even that it had been tatooed on his shaven scalp as he slept" (1977, p. 302/803). 
+Such a conception of the unconscious has nothing to do, of course, with Freud's so-called biologism. This does not gainsay the fact that this biologism, properly understood, plays an important role in Freud's thought. One form of it is the death instinct, and "to ignore the death instinct in his doctrine is to misunderstand that doctrine entirely" (1977, p. 301/803). For example, the "return to the inanimate" that characterizes the death instinct is a metaphor for "that margin beyond life that language gives to the human being by virtue of the fact that he speaks"another way of talking about the Freudian unconscious savoir. Another form of biologism is the role ascribed to the phallus in the dialectic of desire, as we shall see in more detail below. 
+But to recognize the central role of biologism in Freud is not to correlate the unconscious with physiology, and the translation of Trieb as "instinct" is very misleading. A much better choice would be "drive" (pulsion). "Instinct" might imply "knowledge" (connaissance) of some sort, the way a bird has "knowledge" of how to build a nest, but in no way can "knowledge" of this type be identified with savoir in the sense we have explained (1977, pp. 301-302/803). 
+At this point Lacan begins his attempt to describe precisely how desire functions with regard to this subject who is "defined in his articulation by the signifier" (1977, p. 303/805) like the messenger-slave just alluded to. He does so by resorting to a series of graphs that aim to map out "the most broadly practical structure of the data of our experience" (1977, p. 303/804-805) 
+
+364 
+LACAN AND LANGUAGE 
+- and thereby takes us out to sea in heavy fog. 
+Graph I is the "elementary cell" of this series. We take it to be a kind of general statement of the nature of the subject "defined in his articulation by the signifier" (1977, p. 303/805). We recall that for Lacan signifiers do not refer to any specific signified in a one-to-one correspondence but rather to other signifiers so as to constitute a signifying chain. As a result we "are forced ... to accept the notion of an incessant sliding [glissementJ of the signified under the signifier" (1977, p. 154/502). But there are certain privileged moments when the signifying chain comes to fix itself to some signified, and these are "anchoring points" (points de capiton), "points like buttons on a mattress or intersections in quilting, where there is a 'pinning down' (capitonnage) of meaning, not to an object but rather by 'reference back' to a symbolic function" (Wilden, 1968, p. 273). 
+N ow Graph I diagrams one of these anchoring points "by which the signifier stops the otherwise endless movement (glisse- 
+- 
+ment) of signification" (1977, p. 303/805). The vector S.SI indi- 
+cates the signifying chain posed by the speaking subject. We may think of it in both diachronic and synchronic terms. "The diachronic function of this anchoring point is to be found in the sentence, even if the sentence completes its signification only with its last term, each term being anticipated in the construc- 
+(tion of the others, and, inversely, sealing their meaning by its retroactive effect" (1977, p. 303/805). In other words, the meaning~ed to the end of the sentence, must be read backwards into the preceding words once the sentence is finished. As 
+for the synchronic structure of the anchoring point, it is less obvious. This consists in the symbolic order itself that in its most elemental form may be seen in the primordial division of the phonemes. It is this basic pattern of the symbolic order that permits even a child to transpose the bark of a dog perceived as sign into a phoneme-signifier, utilizing the latter in the process of signification in the form of a nursery rhyme. We are taking the diagram to suggest, then, that in the progressive-regressive movement of the anchoring point in which signification emerges, 
+
+SUBVERSION OF SUBJECT AND DIALECTIC OF DESIRE 
+365 
+the vector S]t represents the progressive movement of the dia- 
+	, 	- 
+chrony, and the vector A. S represents the regressive movement 
+of contextualized meaning that is made possible by the synchrony of the symbolic order. 
+Graph II introduces several new elements into Graph I, principally a place in which to locate the Other. Given the interpretation we have offered of the synchronic structure of the anchoring point, it is perfectly understandable that the Other as "treasure of the signifier" be located precisely where the two vectors cross at the beginning of the reverse trajectory at point 0, and that the effect of the Other on the eventual signified be indicated there where a given assertion, ending on "its own scansion," receives its final punctuation at point s(O). 
+The circularity of this process is evident. But who (and where) is the subject of it all? If the subject here means the individual, real subject, then he "is constituted only by subtracting himself" (1977, p. 304/806) in the fading of the "I" from the discourse as spoken. But if the Other is considered the subject, it is "simply the pure subject of modern games theory" (1977, p. 304/ 806). Lacan adds that this Other as "locus of Speech, imposes itself no less as witness to the Truth" (1977, p. 305/807). The reason is that if, according to a tradition at least as old as Aristotle, the locus of truth is in the judgment and presupposes a correspondence between the judgment and what is affirmed in the judgment, then truth thus understood (as also falsehood) supposes the symbolic order. To be sure, there is a kind of "pretence to be found in physical combat and sexual display" that is essentially a matter of "imaginary capture," and we find this in animals, too. An animal "does not pretend to pretend," however, nor does he "make tracks whose deception lies in the fact that they will be taken as false." Pretense of this kind implies a passage to the order of the signifier, and "the signifier requires another locus-the locus of the Other, the Other witness, the witness Other than any of the partners - for the Speech that it supports to be capable oflying, that is to say, of presenting itself as Truth" (1977, p. 305/807). 
+
+366 
+LACAN AND LANGUAGE 
+But if this much can be said about the subject of the discourse, what can be said about the ego? Recall what we know about Lacan's conception of the ego. As he tells us in his description of the "mirror stage," it is the "specular image" the child jubilantly assumes at the irifans stage, while still sunk in his "motor incapacity and nursling dependence." Here the "I" is "precipitated in a primordial form" that "would have to be called the Ideal-I, if we wished to incorporate it into our usual register, in the sense that it will also be the source of secondary identifications, under which term [Lacan] would place the functions of libidinal normalization" (1977, p. 2/94). How the ego thus conceived is victimized by a "paranoiac alienation" (1977, p. 5/98) that affects all its knowledge, how it defends itself by "the armour of an alienating identity" (1977, p. 4/97), how its aggressivity is "a correlative tension of [this] narcissistic structure" (1977, p. 22/116)-all this we have seen already. What Lacan seems to add here is the reminder that the ego thus conceived in its origins must now be dealt with by the (presumably adult) subject: "At this point the ambiguity of a failure to recognize that is essential to knowing myself (un meconnaitre essentiel au me connaitre) is introduced. For, in this 'rear view' (ritrovisee), all that the subject can be certain of is the anticipated image coming to meet him that he catches of himself in [the] mirror" (1977, p. 306/808). This is the ego that Descartes discovered and that Kant analyzed in terms of a "transcendental ego," though the analysis was inevitably relativized by the fact that there, too, the ego was "implicated ... in the meconnaissance in which the ego's identifications take root" (1977, p. 307/809). When all is said and done, the emphasis since Descartes on consciousness as essential to the subject is for Lacan "the deceptive accentuation of the transparency of the I in action [en acte] at the expense of the opacity of the signifier that determines the I" (1977, p. 307/809), i.e., (as we understand it) the opacity of the symbolic order that, beyond the transparency of consciousness to itself, silently permeates all discourse. 
+At this point Lacan digresses into Hegel (out of deference 
+
+SUBVERSION OF SUBJECT AND DIALECTIC OF DESIRE 
+367 
+to his philosophy audience?). His intention, it appears, is to suggest how the early development of the ego follows the classical dialectical master-slave struggle between the ego and its counterpart that "is rightly called a struggle of pure prestige, and the stake, life itself, is well suited to echo that danger of the generic pre maturation of birth" that sets the stage for the mirror phase (1977, p. 308/810). He suggests, too, how the same master-slave struggle offers an appropriate paradigm for understanding the neurotic patterns of the obsessional, who simply waits out the Master's death (1977, p. 309/811). Implicit here, of course, is the supposition that the dynamic of this dialectical struggle is desire, hence the remonstrance that "philosophers should not make the mistake of thinking that they can take little account of the irruption that Freud's views on desire represented" (1977, p. 309/811). 
+What, then, were Freud's views on desire? They are not to be understood in terms of familiar cliches about "repressed wishes," or discerned in the kind of aberration that, according to Lacan, passes for psychoanalytic practice today. Nor are they to be grasped by overlooking the subtleties that differentiate desire from need and demand. If the meaning of desire for Freud is to be sought under the guise of sexuality, then this should be done in terms of certain "structural elements" that transcend those common vagaries of sexuality that led Freud to admit that it "must bear the mark of some unnatural split" (1977, p. 310/ 812). These "structural elements" are most clearly seen in the Oedipus complex. 
+Central to the Oedipus complex, of course, is the role of the Father. Freud himself saw the paradigm for this in the dead Father of his own hypothetical myth, but Lacan has interpreted the role in terms of the Name-of-the-Father. What is at stake clearly is not the real father but the "paternal function," which for Lacan is grounded in "the Other as the locus of the signifier" (1977, p. 310/812-813). The Other here is Law and, as such, ultimate-"there is no Other of the Other" (1977, p. 311/813). But the "fact that the Father may be regarded as the original 
+
+368 
+LACAN AND LANGUAGE 
+representative of [ the] authority of the Law requires us to specify by what privileged mode of presence he is sustained beyond the subject who is actually led to occupy the place of the Other, namely, the Mother" (1977, p. 311/813). This opens up new difficulties. 
+\ The fundamental issue that now comes more and more into focus (however circuitously) is the relationship between desire and the Other (i.e., the Law, the Name-of-the-Father). The difficulty of this issue will be compounded by the fact that the desiring subject is also related to the one who occupies the place of the Other in terms of need and demand. These are the parameters within which the play of the dialectic will be contained. 
+Let us begin with what is already familiar. Just as we have been told that the unconscious is "the discourse of the Other," where "of" is to be understood in the sense of the Latin de (i.e., discourse "from" the Other), so, too, we have heard before (1977, p. 264/628) that "man's desire is the desire of the Other," i.e., "it is qua Other that he desires (which is what provides the true compass of human passion)" (1977, p. 312/814). The subject's desire, then, is in fact the Other's desire. That is why the question coming from the Other to the subject in the form of "What do you want?" leads him more surely "to the path of his own desire," provided he is able to respond to it-and for this the help of a psychoanalyst may be necessary - not in terms of "What do I want?" but rather "What does he [i.e., the analyst] want of me?" (1977, p. 312/815). It is through collaboration with the analyst that he comes to recognize the otherness of desire and is able to invert the original question so as to ask of the Other, "What do you want of me?" (1977, p. 335/908). 
+If the subject is able to appreciate the sense of such a question, he may become aware of the alienation of which he has been the victim by reason of his own ego. Thus, quite possibly, "what he [as subject] desires presents itself to him as what he [as ego] does not want" (1977, p. 312/815). That leaves us with the delicate task of understanding the relationship between subject and ego, and this is where "fantasy" plays an important role in the process. 
+
+SUBVERSION OF SUBJECT AND DIALECTIC OF DESIRE 
+369 
+, Laplanche and Pontalis define fantasy in the following classical terms: "imaginary scene in which the subject is a protagonist, representing the fulfillment of a wish [i.e., desire] (in the last analysis, an unconscious wish [desire]) in a manner that is distorted to a greater or less extent by defensive proces~es"; but they conclude their discussion more succinctly by saying that "the primary function of fantasy [is] the [imaginary] miseen-scene of desire" (1967, pp. 314-318). Lacan here is more specific. We understand him to be saying something like this: When the subject becomes "barred" (g) at the moment of "primal repression" (i. e., "the splitting that [he] suffers from [his] subordination to the signifier") and subsequently comes to expression only in the "fading" of the speaking I from his spoken discourse, he maintains an essential liaison with some imaginary "object" called "fantasy" (1977, p. 313/816). This imaginary object has as its fundamental paradigm a body image that is homologous with the image of the infant perceived by itself in the mirror stage and designated by Lacan as the ego. 
+This body image as paradigm of fantasy now serves as the 
+" 'stuff' of that'!, that is originally repressed" (1977, p. 314/816), i.e., the manner in which the speaking I, subject to desire, becomes manifest as it fades. At any rate, this relationship between the split/repressed/barred subject and fantasy is expressed ( in the algorithm gOo, where the 0 apparently expresses the relationship between the barred subject and the Other, presumably as a function of desire and its "cause." 
+The precise nature of this relationship is extremely difficult to articulate, for "the place that I occupy as subject of the signifi•ed," i.e., as subordinate to the Other, is "excentric" to "the place that I occupy as ... subject of a signifier" (1977, p. 165/ 517). Hence, it is difficult to designate the "subject of the unconscious" as "subject of a statement, and therefore as the articulator, when [the subject] does not even know that [it] is speaking" (1977, p. 314/816). It is all the more difficult to speak of the subject of the unconscious in terms of desire. Perhaps this accounts for the fact that this subject often has been spoken of in terms of 
+
+370 
+LACAN AND LANGUAGE 
+"drive, in which [it] is designated by an organic, oral, anal, etc. mapping," "inhabiting," as it were, these organic functions (1977, p. 314/816-817). 
+But the drive isolates from the sheer metabolism of these functions certain "erogenous zones" that are marked by what Lacan calls a "cut (coupure), expressed in the anatomical mark (trait) of a margin or border-lips ... the rim of the anus, the tip of the penis, [etc.]" (1977, p. 314/817). The full force of "cut" here is for the moment not clear to us, though we recall that Lacan spoke earlier of the "cut in discourse, the strongest being that which acts as a bar between the signifier and signified" (1977, p. 299/801). Perhaps the term is intended to suggest a sign of negativity (of discontinuity and therefore of lack, as basis for desire) in the human organism, the supreme form of which would be symbolic castration; perhaps, too, it is an anticipation on the level of the organism of the "bar between the signifier and signified" in the register of the symbolic order. Be that as it may, it is apparently organic parts such as these that coalesce to form the body schema serving as paradigm for the fantasies that become "stuff" through which the speaking I manifests itself as it fades. The "partial features" of these objects are rightly emphasized, of course, "not because [they] are part of a total object, the body, but because they represent only partially the function that produces them," i.e., the drive/desire of the subject (1977, p. 315/817). 
+By now Lacan is well into the exposition of his Completed Graph, which we shall not follow in detail. Let it suffice to say that as in Graph II he plotted the formulation of a meaningful statement in conscious discourse by "looping its signification" (1977, p. 316/818), so now he attempts to plot this "looping" of signification on the level of unconscious enunciation, presumably by the "subject of the unconscious." "If we are to expect [this looping] effect from the unconscious enunciation, it is to be found here in the S(Q'», and read as: signifier of a lack in the Other, inherent in its very function as the treasure of the signifier." The shock of this formulation is Soon mitigated when we are 
+
+SUBVERSION OF SUBJECT AND DIALECTIC OF DESIRE 
+371 
+told that the "lack referred to here is indeed that which I have alrea:dy formulated: that there is no Other of the Other" (1977, p. 316/818). This says nothing about the existence or nonexistence of some higher being as specified in any particular religion - all it says is that the Other is not grounded in any order of signifiers beyond itself. 
+Proceeding to explain this enigmatic formula, Lacan focuses directly on the signifier of the Other-as-Iacking. Taking it in linguistic terms, he tells us: "My definition of a signifier (there is no other) is as follows: a signifier is that which represents the 
+. subject for another signifier" (1977, p. 316/819). In the case of 
+~~ding subject, for example, thi; subject is represented in its spoklfn discourse by a signifier that, in place of the speaking I, relates to other signifiers in the self-referential signifying chain. Here, however, there is question of the subject of the unconscious as such. Hence, the signifier in question, S(Q'» will be "the signifier for which all the other signifiers represent the sub- 
+-ject: that is to say, in the absence of this signifier, all the other signifiers represent nothing" (1977, p. 316/819). 
+The whole battery of signifiers, then, is complete and selfcontained. If this particular signifier is to be distinguished among the rest, it will have to be by some mark that will not separate it from the other signifiers, and Lacan chooses the sign - 1. If this signifier, with its corresponding signified, together yields the "statement" (enonce) articulated by the subject of the unconscious, then a simple algebraic operation will yield the result: s (unconscious statement) equals J ~ i-an irrational number that is otherwise quite "inexpressible," even "unthinkable," if we try to _ think it on the level of the conscious Cartesian cogito. If we are to 1 conceive it at all, it will have to be in terms of the faded subject that, through its withdrawal, undergoes a kind of death and therefore resides in a place "from which a voice is heard clamouring 'the universe is a defect in the purity of Non-Being' " (1977, p. 317/820). 
+Apparently this place to which the speaking I withdraws is where it can experience a form of boundlessness that Lacan calls 
+
+372 
+LACAN AND LANGUAGE 
+jouissance. The term, though it has appeared in previous essays, has not been thematized heretofore, and we have very little data to help us understand its nature. We are told thatjouissance is usually experienced as "forbidden" (1977, p. 317/820) - not because of "a bad arrangement of society," nor because of some fault of the Other (as if it existed), nor because of a consequence of some "original sin" (1977, p. 317/820). Rather,jouissance is limited by an interdiction imposed by the Law. We take this to mean that when the subject enters into the symbolic order, i.e., when the subject submits to the law of the signifier and becomes barred through primal repression, the subject must accept the consequences of his finitude that are never more apparent than in the limits imposed uponjouissance (1977, p. 319/821). 
+In any case, this lets us see that the limitations ofjouissance are closely connected with the barring of the subject in primal repression. Since these are intimately connected with the castration complex, it would be impossible to exaggerate the importance of this complex as "structural of the subject" (1977, p. 318/ 820). With r~gard to it, Lacan suggests a second meaning for the term "subversion" of the subject. "In the castration complex we find the major mainspring of the very subversion that I am trying to articulate here by means of its dialectic" (1977, p. 318/ 820). 
+Castration involves a sacrifice of the phallus, "image of the penis." We must distinguish, however, "between the principle of sacrifice, which is symbolic, and the imaginary function that is devoted to that principle of sacrifice, but which, at the same time, masks the fact that it [the imaginary function] gives it [the principle] its instrument [of sacrifice]" (1977, p. 319/822). We take this to mean that Lacan wants to distinguish clearly between the phallus as symbolic (hereafter capital Phi [<P]) and as image (hereafter small phi [<t>]). According to our understanding of the matter, the phallus as imaginary is (on the psychic level) the bond with the Source of All, which, like the umbilical cord, must be severed in order to enter into human existence in the symbolic order (though at the cost of the irreparable loss of 
+
+
+SUBVERSION OF SUBJECT AND DIALECTIC OF DESIRE 
+373 
+joui~sance). As image, the phallus forms part of the body schema perceived in the specular image that, for Lacan as well as for Freud, "is the channel taken by the transfusion of the body's libido towards the object" and serves as paradigm for fantasy (1977, p. 319/822). 
+The detachability of the phallus may be understood in a 
+broad sense, for insofar as the phallus is erectile (hence also detumescent and in that way "detachable"), it may be experienced as "lacking" to, or "negatived" in, the body image (1977, pp. 319-320/822). As a result of this negative quality, it bears a certain affinity with the negativity of th,e signifier ( - 1) as with the nega~vity of its signification (,,';--=-1). Since "the erectile organ come~ to symbolize the place ofjouissance," there is a natural correlation between the phallus imagined as castratable and the limitation of jouissance, by reason of which the erectile organ may be said to "bind [nouer] the prohibition of jouissance" (1977, 
+p. 320/822). 
+The transformation of the phallus as imaginary and de- 
+tachable ( - ¢) {implying a castration equally imaginary) into \ the phallus as symbolic (<P) is a step forward in the emergence of the subject and in that sense "positive," even though it may be correlated with the filling up of some lack (1977, p. 320/823) and, as signifier of the Other's desire, signifies the lack in the Other. However that may be, the castration of the phallus brings into play some kind of object on the level of fantasy that Lacan refers to as objet a. How this may be understood admits of various interpretations. After scrutinizing relative texts in Lacan, Lemaire suggests two possible ways of understanding the objet a: the first sense would be to take objet a as "the first image to fill in the crack of separation" from the mother, hence necessarily referring to the phallus "in the symbolic sense of the hyphen, par excellence, of the impossible unification" with her that in the separation is severed; a second (broader) sense would take objet a as the "representative of the object of lack," i.e., "the metonymic object of desire" (1970, p. 174). 
+As a case in point, an example of objet a would be the "ines- 
+
+374 
+LACAN AND LANGUAGE 
+SUBVERSION OF SUBJECT AND DIALECTIC OF DESIRE 
+375 
+timable treasure" that in Plato's Symposium Alcibiades fantasizes as contained in hidden fashion within Socrates. Recall how Alcibiades had projected onto Socrates the ideal of the "perfect master" (1977, p. 323/826). Yet because Socrates refuses to respond to any of his advances, Alcibiades fantasies Socrates as deprived of the imaginary phallus ( - 1» and in that sense as "castrated," hence, "ideal Master" or not, as "completely imaginarized." This does not make Socrates any less "the object of desire," however, for, like "the woman concealed behind her veil, it is the absence of the penis that turns her into the phallus, the' object of desire" (1977, p. 322/825). We understand this to mean that the absent penis in the woman makes her desirable tothe subject, i.e., the object of the subject's desire, in the sense that, not having the phallus, she can now be the phallus for/to him, i.e., the object of his desire. Phallus in this case, however, is obviou"sly used in the symbolic sense (<I» as signifier of desire or oflack. Similarly, Socrates remains the "symbolic" phallus for Alcibiades, even though (or rather precisely because) he is castrated of the imaginary phallus ( - 1». In all this, Lacan claims that Alcibiades (though he may well be a lecher and a lush) "is certainly not a neurotic," for he is ''par excellence [one] who desires," i.e., is in touch with his own desire. Socrates, "the precursor of psychoanalysis," is shrewd enough to discern the true focus of Alcibiades' desire, "object of the transference," i.e., Agathon (1977, p. 323/825-826), insofar as he matches (as homosexual object) the object in Alcibiades' unconscious fantasy, the object marked by the - 1> "as castrated" (1977, p. 323/825). 
+For the neurotic, the same issue is not so straightforward. 
+When the subject is split through primary repression (5), the neurotic's ego remains strong and, essentially imaginary itself, functions in the imaginary order. The phallus on this level, as also the castration of it, is equally imaginary. The neurotic's relation to the Other is such that "he imagines that the Other demands his castration" (1977, p. 323/826). But in his imaginary struggle against an imaginary castration, the neurotic fails to appreciate the genuine role of the symbolic phallus and the need 
+for symbolic castration as the price of any satisfactory relationship of the subject to the Other. We understand this satisfactory relationship to involve the dialectic of desire through reciprocal recognition of:. subject and Other. In other words, it is as if the neurotic played out the scenario of the classic oedipal stereotype on the imaginary level and failed utterly to appreciate the symbolic significance of castration. In any case, what analytic experience shows us is that, whether in the normal or abnormal, castration is the "ondition for desire to become human. In that 
+I' sense.it "governs" desire (1977, p. 32~/826). Reciprocally, it implies the forfeit ofjouissance of primordial union, which can then /- ;~' pproached only on "the inverted ladder ... of the Law of desire, i. e., by overturning the Law governing the articulation of desir (1977, p. 324/827). 
+But all this, along with the tantalizing allusions to different kinds of neuroses (phobic, obsessional, hysterical) ~nd to perversion, suggests a clinical relevance to Lacan's reflections here 
+.. that the paucity of clinical facts simply does not permit us to explicate further., In other words, we must be content with what few misty glimmers have been allowed us in the course of this long, foggy night. 
+MAP OF THE TEXjf 
+I)	Analytic practice rests on a structure. 
+J)	Philosophy claims to deal with what interests everyone without their knowing it. 
+1)	This relation of the subject to knowledge was mapped by Hegel, 
+a. but it is an ambiguous relation, even in science. 
+2)	The scientist is a subject who ought to know what he is doing, 
+a)	but he does not know what in the impact of science is of interest to everyone. 
+3)	Thus we consider Hegel's epistemology regarding the subject, 
+
+376 
+LACAN AND LANGUAGE 
+a)	in order to show what psychoanalysis subverts in the question of the subject. 
+B)	Our psychoanalytic experience qualifies us to proceed in this way, 
+1)	in the face of gaps in theory and transmission, 
+a)	which consequently jeopardize practice, b. and nullify its scientific status. 
+2)	Its social basis is not at issue, 
+a. not even its deviations in Britain and America. 3. It is subversion itself that we will try" to define. 
+C)	Science cannot be founded on empiricism, 
+1)	not even the so-called science of psychology, 
+a)	since the Freudian subject disqualifies what lies at the root of academic psychology. 
+2)	Psychology's criterion is the presupposed unity of the subject, 
+a)	as a subject of knowledge or as a double of the physical organism. 
+3)	We must take stock of the notion "state of knowledge," 
+a. insofar as it can be authenticated by a theory i. that relates knowing to connaturality. 
+b)	Hegel had no use for it, nor does modern science, 
+c)	except in plotting the coordinates of its objects. 
+d)	So-called depth psychology gets no direction from it. 
+e)	Freud himself took his distance from hypnoid states, 
+i. preferring the discourse of the hysteric. 
+D)	People fail to see that when we question the unconSCIOUS, 
+1)	its reply is a discourse. 
+2)	We lead the subject to decipher its logic, 
+a. provided our voice enters at the right place. 
+
+
+SUBVERSION OF SUBJECT AND DIALECTIC OF DESIRE 
+377 
+3. Our goal is not some archetypal or mute experience. 
+E)	In this approach to the subject we see how Freud took a Copernican step. 
+1)	With Copernicus, the earth was dislodged from its central place. 
+a)	But heliocentrism is no less a lure, 
+b)	and Darwinian man still believes he's the pick of the basket. 
+2)	A doctrine of double truth still shelters our knowledge, 
+a)	for science has closed the frontier of its knowledge from the Freudian fruth. 
+b)	If we keep the shifting history of science in view, psychoanalysis can still have an earth-shaking role. 
+II. From this vantage point we reexamine what 'help we can expect from Hegel. 
+A)	Hegel's phenomenology ideally resolves the relation between truth and knowledge. 
+1)	Truth emerges in knowledge by putting ignorance to work, 
+a)	yielding a new symbolic form by resolving the Imagmary. 
+2)	The dialectic leads to ah absolute knowing wherein the real and the symbolic are conjoined, 
+a)	for the absolute subject is complete and perfect, the fully conscious self 
+b)	that is the basic hypothesis of the entire movement. 
+3)	But the history of Western science shows detours that are inconsistent with Hegel's dialectic. 
+a)	Creative physicists remind us that in scientific knowledge as well as in other areas the hour of truth strikes elsewhere than in consciousness. 
+b)	The consideration shown psychoanalysis by science indicates a wish for theoretical enlightenment. 
+
+378 
+LACAN AND LANGUAGE 
+1)	This has nothing to do with the categories of psychology, whose fate is sealed. 
+B)	By thus referring to Hegel's absolute subject and the abolished subject of science, we shed light on Freud's dramatic entry, 
+1)	the return of truth into the field of science, 
+a)	at the same time that it imposes itself on the field of practice. 
+2)	Hegel's unhappy consciousness is basically just a suspension of knowing; 
+a. it is far from Freud's malaise of civilization, 
+i)	marked by the skewed relation separating the subject from sexuality. 
+3)	We cannot situate Freud in terms of a predictive psychology , 
+a)	nor in terms of a phenomenology that would reassure idealism. 
+b)	In the Freudian field consciousness cannot found the unconscious, 
+c. nor can affect ground the subject. 
+C)	The unconscious, since Freud, is a chain of signifiers, 
+1)	which repeats itself "on another stage," 
+a. and which interferes in discourse and thought. 
+2)	The notion of "signifier" of modern structural linguists was unavailable to Freud, 
+a)	but his descriptions of primary-process mechanisms match exactly their description of the two poles of language (metaphor and metonymy). 
+D)	Given the structure of language in the unconscious, what kind of subject can we conceive for the unconscious? 
+1)	We can begin with the I as signifier, defined in linguistics 
+a. in terms of its status as shifter. 
+2)	The shifter indicates the speaking subject, a. but does not signify it. 
+
+
+SUBVERSION OF SUBJECT AND DIALECTIC OF DESIRE 
+379 
+III. 
+3)	The subject does not always know what he is saying, or even that he is speaking, 
+a)	for the subject fades from discourse, b. a discourse marked by parapraxes. 
+4)	As analysts we must return to the function of the 
+	gap in discourse, 	, 
+a)	the strongest being the bar that separates the signifier and the signified. 
+5)	We thus arrive at the subject as bound 'to signification and thereby under the sign of the preconscious. 
+a)	This leads us to the. paradox of conceiving the analytic discourse as of- value only in its lapses and parapraxes. 
+6)	The subject is therefore structured as discontinuity in the real, 
+a)	with holes in meaning as dete~minants of ana- 
+lytic discourse. 
+E)	Freud's imperative, "Wo Es war, sol! Ich werden, )) emphasizes a presence as having-been. 
+1)	From this presence I can come to being, a. but only to disappear in my discourse. 
+2)	The Hegelian subject of absolute knowledge fails to see the vanity of its discourse, 
+a. and thus risks madness. 
+3)	The Freudian subject, as being of non-being, is 
+separated from Hegel's by an abyss. 
+The subject's relation to knowledge has its roots in the dialectic of desire. 
+A)	In both Hegel and Freud desire is linked to knowledge. 
+1)	Hegel's "cunning of reason" implies that the subject knows what he wants. 
+2)	In Freud desire is tied to the desire of the Other. a. In this tie we find the desire to know. 
+B)	The biologism of Freud is far from the psychoanalytic theory of instinct. 
+1)	The tone of Freud's biology is found only by living the death instinct. 
+
+380 
+LACAN AND LANGUAGE 
+2)	The metaphor of the return to the inanimate shows the "margin beyond life" that language gives to bemg, 
+a)	in the fact that there is speech, 
+b. and body parts are engaged as signifiers. 
+3)	Freud's Trieb is incorrectly translated as "instinct." 
+a)	Instinct is a mode of awareness without knowledge. 
+b)	The Freudian discourse is a mode of knowledge without awareness. 
+c)	The unconscious has little concern for physiology, 
+d)	while psychoanalysis has contributed nothing to physiology. 
+C)	Psychoanalysis involves the real body and its imaginary schema. 
+1)	Psychosexual development provides symbolic elements. 
+a)	The phallus holds a privileged place in the dialectic of the unconscious. 
+D)	Hegel provides a basis for criticizing contemporary psychoanal ysis. 
+1)	Yet it would be wrong to accuse me of being lured by his dialectic of being, 
+a)	for I find desire to be irreducible to demand or need. 
+2)	Precisely because desire is articulated it remains inarticulable. 
+D)	A simplified graph (I) illustrates the topological structure showing how desire is related to a subject defined by its articulation through the signifier. 
+E)	The graph's "elementary cell" shows the anchoring point by which the signifier stops the sliding of signification. 
+1)	The diachronic sentence which is thus anchored completes its meaning retroactively. 
+
+SUBVERSION OF SUBJECT AND DIALECTIC OF DESIRE 
+381 
+2)	The synchronic structure of metaphor is more hidden. 
+a)	It is apparent in the child's song that raises sounds which serve as signs to the level of signifiers. 
+B)	The two points of intersection (on Graph II) show the role of the Other. 
+1)	The intersection point a is the place of the treasure 
+of the signifiers, 
+a)	the synchronic ensemble of reciprocally opposed 
+phonemes. 
+2)	The intersection point s(O) can be designated the punctuation whereby the articulated' meaning' is completed. 
+3)	Both participate in the gap in the real: 
+a)	the first as a concealed hollow, 
+b)	the second as "boring-hole" for escape (in articulation). 
+C)	The submission of the subject to the signifier is shown in the circular movement between these two points. 
+1)	Assertions are circular insofar as they cannot be grounded outside of themselves in the certitude of an action. 
+a. They refer only to their own anticipated meaning. 
+2)	The subject rr;ust subtract himself from this circle and function as a lack 
+a. while remaining dependent on it. 
+D)	The Other is the pre-given "site of the pure subject of the signifier." 
+1)	It holds the master position, 
+a)	determining all codes. 
+b)	It is from here that the subject receives the message which he emits and whereby he is constituted. 
+2)	The Other constitutes the place of speech and is Truth's witness. 
+
+382 
+LACAN AND LANGUAGE 
+a)	Without this dimension, verbal deception could not be distinguished from the imaginary pretense of animals, 
+i. who can present the hunter with a false start, ii. but cannot pretend to pretend. 
+b)	Speech is possible only in the signifying realm, beyond "pretense." 
+c)	This requires the locus of the Other as thirdparty witness to the speakers, 
+ii. thus making lying possible. 
+3)	Truth draws its guarantee not from Reality but from Speech. 
+V)	The first words spoken are a decree conferring authority on the real other. 
+W)	The emblem of symbolic identification is the "unbroken line" joining S to 1(0), the castrated subject to the ego ideal. 
+1)	This line fills out the invisible mark that the subject receives from the signifier. 
+2)	This line separates the subject from himself in his ego ideal as first identification, 
+a)	for it establishes a retroactive effect by which he announces himself only in terms of what he will have been, 
+b)	and his self-certainty lies in meeting his anticipated mirror image. 
+3)	This process installs the ambiguity of a misunderstanding that is an essential aspect of understanding myself. 
+B)	The ego as originating in the mirror stage is counterposed to the American notion of the "autonomous ego." 
+1)	The narcissistic mirror image tinges with hostility the objects reflected in the mirror. 
+2)	The mirror image becomes the idealized ego, 
+a)	established as a function of mastery, martial bearing, and rivalry. 
+
+SUBVERSION OF SUBJECT AND DIALECTIC OF DESIRE 
+383 
+3)	In its alienating identifications the ego's consciousness is based outside of itself. 
+4)	The ego achieves itself by being articulated not as the speaking I, but as the displacement of its meanmg, 
+a)	that is, only opaquely as shifter, 
+b)	despite the deceptive emphasis on the self-consciousness of the acting I. 
+5)	The ego is the source of aggressivity toward one's counterpart in the master-slave relation. 
+C)	The master-slave struggle is one of pure prestige. 
+1 .. Its stake, life itself, echoes 'the danger of our specif!c prematurity at birth, 
+a. which is the dynamic basis of specular capture. 
+2)	The pact that defines the relation of master and slave requires that the loser not perish, 
+a)	thus showing that the pact precedes the violence, b. and that "the symbolic dominates the imaginary." 
+3)	Murder is not the absolute Master, 
+a)	for we must distinguish between physical death, b. and the death brought about in language. 
+4)	We have repressed the truth of the cunning of reason, 
+a)	whose lure makes us think the slave's work and renunci1ation of Jouissance through fear of death is his way to freedom. 
+b)	In fact the slave's Jouissance lies in waiting for the master's death, 
+c)	for the obsessional installs himself in the place of the Other. 
+D)	Philosophers must take seriously Freud's views on deSIre. 
+1)	They should not be misled by current psychoanalytic practice 
+a)	which wrongly emphasizes demand and frustration 
+
+384 
+LACAN AND LANGUAGE 
+b)	and reduces what Freud discovered to repressed wishes. 
+2)	Demand introduces incompatibility into needs, 
+a)	for every demand must "pass through the defiles of the signifier." 
+3)	Man's dependence is maintained by a universe of language, 
+a)	whereby needs have passed into the register of desire. 
+4)	Even the sexual function bears the mark of an unnatural split. 
+VI. The coordinates of the Oedipus complex come down to the question: "What is a Father?" 
+A)	For Freud it is the dead Father. 
+1)	Lacan considers this in terms of "The Name-of-theFather," 
+a)	calling attention to the paternal function, 
+b)	which is not a cultural-anthropological notion, as some analysts believe. 
+2)	We embark from the notion of the Other as the place of the signifier. 
+a)	No authoritative statement can find a guarantee outside of itself, 
+b)	and we look in vain for another signifier outside of this place, for a "metalanguage," 
+c. for "there is no Other of the Other." 
+3)	The Law's authority is represented by the Father. 
+a)	We must specify how he becomes present beyond the Mother, who really occupies the place of the Other. 
+b)	Rather than focusing on demand as a request for love, we concentrate on desire, 
+c)	for man's desire finds form as desire of the Other. 
+G)	By representing need, man's subjective opacity produces the substance of desire. 
+
+SUBVERSION OF SUBJECT AND DIALECTIC OF DESIRE 
+385 
+A)	Desire is outlined in the margin where demand separates itself from need. 
+1)	Demand is characterized by an unconditional ap- 
+peal to the Other, 
+a)	thereby introducing anxiety insofar as desire 
+	cannot be satisfied, 	_ 
+b)	as well as introducing the phantom of the Other's 
+omnipotence. 
+2)	This phantasm of the Other's omnipotence must be 
+checked by the mediation of the Law. 
+3)	This mediation origina~es in desire's reversal of the unconditional demand for l<>ve, 
+~ a. which keeps the subject in subjection to the Other, \ b. and through this reversal desire instead becomes 
+	absolute and detached. 	I 
+4)	Control over anxiety and detachment from the Other is achieved by means of the transitional ob- 
+ject. 
+a)	This object functions as an emblem, a "represen- 
+tation of a representation," 
+b)	with a place in the unconscious structure of the 
+phantasm as cause of desire. 
+B)	In relation to desire, it is not so much that man doesn't know what he demands, but where he desires. 
+1)	The "unconscious is [ the] discourse of the Other," a. insofar a, it is from the Other. 
+2)	"Desire is ... the desire of the Other," 
+a. insofar as it is as Other that man desires. 
+3)	The best path to the subject's own desire is the question of the Other, "What do you want?", 
+a)	provided he reformulates it in analysis as "What does the analyst want of me?" 
+4)	The subject comes to see that what he desires is also 
+what he denies. 
+a)	This negation reveals the meconnaissance whereby 
+the subject transfers the permanence of his desire to an intermittent ego, 
+
+386 
+LACAN AND LANGUAGE 
+----\ b. and in turn protects himself from his desire by attributing this intermittent quality to it. 
+C)	In analysis we link the structure of the fantasy to the condition of an object. 
+1)	In the structure of the unconscious fantasy (~Oo) the subject is eclipsed. 
+a)	This "fading" is linked to the subject's condition as split by his subordination to the signifier. 
+2)	The fantasy structures desire just as the image of the body structures the ego. 
+3)	The fantasy is the "stuff" of the I as primordially repressed, 
+a)	because in the "fading' of discourse the I can only be indicated, not signified. 
+D)	We now turn to the signifying chain in its unconscious status. 
+1)	We have been asking about what supports the subject of the unconscious, 
+a)	since it is difficult to designate him as speaking subject of a statement 
+i. when he doesn't even know that he speaks. 
+2)	Hence arises the concept of drive as an organic registration all the more removed from speaking the more he speaks. 
+3)	Drive (~OD) can be situated in relation to the treasure of the signifiers (S[q)]) and linked with diachronic articulation in demand. 
+a)	It is what comes to pass from demand when the subject vanishes there. 
+4)	Demand too disappears but the cut (coupure) remaIns, 
+a)	for the cut distinguishes the 'drive from the physical function it inhabits. 
+b)	This cut is the drive's "grammatical artifice" as seen in the reversions of the drive's articulation to its source as to its objects. 
+
+SUBVERSION OF SUBJECT AND DIALECTIC OF DESIRE 
+387 
+E)	The "erogenous zone" is what the drive isolates from the metabolism of the organic function. 
+1)	The erogenous zone is delimited by a cut that is supported by the anatomical trait of a border-lip, rim, tip, etc. 
+2)	This trait of a cut is also evidept in the part-objects described in analytic theory, 
+a. but they are partial 
+i. not in relation to the whole body 
+•ii. but to the function that produces them (the drive-fantasy that structures desire). /-~ 3. These objects have no alterity, 
+	\ 	'a. that is, they can't be seen in the mirror as par- 
+tial. 
+b)	This allows them to function as the "stuff" or lining of the subject of consciousness, 
+c)	who cannot arrive at himself by designating himself in his statement. 
+4)	It is this "invisible" object that receives a shadowsubstance from the reflection in the mirror. 
+VIII. The drive-fantasy that structures desire is an unconscious enunciation. 
+A)	This unconscious enunciation loops back on the signifier of a lack in the Other: S(q). 
+1)	This lack is intrinsic to its function as "treasure of the signifier." 
+2)	The Other must answer for the value of this treas- 
+ure, 
+a)	by responding from its place in the lower (verbal) chain, 
+b)	as well as in the unconscious signification constituting the upper chain. 
+3)	This lack is formulated as: "There is no Other of the Other." 
+a)	This implies nothing about a transcendent Other of religion. 
+
+388 
+LACAN AND LANGUAGE 
+B)	The lack in the Other parallels a lack in the I. 
+1)	A signifier is what represents the subject for another signifier. 
+a)	The signifier of the Other-as-Iack, S((j), therefore, stands for the finite other to whom the subject is represented by all other signifiers. 
+b)	Remove this signifier of the ensemble of the Other's treasure, and all the other signifiers would represent nothing. 
+c)	Since the ensemble of signifiers forms a complete battery, this signifier cannot be outside the ensemble but is only a line ( - 1) inherent in the ensemble. 
+d)	Although this signifier cannot be pronounced, its effects are present whenever a proper noun is spoken. 
+2)	An algebraic transformation of this signifier's role in discourse yields the algorithm of the subject's lack in signification: 1-= 1 . 
+a)	This is the unthinkable aspect of the subject, 
+b)	present as "defective in the sea of proper nouns," c. and whose origin is problematic. 
+3 . We cannot question the subject as I for he does not know if he exists, 
+a)	since the word "I" can designate, with equal rigor, the dreamer or dead man dreamt. 
+b)	The Other's existence, however, can be demonstrated in love. 
+4)	The place of I is the place ofjouissance, a. whose constriction enervates Being, 
+b, and whose absence makes everything empty. 
+c)	Its lack makes the Other incomplete. 
+d)	We tend to believe it is usually forbidden to us because of the defect of the Other or because of original sin. 
+
+SUBVERSION OF SUBJECT AND DIALECTIC OF DESIRE 
+389 
+IX .. What Freud teaches regarding the castration complex is no myth. 
+A)	In this complex lies the basis of the subversion that we 
+are attempting to articulate. 
+1)	Freud's discovery of the castration complex cannot be ignored by any thinking abo1J.t the subject. 
+a)	Contemporary psychoanalysis, however, makes use of it to avoid any thinking about it, 
+b)	and thereby has become subservient to general 
+psychology . 
+2, This bone of contention which structures the subject 
+has been avoided by all thought. 
+This is why we lead our students over the disconcerting terrain of the disjunction between the imag- 
+inary and the symbolic. 
+B)	The notion of mana is not equivalent to the signifier of 
+the lack in the Other, S((j). 
+1)	This signifier is not founded in the inadequacy of 
+society, 
+a)	nor is it equivalent to Levi-Strauss' notion of 
+zero symbol. 
+2)	It signifies, rather, what is lacking to this zero symbol, 
+a)	and can be written as ~- -= -1 , 
+b. or as the "i" in the theory of complex numbers. 
+C)	What we must hold to is that jouissance is prohibited to the speaker as such. 
+1)	It can be spoken only between the lines for one who 
+is subject to the Law, 
+a)	since the Law grounds itself in this very prohibi- 
+tion. 
+2. The Law itself does not bar the subject from jouis- 
+~3. 
+'-- 
+sance, 
+a. but it does create a barred subject. 
+3)	Concrete pleasure sets limits to jouissance, 
+a)	until pleasure, in turn, is structured by the laws 
+of primary process. 
+
+390 
+LACAN AND LANGUAGE 
+4)	In his notion of the "pleasure principle" Freud was not merely echoing a traditional idea, 
+a)	otherwise his notion of the castration complex would not have been spurned. 
+b. For this anomalous idea indicates the infinity of jouissance that comports the mark of its prohibition, 
+c. a mark that involves the sacrifice of the phallus. 
+D)	The phallus is chosen as symbol of this sacrifice, 
+1)	because the image of the penis as detachable denotes negativity in the specular image. 
+2)	We must distinguish between symbolic castration as principle of sacrifice, 
+a. and the imaginary castration that veils it. 
+E)	The imaginary function presides over the narcissistic investment of objects. 
+1)	The specular image is invested in this way by the transfusion of the body's libido, 
+a)	but part of it remains focuse~ on the penis, 
+b)	giving rise to the fantasy of its detachability, c. and of part-objects. 
+F)	The erect penis symbolizes the place of jouissance, 
+1)	not as an image or physical organ, 
+a. but as what the desired image lacks. 
+2)	Thus the erectile organ is equivalent to the algorithm )~ -1. 
+3)	The erectile organ knots the prohibition of jouissance not as imaginary form but as symbolic structure, 
+a)	with the consequence that lust is reduced to the brevity of auto-eroticism. 
+4)	The lineaments of the body offer a path to wisdom for some, 
+a)	but Freud does not promote a technique of the body. 
+b)	Otherwise analytic practice would not induce guilt, 
+
+SUBVERSION OF SUBJECT AND DIALECTIC OF DESIRE 
+391 
+c)	which appears in the contrast between auto-eroticism and desire. 
+G)	The passage from the imaginary to the symbolic is here indicated. 
+1. The imaginary absent phallus ( - ct» becomes the 
+	. 	/' 
+symbolIc phallus (<1», 
+a)	signifier of the lack in the Other b. which cannot be negated. 
+X)	The structure of unconscious fantasy sheds light on perversion and neurosis. 
+Y)	Perversion emphasizes the function of desire in the man . 
+. ~ 1. In, the case of perversion in the man, dominance 
+	I / 	\ comes to occupy the place of jouissance, 
+a)	dominance over the object ° of the fantasy that he substitutes for the lack in the Other: S(0). 
+2)	Perversion adds to it the imaginary phaVus (ct» which involves the Other in a particular way, 
+a. whereby the subject becomes the tool of the Oth- 
+, .. 
+er s )OUlSSance. 
+B)	In the neurotic there is an identification of <I> and D, of the Other's lack and his demand. 
+1)	Therefore the demand of the Other takes on the function of object in his fantasy, 
+a. so that his fantasy is reduced to the drive (5 OD). 
+2)	This emphasis given by the neurotic to demand hides his anxiety about the desire of the Other. 
+a)	We see anxiety clearly when it is covered by the phobic object. 
+3)	If we understand the fantasy as desire of the Other we can also understand the anxiety of the hysteric and the obsessional. 
+a)	The obsessional denies the desire of the Other by structuring his fantasy so that he emphasizes the impossibility of vanishing as subject. 
+b)	The obsessional has a basic need to stand in the place of the Other. 
+
+392 
+LACAN AND LANGUAGE 
+SUBVERSION OF SUBJECT AND DIALECTIC OF DESIRE 
+393 
+b)	In the case of the hysteric, desire is maintained by the dissatisfaction introduced when he conceals himself as object, 
+i. ,as evidenced in the denial present in hysterical intrigue. 
+C)	The neurotic's fantasy includes the idealized Father as Image. 
+1)	He stands beyond the Mother, the real Other of demand, 
+a)	for the subject wishes she would abate her desire, b. and wants a Father who can ignore desire. 
+2)	This fantasy calls attention to the Father's true function, 
+a)	which is not to oppose but to unite a desire with the Law. 
+3)	The Father sought by the neurotic is therefore the dead Father, 
+a)	who would perfectly master his desire, b. for this is what the subject~seeks. 
+4)	The analyst must show a calculated variability in his neutrality, 
+a)	and preserve the imaginary dimension of his necessary imperfection through his ignorance of the case, 
+b. or else the transference may be interminable. 
+D)	In perversion the subject imagines he is the Other to guarantee his Jouissance. 
+1)	But in perversion desire is a defense setting a limit on )OUlSSance. 
+2)	The neurotic imagines himself to be a pervert to make sure of the existence of the Other. 
+a)	This pretended perversion lies in the neurotic's unconscious as fantasy of the Other. 
+V)	The structure of the fantasy (S 00) contains the imaginary function of castration ( - ¢). 
+1)	This function is hidden and alternatively makes imaginary one or the other of the terms of the unconscious fantasy. 
+2)	A woman's clothing, veiling the absence of the penis, transforms her into the phallus, the object of desire. 
+3)	Because Socrates does not show his penis to Alcibiades, he becomes castrated in fantasy, 
+a)	and thereby can be the phallus. 
+b)	But Socrates sees that Alcibiades perceives his desired object as castrated, and so directs the fo- 
+		~ 		eus to the handsome Agathon. 
+		/ 	F.\ In the neurotic the - ¢ slips under the S of the uncon- 
+	( 		scious fantasy. 
+1)	This, reinforces the imagination proper to it, that of the ego, 
+a)	for the neurotic's lifelong imaginary castration supports this strong ego. 
+b)	It is beneath this ego that the neurotic covers the castration that he denies but clings to. 
+2)	The neurotic refuses to sacrifice his castration to the Jouissance of the Other who, he thinks, would be served by it. 
+a)	He wants to preserve his difference as a wantto-be, 
+b)	while imagining that the Other demands his castration. 
+G)	Castration in all cases regulates desire - normal or abnormal. 
+1)	By oscillating between the Sand 0 of the fantasy, castration turns it into a supple unconscious chain, 
+a)	whose fantasized object guarantees the Jouissance of the Other, 
+b. which transmits this chain to me in the Law. 
+2)	To confront the Other is to experience not only his demand but his will. 
+~ 
+
+394 
+LACAN AND LANGUAGE 
+a)	In response one can become an object or a mummy, 
+b)	Or one can fulfill the will to castration inscribed in the Other. 
+c)	The extreme form of this is the hero's narcissistic death for a lost cause. 
+3. Castration means that jouissance must be denied. 
+NOTES TO THE TEXT 
+293c1794 The phrase, "a subject of science" (un sujet de la science) refers to the scientist. 
+293e1794 Instead of "while presenting no danger to the praxis itself," we translate "while not being without danger for the practice itself" (pour netre sans danger pour la praxis elle-mbne). 
+293i1795 "At a second stage" (De second temps) suggests that general psychology is an offshoot of the broader field of general science just discuss,ed. 
+294c/795 Rather than "We must take as our standard here the idea" for Il faut ici prendre etalon de l'idee, we translate: 
+"We must here take stock of the idea." Lacan goes on to show that the notion of "state of knowledge" is not a standard for thought. 
+294e1795 Hegel's Aufhebung was briefly defined earlier (see note 46f)• For an extended discussion, the reader is referred to Lauer's treatment of negation (1976, pp. 29, 35ff.) and to Hyppolite (1946, pp. 13-15). 
+The word "noophoric" implies bearing or begetting understanding. 
+294h1795 A simple misprint in the English has "hynoid" instead of "hypnoid" (hypnoi'des). The meaning of "fruitful moments" is unclear; it may have to do with the way the ego in paranoiac knowledge projects its own attributes onto things (as discussed earlier [1977, p. 17/111]). 
+
+295a1796 
+295e1796 
+295]1796 
+295g1797 
+~ 
+~1797 
+296e1798 
+297e1799 
+SUBVERSION OF SUBJECT AND DIALECTIC OF DESIRE 
+395 
+The phrase "it says why" (il dise pourquoi) suggests the familiar discourse of the child. 
+Freud's reference to Copernicus was discussed earlier (see note 165d/516). 
+After Copernicus the privilege is not "consigned to it," referring back to "our subject" of the preceding paragraph, but is, on the confrary, "excluded" from it (retegue), namely, the privilege of having the earth in the central place. 
+The ecliptic is the circle cut out by the plane containing the orbit of the earth around the sun, which is inclined to the plane of the equator by an angle of approximately 23°. 
+The title of Copernicus' famous work is De revolutionibus orbium coelestium ("On the Revolutions of Heavenly Spheres"). The "ellipse" suggests the shape of the graphs that follow in Lacan's text. 
+The doctrine of double truth was a theological vehicle aimed at preserving the "truth" of a literal reading of the scriptures while acknowledging the "truth" of 
+. the findings of the science of astronomy. 
+The Scholastic "antinomy" is unclear; perhaps it has to do with the relationship between esse and essentia, the principle of "existence" whereby a being exists and that of "essence" whereby it has a determinate structure. Lacan interprets Hegel as viewing such a distinction as spurious. 
+Rather than "the suspension of a corpus of knowledge," we translate suspension d'un savoir as "the suspension of knowing," a mere interruption on the dialectical path to absolute knowing. The allusion to Freud's title, with single quotation marks in the English highlighting "discontents of civilization," varies from the French which has simply malaise de la civilization ("the discontentment of civilization") without quotation marks. 
+/ 
+
+396 
+LACAN AND LANGUAGE 
+297]/799 The "judicial astrology in which the psychologist dabbles" appears to refer to a predictive psychology that makes judgments of people. 
+Lacan's reference to Aquinas is puzzling, for Aquinas, as far as we know, does not use the word inconscius. He does speak, from time to time, about one who is not conscious (non conscius) of something and about beings that lack cognition (non cognoscentia), but such usage simply denotes the negation of conscious knowledge. 
+The "protopathic" is related to cutaneous sensory reception that is responsive only to gross stimuli. 297 g/799 The French for "breaks" is coupures ("cuts"), a word that will receive repeated emphasis in the essay. 
+298a/799 Geneva and Petrograd refer, respectively, to the work of Saussure and J akobson. For a succinct and remarkably lucid history of modern linguistics, see Jakobson (1973). 
+299a/800 The example of equivocatioh involved here was used earlier by Lacan (1977, p. 269/634). The French for "from which I eye them" is dont je les toise, continuing the play of words. 
+299d/801 In Heidegger Being'spresencing comes to pass through Dasein's openness to the Being of beings. 
+29ge/801 Rather than "There the subject that interests us is surprised," we translate "There the subject who is of interest to us catches himself" ("La se surprend Ie sujet qui nous interesse"). 
+The "sign of the pre-conscious" appears to refer to the way latent significations appear in homophonic resonances (as exemplified in the example of tue). 
+Rather than "if the session itself were not instituted" for si la seance elle-meme ne s'instituait, we take the ne not as a negative but as denoting emphasis (in the mode Lacan has just exemplified on p. 298e/800) 
+
+SUBVERSION OF SUBJECT AND DIALECTIC OF DESIRE 
+397 
+and therefore translate, "if the session itself were instituted." 
+Mallarme's metaphor of the worn coin was alluded to in the "Discourse at Rome" (1977, p. 43g/ 251). 
+299]/801 Instead of "by making 'holes' in the meaning of the determinants of its discourse," the translation should read "by making holes in meaning the determinants of its discourse" ("a faire des trous du sens les determinants de son discours"). 
+300cl801 For the double sense of the imperfect tense in French, ~ see Guillaume (1968). It should be remarked that I Lacan's tortured version of the future sense of the 
+imperfect (ily etait d'avoir puy hre [1966, p. 840]) admits of rio convenient counterpart in English. Colloquial English would accept a future imperfect such as "another minute and I was dead," but this is at best a hasty abbreviation of what in formal English would be " ... I would have been dead." This raises the question as to whether Freud's German war has any more flexibility than the English "was," and if not, whether Lacan is interpreting Freud here by saying (however ingeniously) what Freud did not say, perhaps could not say. If this turned out to be the case, the implications for Lacan's entire hermeneutic of Freud would be far-reaching. 
+The French does not have quotes around 1. 
+Freud's relevant text in German reads: "das der Vater doch schon gestorben war und es nur nicht wusste" (1911b, p. 238). Lacan's sentence, "He did not know 
+that he was dead," is therefore a paraphrase of the text in Freud (1911a), which presents the dream as follows: "his father was alive once more and he was talking to him in his usual way. But he felt it exceedingly painful that his father had really died, only without knowing it" (p. 225). Freud interpolates "that 
+300e-i/ 802 
+
+398 
+LACAN AND LANGUAGE 
+his father had really died" (as the dreamer wished) and "without knowing it" (that the dreamer wished it). Lacan is comparing the status of the father as dead subject with the status of the dreamer as subject of the unconscious. The dead father achieves presence in the words of the dreamer while the "I" of the dreamer necessarily recedes from the dream's discourse and therefore undergoes a kind of death "there where it was" (la au c'etait); between the place of unconscious desire (for the death of the father) and the enunciation of the dream, 1 fade. 
+301b/802 This sentence should read: "And to show that there is no firmer root [for the distinction between the Freudian and Hegelian subjects and their relation to knowing] than the modes in which the dialectic of desire becomes conspicuous" ("Et qu'il n'en est pas de plus sure racine que les modes dont s'y distingue la dialectique du desir"). 
+301h/803 The "margin beyond life" assured by language (Ie langage) would seem to refer to~the way the symbolic order dominates and structures human existence, from the name and kinship relation present before birth to the gravesite, legends, and judgments that follow one after death. The theme is a repeated one (1977, p. 68/279), but here specific attention is drawn to the way in which body parts can serve as signifiers (that is, go beyond their function in the living body), with the phallus as preeminent signifier with which the body as a whole comes to be identified and which also functions "as that in which being is at stake" (comme enjeu de l'etre). 
+301 i/803 The French word derive means "drift" or "leeway" and is related to derivation, literally a "de-banking," which was discussed earlier (in note 259h/623). 
+302d/804 To be more precise, the French text reads "the real of the body and of the imaginary of its mental schema" 
+
+SUBVERSION OF SUBJECT AND DIALECTIC OF DESIRE 
+399 
+("Ie reel du corps et de l'imaginaire de son schema mental"). 
+303b/805 We do not pretend to have an exact comprehension of these graphs as they grow in complexity. What begins here as a relatively intelligible presentation of the structure of the speaking subject becomes multileveled, as Lacan introduces the discoursing ego (p. 306/808), the unconscious fantasy (p. 313/815), and the discourse of drive in neurosis (p. 315/817). The many arrows and shifts in direction suggest how the subject' is channeled in criss-cross fashion among these many levels and between the various poles at 
+~ach level (ego [e] and specular image [i(o)], diachroI ny [s(O)] and synchrony [0], the unconscious fantasy [S 00] and desire [d], the Other as lacking [S( (]»)] and drive [SOD]). We shall attempt to say something about each of these terms as they come up in the text, though here, even more than elsewhere, a satisfactory explanation of their import must await the publication of the seminars in which these formulas were developed. The reader's attention is called to the comments of the French editor on these graphs (1977, pp. 334-335/907-908). 
+With respect to the symbol (~), Pontalis (1958) describes it as "that by which the human subject, in its essence as problematic subject, is situated in a certain relationship with the signifier" (p. 253). 
+303c1805 Wilden (1968, p. 275) argues that this "retroactive effect" is what Lacan means by the subject receiving his own message back from the Other in inverted form. Lacan seems to confirm this: "it is from the Other that the subject receives even the message that he emits" (1977, p. 305b/807). 
+304b/806 The "four-cornered game" echoes the earlier use of bridge to illustrate the relation of subject to analyst (1977, p. 229-230/589-590) and also echoes the structure of schemas L (p. 193/548) and R (p. 197/ 553). This raises the question whether we have to in- 
+
+400 
+LACAN AND LANGUAGE 
+elude in these graphs a dialogue in process (i.e., between two subjects) "if the subsequent construction must be dependent on it." 
+304c1806 Since the signifier's treasure appears to lie in its phonemic structure as reciprocally distinctive features, and the code is limited to "the univocal correspondence of a sign with something," it seems inappropriate to speak of "the code's treasure"; the French text allows us to translate instead "the locus of the signifier's treasure, which does not mean [the locus] of the code" ("Ie lieu du tresor du signifiant, ce qui ne veut pas dire du code"). 
+304e/806 Lacan elsewhere (1959) speaks of the "hole in the real" caused by the death of another (pp. 37-38). We recall, again, that language is "the murder of the thing" (1977, p. 104/319), since the brute facticity of objects is negated by words where objects come to have a presence in absence, a presence that is hidden in the synchronic ensemble of the storehouse of language, but is expressed in articulated diachronic speech in which desire is channeled from lack to substitute objects. 
+304g-h/ Lacan seems to be saying that the previous topology 806 of the square, in which subject is related to the Other, must be modified ("such a squaring is impossible"), since we must subtract the subject from his discourse and therefore the more appropriate notation is "the barred subject" (55), while the emphasis shifts to the structure of the self-referential discourse (expressed in the various loops of the graphs). 
+305a/807 Rather than "and to make it function as a lack" for et ny faire fonction que de manque, we translate "and to only function there as a lack," referring to the subject's role in the signifying battery. 
+305b/807 Hegel uses the phrase "the absolute Master" when discussing the slave's experience of the fear of death: "denn es hat die Furcht des Todes, des absoluten 
+SUBVERSION OF SUBJECT AND DIALECTIC OF DESIRE 
+401 
+
+
+305c1807 
+305d/807 
+306b307c1 808-809 
+Herrn, empfunden" (1807b, p. 148; 1807a, p. 237). 
+In coming close to death, the slave experiences the true nature of self-consciousness as absolute negativity. Lacan here puts the symbolic order, as affording 
+a "margin beyond life" (see the earlier note 301h/803), 
+in a place prior to death and operative in death. The symbolic order as Other is not reducible to a code and is the foundation for the message which constitutes the subject. The English is misleading: rather than "in the message, since it is from this code that the subject is constituted," we translate "in the message, since it is from it that the subject is constituted" ("dans Ie message, puisque c'est de lui que Ie sujet se constitue"). The notation "0" would then represent the Other as synchronic system, while "s(O)" would be the articulated, diachronic message, with the arrows in Graph II (1977, p. 306/808) suggesting the circular movement between them, i.e., that articulated sentences borrow words from the storehouse of Janguage and "that it is from the Other that the subject receives even the message that he emits." The dominant position of the symbolic order is emphasized again when Lacan goes on to discuss the 
+master-slave dialectic in more detail (p. 308/810). The reference is to Lacan's earlier essay on Schreber 
+(1977, pp. 184-187/537-540). 
+Pretending to pretend is illustrated by Freud's joke, 
+mentioned by Lacan (1977, p. 173b/525). 
+In grappling with this passage, we can try to make tentative sense in the following way. Just as the child's first words in the Fort! Da! moment lead to separation from the mother, the "first words spoken" here appear to be the mother's words conferring a sym- 
+bolic identification upon the infant through naming. The trait una ire we take to be a scratch mark or line observed on prehistoric artifacts, which functions as an inchoative signifier opening up all the potentiali- 
+
+402 
+307d/809 
+LACAN AND LANGUAGE 
+ties of the symbolic order, making possible primary repression, and differentiating the subject from objects by mediating his relationships to them. (In a later seminar [1964] Lacan refers to notch marks used to count kills [po 141 D. The mother's act of naming achieves inchoative differentiation of mother and child and puts in place the ego ideal as the primary symbolic identification. Since all naming and symbolic identification is a function of the Law of the Father (the law oflanguage), this earliest moment in which the "first words" are spoken involves an eventual barring of the subject, and acknowledgment of a lack in both mother and infant, and a kind of anticipated castration (see the discussion of the "paternal metaphor" in Chapter 6, specifically note 199i/557). The trait unaire, then, would be a foreshadowing of symbolic castration (trait is repeated later in the context of the Other-as-lacking [1977, p. 316f-g/819D. It is the observable mark that "fills out" (cambler), i.e., gives form to, "the invisi~le mark the subject derives from the signifier," i.e., the mark of primary represSIOn. 
+Once the mirror stage is entered, the ego ideal (taken here to refer to primary symbolic identification) is overlaid by the ideal ego (mai ideal), that "function of mastery" that develops from the narcissistic identification with the reflected specular image (as discussed earlier in Chapters 1 and 2). 
+Lacan now adds to the graph the structure of the discoursing ego. The imaginary identification with the image of the other (i[ aD leads to the development of the ego (e), and this process of ego development is "doubly articulated" - first in an aborted manner (the "short circuit" from S to 1[0], pertaining to the primary symbolic identification), second as excluded from articulated speech (the relation between dia- 
+
+308b/810 
+308d-e/ 810 
+308f/ 810-811 
+SUBVERSION OF SUBJECT AND DIALECTIC OF DESIRE 
+403 
+chrony [s(O)] and synchrony [0]). The ego is not present in articulated speech as the I who speaks but rather is associated to the I who speaks by a kind of displacement, hence as the "metonymy of its signification." Earlier the ego was called "the metonymy of desire" (see note 274g/640), which is channeled in signification. 
+The work of Damourette and Pichon (19111940) is an exhaustive study of the expression of negation in French. 
+Rather than "this initial enslavement ... of the 'roads to freedom,' "we prefer to translate, "[T]his enslavement ushering in the ways of freedom" ("Cette servitude inaugurale des chemins de la liberte'). The irony suggested by the translator's use of single quotes does not appear warranted in our text. The structuring of the imaginary order appears quite necessary before full entrance into the symbolic order is possible. 
+The scenario for the master-slave dialectic, the reciprocal roles of master and slave, is prescripted in the symbolic order, which has a dominant function over the imaginary struggle. We must therefore distinguish between physical death "which is brought by life" and the symbolic death "which brings life." The signifier is the murder of the thing; hence symbolic death is the symbolic castration requisite for participation in the symbolic order. 
+Hegel (1807a) writes: 
+In the master, the bondsman feels self-existence to be something external, an objective fact; [bu t] in fear [of death] self-existence is present within himself [i.e., in the slave]; in fashioning the thing [in work], self-existence comes to be felt explicitly as his own proper being, and he attains the consciousness that he himself exists in its own right and on its own account [po 239]. 
+
+404 
+30ge/811 
+310f/813 
+310g/813 
+311a/813 
+311g-k/ 814 
+LACAN AND LANGUAGE 
+The obsessional, who toils in anticipation of the master's death, does not achieve liberation in this way, for he installs himself in the master's place (in imagination), assumes a kind of immortality through outlasting him, and lives and works not in the present but in that anticipated future moment. 
+The French text does not say "repressed desires," but rather "repressed wishes" (des envies rentrees). 
+Rather than translating "artificially inseminating women who have broken the phallic bounds," we translate "artificially inseminating women in [by or through] rupturing the phallic order" ("d'inseminer artificiellement les femmes en rupture du ban phallique"). 
+Tragedy assumes a universe in which there is some kind of underlying harmony or order. In "Some Reflections on the Ego" (1951), Lacan wrote: 
+It may well be that the oedipus complex, the cornerstone of analysis, which plays so essential a part in normal p'sycho-social development, 
+, 
+represents in our culture the vestigial relics of 
+the relationships by means of which earlier communities were able for centuries to ensure the psychological mutual interdependence essential to the happiness of their members [po 17] . 
+The "gap" referred to in the English is that there is no Other of the Other; no one can presume to stand outside the symbolic order and have authority over it. Once again, a very tentative reformulation: Demand becomes separated from need in the margin of the "defiles of the signifier" (1977, p. 309/811), i.e., as articulated. In this margin desire takes .form as channeled and structured by the laws of language operative in the concrete statement of a demand. Demand is an appeal for unconditional love from the 
+
+SUBVERSION OF SUBJECT AND DIALECTIC OF DESIRE 
+405 
+Other. Embedded in this appeal is the articulation of desire, which has no universal object of satisfaction - and this condition of impossible satisfaction is called anxiety. Since the Other is addressed as capable of providing this satisfaction, the Other takes on a fantasized omnipotence vis-a.-vis the subject, which sets up the necessity (la necessite, woefully translated in this context as "the need") for its curbing by the Law. 
+The function of the Law ( of language) as mediation between subject and the omnipotent Other originates in desire (for desire presupposes the structure of primary repression, symbolic castration, and the "cut" or differentiating power of symbolic articulation). Desire then enables the subject to transcend "the unconditional nature of the demand for love, in which the subject remains in subjection to the Other" (as omnipotent) by raising this unconditional nature to the power of an "absolute" condition, that is, a de- 
+\~tached and differentiate? status. In its root meaning "absolute" (ab-solvere, "to loosen or to free") implies "detachment." Desire, then, comports a differentiation from the Other, initially achieved in the Fort.' Da.' moment (for the moment "in which desire becomes human is also that in which the child is born into language" [1977, p. 103/319]) bu~ prefigured by the transitional object, an object that is on its way toward becoming a signifier. 
+31~815 We are told that the «eke vuoi?" is taken from Diable amoureux (1772), a novel by the French author, Jacques Cazotte (1719-1792). 
+313c-d/ The English translation is misleading. Lacan com815-816 pletes the structure of the fantasy not by linking it to the condition of an object, but rather by linking in it the moment of a "fading" to the condition of an object: y liant ... a la condition d'un objet ... le moment d'un fading. The fading or barred subject is tied to an ob- 
+
+406 
+LACAN AND LANGUAGE 
+ject in fantasy (SOo), and this appears to serve as substitute object inciting desire (d), but incapable of satisfying it. 
+Regarding the sign (0) in the formula, Lacan comments on its meaning elsewhere (1977, p. 280, n. 26/634, n. 1). Clement (1981, pp. 206-207) provides a helpful interpretation of the poinfon (Lacan's symbol 0 that links the barred subject to the object a [0] and to demand [D]). She makes two points: first, that the poinfon ("stamp"), not unlike the mark on French coins that guarantees authenticity, is that feature of the subject's implication in his or her unconscious fantasy that marks it as his or her own, that "authenticates" the fantasy as mine. Second, she sees the symbol as a combination of the mathematical symbols for "less than" «) and "greater than" 
+(> ); such a combination, of course, is contradictory \ and thus the fantasy is marked as impossible. \ 
+313e1816 The French has a (for autre) in the formula. In terms of "the phonematic element," we wonder about a play on the letter a as first letter of the alphabet, as element of the Fort! DaI, etc. 
+314b/816 The graph indicates parallel levels, both participating in the imaginary register, wherein the specular image structures the ego in miconnaissance, i(o)-e, with a homologous relation wherein desire is regulated and disguised in the fantasy, d-(SOo). This completes the structure of the imaginary, "there where [not "and where"] the unconscious was itself' ("la ou s'etait l'inconscient"). 
+314c1816 Rather than "the grammatical 'I,' " the French text has "the grammatical ego" (Ie moi grammatical). In addition, there are no single quotes around the following I (de ceJe) that is primordially repressed (Primordialement reJoule). 
+314d/816 Our attention is now drawn to the unconscious signi- 
+
+SUBVERSION OF SUBJECT AND DIALECTIC OF DESIRE 
+407 
+fying chain (structured not by the imaginary but by the symbolic order): this is the uppermost level, S(0)- (80 D), paralleling the level of conscious discourse, s(O)-O. 
+314J- The following is, once more, highly tentative: The 316a/817- formula for drive (pulsion) expresses a relationship 818 between the barred subject and demand (SOD). For 
+the neurotic, Lacan tells us later (1977, p. 321/823), demand is identified with the lack in the Other; the signifier of this lack, taken abstractly, is S (0) while its concrete expression is CP, the symbolic phallus as signifier of the desire (hence lack) of the Other. The movement expressed in the topmost level of the com- 
+p!eted graph would then seem to be, in the neurotic: first, jouissance is necessarily lost when the signifier of the lack in the Other is installed in the symbolic order (unconscious to be sure) - that is, the Other is 
+accepted as castrated and the jouissance of imaginary symbiosis as impossible - and then this lack is assumed to be a demand in which the subject is impli" cated in fantasy, S(0)-(5; 0 D). For the neurotic, "the demand of the Other assumes the function of an object in his phantasy" - we recall the formula for fantasy is (5; 00) - and his fantasy, therefore, is "reduced to the drive (S 0 D)" (p. 321/823). 
+Since demand is a diachronic articulation, it has a temporal duration and "disappears." In saying, "I want, I must have ... " the neurotic is saying this in identification with the assumed lack in the Other (he is saying this in the place of the Other), and for him this demand is bound up with a part-object related to a bodily function. When Lacan states that "the cut remains," we take this to mean that the unconscious content of the drive in relation to body-part with which the subject is implicated remains structured 
+) 
+/ 
+
+408 
+LACAN AND LANGUAGE 
+316b-c1 818 
+linguistically, i.e., in an unconscious signifying manner. This is not to say that the part-object in the drive is a signifier (the signifiers are in the demand which expresses the drive), for it remains related to a bodily function. But the kind of bodily function relevant to drive, Lacan appears to be saying, is of a particular sort: it is marked by a cut, a pattern of opening and closing, a rhythmical discontinuity analogous to the gap that differentiates signifiers. It is this "cut" that "distinguishes the drive from the organic function it inhabits" and opens a place for the advent of a signifier. Conceived in this way (albeit vague to us at the present time), the part-object involves a lack which has "no specular image," i.e., is not governed by the processes of reflection indigenous to the imaginary order. The lack, moreover, is camouflaged by the image returned by the mirror, which serves to buttress the ego in a fictional manner. 
+The reference to Freud appears to be to his Three Essays on the Theory oj Sexuality (1905c), and to the variability among source, aim, and object in which "active" and "passive" modes are evident. 
+Since we have been translating repondre de as "answer for," we do not read "the Other is required ... to respond to the value of this treasure," but rather "the Other is required ... to answer for the value of this treasure" ("l'Autre est requis ... de repondre de la valeur de ce tresor"). An alternative reading is that the Other is required to respond from the value of "this treasure," i.e., from the place of the signifiers. We have seen that the Other (0), on the level of conscious articulation, is the ensemble of phonematic features (1977, p. 304/806); at the level of unconscious signification, the Other is also barred, correlatively with the lack inherent in symbolic castration that makes symbolic exchange possible, and is desig- 
+
+\ 
+SUBVERSION OF SUBJECT AND DIALECTIC OF DESIRE 
+409 
+/ 
+nated by the signifier of a lack in the Other: S(0). The Other without a lack is the fantasized complete Other present in psychosis or symbiotic Jouissance. The Other "answers for" the value of its treasure (the storehouse of language) by responding (de repondre) from its place not only in the conscious chain, but also in the chain of unconscious signification that structures drive. 
+In specifying the lack in the Other as "there is no Other of the Other," no claim is made about religious belief, for as analysts "We have to answer for no ultimate truth" ("Nous n'avons a repondre d'aucune verite derniere"). 
+) 316j- It is striking that the transposition into English of 317b/819 'Lacan's algorithm for the barred Other, S(~), should yield the symbol that in mathematical set theory represents the "empty"/"null" set: S(0), i.e., a 
+set which contains no members. Lacan's intention seems to be to designate a signifier for the universal set of signifiers that should itself be included within the set, because it is a signifier, and therefore cannot be taken out of the set to signify it lest the universal set thereby continue to expand. Such a signifier, then, must be somehow inside the universal set and conceived of as a lack ( - 1) within it. In this sense it is the complement of the universal set, i.e., an "empty," or "null," set. 
+While we cannot explore mathematical group theory here, the algebraic transformation is fairly straightforward. The statement (s) is equal to signifi- 
+er over signified ~ . Let S = - 1 (the signifier of lack 
+in the ensemble) in the case of a proper noun (the designator of symbolic identification which presupposes symbolic castration). By multiplying both 
+sides of the equation by ~ and cancelling, we get 
+
+410 
+317d-f/ 819 
+317h/820 
+318e/820 
+318g-h/ 821 
+LACAN AND LANGUAGE 
+s = ..J~ (whose denotation is i, an irrational or imaginary number). But what does this mean? It suggests to us that there is an unspeakable dimension inherent in the use of a proper name (as well as in the use of "I") such that it functions only by pointing or designating, not by reference to a meaning outside of itself: "Its statement equals its signification." Thus the speaking I, when speaking of itself, is never present in discourse as a substantive entity spoken about (in this sense it "fades" from the discourse). 
+For additional commentary on the phrase "a signifier is that which represents the subject for another signifier," see the section "The Primacy of the Signifier" in the linguistic dictionary by Ducrot and Todorov (1972, pp. 351-356). 
+The English translation's use of single quotes around I is absent in the French text, which repeatsJe [italics added]. The French text's a se garder, translated as "by protecting itself," includes the sense of "restricting itself." 
+The English "insubstantial" translates the French inconsistant, which has tHe sense of lacking in solidity or compactness. The meaning appears to be that contrary to the Other in psychosis that is unbarred, complete, and implicated in the Jouissance of symbiosis, the Other in the absence ofJouissance is not compact, full, whole, but marked by a lack - the barred Other. The question of the Other's existence ("if he existed") would appear then to refer to the fantasized, whole, and omnipotent Other. 
+Rather than "would spoil the secret," we translate ferait tomber le secret as "would push down the secret," i.e., render it inaccessible. 
+Regarding mana, Mehlman (1972a) writes: 
+Levi-Strauss's paradox is that whereas the linguistic totality (of meaning) must have'come in- 
+
+\ 
+/ 
+) 
+319b-cI 821 
+319d/821 
+SUBVERSION OF SUBJECT AND DIALECTIC OF DESIRE 
+411 
+to existence ( as structure) all at once, that which we know has been acquired progressively. With the irruption of language, the whole world began to take on meaning all at once, before anyone could know (connaitre) what the meaning was. "But, from the preceding analysis, it follows that it (the world) meant (a signifie), from the beginning, the totality of what humanity could expect to know of it." This dissymmetry between the synchronic (structural) nature of the meant and the diachronic nature of the known results in the existence of "an overabundance of signifier (signifiant) in relation to the signifies to which it might apply." And it is this "floating signifier," this "semantic function whose role is to allow symbolic thought to operate despite the contradiction inherent in it" which Levi-Strauss sees, in this elusive essay, as the reality of mana. It is "a symbol in the pure state," thus apt to be charged with any symbolic content: "symbolic value zero" [po 23]. 
+Lacan appears to be saying that S(0) signifies the lack inherent in mana or the zero symbol ("mais c'est plutot du signifiant du manque de ce symbole zero qu'il nous paralt s'agir en notre cas"). 
+The Jouissance is "no more than understood" as innuendo (sous-entendue), that is, as heard "between the lines." The symbolic castration that is prerequisite for entrance into the symbolic order makes direct access to Jouissance impossible. Therefore the Law can be said to be "grounded in this very prohibition" ("1 a Loi se fonde de cette interdiction me me") in the sense that it "founds itself" there where its impact appears. "Pleasure" is taken to mean the concrete (and therefore delimited) satisfaction found in bodily (or other) functioning of the living being. Pleasure sets limits 
+
+412 
+LACAN AND LANGUAGE 
+on jouissance but in turn pleasure is subjected to the regulation of the laws governing primary process, which are the laws of language (as Lacan has told us earlier [1977, p. 298/799]). 
+31ge/821 Thorndike's Law of Effect may be an example of the kind of course being pursued in Freud's time. 
+319f/822 The heteroclite (deviant or anomalous) nature of the castration complex which checked Freud gives an indication of the un-boundedness ofjouissance (not "of' but "in" [dans] its infinitude) which calls for (qui comporte) its own interdiction. 
+319g/822 The image of the penis is not "negativity" but "negatived" (negative) "in its place in the specular image." We take this to mean that the penis is imagined to be detachable from the image of the body (in imagina~. castration). The later reference to "phantasy of d crepitude" (fantasme de caducite) suggests the transitor detumescence that lends support to this detachability. The phallus, therefore, comes "to embody jouissance in the dialectic of desire" by representing what is missing, and therefore what is capable of completmg. 
+320a/822 One way to read this dense paragraph is to see the erectile organ, the part lacking in the desired image, as functioning like the lack present in signification (-)--=1) correlative with the fading of the subject, and like the lack inherent in the ensemble of signifiers ( - 1). The erectile organ promises a wholeness that would restore jouissance on the level of image as well as on the level of discourse - both impossible. 
+320b/822 The erectile organ's role is to knot (nouer) the interdiction of jouissance because as desired object that is lacking it comes to represent symbolic castration. It does this not for "these reasons of form" (ces raisons de forme), i.e., not on the level of the desired image, the 
+imaginary level, but insofar as these forms are super- 
+
+SUBVERSION OF SUBJECT AND DIALECTIC OF DESIRE 
+413 
+) 
+seded by symbolic structures. Once symbolic differentiation and exchange are established, jouissance that is lusted after (jouissance convoitee, misleadingly translated as "desired jouissancd') is reduced to an auto-erotic moment (presumably as in masturbation, suggested by the reference to the hand). Autoeroticism is then, in analysis, seen to be inadequate to desire (for desire presupposes the symbolic order, while auto-eroticism is a kind of turning away from it) and this inadequacy is referred to as guilt. 
+320e/823 The English "negated" translates the French negativer, the same verb used earlier which we translated as "negatived" (note 319g/822). The point seems to be that the symbolic phallus cannot be "detached" in the same way the image of the penis can be from the specular image: symbolic castration and imaginary castration are different. 
+320]/823 The French text suggests that the pervert sets up dominance concerning or with regard to the object a of his fantasy (dominance ... de ['objet a du fantasme). 
+321d/824 Instead of "conceals its anxiety from the desire of the Other," we translate "conceals his anxiety concerning the desire of the Other" (cache son angoisse du desir de ['Autre). 
+322d/825 The imaginary castration ( - cf» "imaginarizes" either the barred subject (S) or the object (0) when either of them is imagined to be castrated in the fantasy (S 00). "A complex number has the form (a + ib), where a, b are real numbers and i = .J~= I. It thus consists of a real part a and a pure imaginary part ib" (Considine, 1976, p. 632). 
+322e/825 The Greek word &yaAp..a has the meaning of "glory, delight, honour," or "pleasing gift" or "image," or "statue" as "an object of worship" (Liddell and Scott, 1897, p. 5). 
+In Plato's Symposium Alcibiades says: "Agathon, 
+
+414 
+LACAN AND LANGUAGE 
+~. 
+give me back some of those ribbons, will you? I want to crown Socrates' head as well- and a most extraordinary head it is" (p. 565). Later, he tries to seduce Socrates: 
+So I got up, and, without giving him a chance 
+to say a word, I wrapped my own cloak around him-for this was in the winter-and, creeping under his shabby old mantle, I took him in my arms and lay there all night with this godlike and extraordinary man - you can't deny that, either, Socrates. And after that he had the insolence, the infernal arrogance, to laugh at my youthful beauty and jeer at the one thing I was really proud of, gentlemen of the jury - I say )ury' because that's what you're here for, to try ( the man Socrates on the charge of arroganceand believe it, gentlemen, or believe it not, when I got up next morning I had no more slept with Socrates, within the meaning of the act, than if he'd been my father or an elder brother 
+[po 570]. 
+323e/826 
+The neurotic may be said to be someone without a name (un Sans-Nom) because he attempts to deny symbolic castration (the prerequisite for symbolic identification) by focusing on imaginary castration. It would be more consistent to translate si ... il existait, il en jouirait not "if. .. it did exist" but rather "if ... he did exist [i.e., the fantasized uncastrated Other ofjouissance], he [this Other] would enjoy it [one's own castration]." 
+323i/826 
+
+Afterword 
+Well, a rebus is a rebus is a rebus. What we have seen in these pages is a selection of texts, chosen by Lacan himself to introduce the English-speaking reader to his thought. Or should we not rather say to his style? For they convey, at least to us, less clearly an impression of what Lacan thinks than how. Allegedly, he is sharing with us through his Ecrits his own experience of how the unconscious works, and we are left with the task of interpreting these writings more or less as we would a dream, searching for a signification that insists in the web of signifiers he has spun rather than consists in any particular thing he has said. In other words, these ecrits offer us, like dreams for Freud, essentially a rebus. 
+This means that understanding them is not exactly guesswork but, nonetheless, a highly precarious business, and sharing our impressions with the reading public may be utter folly. After all, it exposes us to the embarrassment of being told how wrong we are, especially when the master's many disciples are there to say, "that's not what he meant at all." Yet we take this risk, for we feel that with the publication of this translation the 
+415

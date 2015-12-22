@@ -1,0 +1,45 @@
+The term "Nirvana," first suggested by Barbara Low and acknowledged and used by Freud, is intimately connected with the development of the concepts of the pleasure/unpleasure principle. The concept has a long history, and contributed to Freud's understanding of the infantile wish-fulfilling character of dreams.
+
+In Chapter Seven of The Interpretation of Dreams(1900a), in which Freud conceptualized the mental apparatus, he suggested that, to begin with, the apparatus is directed towards keeping itself as free from stimuli as possible in accordance with the "Principle of Constancy." This principle was already a basic assumption, and had appeared as such in many of Freud's earlier writings—for example in a letter to Josef Breuer (June 29, [1892] 1960a) and in various sections of Part One of the Project for a Scientific Psychology (1950c [1895]), through in quasi-neurological terms. But as Freud indicated in a footnote added in 1914 to the dream book, the concept is explored more fully in his paper on "The Two Principles of Mental Functioning" (1911b).
+
+The Lust/Unlust-pleasure/pain principle is described there as the governing purpose of the primary process. There is a continued striving towards gaining pleasure, and a retreat from anything that might arouse unpleasurable affect. It is precisely the latter that dreams seek to avoid: when the state of rest is disturbed by internal needs, an attempt is made to achieve satisfaction in a hallucinatory manner.
+
+With the emergence of the secondary process, reality is at least recognized, even when disagreeable; and the individual now must seek pleasure in accordance with what is possible in the circumstances in which they find themselves. To put the matter in energic terms: unpleasure was associated with a rise in excitation; pleasure with its reduction and discharge, and, with the acquisition of the reality principle, this discharge of excitation, once sought as a peremptory demand under the influence of the pleasure principle, now has to wait until reality presents the necessary conditions or until those conditions can be brought about. (Pleasure can, of course, always be expressed in fantasy and day dreams, whatever the circumstances.) The search for pleasure, it will be observed, is related to, but not identical with, the "Principle of Constancy" referred to above.
+
+Already, especially in the paper Instincts and their Vicissitudes (1915c), Freud had stated that the relation existing between pleasure and unpleasure on the one hand, and the rise and the "fluctuations of the amounts of stimuli affecting mental life," on the other, was no simple matter, and that the relations were many, various, and in need of elucidation.
+
+In Beyond the Pleasure Principle (1920g) Freud reformulated his two classes of instincts and opposed the one, Eros or the Life Instinct, with the destructive or Death Instinct. The aim of the Death Instinct was to get rid of life through the running down of the organism, and therefore of the tensions within it. This "dominating tendency of mental life"—"to reduce, to keep constant or to remove internal tensions due to stimuli"—was called the "Nirvana principle," a term suggested by Barbara Low and here adopted by Freud.
+
+The difficulties and anomalies inherent in these formulations were reconsidered by Freud in The Economic Problem of Masochism (1924c). Re-affirming his adoption of the Nirvana principle, he pointed out that, if the pleasure principle were identical with it, that principle would be "in the service of the death instincts" and would act as a warning against the demands of the life instincts that threatened to disturb the intended course of life. But that view, said Freud, could not be correct. Furthermore, in the series of tensions and their increase and decrease, there were pleasurable tensions (for example, sexual excitation) and unpleasurable relaxations of tensions. Pleasure and unpleasure could not depend on some quantitative factor alone, but on some qualitative characteristics. It might be "the rhythm, the temporal sequence of changes, rises and falls in the quantity of stimulus." Freud added: "We do not know." Whatever the truth of the matter, the Nirvana principle had undergone a modification in living organisms through which it had become the pleasure principle. "Henceforward," he continued, "we shall avoid regarding the two principles as one." And he concluded by saying that the Nirvana principle expressed the trend of the death instinct; the pleasure principle represented the demands of the libido; and the modification of the latter principle, the reality principle, represented the influence of the external world.
+
+It may be worth adding that an optimum level of tension normally gives life its sense of vividness and alertness. Reduction of tension to zero, unless transient, is often pathological, and found, for example, in states of depression, some kinds of depersonalization, and in the anergic forms of schizophrenia.
+
+
+==See Also==
+* [[Death instinct (Thanatos)]]
+* [[Desexualization]]
+* [[Discharge]]
+* [[Ego and the Id, The]]
+* [[Erotogenic masochism]]
+* [[Excitation]]
+* [[Low, Barbara]]
+* [[Mythology and psychoanalysis]]
+* [[Pleasure/unpleasure principle]]
+* [[]]
+* [[Principle of constancy]]
+* [[Principle of (neuronal) inertia]]
+* [[Protective shield, breaking through the]]
+* [[Quantitative/qualitative]]
+
+==References==
+<references/>
+# Freud, Sigmund. (1900a). The interpretation of dreams. Part II. SE, 5: 339-625.
+# ——. (1911b). Formulations on the two principles of mental functioning. SE, 12: 213-226.
+# ——. (1915c). Instincts and their vicissitudes. SE, 14: 109-140.
+# ——. (1920g). Beyond the pleasure principle. SE, 18: 1-64.
+# ——. (1924c). The economic problem of masochism. SE, 19: 155-170.
+# ——. (1950c [1895]). Project for a scientific psychology. SE, 1: 281-387.
+# ——. (1960a [1873-1939]). Letters of Sigmund Freud, 1873-1939 (Ernst L. Freud, Ed.]]
+* [[Tania and James Stern, Trans.). London: Hogarth, 1970.
+
+[[Category:New]]

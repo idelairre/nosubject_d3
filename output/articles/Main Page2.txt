@@ -1,0 +1,85 @@
+Welcome to the official '''TYPO3 Content Management System''' wiki!<br>
+Currently we have [[Special:Statistics|{{NUMBEROFARTICLES}}]] articles (in different languages) online. Choose one of the following sections to find them:
+<!-- ============= -->
+<table><tr><td style="vertical-align: top; width: 70%;">
+<!-- ============= -->
+
+<table width=95% style="background: #F5F5F5; padding: 5px;">
+<tr>
+<td align="left" colspan="4" style="background: #858585; vertical-align: top; color: white;">&nbsp;'''Documentation'''</td>
+</tr>
+
+<tr><td valign=top><br />
+'''[[Getting started|Getting started]]'''
+<br/>Documents and information to introduce you to TYPO3 and get your first site up and running.
+
+'''[[Overview User Manuals|Editors]]'''
+<br/>Here you find documents on how to handle basic content on TYPO3 web sites.
+
+'''[[Overview Administrator Manuals|Administrators]]'''
+<br/>This is for more advanced users, who manage other users, add extensions and configure TYPO3.
+
+'''[[Overview_Miscellaneous|Help, tips & troubleshooting]]'''
+<br/>Different documents that help you with small and big issues. Here you find the HowTo, FAQ, Glossary and so on.
+
+</td><td valign=top>
+&nbsp;&nbsp;&nbsp;&nbsp;
+</td><td valign=top><br />
+'''[[Overview Developer Manuals|Developers]]'''
+<br/>Documents for people who want to dig deep into TYPO3 and program their own extensions or contribute to the core code.
+
+'''[[Overview Extension manuals|Extensions]]'''
+<br/>Manuals for some of the extensions avaliable for TYPO3.
+<br/><br/><br />
+
+'''[[Document Matrix]]'''
+<br/>Listing of documentation and videos in different ways, e.g. for clients, technical knowledge, skill level etc.
+
+'''Other languages'''<br/>
+[[Image:Flag_de.png]] [[Image:Flag_fr.png]] [[Image:Flag_it.png]] [[Image:Flag_zh.png]] <small>[[Alternative Language|Add]]</small>
+
+</td></tr>
+</table>
+
+<!-- ============= -->
+</td><td style="vertical-align: top;">
+<!-- ============= -->
+
+<table width=95% style="background: #F5F5F5; padding: 5px;">
+<tr>
+<td align="left" colspan="4" style="background: #858585; vertical-align: top; color: white;">&nbsp;'''Projects &amp; teams'''</td>
+</tr>
+
+<tr>
+<td valign="top"><br />
+[http://wiki.typo3.org/index.php/TYPO3_4.0 Release Notes for TYPO3 4.0]
+<br/>
+
+'''[[Projects]]'''
+<br/>Different project work in progress - from developing new extensions to writing a new document.
+
+'''[[Teams]]'''
+<br/>TYPO3 team pages, with information about them and their work.
+
+'''[[Usergroups]]'''
+<br/>Some TYPO3 user groups have their own pages at the wiki. Visit them here.
+
+<br />
+'''[[Association|TYPO3 Association]]''' <br/>
+'''[http://typo3.punkt.de/tycon3.html TYPO3 Conference]''' <br/>
+'''[[T3board|TYPO3 Snowboard tour]]''' <br/>
+
+</td>
+</tr>
+</table>
+
+<!-- ============= -->
+</td></tr></table>
+<!-- ============= -->
+
+<center>
+If you want to follow discussions and share your opinion you can 
+join the official documentation <br/>[http://lists.netfielders.de/cgi-bin/mailman/listinfo/typo3-project-documentation mailing list]
+or [news://news.netfielders.de/typo3.projects.documentation news group].
+(They both have the same content and are synchronized.)
+</center>

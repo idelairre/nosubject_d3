@@ -1,0 +1,120 @@
+{{Top}}éthique{{Bottom}}
+
+=====Jacques Lacan=====
+[[Lacan]] asserts that [[ethics|ethical thought]] "is at the centre of our work as analysts,"<ref>{{S7}} p. 38</ref> and a whole year of his [[seminar]] is devoted to discussing the articulation of [[ethics]] and [[psychoanalysis ]].<ref>{{L}} ''[[Seminar VI|Le Séminaire. Livre VI. L'éthique de la psychanalyse, 1959-60]]''. Ed. [[Jacques-Alain Miller]]. Paris: Seuil, 1986 [''[[Seminar VI|The Seminar. Book VI. The Ethics of Psychoanalysis, 1959-60]]''. Trans. Dennis Porter. London: Routledge, 1992].
+</ref>
+
+=====Psychoanalytic Treatment=====
+Simplifying matters somewhat, it could be said that [[ethics|ethical problems]] converge in [[psychoanalytic treatment]] from two sides: 
+* the side of the [[analysand]] and 
+* the side of the [[analyst]].
+
+=====The Analysand=====
+On the side of the [[analysand]] is the problem of [[guilt]] and the pathogenic nature of [[civilized]] [[morality]]. 
+
+=====Civilized Morality=====
+In his earlier work, [[Freud]] posited a basic conflict between the [[demand]]s of "[[ethics|civilized morality]]" and the essentially [[moral|amoral]] [[sexual]] [[drive]]s of the [[subject]].
+
+When [[ethics|morality]] gains the upper hand in this conflict, and the drives are too strong to be [[sublimation|sublimated]], [[sexuality]] is either expressed in [[perversion|perverse forms]] or [[repression|repressed]], the latter leading to [[neurosis]].
+
+In [[Freud]]'s view, "[[ethics|civilized morality]]" is at the root of [[neurosis|nervous illness]].<ref>{{F}} "[[Works of Sigmund Freud|'Civilized' Sexual Morality and Modern Nervous Illness]]." 1908d. [[SE]] IX, 179</ref>
+
+=====Sense of Guilt=====
+=====Superego=====
+[[Freud]] further developed his ideas on the pathogenic nature of [[ethics|morality]] in his theory of an [[unconscious]] sense of [[guilt]], [[superego]], an [[superego|interior moral agency]] which becomes more cruel to the extent that the [[ego]] submits to its [[demand]]s.<ref>{{F}} ''[[Works of Sigmund Freud|The Ego and the Id]]''. 1923b. [[SE]] XIX, 3.</ref>).
+
+=====The Analyst=====
+On the side of the [[analyst]] is the problem of how to deal with the [[ethics|pathogenic morality]] and [[unconscious]] guilt of the [[analysand]], and also with the whole range of [[ethics|ethical problems]] that may arise in [[psychoanalytic treatment]].
+
+=====Sense of Guilt=====
+Firstly, how is the [[analyst]] to respond to the [[analysand]]'s sense of [[guilt]]?
+
+Certainly not by telling the [[analysand]] that he is not really [[guilty]], or by attempting "to soften, blunt or attenuate" his sense of [[guilt]],<ref>{{S7}} p. 3</ref> or by [[treatment|analyzing]] it away as a [[neurotic]] [[illusion]]. 
+
+On the contrary, [[Lacan]] argues that the [[analyst]] must take the [[analysand]]'s sense of [[guilt]] seriously, for at bottom whenever the [[analysand]] feels [[guilty]] it is because he has, at some point, given way on his [[desire]].
+
+=====Superego=====
+Secondly, how is the [[analyst]] to respond to the [[ethics|pathogenic morality]] which acts via the [[superego]]? 
+
+[[Freud]]'s views of [[ethics|morality]] as a pathogenic force might seem to imply that the [[analyst]] simply has to help the [[analysand]] free himself from moral constraints.
+
+However, which such an [[interpretation]] may find some support in [[Freud]]'s earlier work,<ref>{{F}} "[[Works of Sigmund Freud|'Civilized' Sexual Morality and Modern Nervous Illness]]." 1908d. [[SE]] IX, 179</ref> [[Lacan]] is firmly opposed to such a view of [[Freud]], preferring the more pessimistic [[Freud]] of ''[[Civilization and Its Discontents]]''<ref>{{F}} ''[[Civilization and Its Discontents]]''. 1930a. [[SE]] XXI, 59.</ref> and stating categorically that "Freud was in no way a progressive."<ref>{{S7}} p. 183</ref> 
+
+[[Psychoanalysis]], then, is not simply a libertine ethos.
+
+=====Psychoanalytic Treatment=====
+This seems to present the [[analyst]] with a moral dilemma. 
+
+On the one hand, he cannot simply align himself with [[ethics|civilised morality]], since this [[ethics|morality]] is pathogenic. 
+
+On the other hand, nor can he simply adopt an opposing libertine approach, since this too remains within the field of [[morality]].<ref>{{S7}} p. 3-4</ref> 
+
+The rule of neutrality may seem to offer the analyst a way out of this dilemma, but in fact it does not, for [[Lacan]] points out that there is no such thing as an [[ethics|ethically neutral position]]. 
+
+The [[analyst]] cannot avoid, then, having to face [[ethics|ethical questions]].
+
+=====Neutral Ethical Position=====
+An [[ethics|ethical position]] is implicit in every way of directing [[psychoanalytic treatment]], whether this is admitted or not by the [[analyst]]. 
+
+The [[ethics|ethical position]] of the [[analyst]] is most clearly revealed by the way that he formulates the [[end of analysis|goal of the treatment]].<ref>{{S7}} p. 207</ref> 
+
+For example the formulations of [[ego-psychology]] about the [[adaptation]] of the [[ego]] to [[reality]] imply a [[ethics|normative ethics]].<ref>{{S7}} p. 207</ref> 
+
+It is in opposition to this [[ethics|ethical position]] that [[Lacan]] sets out to formulate his own [[ethics|analytic ethic]].
+
+=====Psychoanalytic Ethics=====
+The [[ethics|analytic ethic]] that [[Lacan]] formulates is an [[ethics|ethic]] which relates [[act]]ion to [[desire]]. 
+
+[[Lacan]] summarizes it in the question "Have you acted in conformity with the desire that is in you?"<ref>{{S7}} p. 314</ref>. 
+
+He contrasts this [[ethics|ethic]] with the "[[ethics|traditional ethics]]"<ref>{{S7}} p. 314</ref> of [[Aristotle]], [[Kant]] and other [[philosophy|moral philosophers]] on several grounds.
+
+=====Traditional Ethics=====
+=====Good=====
+Firstly, [[ethics|traditional ethics]] revolves around the the concept of the [[ethics|Good]], proposing different "[[ethics|goods]]" which all compete for the position of the [[ethics|Sover­eign Good]]. 
+
+The [[ethics|psychoanalytic ethic]], however, sees the [[ethics|Good]] as an obstacle in the path of [[desire]]; thus in [[psychoanalysis]] "a radical repudiation of a certain ideal of the good is necessary."<ref>{{S7}} p. 230</ref> 
+
+The [[ethics|psychoanalytic ethic]] rejects all ideals, including ideals of "happiness" and "health"; and the fact that [[ego-psychology]] has embraced these ideals bars it from claiming to be a form of [[psychoanalysis]].<ref>{{S7}} p. 219</ref>
+
+The [[desire of the analyst]] cannot therefore be the [[desire]] to "do good" or "to cure".<ref>{{S7}} p. 218</ref>
+
+=====Pleasure=====
+Secondly, [[ethics|traditional ethics]] has always tended to link the [[ethics|good]] to [[pleasure]]; [[ethics|moral thought]] has "developed along the paths of an essentially hedonistic problematic."<ref>{{S7}} p. 221</ref> 
+
+The [[ethics|psychoanalytic ethic]], however, cannot take such an approach because [[treatment|psychoanalytic experience]] has revealed the duplicity of [[pleasure principle|pleasure]]; there is a limit to [[pleasure principle|pleasure]] and, when this is transgressed, [[pleasure principle|pleasure]] becomes [[jouissance|pain]].
+
+====="Service of Goods"=====
+Thirdly, [[ethics|traditional ethics]] revolves around "the service of goods"<ref>{{S7}} p. 314</ref> which puts work and a safe, ordered [[existence]] before questions of [[desire]]; it tells people to make their [[desire]]s wait.<ref>{{S7}} p. 315</ref>
+
+The [[ethics|psychoanalytic ethic]], on the other hand, forces the [[subject]] to confront the relation between his [[act]]ions and his [[desire]] in [[time|immediacy]] of the [[time|present]].
+
+=====Psychoanalytic Theory=====
+After his 1959-60 [[seminar]] on [[ethics]], [[Lacan]] continues to locate [[ethics|ethical questions]] at the heart of [[psychoanalytic theory]]. 
+
+He [[interpretation|interprets]] the ''soll'' in [[Freud]]'s famous phrase ''Wo es war, soll Ich werden'' ("Where id was, there ego shall be")<ref>{{F}} ''[[Works of Sigmund Freud|New Introductory Lectures on Psycho-Analysis]]''. 1933a: [[SE]] XXII, 80</ref> as an [[ethics|ethical duty]],<ref>{{E}} p. 128</ref> and argues that the status of the [[unconscious]] is not ontological but [[ethical]].<ref>{{S11}} p. 33</ref>.
+
+=====Speech=====
+In the 1970s he shifts the emphasis of [[ethics|psychoanalytic ethics]] from the question of [[act]]ing ("Have you acted in accordance with your desire?") to the question of [[speech]]; it now becomes an [[ethics|ethic]] of "speaking well" (''l'éthique du Bien-dire''.<ref>{{L}} 1973a: 65</ref> 
+
+However, this is more a difference of emphasis than an opposition, since for [[Lacan]] to speak well is in itself an [[act]].
+
+==See Also==
+{{See}}
+{{Also}}
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+[[Category:Psychoanalysis]]
+[[Category:Jacques Lacan]]
+[[Category:Dictionary]]
+[[Category:Practice]]
+[[Category:Ethics]]
+[[Category:Concepts]]
+[[Category:Terms]]
+[[Category:OK]]
+
+__NOTOC__

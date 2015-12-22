@@ -1,0 +1,8 @@
+<Poll> 
+What is your favorite book by Slavoj Zizek?
+[[The Parallax View]]
+[[The Ticklish Subject]]
+[[The Sublime Object of Ideology]]
+[[Welcome to the Desert of the Real]]
+[[Enjoy Your Symptom]]
+</Poll>

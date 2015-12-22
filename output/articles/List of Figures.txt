@@ -1,0 +1,43 @@
+Here are the diagrams used by Jacques Lacan (in ''Les Écrits'', etc.). 
+
+
+* [[:Image:Lacan-borromeanknot.jpg|The Borromean Knot]] 
+* [[:Image:Lacan-structurefourdiscourses.jpg|The Structure of the Four Discourses]] 
+* [[:Image:Lacan-fourdiscourses.jpg|The Four Discourses]] 
+* [[:Image:Lacan-tablepartialdrives.jpg|Table of Partial Drives]] 
+* [[:Image:Lacan-graph-elementary.jpg|The Graph of Desire - Elementary Cell]] 
+* [[:Image:Lacan-graph-complete.jpg|The Graph of Desire - Complete Graph]] 
+* [[:Image:Lacan-threelacks.jpg|Table of Three Types of Lack of Object]] 
+* [[:Image:lacan-firstmetaphor.jpg|First Formula of Metaphor]] 
+* [[:Image:lacan-secondmetaphor.jpg|Second Formula of Metaphor]] 
+* [[:Image:lacan-metonymy.jpg|Formula of Metonymy]] 
+* [[:Image:lacan-mobeiusstrip.jpg|The Moebius Strip]] 
+* [[:Image:Lacan-opticalmodel.jpg|The Optical Model]] 
+* [[:Image:Lacan-paternalmetaphor.jpg|The Paternal Metaphor]]
+* [[:Image:Lacan-schemal.jpg|Schema L]]
+* [[:Image:Lacan-schemal-simplified.jpg|Schema L (Simplified Form)]]
+* [[:Image:Lacan-sexualdifference.jpg|The Diagram of Sexual Difference]]
+* [[:Image:Lacan-saussureanalgorithm.jpg|The Saussurean Sign]]
+* [[:Image:Lacan-saussureanalgorithm.jpg|The Saussurean Algorithm]] 
+* [[:Image:Lacan-torus.jpg|The Torus]]
+
+* [[:Image:Lacan-fourdiscourseletters.jpg|Four Discourses]] (''Les quatre discours'')
+
+* ''[[:Image:Diagrammatique.gif|Diagrammatique]]'' 
+* [[:Image:Lereseau.gif|The network 1-3]] (''Le réseau'')     
+* [[:Image:Schemalsimplifie.gif|Schema  L]] (''Schéma L'')  
+* [[:Image:Lereseau-1-3.gif|The network 1 - 3]] (''Le réseau'' 1-3)
+* [[:Image:Lereseau-letters.gif|The network]] [[Image:Lereseau-small.gif]] (''Le réseau'' [[Image:Lereseau-small.gif]])
+* [[:Image:Schemalsimplifie.gif|Schema L]] (''Schéma L'')
+* [[:Image:SchemaR.gif|Schema R]] (''Schéma R'')    
+* [[:Image:Schemal.gif|Schema I]] (''Schéma I'')
+* [[:Image:Lepotetlemiroirspherique.gif|The pot and the spherical mirror]] (''Le pot et le miroir sphérique'')    
+* [[:Image:Lebouquet.gif|Bouquet]] (''Le bouquet'')   
+* [[:Image:Lesretournementsdubouquet.gif|Reversals of the bouquet]] (''Les retournements du bouquet '')   
+* [[:Image:Fantasmesadien.gif|The diagram of the phantasm sadien]] (''Le schéma du fantasme sadien'')   
+* [[:Image:sjouissance.gif|The diagram of the will of pleasure]] ''Le schéma de la volonté de jouissance''  
+* [[:Image:PointdeCapiton.gif|Point de Capiton]] (''Le point de capiton'')    
+* [[:Image:Identification.gif|Identification]] (''L'identification première'')   
+* [[:Image:CheVuoi.gif|Che vuoi? 1]] (''Che vuoi?'')    
+* [[:Image:CheVuoi-complete.gif|Che Voui? 2]] (''Le graphe complet'')
+* [[:Image:FourDiscourses.gif|Four Discourses]] (''Les quatre discours'')

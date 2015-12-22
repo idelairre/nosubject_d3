@@ -1,0 +1,5 @@
+{| class="" width="500px" cellpadding="2" align="center" bgcolor="ffffff" style="background:#ffffff; width:500px; text-align:center; line-height:2.0em;"
+|-
+| bgcolor="#ffffff" width="" | <center>
+<dhflashplayer>file=nedjeljom%20u%202%20-%20slavoj zizek%20-%206%20of%207.flv|width=500|height=384|path=http://nosubject.com/archive/flv/</dhflashplayer></center>
+|}

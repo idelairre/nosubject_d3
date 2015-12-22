@@ -1,0 +1,28 @@
+'''Object relations theory''' is the idea that the ego-self exists only in relation to other objects, which may be external or internal. The internal objects are internalized versions of external objects, primarily formed from early interactions with the parents. There are three fundamental "affects" that can exist between the self and the other - attachment, frustration, and rejection. These affects are universal emotional states that are major building blocks of the personality. Object relations theory was pioneered in the 1940's and 50's by British psychologists [[Ronald Fairbairn]], [[Winnicott|D.W. Winnicott]], [[Harry Guntrip]], and others. 
+
+==History==
+
+[[Freud]] developed the concept [[object relation]] to
+describe or emphasize
+that bodily [[drive|drives]] satisfy their need through a medium, an object, on a specific locus. The central thesis in [[Melanie Klein]]'s object relations theory was that objects play a decisive role in the development of a subject and can be either [[part-object|part-objects]] or [[whole-object|whole-objects]], i.e. a single organ (a mother's breast) or a whole person (a mother). Consequently both a mother or just the mother's breast can be the locus of satisfaction for a [[drive]]. Furthermore, according to [[traditional psychoanalysis]], there are at least two types of drives, the [[libido]] (mythical counterpart: [[Eros]]), and the [[death]] drive (mythical counterpart: [[Thanatos]]). Thus, the objects can be receivers of both [[love]] and [[hate]], the affective effects of the [[libido]] and the death drive.
+
+Until the 1970s, however, few American psychoanalysts were influenced by the school of [[Melanie Klein]], on the one hand, who constituted an opposite polarity to the school of [[Anna Freud]] (which dominated American psychoanalysis in [[1940s]], [[1950s]], and [[1960s]] and was represented in the US by Hartmann, Kris, Loewenstein, Rapaport, Erikson, Jacobson, and Mahler), and, on the other hand, the "middle group" who fell between Anna Freud and Melanie Klein, and was influenced by the British schools of [[Michael Balint]], [[Donald Winnicott]], and [[Ronald Fairbairn]]. The strong animosity in England between the school of Anna Freud and that of Melanie Klein was transplanted to the US, where the Anna Freud group dominated totally until the [[1970s]], when new interpersonal psychoanalysis arose partly from ideas of culturalist psychoanalysis, influenced also by [[Ego psychology]], and partly by British theories which have also entered under the broad terminology of "British object relations theories". 
+
+Recent decades in developmental psychological research, for example on the onset of a "[[Theory of mind#Theory of Mind - Understanding that others have minds with separate beliefs desires and intentions|theory of mind]]" in children, has suggested that the formation of mental world is enabled by the infant-parent interpersonal interaction which was the main thesis of British object-relations tradition (e.g. Fairbairn, 1952).
+
+[[Ronald Fairbairn|Fairbairn]] also discovered the psychological condition of dysfunctional interpersonal attachment of abused children to their abusing parents, which is now explained by [[Stockholm Syndrome]] as genetically programed neurobiological psychological response to a situation where the victim perceives her or his life (acutely or chronically) depends on their captor's good will.
+
+==Sources==
+Fairbairn, W. R. D., (1952). An Object-Relations Theory of the Personality. New York: Basic Books.
+
+Fairbairn, W. R. D., (1952). Endopsychic structure considered in terms of object relationships, London.
+
+==See also==
+* [[Stockholm Syndrome]]
+
+[[category:Freudian psychology]]
+
+[[fr:Théorie de la relation d'objet]]
+[[he:תאוריית יחסי אובייקט]]
+[[ja:対象関係論]]
+[[pl:Teoria relacji z obiektem]]

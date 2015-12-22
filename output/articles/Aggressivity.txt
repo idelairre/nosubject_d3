@@ -1,0 +1,57 @@
+{{Topp}}agressivité{{Bottom}}
+
+==Jacques Lacan==
+[[Aggressivity]] is one of the central issues that [[Lacan]] deals with in his papers in the period 1936 to the early 1950s. 
+
+==Ambivalence==
+[[Lacan]] draws a distinction between [[aggressivity]] and [[aggressivity|aggression]]: [[aggressivity|aggression]] refers only to [[violence|violent]] [[act]]s whereas [[aggressivity]] is a fundamental relation which underlies not only such acts but many other phenomena also.<ref>{{S1}} p. 177</ref> [[Lacan]] argues that [[aggressivity]] is just as present in apparently [[love|loving]] [[act]]s as in violent ones; it "underlies the activity of the philanthropist, the idealist, the pedagogue, and even the reformer.<ref>{{E}} p. 7</ref> [[Lacan]] is simply restating [[Freud]]'s concept of [[ambivalence]] -- the interdependence of [[love]] and [[hate]], which [[Lacan]] regards as one of the fundamental discoveries of [[psychoanalysis]].
+
+==Dual Relation==
+[[Lacan]] situates [[aggressivity]] in the [[dual relation]] between the [[ego]] and the [[counterpart]]. In the [[mirror stage]], the [[infant]] sees its [[reflection]] in the [[mirror]] as a [[wholeness]], in contrast with the uncoordination in the [[real]] [[body]]: this contrast is experienced as an [[aggressivity|aggressive tension]] between the [[specular image]] and the [[real]] [[body]], since the [[wholeness]] of the [[image]] seems to threaten the [[body]] with [[fragmented body|disintegration]] and [[fragmentation]].
+
+==Narcissism== 
+The consequent [[identification]] with the [[specular image]] thus implies an [[ambivalence|ambivalent]] relation with the [[counterpart]], involving both [[eroticism]] and [[aggressivity|aggression]]. This "[[aggressivity|erotic aggression]]" continues as a fundamental [[ambivalence]] underlying all future forms of [[identification]], and is an essential characteristic of [[narcissism]]. [[Narcissism]] can thus easily veer from extreme [[love|self-love]] to the opposite extreme of "[[narcissism|narcissistic suicidal aggression]]" (''agression suicidaire narcissique'').<ref>{{Ec}} p. 187</ref>
+
+==Imaginary==
+By linking [[aggressivity]] to the [[imaginary]] [[order]] of [[eros]], [[Lacan]] seems to diverge significantly from [[Freud]], since [[Freud]] sees [[aggressivity]] as an outward manifestation of the [[death drive]] (which is, in [[Lacan]]ian terms, situated not in the [[imaginary]] but in the [[symbolic]] [[order]]). [[Aggressivity]] is also related by [[Lacan]] to the [[Hegel]]ian concept of the [[fight to the death]], which is a [[stage]] in the [[dialectic]] of the [[master]] and the [[slave]].
+
+==Treatment==
+[[Lacan]] argues that it is important to bring the [[analysand]]'s [[aggressivity]] into play early in the [[treatment]] by causing it to emerge as negative [[transference]]. This [[aggressivity]] directed towards the [[analyst]] then becomes "the initial knot of the analytic drama."<ref>{{E}} p.14</ref> This [[phase]] of the [[treatment]] is very important since if the [[aggressivity]] is handled correctly by the [[analyst]], it will be accompanied by "a marked decrease in the patient's deepest resistances.<ref>{{L}} "[[Works of Jacques Lacan|Some Reflections on the Ego]]", ''Int. J. Psycho-Anal''., vol. 34, 1953: p. 13</ref>
+
+==See Also==
+{{See}}
+* [[Analysand]]
+* [[Analyst]]
+* [[Counterpart]]
+||
+* [[Death drive]]
+* [[Dialectic]]
+* [[Fragmented body]]
+||
+* [[Imaginary]]
+* [[Identification]]
+* [[Master]]
+||
+* [[Mirror stage]]
+* [[Narcissism]]
+* [[Psychoanalysis]]
+||
+* [[Specular image]]
+* [[Transference]]
+* [[Treatment]]
+{{Also}}
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+[[Category:Psychoanalysis]]
+[[Category:Jacques Lacan]]
+[[Category:Imaginary]]
+[[Category:Dictionary]]
+[[Category:Concepts]]
+[[Category:Terms]]
+{{OK}}
+
+__NOTOC__

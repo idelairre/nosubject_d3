@@ -1,0 +1,73 @@
+{{Top}}surmoi{{Bottom}}
+
+==Sigmund Freud==
+The term "[[superego]]" does not appear until quite late in [[Freud]]'s [[Sigmund Freud:Bibliography|work]], being first introduced in ''[[The Ego and the Id]]'' (1923).
+
+It was in this work that [[Freud]] introduced his so-called "[[structural model]]", in which the [[psyche]] is divided into three [[agencies]]: the [[ego]], the [[id]] and the [[superego]].
+
+However, the concept of a [[moral agency]] which judges and censures the [[ego]] can be found in [[Freud]]'s [[Sigmund Freud:Bibliography|work]] long before he locates these functions in the [[superego]], such as in his concept of [[censorship]].
+
+==Jacques Lacan==
+[[Lacan]]'s first discussion of the [[superego]] comes in his articule on the [[family]].
+
+In this work he distinguishes clearly between the [[superego]] and the '''[[ego-ideal]]''', terms which [[Freud]] seems to use interchangeably in ''[[The Ego and the Id]]''.
+
+He argues that the primary function of the [[superego]] is to [[repress]] [[desire|sexual desire]] for the [[mother]] in the resolution of the [[Oedipus complex]].
+
+Following [[Freud]], he argues that the [[superego]] results from [[Oedipal]] [[identification]] with the [[father]], but he also refers to [[Kleinian psychoanalysis|Melanie Klein]]'s thesis on the maternal origins of an archaic form of the [[superego]].<ref>{{1938}} p. 59-60</ref>
+
+===Symbolic Law===
+When Lacan returns to the subject of the superego in his 1953-4 [[seminar]]; he locates it in the [[symbolic|symbolic order]], as opposed to the [[imaginary|imaginary order]] of the [[ego]]: the [[superego]] is essentially located within the [[symbolic|symbolic plane]] of [[speech]].<ref>{{S1}} p. 102</ref>
+
+The [[superego]] has a close relationship with the [[Law]], but this relationship is a paradoxical one.
+
+On the one hand, the [[Law]] as such is a [[symbolic]] [[structure]] which regualtes [[subjectivity]] and in this sense prevents disintegration.
+
+On the other hand, the [[law]] of the superego has a "senseless, blind character, of pure imperativeness and simple tyranny.<ref>{{S1}} p. 102</ref>
+
+<blockquote>Thus "the superego is at one and the same time the law and its destruction."<ref>{{S1}} p. 102</ref></blockquote>
+
+The superego arises from the misunderstanding of the [[law]], from the [[gap]]s in the [[symbolic]] [[chain]], and fills out those [[gap]]s with an [[imaginary]] [[substitute]] that distorts the [[law]].<ref>{{E}} p. 143</ref>
+
+===Philosophy===
+More specifically, in [[linguistic]] terms, "the superego is an imperative."<ref>{{S1}} p. 102</ref>
+
+In 1962, [[Lacan]] argues that this is none other than the [[Kant]]ian categorical imperative.
+
+The specific imperative involved is the command "Enjoy!"; the [[superego]] is the [[Other]] insofar as the [[Other]] commands the [[subject]] to [[enjoy]].
+
+The [[superego]] is thus the expression of the [[superego|will-to-enjoy]] (''volonte de jouissance''), which is not the [[subject]]'s own will but the will of the [[Other]], who assumes the form of Sade's "Supreme Being-in-Evil."<ref>{{Ec}} p. 773</ref>
+
+The [[superego]] is an "obscene, ferocious Figure"<ref>{{E}} p. 256</ref> which imposes "a senseless, destructive, purely oppressive, almost always anti-legel morality" on the [[neurotic]] [[subject]].<ref>{{S1}} p. 102</ref>
+
+The [[superego]] is related to the [[voice]], and thus to the invoking [[drive]] and to [[sadism/masochism]].
+
+==See Also==
+{{See}}
+* [[Ego]]
+* [[Desire]]
+||
+* [[Drive]]
+* [[Id]]
+||
+* [[Identification]]
+* ''[[Jouissance]]''
+||
+* [[Law]]
+* [[Oedipus complex]]
+||
+* [[Philosophy]]
+* [[Repression]]
+||
+* [[Structure]]
+* [[Symbolic]]
+{{Also}}
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+{{OK}}
+
+__NOTOC__

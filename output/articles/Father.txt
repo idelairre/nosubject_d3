@@ -1,0 +1,61 @@
+{{Top}}père{{Bottom}}
+[[Image:Kida_f.gif|right|frame|[[Kid A In Alphabet Land]]]]
+==Jacques Lacan==
+===History===
+From very early on in his [[Works of Jacques Lacan|work]], [[Lacan]] lays great importance on the role of the [[father]] in [[psychic structure]]. In his 1938 article on the family, he attributes the importance of the [[Oedipus complex]] to the fact that it combines in the figure of the [[father]] two almost conflicting functions: the ''protective function'' and the ''prohibitive function''.  He also points to the contemporary social decline in the [[paternal metaphor|paternal]] [[imago]] as the [[cause]] of current [[treatment|psychopathological]] peculiarities.<ref>{{1938}} p. 73</ref> The [[father]] continues to be a constant theme of [[Lacan]]'s work thereafter.
+
+===Father as Third Term===
+[[Lacan]]'s emphasis on the importance of the [[father]] can be seen as a reaction against the tendency of [[Kleinian psychoanalysis]] and [[object-relations theory]] to place the [[mother]]-[[child]] [[dual relation|relation]] at the heart of [[psychoanalytic theory]].In opposition to this tendency, [[Lacan]] continually stresses the role of the [[father]] as a third term who, by mediating the [[imaginary]] [[dual relation]] between the [[mother]] and the [[child]], saves the [[child]] from [[psychosis]] and makes possible an entry into [[social]] [[existence]].  The [[father]] is thus more than a mere rival with whom the [[subject]] competes for for the  [[mother]]'s [[love]]; he is the representative of the social order as such, and only by identifying with the [[father]] in the [[Oedipus complex]] can the [[subject]] gain entry into this [[order]].  The [[absence]] of the [[father]] is therefore an important factor in the aetiology of all [[treatment|psychopathological]] [[structures]].
+
+===Symbolic, Imaginary and Real===
+However, the [[father]] is not a simple concept but a complex one, one which begs the question of what exactly is meant by the term "[[father]]."  
+It is in order to answer this question that, from 1953 on, [[Lacan]] stresses the importance of distinguishing between the [[symbolic]] [[father]], the [[imaginary]] [[father]] and the [[real]] [[father]].
+<!-- [[Lacan]] argues that the question "What is a father?" forms the central theme which runs throughout [[Freud]]'s entire work.<ref>{{S4}} p.204-5</ref> -->
+
+==The Symbolic Father==
+The [[symbolic]] [[father]] is not a [[real]] [[being]] but a position, a function, and hence is synonymous with the term "[[Name-of-the-Father|paternal function]]." This function is none other than that of imposing the [[law]] and regulating [[desire]] in the [[Oedipus complex]], of intervening in the [[imaginary]] [[dual relation]]ship between [[mother]] and [[child]] to introduce a necessary "[[symbolic|symbolic distance]]" between them.<ref>{{S4}} p.161</ref>
+
+<blockquote>"The true function of the Father... is fundamentally to unite (and not to set in opposition) a desire and the Law."<ref>{{E}} p.321</ref></blockquote>
+<!-- Although the [[symbolic]] [[father]] is not an actual [[subject]] but a position in the [[symbolic order]], a [[subject]] may nevertheless come to occupy this position, by virtue of exercising the [[paternal function]]. Nobody can ever occupy this position completely.<ref>{{S4}} p.205, 210, 219</ref> However, the [[symbolic]] [[father]] does not usually intervene by virtue of someone incarnating this function, but in a veiled fashion, for example by being mediated by the discourse of the [[mother]]. -->
+
+The [[symbolic]] [[father]] is the fundamental element in the [[structure]] of the [[symbolic order]]; what distinguishes the [[symbolic order]] of [[culture]] from the [[imaginary order]] of [[nature]] is the inscription of a line of male descendence.  The [[symbolic]] [[father]] is also referred to as the [[Name-of-the-Father]].  By structuring descendence into a series of generations, patrilineality introduces an [[order]] "whose structure is different from the natural order."<ref>{{S3}} p. 320</ref>  The [[symbolic]] [[father]] is also the [[dead]] [[father]], the [[father]] of the [[primal horde]] who has been murdered by his own sons.  It is the [[absence]] of the [[symbolic]] [[father]] which characterizes the essence of the [[psychotic]] [[structure]].
+<!-- The [[presence]] of the [[imaginary]] [[phallus]] as a third term in the [[preoedipal phase|preoedipal]] [[imaginary|imaginary triangle]] indicates that the [[symbolic]] [[father]] is already functioning at the [[preoedipal phase|preoedipal stage]]; behind the [[symbolic]] [[mother]], there is always the [[symbolic]] [[father]]. -->
+
+==The Imaginary Father==
+The [[imaginary]] [[father]] is an [[imago]], the composite of all the [[imaginary]] constructs that the [[subject]] builds up in [[fantasy]] around the figure of the [[father]].  This [[imaginary]] construction often bears little relationship to the [[father]] as he is in [[reality]].<ref>{{S4}} p. 220</ref>  The [[imaginary]] [[father]] can be construed as an ideal [[father]],<ref>{{S1}} p.156</ref><ref>{{E}} p.321</ref> or the opposite, as "the father who has fucked the kid up."<ref>{{S7}} p.308</ref>
+<!-- In the former guise, the [[imaginary]] [[father]] is the prototype of [[God]]-figures in [[religion]]s, an all-powerful protector.  In the latter role, the [[imaginary]] [[father]] is both the terrifying father of the [[primal horde]] who imposes the [[incest]] [[taboo]] on his sons,<ref>[[Freud]] 1912-3</ref> and the agent of [[privation]], the [[father]] whom the daughter blames for depriving her of the [[symbolic]] [[phallus]], or its equivalent, a [[child]].<ref>{{S4}} p. 98</ref>  In both guises, though, whether as the [[ideal]] [[father]] or as the [[father|cruel]] [[father|agent]] of [[privation]], the [[imaginary]] [[father]] is seen as omnipotent.<ref>{{S4}} pp. 275-6</ref> -->
+[[Psychosis]] and [[perversion]] both involve, in different ways, a reduction of the [[father|symbolic father]] to the [[father|imaginary father]].
+
+==The Real Father==     
+===Agent of Castration===
+While [[Lacan]] is quite clear in defining what he means by the [[father|imaginary father]] and the [[father|symbolic father]], his remarks on the [[father|real father]] are quite obscure.<ref>{{S4}} p. 220</ref>  [[Lacan]]'s only unequivocal formulation is that the [[father|real father]] is the agent of [[castration]], the one who performs the operation of [[symbolic]] [[castration]].<ref>{{S17}} p. 149</ref><ref> {{S7}} p. 307</ref> 
+<!-- ===Biological Father=== Apart from this, [[Lacan]] gives few other clues about what he means by the phrase. In 1960, he describes the [[father|real father]] as the one who 'effectively occupies' the [[mother]], the "Great Fucker",<ref>{{S7}} p.307</ref> and even goes on to say, in 1970, that the [[father|real father]] is the spermatozoon, though he immediately qualifies this statement with the remark that nobody has ever thought of himself as the son of a spermatozoon.<ref>{{S17}} p.148</ref> On the basis of these comments, it seems possible to argue that the [[father|real father]] is the [[biological]] [[father]] of the [[subject]].  However, since a degree of uncertainty always surrounds the question of who the [[biological]] [[father]] really is ('"pater semper incertus est", while the [[mother]] is "certissima"'; <ref>{{F}} 1909c. [[SE]] IX, 239<ref> it would be more precise to say that the [[subject|real father]] is the man who is said to be the [[subject]]'s [[biological]] [[father]]. The [[father|real father]] is thus an effect of [[language]], and it is in this sense that the adjective [[real]] is to be understood here: the [[real]] of [[language]], rather than the [[real]] of [[biology]].<ref>{{S17}} p.147-8</ref> -->
+
+===Intervention in the Oedipus Complex===
+The [[father|real father]] plays a crucial role in the [[Oedipus complex]]; it is he who intervenes in the third 'time' of the [[Oedipus complex]] as the one who [[castrate]]s the child (see [[castration complex]]).  This intervention saves the child from the preceding [[anxiety]]; without it, the child requires a [[phobia|phobic]] [[object]] as a [[symbolic]] substitute for the [[absent]] [[father|real father]]. 
+
+<!-- The intervention of the [[father|real father]] as agent of [[castration]] is not simply equivalent to his physical presence in the [[family]].  As the case of [[Little Hans]] indicates,<ref>{{F}} 1909c. [[SE]] IX, 239<ref> the [[father|real father]] may be physically present and yet fail to intervene as agent of [[castration]].<ref>{{S4}} p. 212, 221</ref>  Conversely, the intervention of the [[father|real father]] may well be felt by the [[child]] even when the [[father]] is physically [[absent]]. -->
+
+==See Also==
+{{See}}
+* [[Castration complex]]
+* [[Dual relation]]
+||
+* [[Foreclosure]]
+* [[Name-of-the-Father]]
+||
+* [[Phallus]]
+* [[Superego]]
+{{Also}}
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+__NOTOC__
+
+{{OK}}
+[[Category:Development]]
+[[Category:Symbolic]]
+{{KIDA}}

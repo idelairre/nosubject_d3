@@ -1,0 +1,53 @@
+{{Top}}project|projection{{Bottom}}
+
+=====Definition=====
+[[Projection]] is a [[defence|defence mechanism]] in which an [[internal]] [[desire]]/[[thought]]/[[feeling]] is [[displaced]] and located [[outside]] the [[subject]], in another [[subject]]. 
+
+In a general sense, the term [[projection]] denotes an operation that consists in the [[displacement]] of something from one space to another, or from one part of a single space to another. 
+
+Cutting off what the [[superego]] perceives as "bad" aspects of oneself (e.g. weakness or homosexual desire) and [[projection|projecting]] them onto someone else "over there" where they can be condemned, punished, etc..
+
+For example a person who has been (or who feels) unfaithful to his partner may defend himself against [[feeling]]s of [[guilt]] by accusing the partner of being unfaithful.
+
+=====Sigmund Freud=====
+[[Freud]] and many other [[psychoanalyst]]s use the term "[[projection]]" to describe a [[defence|mechanism]] which is present (to differing degrees) in both [[psychosis]] and [[neurosis]].
+
+=====Jacques Lacan=====
+[[Lacan]] understands the term "[[projection]]" as a purely [[neurosis|neurotic]] [[defence|mechanism]] and distinguishes it clearly from the apparently similar phenomenon that occurs in [[psychosis]] (which [[Lacan]] calls [[foreclosure]]). 
+
+Whereas [[projection]] is rooted in the [[imaginary]] [[dual relation]]ship between the [[ego]] and the [[counterpart]],<ref>{{S3}} p. 145</ref> [[foreclosure]] goes beyond the [[imaginary]] and instead involves a [[signifier]] which is not incorporated in the [[symbolic]].
+
+=====Introjection=====
+[[Lacan]] also rejects the view that [[introjection]] is the [[inversion|inverse]] of [[projection]], arguing that these two processes are located on quite different levels. 
+
+Whereas [[projection]] is an [[imaginary]] [[defence|mechanism]], [[introjection]] is a [[symbolic]] process.<ref>{{Ec}} p. 655</ref>
+
+=====See Also=====
+{{See}}
+* [[Counterpart]]
+* [[Defence]]
+||
+* [[Dual relation]]
+* [[Ego]]
+||
+* [[Foreclosure]]
+* [[Imaginary]]
+||
+* [[Introjection]]
+* [[Introversion]]
+||
+* [[Neurosis]]
+* [[Psychosis]]
+||
+* [[Subject]]
+* [[Symbolic]]
+{{Also}}
+
+=====References=====
+<references/>
+
+[[Category:Sigmund Freud]]
+[[Category:Freudian psychology]]
+{{OK}}
+
+__NOTOC__

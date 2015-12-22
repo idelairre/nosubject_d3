@@ -1,0 +1,38 @@
+The term obsession refers to images, ideas, or words that force themselves into the subject's consciousness against their will, and which momentarily deprive them of the ability to think and sometimes even to act. The term is derived from the Latin obsidere, which means "to sit before," "to lay siege to," and figuratively "to control an audience." From this is derived the noun obsidio, which means "detention," or "captivity," and figuratively "a pressing danger."
+
+Classical psychiatrists had described the experience of a person whose consciousness was besieged by an intrusive thought and who, although lucid and in possession of his faculties, was incapable of stopping it. Philippe Pinel (mania without delusion), Jean-Étienne Esquirol (affective monomania), and Jules Baillarger (madness accompanied by conscious awareness) all distinguished this pathology from mental alienation in the strict sense. But it was Bénédict-Augustin Morel (emotional delusion) and Jean-Pierre Falret (the madness of doubt and the delusion of touch) who described a clinical picture that was closest to what would later be referred to as obsessional neurosis.
+
+It was Sigmund Freud, however, in his description of obsessional neurosis in "Heredity and Aetiology of the Neuroses" (1896a), who considered obsession to be a symptom that is part of a larger clinical picture, a symptom that serves as a compromise and has an economic function. "Obsessive ideas . . . are nothing but reproaches addressed by the subject to himself because of anticipated sexual pleasure, but these reproaches are disfigured by an unconscious psychic process of transformation and substitution."
+
+For Freud the notion of Zwang (compulsion) assumed a much broader and more fundamental meaning than that which he gave it in the clinical picture of obsessional neurosis. It reflects what is most radical in the drive: "In the mental unconscious, we can recognize the supremacy of a repetition compulsion arising from libidinal emotions that are most likely dependent on the most intimate nature of drives that are sufficiently powerful to place themselves above the pleasure principle, lending certain aspects of psychic life their demoniacal character" (1919h).
+
+In his article on the case of the "Rat Man" (1909d) Freud writes, "The definition I gave in 1896 of compulsive ideas, namely that they are 'reproaches that have been repressed but now return transformed, always related to a sexual act from childhood that brought pleasure when carried out,' seems to me today to be arguable in formal terms. . . . In fact it is more correct to speak of 'compulsive thinking' and to emphasize the fact that compulsive structures may be equivalent to the most diverse psychic actions. These may be defined as wishes, temptations, impulses, reflections, doubts, commands and prohibitions."
+
+Obsessions must be distinguished from phobias. A phobia is the fear of an object in the outside world whose absence or avoidance is sufficient, in principle, to avoid anxiety, while an obsession involves a mental representation that the subject cannot escape. Although the distinction had little meaning for Pierre Janet when he described "psychasthenia," it was essential for Freud. Phobias are associated with the qualities of objects, whereas obsessions are concerned with the characteristics of mental representations. Obsessions must also be distinguished from idées fixes and prevalent ideas: "The latter are integrated in the subject's personality and are not recognized as unhealthy. A claimant can be constantly preoccupied with the idea of an injustice suffered; he suffers from it, tries to obtain satisfaction by any means, but never thinks that the object of his preoccupations is absurd or without grounds" (Guiraud, 1956). As for the impulsive act, it lacks the hesitation and internal struggle typical of obsession, which, even resolved, always entails a period of uneasiness and indecision.
+
+There would be little point in making a list of obsessions by type. They can be religious, metaphysical or moral; they might concern purity or physical protection, or protection against external dangers; or follow questions of precision and completeness, order and symmetry, or the flow of time (Green, 1965).
+
+It would almost be possible to retrace the evolution of psychiatry from the classical period to the present-day by following the status of obsessions within the clinical groupings provided by various authors. We have seen how Freud, by giving obsession its status as a symptom, something that is both a compromise and has an economic function, enabled dynamic psychiatry to become thoroughly modern. The description of obsessional neurosis served as a model for all psychoanalytic theory. This is why Freud, throughout his work, constantly returned to the economic, topographical, and metapsychological problems presented by this concept.
+
+Innovations in the United States (DSM III and IV—Diagnostic and Statistical Manual of Mental Disorders) have expanded the framework of clinical concepts and brought about the near disappearance of the science of psychopathology. As a result, new groups of symptoms have been introduced, based on a statistical approach, and new entities created, such as the compulsive obsessional disturbances. These revisions have expanded the clinical spectrum by including somatic obsessions (hypochondria, dysmorphophobia), physical obsessions (eating disorders like anorexia and bulimia), sexual obsessions (paraphilia), and pathological jealousy. In this way we have come full circle, back to a prepsychoanalytic era, back to the origins of classical psychiatry itself.
+
+MARC HAYAT
+Bibliography
+
+    * Freud, Sigmund. (1896a). Heredity and the aetiology of the neuroses. SE, 3: 141-156.
+    * ——. (1909d). Notes upon a case of obsessional neurosis. SE, 10: 151-318.
+    * ——. (1919h). The "uncanny." SE, 17: 217-256.
+    * Green, André. (1965). Obsessions et psychonévrose obsessionnelle. In Encyclopédie médico-chirurgicale, Psychiatrie. Paris: E.M.-C., fasc. 37-370-A-10, p. 1-10, B-10, p. 1-5, C-10, p. 1-6, D-10, p. 1-14.
+    * Hantouche,Élie. (1995). Troubles obsessionnels compulsives. In Encyclopédie médico-chirurgicale, Psychiatrie. Paris: E.M.-C., fasc. 37-370-A-10, p. 1-14.
+    * ——. (1997). Obsession. Les Objets de la psychiatrie (p. 389-390). Paris: L'Esprit du temps.
+    * Lantéri-Laura Georges, and Del Pistoia, Luciano. (1984). Névrose obsessionnelle. In Encyclopédie médico-chirurgicale, Psychiatrie. Paris: E.M.-C., fasc. 37-370-A-10, p. 1-20.
+
+Further Reading
+
+    * Esman, Aaron. (2001). Obsessive-compulsive disorder: Current views. Psychoanalytical Inquiry, 21, 145-156.
+    * Freud, Anna. (1966). Obsessional neurosis: A summary of Congress views. International Journal of Psychoanalysis, 47, 116-122.
+    * Gabbard, Glen. (2001). Psychoanalytic approaches to treatment of obsessive-compulsive disorder. Psychoanalytical Inquiry, 21, 208-221.
+
+
+[[Category:Neurosis]]
+[[Category:Psychotherapy]]

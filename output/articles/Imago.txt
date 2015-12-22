@@ -1,0 +1,60 @@
+==Psychoanalysis==
+Originally introduced into [[psychoanalytic theory]] by [[Jung]] in 1911, the Latin term ''[[imago]]'' had already become standard in [[psychoanalytic]] [[:category:terms|terminology]] by the time [[Lacan]] began [[training]] as a [[psychoanalyst]] in the 1930s.
+
+==Images==
+The term is clearly related to the term "[[image]]", but it is meant to emphasize the subjective determination of the [[image]]; in other words, it includes feelings as well as a visual representation.
+
+[[Imago]]s are specifically [[image]]s of other people.
+
+However, they are not the product of purely personal experience but universal prototypes which may be actualized in anyone's [[psyche]].
+
+[[Imago]]s act as stereotypes influencing the way the [[subject]] relates to other people, who are perceived through the lens of these various [[imago]]s.
+
+==Complex==
+The term "[[imago]]" occupies a central role in [[Lacan]]'s pre-1950 writings, where it is closely related to the term [[complex]].
+
+In 1938, [[Lacan]] links each of the three [[family complex]]es to a specific [[imago]]: the [[weaning]] [[complex]] is liked to the [[imago]] of the maternal breast, the [[intrusion complex]] to the [[imago]] of the [[counterpart]], and the [[Oedipus complex]] to the [[imago]] of the [[father]].<ref>{{1938}}</ref>
+
+==Psychology==
+In 1946, [[Lacan]] argues that in formulating the concept of the [[imago]], [[psychoanalysis]] has provided [[psychology]] with a proper object of study and thus set [[psychology]] on a truly scientific footing.
+
+<blockquote>"It is possible.. to designate in the imago the proper object of psychology, exactly to the same extent that Galileo's notion of the inert material poitn formed the basis of phsyics."<ref>{{Ec}} p. 188</ref></blockquote>
+
+==Negative Effects==
+Whereas for [[Jung]] and [[Klein]] [[imago]]s have equally positive and negative effects, in [[Lacan]]'s work they are weighted firmly towards the negative, being funamentally deceptive and disruptive elements.
+
+[[Lacan]] speaks of the [[imago]] of the [[fragmented body]], and even [[autonomy|unified]] [[imago]]s such as the [[specular image]] are mere [[illusion]]s of [[lack|wholeness]] which introduce an underlying [[aggressivity]].
+
+<blockquote>"The first effect of the imago which appears in the human being is an effect of subjective ''alienation''.<ref>{{Ec}} p. 181</ref></blockquote>
+
+==Jacques Lacan==
+After 1950 the term "[[imago]]" disappears almost entirely from [[Lacan]]'s [[theoretical]] [[:category:concepts|vocabulary]].
+
+However, the basis ideas developed around the term in [[Lacan]]'s pre-1950 writings continue to play an important part in his thinking, being articulated around other terms, principally the term "[[image]]".
+
+==See Also==
+{{See}}
+* [[Complex]]
+* [[Counterpart]]
+||
+* [[Fragmented body]]
+* [[Lack]]
+||
+* [[Image]]
+* [[Specular image]]
+{{Also}}
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+[[Category:Psychoanalysis]]
+[[Category:Jacques Lacan]]
+[[Category:Imaginary]]
+[[Category:Dictionary]]
+[[Category:Concepts]]
+[[Category:Terms]]
+{{OK}}
+
+__NOTOC__

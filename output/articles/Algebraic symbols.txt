@@ -1,0 +1,53 @@
+[[Image:Lacan-algebra.jpg|thumb|right|[[List of algebraic symbols]]]]
+
+[[Algebra]] ([[Fr]]. ''[[algèbre]]'')  is a branch of [[mathematics]] 
+* which reduces the solution of problems to manipulations of [[symbolic]] expressions, and
+* concerned with the properties and relationships of abstract entities represented in symbolic form.
+
+==Jacques Lacan==
+[[Jacques Lacan]] begins to use [[algebraic]] [[symbol]]s in 1955 -- in an attempt to [[formalise]] [[psychoanalysis]].
+
+===Formalization of Psychoanalysis===
+
+Three main reasons lie behind this attempt at [[formalization]].
+
+:1. [[Formalization]] is necessary for [[psychoanalysis]] to acquire [[scientific]] status.
+
+:Just as [[Claude Lévi-Strauss]] uses quasi-mathematical formulae in an attempt to set [[anthropology]] on a more [[scientific]] footing, [[Lacan]] attempts to do the same for [[psychoanalysis]]
+
+:[[Lacan]] used quasi-mathematical formulae in an attempt to set [[psychoanalysis]] on a more [[scientific]] footing.
+
+:2. [[Formalization]] can provide a core of [[psychoanalytic theory]] which can be transmitted integrally even to those who have never experienced [[psychoanalytic treatment]].
+
+:The [[matheme|formulae]] thus become an essential aspect of the [[training]] of [[psychoanalysis]] which take their place alongside [[training|training analysis]] as a medium for the transmission of [[psychoanalytic]] [[knowledge]].
+
+:3. [[Formalization]] of [[psychoanalytic theory]] in terms of [[algebraic]] [[symbols]] is a means of preventing [[knowledge|intuitive understanding]], which [[Lacan]] regards as an [[imaginary]] [[lure]] which hinders access to the [[symbolic]].
+
+:Rather than being understood in an intuitive way, the [[algebraic]] [[symbols]] are to be used, manipulated and read in various different ways.<ref>{{E}} p.313</ref>
+
+==List of Algebraic Symbols==
+
+The [[algebraic]] [[symbol]]s used by [[Lacan]] appear principally in the [[matheme]]s, [[schema l]] and the [[graph of desire]]. 
+
+It is important to remember that the [[symbol]]s do not always refer to the same concept throughout [[Lacan]]'s work, but are used in different ways as his work develops. 
+
+''[[List of algebraic symbols|List of Algebraic Symbols]]''
+
+
+==See Also==
+* [[Algebra]]
+* [[List of algebraic symbols]]
+* [[Matheme]]
+* [[Formalization]]
+* [[Science]]
+
+==References==
+<references/>
+
+==See Also==
+[[Category:Psychoanalysis]]
+[[Category:Jacques Lacan]]
+[[Category:Science]]
+[[Category:Concepts]]
+[[Category:Science]]
+[[Category:Terms]]

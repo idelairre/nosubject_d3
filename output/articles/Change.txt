@@ -1,0 +1,50 @@
+The psychic changes observable during psychoanalytic treatment involve two distinct processes. First, the therapeutic process applies to symptoms, personality traits, and behaviors amenable to transformation. Second, the psychoanalytic process applies to how the experience created by the analytic setting and the rules of technique is lived out. The articulation of these two processes defines the question of change in psychoanalysis.
+
+Without ever acquiring a specific conceptual status, the idea of change has been the focus of continual questioning since the beginning of psychoanalysis. As pointed out by Daniel Widlöcher (1970), it is easily traced in Sigmund Freud's work. As early as their preliminary communication of 1893, which served to introduce their Studies on Hysteria (1895d), Freud and Breuer established both the modus operandi of the cathartic treatment of hysteria and the idea that the mechanism of treating the symptom is the reverse of the mechanism of its formation. The recollection of an event and its affective charge spark a process that reverses the pathogenic process brought about by repression. From that point on and indeed throughout the rest of his work, Freud drew on his observation of resistances to change to modify, deepen, and refine his model of change. Three moments mark the beginnings of psychoanalysis: the development of the rules of technique, the shift in focus from trauma theory to the role of fantasy, and the introduction of the concept of change in the form of libidinal development. Here we have an indication of the importance of a model of change to psychoanalysis.
+
+Freud's discovery of the extent and importance of the transference between 1904 and 1910 introduced a new model of change, which is particularly well explained in his Introductory Lectures on Psycho-Analysis (1916-1917a [1915-1917]). Transference affects the processes of change in several ways. It is an obstacle used by resistance, and it hinders the processes of association and remembering by encouraging repetition through acting out. But it is also a lever for therapeutic transformation, because the patient cathects with the therapist and this reveals features of past attachments and conflicts. Above all, repetition in the transference leads the patient to externalize a conflicted intrapsychic structure and displace it onto the relationship with the analyst. This is the origin of the tripartite therapeutic model of clinical neurosis, transference neurosis, and infantile neurosis.
+
+Beginning in the 1920s, growing doubts about the therapeutic effectiveness of psychoanalysis led Freud to make two basic theoretical revisions. First, he introduced the dualism of the life and death instincts to account for the force of the compulsion for repetition as compared with the inertia of libidinal-object choice. The second revision was based on a more diversified analysis of the processes of resistance to change, which allowed Freud, in "Inhibitions, Symptoms, and Anxiety" (1926d [1925]), to differentiate the resistances of the id, the ego, and the superego—a distinction made possible by the new structural model but also strengthened the clinical effectiveness of treatment. On this basis Freud constructed a third model, which he formulated in a binary manner: "Where id was, there ego shall be," he wrote in "New Introductory Lectures on Psycho-Analysis" (1933a [1932], p. 80). In "Analysis Terminable and Interminable" (1937c), Freud offered a more modest version of this formulation, evoking a kind of to-and-fro between ego analysis and id analysis. He was also careful to recall the bases of resistance to change (libidinal viscosity, the repetition compulsion, and also penis envy in women and masculine protest in men).
+
+Throughout his work, in fact, Freud emphasized the study of resistances. In "Analysis Terminable and Interminable" (1937c), he emphasized, "Instead of an enquiry into how a cure by analysis comes about (a matter which I think has been sufficiently elucidated) the question should be asked of what are the obstacles that stand in the way of such a cure" (p. 221).
+
+Have developments in psychoanalytic thinking since Freud followed through on this recommendation? Probably in part, even though the various theories have focused chiefly on their respective models of change. The development of many different schools of thought after Freud owes a great deal to modifications of technique (though only in close association with the work of interpretation) and, in the final analysis, to theoretical approaches that seek to specify the articulations between a pathological model, a developmental model, and a model of change through treatment. Yet all schools of psychoanalysis have based themselves on theoretical and clinical elements already present in Freud's work. Rather than an expression of allegiance, this is a consequence of the fact that Freud's theory of change (and the different models successively added to it) covers a very complex reality, of which the various schools have tried to specify a particular portion.
+
+It is worth drawing out a few main themes of these schools, though without reviewing the technical and theoretical frameworks of each (which are rarely presented in connection with the processes of change and resistance to change). The first theme concerns the psychoanalyst's involvement in the process of change. The idea of a neutral therapist, whose "noninvolvement" ensures the necessary capacity for listening and interpretation, has given way to an ever narrower focus on the analyst's mental efforts and role in change. This trend, already well underway in Sándor Ferenczi's innovations in technique, is evident in studies of the role of counter-transference by Paula Meimann and Heinrich Racker, and is currently being developed around the concepts of interaction, empathy (Ralph Greenson, Heinz Kohut), and "co-thinking" (Widlöcher).
+
+Rather different from the foregoing is the narrative or constructivist tendency. This trend includes the otherwise varied approaches of Jacques Lacan, Roy Schafer, and Serge Viderman, all of whom in their respective ways emphasized how the work of interpretation is constructive.
+
+Another theme is the mechanisms of externalization and internalization. Authors here have returned to the model of transference neurosis to show how pathological structures are displaced in the therapeutic relationship. Often abandoning the classical model of neurosis, these authors (including Melanie Klein and her students, as well as object-relations theorists) describe more archaic processes that become amenable to analysis once they are externalized in the transference.
+
+A third approach stresses the reparative function of the process of change. Change is expected to affect choices of libidinal objects. This trend develops the Freudian idea of the "revision of the process" by placing considerable emphasis on the emotions and the psychoanalyst's containing function. Such authors as Michael Balint, Donald Winnicott, and Wilfred R. Bion, very different in other respects, belong to this trend.
+
+Other dimensions of change could, of course, be taken into consideration. The most important thing, perhaps, is to identify the reasons for the various divergences on the nature of psychic change and their impact on the activity and future development of the institutions of psychoanalysis. The problem is less one of justifying the existence of several models (which, as noted earlier, has to do with the complexity of the processes involved) than of explaining the reasons for theoretical choices. Clearly, the extension of psychoanalytic treatment to a broader range of cases and the application of psychoanalysis to serious pathologies have had a decisive impact on evolving ideas about change. Will this trend toward disparate models of psychic change continue? If not, what other trend will supplant it? What role will planned research studies, which tend to objectify certain data, play at a time when psychoanalysts are increasingly being held accountable for treatment choices, their effectiveness, and their cost?
+
+==See Also==
+* [[Adolescent crisis]]
+* [[Autoplastic]]
+* [[Catastrophic change]]
+* [[Cure]]
+* [[Depersonalization]]
+* [[Ego autonomy]]
+* [[Female sexuality]]
+* [[Mutative interpretation]]
+* [[Narcissistic withdrawal]]
+* [[Object, change of/choice of]]
+
+==References==
+<references/>
+# Freud, Sigmund. (1916-1917a [1915-1917]). Introductory lectures on psycho-analysis. SE, 15-16.
+# ——. (1926d [1925]). Inhibitions, symptoms, and anxiety. SE, 20: 75-172.
+# ——. (1933a [1932]). New introductory lectures on psycho-analysis. SE, 22: 1-182.
+# ——. (1937c). Analysis terminable and interminable. SE, 23: 209-253.
+# ——, & Breuer, Josef. (1893a). On the psychical mechanism of hysterical phenomina: Preliminary communication. SE, 2: 1-17.
+# Freud, Sigmund, and Breuer, Josef. (1895d). Studies on hysteria. SE, 2: 48-106.
+
+[[Category:New]]
+
+
+[[Category:Enotes]]
+[[Category:Index]]
+[[Category:Politics]]
+[[Category:Political theory]]

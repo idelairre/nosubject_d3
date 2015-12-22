@@ -1,0 +1,92 @@
+{{S}}
+{| style="width:250px; border:1px solid #aaa;text-align:left; line-height:2.0em; padding-left:10px;"
+|width="100px"|
+|width="150px"|
+|-
+| [[{{Y}}|1971 - 1972]]
+| ''[[...ou pire]]''<BR>[[...Or Worse]]
+|}
+
+{| class="wikitable" width="250px" cellpadding="4" cellspacing="4" align="center" bgcolor="#ffffff" style="line-height:2.0em; padding-left:30px; background:#ffffff; text-align:center;"
+| bgcolor="#ffffff" width="200px" style="padding-left:10px" | [[{{Y}}|Date]]
+| bgcolor="#ffffff" width="50px" style="padding-left:10px" | [[{{Y}}|PDF]]
+| bgcolor="#ffffff" width="50px" style="padding-left:10px" | [[{{Y}}|MP3]]
+|-
+| bgcolor=#ffffff style=padding-left:15px |  [[{{Y}}|04 novembre 1971]] 
+| [http://{{archive}}/seminaireXIX/1971.11.04.pdf link]
+| [http://www.nosubject.com/archive/audio/seminaireXIX/1971.11.04.mp3 link]
+|-
+| bgcolor=#ffffff style=padding-left:15px |  [[{{Y}}|02 décembre 1971]]
+| [http://{{archive}}/seminaireXIX/1971.12.02.pdf link]
+| [http://www.nosubject.com/archive/audio/seminaireXIX/1971.12.02.mp3 link]
+|-
+| bgcolor=#ffffff style=padding-left:15px |  [[{{Y}}|08 décembre 1971]]
+| [http://{{archive}}/seminaireXIX/1971.12.08.pdf link]
+| [http://www.nosubject.com/archive/audio/seminaireXIX/1971.12.08.mp3 link]
+|-
+| bgcolor=#ffffff style=padding-left:15px |  [[{{Y}}|15 décembre 1971]]
+| [http://{{archive}}/seminaireXIX/1971.12.15.pdf link]
+| [http://www.nosubject.com/archive/audio/seminaireXIX/1971.12.15.mp3 link]
+|-
+| bgcolor=#ffffff style=padding-left:15px |  [[{{Y}}|06 janvier 1972]]
+| [http://{{archive}}/seminaireXIX/1972.01.06.pdf link]
+| [http://www.nosubject.com/archive/audio/seminaireXIX/1972.01.06.mp3 link]
+|-
+| bgcolor=#ffffff style=padding-left:15px |  [[{{Y}}|12 janvier 1972]]
+| [http://{{archive}}/seminaireXIX/1972.01.12.pdf link]
+| [http://www.nosubject.com/archive/audio/seminaireXIX/1972.01.12.mp3 link]
+|-
+| bgcolor=#ffffff style=padding-left:15px |  [[{{Y}}|19 janvier 1972]]
+| [http://{{archive}}/seminaireXIX/1972.01.19.pdf link]
+| [http://www.nosubject.com/archive/audio/seminaireXIX/1972.01.19.mp3 link]
+|-
+| bgcolor=#ffffff style=padding-left:15px |  [[{{Y}}|03 février 1972]] 
+| [http://{{archive}}/seminaireXIX/1972.02.03.pdf link]
+| [http://www.nosubject.com/archive/audio/seminaireXIX/1972.02.03.mp3 link]
+|-
+| bgcolor=#ffffff style=padding-left:15px |  [[{{Y}}|09 février 1972]]  
+| [http://{{archive}}/seminaireXIX/1972.02.09.pdf link]
+| [http://www.nosubject.com/archive/audio/seminaireXIX/1972.02.09.mp3 link]
+|-
+| bgcolor=#ffffff style=padding-left:15px |  [[{{Y}}|03 mars 1972]]
+| [http://{{archive}}/seminaireXIX/1972.03.03.pdf link]
+| [http://www.nosubject.com/archive/audio/seminaireXIX/1972.03.03.mp3 link]
+|-
+| bgcolor=#ffffff style=padding-left:15px |  [[{{Y}}|08 mars 1972]]
+| [http://{{archive}}/seminaireXIX/1972.03.08.pdf link]
+| [http://www.nosubject.com/archive/audio/seminaireXIX/1972.03.08.mp3 link]
+|-
+| bgcolor=#ffffff style=padding-left:15px |  [[{{Y}}|15 mars 1972]]
+| [http://{{archive}}/seminaireXIX/1972.03.15.pdf link]
+| [http://www.nosubject.com/archive/audio/seminaireXIX/1972.03.15.mp3 link]
+|-
+| bgcolor=#ffffff style=padding-left:15px |  [[{{Y}}|19 avril 1972]]
+| [http://{{archive}}/seminaireXIX/1972.04.19.pdf link]
+| [http://www.nosubject.com/archive/audio/seminaireXIX/1972.04.19.mp3 link]
+|-
+| bgcolor=#ffffff style=padding-left:15px |  [[{{Y}}|04 mai 1972]]
+| [http://{{archive}}/seminaireXIX/1972.05.04.pdf link]
+| [http://www.nosubject.com/archive/audio/seminaireXIX/1972.05.04.mp3 link]
+|-
+| bgcolor=#ffffff style=padding-left:15px |  [[{{Y}}|10 mai 1972]]
+| [http://{{archive}}/seminaireXIX/1972.05.10.pdf link]
+| [http://www.nosubject.com/archive/audio/seminaireXIX/1972.05.10.mp3 link]
+|-
+| bgcolor=#ffffff style=padding-left:15px |  [[{{Y}}|17 mai 1972]]
+| [http://{{archive}}/seminaireXIX/1972.05.17.pdf link]
+| [http://www.nosubject.com/archive/audio/seminaireXIX/1972.05.17.mp3 link]
+|-
+| bgcolor=#ffffff style=padding-left:15px |  [[{{Y}}|01 juin 1972]] 
+| [http://{{archive}}/seminaireXIX/1972.06.01.pdf link]
+| [http://www.nosubject.com/archive/audio/seminaireXIX/1972.06.01.mp3 link]
+|-
+| bgcolor=#ffffff style=padding-left:15px |  [[{{Y}}|14 juin 1972]] 
+| [http://{{archive}}/seminaireXIX/1972.06.14.pdf link]
+| [http://www.nosubject.com/archive/audio/seminaireXIX/1972.06.14.mp3 link]
+|-
+| bgcolor=#ffffff style=padding-left:15px |  [[{{Y}}|21 juin 1972]] 
+| [http://{{archive}}/seminaireXIX/1972.06.21.pdf link]
+| [http://www.nosubject.com/archive/audio/seminaireXIX/1972.06.21.mp3 link]
+|}
+
+__NOTOC__

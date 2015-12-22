@@ -1,0 +1,30 @@
+In psychoanalysis, the term "stratification" refers to the layers of ideation constructed by the psyche. In <i>Studies on Hysteria</i> (1895d), Freud noted, "Thus it came about that in this, the first full-length analysis of a hysteria undertaken by me, I arrived at a procedure which I later developed into a regular method and employed deliberately. This procedure was one of clearing away the pathogenic psychical material layer by layer, and we liked to compare it with the technique of excavating a buried city" (p. 139).
+Exploring the theme in greater detail in the chapter entitled "The Psychotherapy of Hysteria," he stated that his aim was a "dynamics of ideation" (p. 287). "The psychical material," he explained, "presents itself as a structure in several dimensions which is stratified in at least three different ways" (p. 288). First is a reverse linear chronology, "as though we were examining a dossier that had been kept in good order" (p. 288). Second is a concentric stratification around the pathogenic nucleus, where resistance increases as one gets closer to the nucleus. Here the strata represent zones of "an equal degree of modification of consciousness" (p. 289). Finally, there is dynamic stratification, which follows thought contents. Dynamic stratification is revealed by trajectories that zigzag from the surface down into the deep strata and back up again, passing through all levels and convergent nexuses of communication. The overdetermination of symptoms results from this type of stratification.
+The problem of the stratification of the psyche, and thus of a "dynamics of ideation," remained a constant preoccupation for Freud from then on. Indeed, psychoanalysis itself can be characterized as a psychology of depths. To explore these depths of the psyche, Freud developed topographies in writings spanning from <i>The Interpretation of Dreams</i> (1900a) through "Splitting of the Ego in the Process of Defence" (1940e [1938]). But the topographies were not enough. Freud also posited different temporalities within the psyche, such as the atemporality of the unconscious. Also playing a part in Freud's elaboration of the structure of the psyche were phylogenetic traces of an archaic heritage, fixation, regression, and the life and death instincts. Described in "The Ego and the Id" (1923b) as the "precipitate of abandoned object cathexes" (p. 29), the ego too exhibits considerable stratification. What happens at the boundaries between the various strata and among the agencies of the mind can also be characterized as strata dynamics.
+In mathematics, a stratified set is made by stitching together varieties of different dimensions. Catastrophe theory sheds light on the dynamics capable of generating these stratifications and on modes of passage from one stratum to another. This could be an outstanding tool for linking together the questions raised by Freud.
+
+==See Also==
+* [[Analyzability]]
+* [[Archaic]]
+* [[Archaeology, metaphor of]]
+* [[Biological bedrock]]
+* [[Fusion/defusion of instincts]]
+* [[History and psychoanalysis]]
+* [[Id]]
+* [[Instinctual impulse]]
+* [[Libidinal stage]]
+* [[Mnemic trace/memory trace]]
+* [[Proton-pseudos]]
+* [[Studies on Hysteria]]
+
+==References==
+<references/>
+# Freud, Sigmund. (1900a). The interpretation of dreams. SE, 4: 1-338]]
+* [[5: 339-625.
+# ——. (1923b). The ego and the id. SE, 19: 1-66.
+# ——. (1925a [1924]). A note upon the "mystic writing pad." SE, 19: 225-232.
+# ——. (1930a [1929]). Civilization and its discontents. SE, 21: 57-145.
+# ——. (1940e [1938]). Splitting of the ego in the process of defence. SE, 23: 271-278.
+# Freud, Sigmund, and Breuer, Josef. (1895d). Studies on hysteria. SE, 2: 48-106.
+
+[[Category:New]]

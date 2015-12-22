@@ -1,0 +1,4 @@
+<rss number=10>http://nosubject.com/forum/index.php?act=rssout&id=1</rss>
+
+
+<rss number=10>http://nosubject.com/index.php?title=No_Subject:News&feed=rss</rss>

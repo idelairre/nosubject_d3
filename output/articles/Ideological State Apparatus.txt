@@ -1,0 +1,45 @@
+The term 'Ideological State Apparatus' was coined by Althusser in his influential essay 'Ideology and Ideological State Apparatuses'. Althusser begins this essay by wondering how society reproduces itself; more specifically, he examines the reasons why a capitalist society remains capitalist and does not, for example, lapse into frequent bouts of anarchy and feudalism. What, in other words, compels us to turn up to work every day, rather than setting up independent dictatorships whenever we feel like it? His first answer is that the State has at its disposal large reserves of troops, police and prisons with which it can physically quell any revolt. These reserves belong to what Althusser terms the Repressive State Apparatus. As the title suggests, the Repressive State Apparatus consists of all the ways in which the State can control a population by force. As we saw in the last chapter, for Žižek it is by means of the Repressive State Apparatus-that is by means of physical coercion and violence-that the reign of the law is initially secured.
+
+However, having secured the initialization of the law, how is the law then maintained? In a last resort, the State can always call upon the Repressive  State Apparatus to buttress its authority, such as happens on a micro level with petty crime, and on a macro level with mass demonstrations or revolutions. On a day-to-day basis, though, the State requires a population trained and moulded for its various roles in the Symbolic Order, not one which needs to be prodded out of bed every morning with a bayonet. This, then, for Althusser, is where the Ideological State Apparatuses play their part. The Ideological State Apparatuses are those institutions which help reproduce capitalism by providing it with subjects who are willing to fulfil their role in it. Althusser proposes that the Ideological State Apparatuses are made up of the Churches, the education system, the family unit, the legal system, the political system, trade unions, the communications media and culture. All of these institutions work primarily by means of ideology, rather than by force.
+
+One of the problems with Althusser's Ideological State Apparatuses, however, is precisely the way in which these institutions are supposed to inscribe subjects within ideology. For Althusser this is a matter of what he terms 'interpellation' or 'hailing'. As Althusser proposes, interpellation 'can be imagined along the lines of the most common-place everyday police (or other) hailing: "Hey, you there!"' (quoted in MI: 131). In Althusser's model, if you are hailed in this way, you will almost invariably recognize yourself in the call and think that it is precisely you who is being hailed. For Žižek this model of interpellation fails to explain how an Ideological State Apparatus creates belief in an ideology. How is merely being hailed enough to make you believe in ideology? The solution to this problem, according to Žižek, is to view Ideological State Apparatuses as ideology machines in the Pascalian sense. That is, Ideological State Apparatuses are mechanisms which generate a belief in a particular system, creating a conviction in the rectitude of that system before we are even aware of it. They unconsciously pre-empt our belief and thereby habituate us to it.
+
+
+
+INTERPELLATION
+In [[Althusser]]'s theory of [[ideology]], [[interpellation]] is the mechanism that produces [[subject]]s in such a way that they recognize their own [[existence]] in terms of the dominant [[ideology]] of the society in which they live. (1970).
+
+The French ''[[interpellation]]'' is commonly used to mean 'being taken in by the police for questioning', it also means the 'questioning' of a minister in parliament.
+
+[[Althusser]]'s basic illustration of the mechanism exploits this sense of 'questioning' or 'hailing'.
+
+An [[individual]] walking down the street is hailed by a police officer - 'Hey, you there!' - and turns round to recognize the fact that he is being addressed.
+
+In doing so, that [[individual]] is constituted as a [[subject]].
+
+According to [[Althusser]], the idea of interpellation demonstrates that [[subject]]s are always and already the products of [[ideology]], and thus subverts the [[idealist]] thesis that [[subjectivity]] is primary or self-founding.
+
+
+
+==Vaneigem==
+
+A similar notion of [[interpellation]] can be found in [[Vaneigem]]'s contribution to the theory of [[situationism]] (1967).
+
+Confronted by the flow of [[sign]]s and [[image]]s that cosntitute [[Debord]]'s '[[society of the spectacle]]', [[individual]]s are constantly [[interpellated]] by posters, advertisements and stereotypes offering universal [[image]]s in which they are invited to recognize themselves.
+
+The function of [[interpellation]] is to block spontaneous creativity.
+
+Whether or not there is any direct connection between the two notions of [[interpellation]] remains unclear.
+
+==See Also==
+* [[Interpellation]]
+* [[Louis Althusser]]
+* [[Ideology]]
+
+==References==
+<references/>
+
+[[Category:Edit]]
+[[Category:New]]
+[[Category:Politics]]
+[[Category:Ideology]]

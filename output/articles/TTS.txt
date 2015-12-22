@@ -1,0 +1,4 @@
+<inputbox>
+type=create
+preload=Template:TTS
+</inputbox>

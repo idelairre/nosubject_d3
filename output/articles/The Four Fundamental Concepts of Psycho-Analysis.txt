@@ -1,0 +1,104 @@
+[[Image:|thumb|right|''The Seminar of Jacques Lacan, Book XI''. ''The Four Fundamental Concepts of Psychoanalysis''.]]
+
+* {{L}} ''The Seminar of Jacques Lacan, Book XI''. ''The Four Fundamental Concepts of Psychoanalysis''. Ed. [[Jacques-Alain Miller]]. Trans. [[Alan Sheridan]]. New York: W. W. Norton & Company, Inc., 1981.
+
+
+=====Description=====
+''[[The Four Fundamental Concepts of Psycho-Analysis]]'' is the English translation of one of the pivotal works of [[Jacques Lacan]].
+
+Translation of ''Les quatre concepts fondamentaux de la psychanalyse''' by [[Alan Sheridan]].
+
+This classic text probes the relationship between [[psychoanalysis]] and [[science]] and [[religion]] as well as defining the [[unconscious]], the [[repetition]], the [[transference]], and the [[drive]] as the underlying concepts of [[psychoanalysis|psycho-analysis]].
+
+
+=====Back Cover=====
+[[Jacques Lacan]]’s [[Jacques Lacan:Bibliography|writings]], and especially the [[seminars]] for which he has become famous, offer a controversial, radical reappraisal of the legacy bequeathed by [[Freud]]. 
+
+This volume is based on a year’s [[seminar]] in which Dr. [[Lacan]] addressed a larger, less specialized audience than ever before, among whom he could not assume familiarity with his work.
+
+For his listeners then, and for his readers now, he wanted "to introduce a certain coherence into the major concepts on which [[psychoanalysis|psycho-analysis]] is based", namely the ''[[unconscious]]'', ''[[repetition]]'', the ''[[transference]]'' and the ''[[drive]]''.
+
+Along the way he argues for a structural affinity between [[psychoanalysis]] and [[language]], discusses the relation of [[psychoanalysis]] to [[religion]], and reveals his particular stance on topics ranging from [[sexual difference|sexuality]] and [[death]] to [[alienation]] and [[repression]].
+
+This book constitutes the essence of [[Lacan]]'s sensibility.
+
+
+=====Contents=====
+{| class="wikitable" style="width:100%; height:200px; text-align:center; line-height:2.0em;"
+|-
+|
+{| class="wikitable" style="width:70%; height:200px; text-align:left; line-height:2.0em;"
+|-
+| Preface to the English-Language Edition || vii
+|-
+| Editor's Note || xi
+|-
+| 1. Excommunication || 1
+|-
+| THE UNCONSCIOUS AND REPETITION
+|-
+| 2. The Freudian Unconscious and Ours || 17
+|-
+| 3. Of the Subject of Certainty || 29
+|-
+| 4. Of the Network of Signifiers || 42
+|-
+| 5. Tuche and Automaton || 53
+|-
+|
+|-
+| OF THE GAZE AS ''Objet Petit a''
+|-
+| 6. The Split between the Eye and the Gaze || 67
+|-
+| 7. Anamorphosis || 79
+|-
+| 8. The Line and Light || 91
+|-
+| 9. What is a Picture? || 105
+|-
+|
+|-
+| THE TRANSFERENCE AND THE DRIVE
+|-
+| 10. Presence of the Analyst || 123
+|-
+| 11. Analysis and Truth or the Closure of the Unconscious || 136
+|-
+| 12. Sexualtiy in the Defiles of the Signifier || 149
+|-
+| 13. The Deconstruction of the Drive || 161
+|-
+| 14. The Partial Drive and its Circuit || 174
+|-
+| 15. From Love to the Libido || 187
+|-
+| 
+|-
+| THE FIELD OF THE OTHER AND BACK TO THE TRANSFERENCE
+|-
+| 16. The Subject and the Other: Alienation || 203
+|-
+| 17. The Subject and the Other: Aphanisis || 216
+|-
+| 18. Of the Subject who is Supposed to Know, of the first Dyad and of the Good || 230
+|-
+| 19. From Interpretation to the Transference || 244
+|-
+| TO CONCLUDE
+|-
+| 20. In you more than you || 263
+|-
+| 
+|-
+| Translator's Note || 277
+|-
+| Index || 283
+|}
+|}
+
+[[Category:Works]]
+[[Category:Jacques Lacan]]
+[[Category:The Four Fundamental Concepts of Psycho-Analysis]]
+
+__NOTOC__

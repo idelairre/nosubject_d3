@@ -1,0 +1,138 @@
+{{Top}}angoisse{{Bottom}}
+
+==Psychiatry==
+"[[Anxiety]]" has long been recognised in [[psychiatry]] as one of the most common [[symptom]]s of mental disorder. 
+
+[[Psychiatric]] descriptions of [[anxiety]] generally refer to both mental phenomena (apprehension, worry) and bodily phenomena (breathlessnes, palpitations, muscle tension, fatigue, dizziness, sweating and tremor). 
+
+[[Psychiatrist]]s also distinguish between generalised [[anxiety]] states, when "free-floating anxiety" is present most of the time, and "panic attacks," which are "intermittent episodes of acute anxiety."<ref>Hughes, Jennifer. ''An Outline of Modern Psychiatry'', Chichester: Wiley, 1991. pp. 48-9</ref>
+
+==Sigmund Freud==
+The [[German]] term employed by [[Freud]] (''[[Angst]]'') can have the [[psychiatric]] sense described above, but is by no means an exclusively technical term, being also in common use in ordinary [[speech]]. 
+
+[[Freud]] developed two theories of [[anxiety]] during the course of his work. 
+
+From 1884 to 1925 he argued that [[neurotic]] [[anxiety]] is simply a transformation of [[sexual]] [[libido]] that has not been adequately [[discharge]]d. 
+
+In 1926, [[Freud]] argued that [[anxiety]] is a reaction to a "[[trauma]]tic situation," an experience of [[helplessness]] in the face of an accumulation of excitation that cannot be [[discharge]]d. 
+
+[[Trauma]]tic situations are precipitated by "situations of danger" such as birth, [[loss]] of the [[mother]] as [[object]], [[loss]] of the [[object]]'s [[love]] and, above all, [[castration]]. 
+
+[[Freud]] distinguishes between "[[anxiety|automatic anxiety]]," when the [[anxiety]] arises directly as a result of a [[trauma]]tic situation, and "[[anxiety|anxiety as signal]]," when the [[anxiety]] is actively reproduced by the [[ego]] as a warning of an anticipated situation of danger.
+
+==Jacques Lacan==
+In his early work, [[Lacan]] relates [[anxiety]] to the [[threat]] of [[fragmentation]] which the [[subject]] confronts in the [[mirror stage]].
+
+It is only long after the [[mirror stage]], he argues, that these [[fantasy|fantasies]] of bodily dismemberment coalesce around the [[penis]], giving rise to [[castration]] [[anxiety]].<ref>{{1938}} p. 44</ref>
+
+He also links [[anxiety]] with the [[fear]] of being engulfed by the devouring [[mother]]. 
+
+This theme (with its distinctly [[Klein]]ian tone) remains an important aspect of [[Lacan]]'s account of [[anxiety]] thereafter, and marks an apparent difference between [[Lacan]] and [[Freud]]: whereas [[Freud]] posits that one of the causes of [[anxiety]] is [[separation]] from the [[mother]], [[Lacan]] argues that it is precisely a [[lack]] of such [[separation]] which induces [[anxiety]].
+
+==Real==
+After 1953, [[Lacan]] comes increasingly to articulate [[anxiety]] with his concept of the [[real]], a [[trauma]]tic element which remains [[external]] to [[symbolisation]], and hence which lacks any possible mediation. 
+
+This [[real]] is "the essential object which isn't an object any longer, but this something faced with which all words cease and all categories fail, the object of anxiety par excellence."<ref>{{S2}} p. 164</ref>
+
+==Imaginary==
+As well as linking [[anxiety]] with the [[real]], [[Lacan]] also locates it in the [[imaginary]] [[order]] and contrasts it with [[guilt]], which he situates in the [[symbolic]].<ref>{{L}} "[[Works of Jacques Lacan|Fetishism: The Symbolic, the Imaginary and the Real]]" (with W. Granoff), 1956. M. Balint (ed.), ''Perversions: Psychodynamics and Therapy'', New York: Random House, London: Tavistock. pp. 272-3</ref>
+
+<blockquote>"Anxiety, as we know, is always connected with a loss . .  . with a two-sided relation on the point of fading away to be superseded by something else, something which the patient cannot face without vertigo."<ref>{{L}} "[[Works of Jacques Lacan|Fetishism: The Symbolic, the Imaginary and the Real]]" (with W. Granoff), 1956. M. Balint (ed.), ''Perversions: Psychodynamics and Therapy'', New York: Random House, London: Tavistock. p. 273</ref></blockquote>
+
+==Phobia==
+In the [[seminar]] of 1956-7 [[Lacan]] goes on to develop his theory of [[anxiety]] further, in the context of his discussion of [[phobia]]. 
+
+[[Lacan]] argues that [[anxiety]] is the radical danger which the [[subject]] attempts to avoid at all costs, and that the various [[subject]]ive [[formation]]s encountered in [[psychoanalysis]], from [[phobia]]s to [[fetishism]], are protections against [[anxiety]].<ref>{{S4}} p. 23</ref>
+
+[[Anxiety]] is thus present in all [[neurotic]] [[structure]]s, but is especially evident in [[phobia]].<ref>{{E}} p. 321</ref> 
+
+Even a [[phobia]] is preferable to [[anxiety]];<ref>{{S4}} p. 345</ref> a [[phobia]] at least replaces [[anxiety]] with [[fear]] (which is focused on a particular [[object]] and thus may be [[symbolic|symbolically]] worked-through).<ref>{{S4}} p. 243-6</ref>
+
+==Little Hans==
+In his analysis of the case of [[Little Hans]],<ref>{{F}} "[[Work of Sigmund Freud|Analysis of a Phobia in a Five-Year-Old Boy]]", 1909b. [[SE]] X, 3.</ref> [[Lacan]] argues that [[anxiety]] arises at that moment when the [[subject]] is poised between the [[imaginary]] [[preoedipal phase|preoedipal triangle]] and the [[Oedipal]] [[quaternary]]. 
+
+It is at this junction that [[Little Hans|Hans]]'s real [[penis]] makes itself felt in infantile masturbation; [[anxiety]] is produced because he can now measure the difference between that for which he is loved by the [[mother]] (his position as [[imaginary phallus]]) and that which he really has to give (his insignificant real organ).<ref>{{S4}} p.243</ref> 
+
+[[Anxiety]] is this point where the [[subject]] is suspended between a moment where he no longer knows where he is and a future where he will never again be able to refind himself.<ref>{{S4}} p.226</ref> 
+
+[[Hans]] would have been saved from this [[anxiety]] by the [[castrating]] intervention of the [[real]] [[father]], but this does not happen; the [[father]] fails to intervene to separate [[Hans]] from the [[mother]], and thus [[Hans]] develops a [[phobia]] as a substitute for this intervention. 
+
+Once again, what emerges from [[Lacan]]'s account of [[Little Hans]] is that it is not [[separation]] from the [[mother]] which gives rise to [[anxiety]], but failure to [[separation|separate]] from her.<ref>{{S4}} p. 319</ref>
+
+Consequently, [[castration]], far from being the principal source of [[anxiety]], is actually what saves the [[subject]] from [[anxiety]].
+
+==Desire==
+In the [[seminar]] of 1960-1,  [[Lacan]] stresses the relationship of [[anxiety]] to [[desire]].
+
+[[Anxiety]] is a way to sustain [[desire]] when the [[object]] is [[missing]].
+
+[[Desire]] is a remedy for [[anxiety]], easier to bear than [[anxiety]].<ref>{{S8}} p. 430</ref>
+
+He also argues that the source of [[anxiety]] is not always internal to the [[subject]], but can often come from another, just as it is transmitted from one animal to another in a herd; "if anxiety is a signal, it means it can come from another."<ref>{{S8}} p. 427</ref>
+
+This is why the [[analyst]] must not allow his own [[anxiety]] to interfere with the [[treatment]], a requirement which he is only able to meet because he maintains a [[desire]] of his own, the [[desire]] of the [[analyst]].<ref>{{S8}} p. 430</ref>
+
+==Truth==
+In the [[seminar]] of 1962-3, entitled simply "[[Anxiety]]", [[Lacan]] argues that [[anxiety]] is an [[affect]], not an [[affect|emotion]], and furthermore that it is the only [[affect]] which is beyond all doubt, which is not [[truth|deceptive]].<ref>{{S11}} p. 41</ref> 
+
+==''Objet (petit) a''==
+Whereas [[Freud]] distinguished between [[fear]] (which is focused on a specific object) and [[anxiety]] (which is not), [[Lacan]] now argues that [[anxiety]] is not without an [[object]] (''n'est pas sans objet''); it simply involves a different kind of [[object]], an [[object]] which cannot be [[symbolise]]d in the same way as all other [[object]]s. 
+
+This [[object]] is ''[[objet petit a]]'', the [[object-cause of desire]], and [[anxiety]] appears when something appears in the place of this [[object]]. 
+
+[[Anxiety]] arises when the [[subject]] is confronted by the [[desire]] of the [[Other]] and does not know what [[object]] he is for that [[desire]].
+
+==Lack==
+It is also in this [[seminar]] that [[Lacan]] links [[anxiety]] to the concept of [[lack]].
+
+All [[desire]] arises from [[lack]], and [[anxiety]] arises when this [[lack]] is itself [[lack]]ing; [[anxiety]] is the [[lack]] of a [[lack]].
+
+[[Anxiety]] is not the [[absence]] of the [[breast]], but its enveloping [[presence]]; it is the possibility of its [[absence]] which is, in fact, that which saves us from [[anxiety]]. 
+
+[[Acting out]] and [[passage to the act]] are last [[defence]]s against [[anxiety]].
+
+==Mirror Stage==
+[[Anxiety]] is also linked to the [[mirror stage]]. 
+
+Even in the usually comforting experience of seeing one's reflection in the [[mirror]] there can occur a moment when the [[specular image]] is modified and suddenly seems strange to us. 
+
+In this way, [[Lacan]] links [[anxiety]] to [[Freud]]'s concept of the ''[[uncanny]]''.<ref>{{F}} "[[The Uncanny]]", 1919h. [[SE]] XIV, 161.</ref>
+
+==''Jouissance''==
+Whereas the [[seminar]] of 1962-3 is largely concerned with [[Freud]]'s second theory of [[anxiety]] ([[anxiety]] as [[sign]]al)), in the [[seminar]] of 1974-5 [[Lacan]] appears to return to the first [[Freud]]ian theory of [[anxiety]] ([[anxiety]] as transformed [[libido]]).
+
+Thus he comments that [[anxiety]] is that which exists in the interior of the [[body]] when the [[body]] is overcome with [[phallus|phallic]] ''[[jouissance]]''.<ref>{{L}} ''[[Seminar XXII|Le Séminaire. Livre XXII. RSI, 1974-5]]'', published in ''[[Ornicar?]]'', nos. 2-5, 1975. [[Seminar]] of 17 December 1974</ref>
+
+==See Also==
+{{See}}
+* [[Absence]]
+* [[Castration]]
+* [[Desire]]
+||
+* [[Fragmented body]]
+* ''[[Jouissance]]''
+* [[Lack]]
+||
+* [[Mirror stage]]
+* [[Mother]]
+* [[Other]]
+||
+* [[Neurosis]]
+* [[Phobia]]
+* [[Structure]]
+{{Also}}
+
+== References ==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+[[Category:Psychoanalysis]]
+[[Category:Jacques Lacan]]
+[[Category:Practice]]
+[[Category:Treatment]]
+[[Category:Dictionary]]
+[[Category:Concepts]]
+[[Category:Terms]]
+{{OK}}
+
+__NOTOC__

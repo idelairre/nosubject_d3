@@ -1,0 +1,12 @@
+ 
+<BR><BR><BR><BR>
+
+{| style="text-align:center; align:center; width:100%;"
+| style="text-align:justify; width:50%;" | 
+; [http://archive.nosubject.com Archive]
+
+: [[Archive:Documents|Documents]]
+::[[Archive:Seminaire|Seminaire]]
+::[[Archive:Other|Other]]
+
+|}

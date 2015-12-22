@@ -1,0 +1,21 @@
+The terms <i>neutrality</i> and <i>benevolent neutrality</i> characterize the counter-transference attitude that the psychoanalyst is supposed to adopt throughout the psychoanalytic treatment. Though Freud did not use these particular terms, he did, however, stress the climate of "abstinence" in which the treatment should take place. The introduction of the word neutrality is attributed to James Strachey, who used it in 1924 to translate the word <i>Indifferenz</i> in Freud's "Observations on Transference Love."
+We know from the testimonies of patients like Smiley Blanton and Joseph Wortis how far Freud himself was from remaining "neutral" in the way he conducted his sessons. On October 26, 1934, he even announced to Wortis that "The psychoanalytic relation is not a chivalrous relation between two equals" (Wortis, 1954). However, though Anna Freud did not use use the term either, she nevertheless lent substance to the notion of neutrality: When summarizing Freud's description of the analyst as "opaque like a mirror," she defined the analyst's position as "at a point that is equidistant from the id, the ego and the superego" (Freud, 1936/1937). Alex Hoffer later suggested adding "external reality" to that list (Hoffer, 1985).
+Edmund Bergler coined the expression <i>benevolent neutrality</i> at the Symposium on the Theory of the Therapeutic Results of Psycho-Analysis in 1937, and the term met with much success after World War II. Most American psychoanalysts naturally followed his example, but some French analysts, like Daniel Lagache (1950) and Sacha Nacht (1954), did as well. Nacht stressed that the analyst must not abandon "benevolence" all through the treatment and even introduced the notion of "goodness."
+Over time, "neutrality" was interpreted in two very divergent ways. Some analysts adopted an excessively cold and indifferent, even amoral, attitude to the things that are said in the course of a session. This spurred Otto Kernberg to suggest the term "technical neutrality" in order to distinguish between a "lack of spontaneity and natural warmth" and an "authentic concern for the patients [. . .] that protects their autonomy, independence and capacity to accomplish their work on their own" (Kernberg, 1976).
+In opposition to that, particularly after Otto Rank and Sándor Ferenczi stressed the importance of the primary relation with the mother and its repetition in the transference, as well as the idea of comprehensive receptivity that can rightly or wrongly be associated with notions of repairing, of <i>holding</i> and <i>handling</i>, other analysts stressed benevolence and adopted increasingly maternal and gratifying attitudes in treating difficult patients.
+Moreover, the ideas of authors like Heinz Hartmann, Ernst Kris, and Rudolph Loewenstein with regard to the latest theory of instincts have brought the concept of an "aconflictual sector" to the fore, which may account for the special success of the notion of neutrality in Anglo-Saxon literature.
+
+
+==See Also==
+* [[Abstinence/rule of abstinence]]
+* [[Contact and psychoanalysis]]
+* [[Evenly-suspended attention]]
+* [[Psychoanalyst]]
+* [[Therapeutic alliance]]
+* [[Training of the psychoanalyst]]
+
+==References==
+# Freud, Anna. (1937). The ego and the mechanisms of defence. London: Hogarth. (Original work published 1936)
+
+[[Category:New]]
+[[Category:Glossary]]

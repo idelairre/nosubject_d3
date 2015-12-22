@@ -1,0 +1,67 @@
+{{Topp}}béance{{Bottom}}
+
+==Definition==
+The [[French]] term ''[[gap|béance]]'' is an antiquated literary term which means a "large hole or opening."
+
+It is also a [[scientific]] term used in medicine to denote the opening of the larynx.
+
+==Jacques Lacan==
+The term is used in several ways in [[Lacan]]'s work.
+
+In 1946, he speaks of an "interrogative gap" which opens up in [[madness]], when the [[subject]] is perplexed by the phenomenona which he experiences ([[hallucinations]], etc).<ref>{{Ec}} pp. 165-6</ref>
+
+==Man and Nature==
+In the early 1950s, the term comes to refer to the fundamental rupture between [[man]] and [[nature]], which is due to the fact that "in man, the imaginary relation has deviated, in so far as that is where the gap is produced whereby death makes itself felt."<ref>{{S2}} p. 210</ref>
+
+This [[gap]] between [[man]] and [[nature]] is evident in the [[mirror stage]]:
+
+<blockquote>"One has to assume a certain biological gap in him [man], which I try to define when I talk to you about the mirror stage.... The human being has a special relation with his own image - a relation of gap, of alienating tension.<ref>{{S2}} p. 323</ref></blockquote>
+
+==Imaginary==
+The function of the [[imaginary]] is precisely to fill this [[gap]], thus covering over the [[subject]]'s [[division]] and presenting an [[imaginary]] sense of [[fragmented body|unity]] and [[lack|wholeness]].
+
+==Sexual Relationship==
+In 1957 the term is used in the context of the relationship between the [[sex]]es; "in the relation between man and woman... a gap always remains open.<ref>{{S4}} p.374; {{S4}} p.408</ref>
+
+This anticipates [[Lacan]]'s later remarkes on the [[existence|non-existence]] of the [[sexual relationship]].
+
+==Split Subject==
+In 1964, [[Lacan]] argues that "the relation of the subject to the Other is entirely produced in a process of gap,"<ref>{{S11}} p. 206</ref> and states that the [[subject]] is constituted by a [[gap]], since the [[subject]] is essentially [[divided]].
+
+He also argues that the concept of [[causality]] is essentially problematic because there is always a mysterious, inexplicable [[gap]] betwen [[cause]] and effect.<ref>{{S11}} p.21-2</ref>
+
+=="Dehiscence"==
+[[Lacan]] also uses the term "[[gap|dehiscence]]" in a way that makes it practically synonymous, in his [[discourse]], with the term "gap".
+
+[[gap|Dehiscence]] is a botanical term which designates the bursting open of mature seed-pots; [[Lacan]] uses the term to refer to the [[split]] which is constitutive of the [[subject]]: there is "a vital dehiscence that is constitutive of man."<ref>{{E}} p. 21</ref>
+
+This [[split]] is also the [[division]] between [[culture]] and [[nature]] which means that [[man]]'s relation to the latter "is altered by a certain dehiscence at the heart of the organism, a primordial Discord."<ref>{{E}} p. 4</ref>
+
+==See Also==
+{{See}}
+* [[Alienation]]
+* [[Cause]]
+||
+* [[Imaginary]]
+* [[Mirror stage]]
+||
+* [[Nature]]
+* [[Split]]
+||
+* [[Sexual relationship]]
+* [[Subject]]
+{{Also}}
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+[[Category:Psychoanalysis]]
+[[Category:Jacques Lacan]]
+[[Category:Subject]]
+[[Category:Dictionary]]
+[[Category:Concepts]]
+[[Category:Terms]]
+
+__NOTOC__

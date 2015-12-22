@@ -1,0 +1,107 @@
+{{Top}}parole{{Bottom}}
+
+====Translation====
+=====''Parole''=====
+The [[French]] term ''[[parole]]'' presents considerable difficulty to the [[English]] translator because it does not correspond to any one [[English]] [[word]]. 
+
+In some contexts it corresponds to the [[English]] term "[[speech]]," and in others is best translated as "[[word]]."
+
+====Jacques Lacan====
+''[[Parole]]'' becomes one of the most important terms in [[Lacan]]'s work from the early 1950s on. 
+
+=====Psychoanalysis=====
+In his famous "[[Rome Discourse]]," [[Lacan]] denounces the way that the role of [[speech]] in [[psychoanalysis]] had come to be neglected by contemporary [[psychoanalytic theory]], and argues for a renewed focus on [[speech]] and [[language]].<ref>{{L}}. "[[Works of Jacques Lacan|Fonction et champ de la parole et du langage en psychanalyse]]," 1953a, in {{E}} p.237-322. ["[[The Function and Field of Speech and Language in Psychoanalysis]]," in {{E}}. p. 30-113]</ref>
+
+====Influences====
+[[Lacan]]'s use of the term ''[[parole]]'' owes little to [[Saussure]] -- whose opposition between ''[[parole]]'' and ''[[langue]]'' is replaced in [[Lacan]]'s work with the opposition between ''[[parole]]'' and ''[[langage]]'' -- and is far more determined by references to [[anthropology]], [[theology]], and [[metaphysics]].
+
+=====Anthropology=====
+[[Lacan]]'s concept of [[speech]] as a "symbolic exchange" which "links human beings to each other'" <ref>{{S1}} p. 142</ref> is clearly influenced by the work of [[Anthropology|Mauss]] and [[Lévi-Strauss]], especially their analysis of the [[Anthropology|exchange of gifts]]. 
+
+Thus [[Freud]]'s [[interpretation]]s are described as "a symbolic gift of speech, pregnant with a secret pact."<ref>{{E}} p. 79</ref> 
+
+The concept of [[speech]] as a pact which assigns roles to both the addressee and the addresser is formulated in [[Lacan]]'s concept of [[founding speech]].
+
+=====Theology=====
+[[Speech]] also takes on [[religion|religious]] and [[religion|theological]] connotations in [[Lacan]]'s work, in terms derived both from [[religion|Eastern religion]]s<ref>{{E}} p. 106-7</ref> and the [[Judaism|Judaeo]]-[[Christianity|Christian]] [[religion|tradition]].<ref>{{E}} p. 106</ref> 
+
+In 1954, [[Lacan]] discusses [[speech]] with reference to [[St Augustine]]'s ''[[St Augustine|De locutionis signification]]e''.<ref>{{S1}} p. 247-60</ref> 
+
+Like the words uttered by [[Religion|God]] in [[Religion|Genesis]], [[speech]] is a "[[symbolic|symbolic invocation]]" which creates, ''ex nihilo'', "a new order of being in the relations between men."<ref>{{S1}} p. 239</ref>
+
+=====Metaphysics=====     
+[[Lacan]] draws on [[Heidegger]]'s distinction between ''[[speech|Rede]]'' (''[[speech|discourse]]'') and ''[[speech|Gerede]]'' (''[[speech|chatter]]'') to elaborate his own distinction between "[[speech|full speech]]" (''[[speech|parole pleine]]'') and "[[speech|empty speech]]" (''[[speech|parole vide]]'').<ref>{{E}} p. 40ff</ref> 
+
+[[Lacan]] first makes this distinction in 1953, and though it no longer plays an important part in his work after 1955, it never disappears completely. 
+
+=====Symbolic and Imaginary Dimension=====   
+[[speech|Full speech]] articulates the [[symbolic]] dimension of [[language]], whereas [[empty speech]] articulates the [[imaginary]] dimension of [[language]], the [[speech]] from the [[ego]] to the [[counterpart]]. 
+
+<blockquote>"Full speech is a speech full of meaning [sens]. Empty speech is a speech which has only signification."<ref>{{L}} [[Seminar XXIV|Le Séminaire. Livre XXIV. L'insu que sait de l'une bévue s'aile à mourre, 1976-77]]'', published in ''[[Ornicar?]]'', nos 12-18, 1977-9. p. 11</ref></blockquote>
+
+=====Truth of Desire=====
+[[Speech|Full speech]] is also called "[[speech|true speech]]," since it is closer to the enigmatic [[truth]] of the [[subject]]'s [[desire]]: 
+
+<blockquote>"Full speech is speech which aims at, which forms, the truth such as it becomes established in the recognition of one person by another. Full speech is speech which performs [''qui fait acte'']."<ref>{{S1}} p. 107</ref></blockquote>
+
+<blockquote>"Full speech, in effect, is defined by its identity with that which it speaks about."<ref>{{Ec}} p. 381</ref></blockquote>
+
+In [[speech|empty speech]], on the other hand, the [[subject]] is [[alienated]] from his [[desire]]; in [[speech|empty speech]] "the subject seems to be talking in vain about someone who . . . can never become one with the assumption of his desire."<ref>{{E}} p. 45</ref>
+
+=====Analytic Treatment=====
+One of the [[analyst]]'s tasks when listening to the [[analysand]] is to discern the moments when [[speech|full speech]] emerges. 
+
+[[speech|Full speech]] and [[speech|empty speech]] are the extreme points on a continuum, and "between these two extremes, a whole gamut of modes of realisation of speech is deployed."<ref>{{S1}} p. 50</ref> 
+
+The [[end of analysis|aim]] of [[psychoanalytic treatment]] is to articulate [[speech|full speech]], which is hard work; [[speech|full speech]] can be quite laborious (''pénible'') to articulate.<ref>{{E}} p. 253</ref>
+
+=====Desire and Speech=====
+[[Speech|Empty speech]] is not the same as [[truth|lying]]; on the contrary, [[truth|lies]] often reveal the [[truth]] about [[desire]] more fully than many [[truth|honest]] [[statement]]s.<ref>{{S11}} p. 139-40</ref>
+
+It is never possible to articulate in [[speech]] the whole [[truth]] of one's [[desire]] because of a fundamental "incompatibility between desire and speech."<ref>{{E}} p. 275</ref>.
+
+<blockquote>"I always tell the truth; not the whole truth, because we are not capable of telling it all. Telling it all is materially impossible."<ref>{{TV}} p.9</ref></blockquote>
+
+[[Speech|Full speech]], then, is not the articulation in [[speech]] of the whole [[truth]] about the [[subject]]'s [[desire]], but the [[speech]] which articulates this truth as fully as possible at a particular [[time]].
+
+[[Speech]] is the only means of access to the [[truth]] about [[desire]].
+
+<blockquote>"Speech alone is the key to that truth."<ref>{{E}} p. 172</ref></blockquote>
+
+Moreover, [[psychoanalytic theory]] claims that it is only a particular kind of [[speech]] that leads to this [[truth]]; a [[speech]] without [[conscious]] [[master|control]], known as [[free association]].
+
+====See Also====
+{{See}}
+* [[Communication]]
+* [[Desire]]
+||
+* [[Enunciation]]
+* [[Intersubjectivity]]
+||
+* [[Language]]
+* [[Religion]]
+||
+* [[Subject]]
+* [[Truth]]
+||
+* [[Treatment]]
+* [[Unconscious]]
+{{Also}}
+
+====References====
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+[[Category:Psychoanalysis]]
+[[Category:Jacques Lacan]]
+[[Category:Symbolic]]
+[[Category:Language]]
+[[Category:Dictionary]]
+[[Category:Concepts]]
+[[Category:Terms]]
+{{OK}}
+
+__NOTOC__
+
+__NOTOC__

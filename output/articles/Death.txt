@@ -1,0 +1,105 @@
+{{Topp}}mort{{Bottom}}
+
+The term "[[death]]" occurs in various contexts in [[Lacan]]'s work.
+
+
+===Symbolic Death===
+[[Death]] is constitutive of the [[symbolic]] [[order]], because the [[symbol]], by standing in place of the [[thing]] which it [[symbolization|symbolizes]], is equivalent to the [[death]] of that [[thing]]:
+
+<blockquote>"The [[symbol]] is the murder of the [[thing]]."<ref>{{E}} p. 104</ref></blockquote>
+
+====Death of the Subject====
+It is only by virtue of the [[signifier]] that the [[subject]] has access to and can conceive of his own [[death]]:
+
+<blockquote>"It is in the signifier and insofar as the subject articulates a signifying chain that he comes up against the fact that he may disappear from the chain of what he is."<ref>{{S7}} p. 295</ref></blockquote>
+
+===Subject Beyond Death===
+The [[signifier]] also puts the [[subject]] beyond [[death]], because "the [[signifier]] already considers him [[dead]], by nature it immortalizes him."<ref>{{S3}} p. 180</ref>
+
+====Dead Father====
+[[Death]] in the [[symbolic order]] is related to the [[death]] of the [[Father]] (i.e. the murder of the [[father]] of the [[horde]] in ''[[Totem and Taboo]]''<ref>{{F}} ''[[Totem and Taboo]]'', 1912-13. [[SE]] XIII, 1</ref>); the [[symbolic]] [[father]] is always a [[dead]] [[father]].
+
+===Second Death===
+====First Death====
+In the [[seminar]] of 1959-60, ''[[The Ethics of Psychoanalysis]]'', 
+[[Lacan]] talks about the "[[second death]]."<ref>{{S7}} p. 211</ref> 
+
+The [[death|first death]] is the [[materialism|physical]] [[death]] of the [[body]].
+
+The [[death|first death]] ends one [[human|human life]] but which does not put an end to the cycles of corruption and regeneration. 
+
+The [[death|second death]] is that which prevents the regeneration of the [[dead]] [[body]], "the point at which the very cycles of the transformations of nature are annihilated."<ref>{{S7}} p. 248</ref>
+
+====Beauty, Being, Pain====
+The concept of the [[second death]] is used by [[Lacan]] to formulate ideas on various themes: 
+* beauty - "It is the function of beauty to reveal man's relationship to his own death."<ref>{{S7}} p. 260, 299</ref>
+* the direct relationship to [[being]];<ref>{{S7}} p. 285</ref> and 
+* the [[sadistic]] [[fantasy]] of inflicting perpetual [[pain]]<ref>{{S7}} p. 295</ref> 
+
+====Between the Two Deaths====
+The phrase "[[zone between-two-deaths]]" (''[[l'espace de l'entre-deux-morts]]'') designates "the zone in which tragedy is played out."<ref>{{S8}} p. 120</ref>
+
+===Philosophical Death===
+====Hegel and Heidegger====
+[[Death]] plays an important role in the philosophical systems of [[Hegel]] and [[Heidegger]], and [[Lacan]] draws on both of these in his theorisation of the role of [[death]] in [[psychoanalysis]]. 
+
+===="Absolute Master"====
+From [[Hegel]] (via [[Kojève]]), [[Lacan]] takes the idea that [[death]] is both constitutive of [[man]]'s [[freedom]] and "[[Master|the absolute Master]]."<ref>[[Alexandre Kojève|Kojève, Alexandre]] ''[[Kojève|Introduction to the Reading of Hegel]]'', trans. James H. Nichols Jr., New York and London: Basic Books, 1969. [1933-39] p. 21</ref> [[Death]] plays a crucial part in the [[Hegelian]] [[dialectic]] of the [[master]] and the [[slave]] where it is intimately linked with [[desire]], since the [[master]] only affirms himself for others by means of a [[desire]] for [[death]].<ref>{{E}} p. 105</ref>
+
+===="Being-For-Death"====
+From [[Heidegger]], [[Lacan]] takes the idea that [[human]] [[existence]] only takes on [[meaning]] by virtue of the finite limit set by [[death]], so that the [[human]] [[subject]] is properly a "[[death|being-for-death]]". This corresponds to [[Lacan]]'s view that the [[analysand]] should come, via the [[treatment|analytic process]], to assume his own [[mortality]].<ref>{{E}} pp. 104-5</ref>
+
+==Psychoanalytic Death==
+===Dead Analyst===
+In his comparison between [[psychoanalytic treatment]] and the game of bridge, [[Lacan]] describes the [[analyst]] as playing the position of the "dummy" (in [[French]], ''le mort''; literally, "the dead person").
+
+<blockquote>"The analyst intervenes concretely in the dialectic of analysis by pretending that he is dead. . . he makes death present."<ref>{{E}} p. 140</ref></blockquote>
+
+The [[analyst]] "cadaverises" himself (''se corpsifiat'').
+
+===Obsessional Neurosis===
+The question which constitutes the [[structure]] of [[obsessional neurosis]] concerns [[death]]; it is the question "Am I dead or alive?"<ref>{{S3}} pp. 179-80</ref>
+
+==See Also==
+{{See}}
+* [[Analysand]]
+* [[Analyst]]
+* [[Being]]
+* [[Body]]
+||
+* [[Castration complex]]
+* [[Death drive]]
+* [[Death instinct]]
+* [[Desire]]
+||
+* [[Drive]]
+* [[Dialectic]]
+* [[Existence]]
+* [[Father]]
+||
+* ''[[Jouissance]]''
+* [[Master]]
+* [[Obsessional neurosis]]
+* [[Signifier]]
+||
+* [[Subject]]
+* [[Symbol]]
+* [[Treatment]]
+* [[Uncanny]]
+{{Also}}
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+[[Category:Psychoanalysis]]
+[[Category:Jacques Lacan]]
+[[Category:Symbolic]]
+[[Category:Real]]
+[[Category:Dictionary]]
+[[Category:Concepts]]
+[[Category:Terms]]
+{{OK}}
+
+__NOTOC__

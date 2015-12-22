@@ -1,0 +1,7 @@
+
+
+In the linguistic functionalism of the Prague School and the work of Jakobson, a [[phoneme]] is defined as a phonological unit with a distinctive function that cannot be broken down into smaller units with similar functions.
+
+A [[phoneme]] is defined by its distinctive features, such as its being voiced (/v/) or non-voiced (/f/).
+
+the list of [[phoeneme]]s making up any given language is a closed list; Castilian employs twenty-four phonemes.

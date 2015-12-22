@@ -1,0 +1,119 @@
+{{S-TITLES}}
+<!--
+{| width="100%" style="width:550px; border:1px solid #aaa;text-align:left; line-height:2.0em; padding-left:10px;"
+|width="100px"|
+|width="500px"|
+|-
+| [[{{Y}}|1954 - 1955]]
+| ''[[Le moi dans la théorie de Freud et dans la technique de la psychanalyse]]''<BR>[[The Ego in Freud's Theory and in the Technique of Psychoanalysis]]
+|}
+-->
+{| style="line-height:2.0em;width:100%;text-align:justify;border-spacing:8px;margin:6px -8px"
+
+|style="width:100%;border:0px solid #cccccc;background-color:#ffffff;vertical-align:top"|
+{| width="100%" cellpadding="2" cellspacing="5" style="text-align:justify;vertical-align:top;background-color:#ffffff"
+|-
+|style="text-align:justify;color:#000;line-height:2.5em;align:justify;"|
+Lacan deliberates on the distinction made in his first seminar between discourse analysis and the analysis of the ego, both in relation to psychoanalytical theory and practice. He claims that "analysis deals with resistances." He reviews three works by Freud: <i>Beyond the Pleasure Principle</i>, on the death instinct; <i>Group Psychology and the Analysis of the Ego</i>; and <i>The Ego and the Id</i>.<br>
+
+Consciousness is transparent to itself, whereas the I (<i>je</i>) is not. The I is outside the field of consciousness and its certainties (where we represent ourselves as ego, where something exists and is expressed by the I). But it is not enough to say that "the I of the unconscious is not the ego" since we tend to think this I as the true ego. Lacan proceeds to re-assert the locus of the ego and reinstate the excentricity of the subject vis-à-vis the ego.<br>The ego is a particular object within the experience of the subject, with a certain function: an imaginary one. When in the specular image the ego is recognized as such by the subject, this image becomes self-conscious. "The mirror stage is based on the rapport between, on one hand, a certain level of tendencies which are experienced as disconnected and, on the other, a unity with which it is merged and paired. In this unity the subject knows itself as unity, but as an alienated, virtual one."<br>However, for a consciousness to perceive another consciousness, the symbolic order must intervene on the system determined by the image of the ego, as a dimension of <i>re-connaissance</i>.<br>In "The Dream of Irma's Injection" the most tragic moment occurs in the confrontation with the Real. The ultimate Real, "something in front of which words stop." "In the dream the unconscious is what is outside all of the subjects. The structure of the dream shows that the unconscious is not the ego of the dreamer." "This subject outside the subject designates the whole structure of the dream." "What is at stake in the function of the dream is beyond the ego, what in the subject is of the subject and not of the subject, that is the unconscious."<br>In his analysis of Poe's <i>Purloined Letter</i>, Lacan speaks of "an other beyond all subjectivity." The question concerns the "confrontation of the subject beyond the ego with the <i>Id</i>, the <i>quod</i> (what-is-it?) which seeks to come into being in analysis."<br>"The purloined letter is synonymous with the original, radical subject of the unconscious. The symbol is being displaced in its pure state: one cannot come into contact with without being caught in its play. There is nothing in destiny, or casualty, which can be defined as a function of existence. When the characters get hold of this letter, something gets hold of them and carries them along. At each stage of the symbolic transformation of the letter, they will be defined by their position in relation to this radical object. This position is not fixed. As they enter into the necessity peculiar to the letter, they each become functionally different to the essential reality of the letter. For each of them the letter is the unconscious, with all its consequences, namely that at each point of the symbolic circuit, each of them becomes someone else."<br> When Jean Hyppolite asks: "What use does the Symbolic have?" Lacan answers: "The Symbolic, the Imaginary and the Real are useful in giving its meaning to a particularly pure symbolic experience, that of analysis." Since the symbolic dimension is the only dimension that cures, "The symbolic order is simultaneously non-being and insisting to be, that is what Freud has in mind when he talks about the death instinct as being what is most fundamental: a symbolic order in travail, in the process of coming, insisting in being realised."<br><br>
+
+[[Image:schemaL.gif|center]]
+
+The <i>Schema L</i>, systematized in <i>La lettre volée</i> (Écrits, 1966), is elaborated in this seminar. A four-term structure maps the Real, the Imaginary and the Symbolic as replacing the second Freudian topography: ego/<i>id</i>/superego. Two diagonals intersect, while the imaginary rapport links <i>a</i> (the ego) to <i>a'</i> (the other), the line going from <i>S</i> (the subject, the Freudian <i>id</i>) to <i>A</i> (the Other) is interrupted by the first one. The Other is difficult to define: it is the place of language where subjectivity is constituted; it is the place of primal speech linked to the Father; it is the place of the absolute Other, the mother in the demand. The Other makes the subject without him knowing it. With Lacan in Freud's <i>Wo Es war, soll Ich werden</i>, <i>Es</i> is the subject. It knows him or doesn't. The further, more exacting insight, is It speaks or doesn't. At the end of analysis, it is It who must be called on to speak, and to enter in relation with real Others. Where <i>S</i> was, there the <i>Ich</i> should be.
+
+<b>Le séminaire, Livre II: Le moi dans la théorie de Freud et dans la technique de la psychanalyse</b><br>
+French: (texte établi par Jacques-Alain Miller), Paris: Seuil, 1977.<br>
+English: <b>Book II: The Ego in Freud's Theory and in the Technique of Psychoanalysis</b> (edited by Jacques-Alain Miller), New York: Norton, 1988.
+
+|-
+|}
+
+|style="width:100%;border-left:1px solid #cccccc;background-color:#ffffff;vertical-align:top;color:#000"|
+{| cellpadding="2" cellspacing="5" style="text-align:justify;vertical-align:top;background-color:#ffffff"
+|-
+|style="color:#000;line-height:2em;width:100%;";|
+{| class="wikitable" width="200px" cellpadding="0" border="0" cellspacing="0" align="center" bgcolor="#ffffff" style="line-height:2.0em; padding-left:0px; background:#ffffff; text-align:center;"
+|-
+| align="center"| [[Image:Sem.II.NB.jpg|200px|center]]
+|-
+|}
+{| class="wikitable" width="200px" cellpadding="0" cellspacing="0" align="center" bgcolor="#ffffff" style="line-height:2.0em; padding-left:60px; background:#ffffff; text-align:center;"
+|-
+| bgcolor="#ffffff" width="150px" style="padding-left:10px" | [[{{Y}}|Date]]
+| bgcolor="#ffffff" width="50px" style="padding-left:10px" | [[{{Y}}|PDF]]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|17 novembre 1954]] 
+| [http://{{seminaires}}/seminaireII/1954.11.17.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|1 décembre 1954]] 
+| [http://{{seminaires}}/seminaireII/1954.12.01.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|8 décembre 1954]] 
+| [http://{{seminaires}}/seminaireII/1954.12.06.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|15 décembre 1954]] 
+| [http://{{seminaires}}/seminaireII/1954.12.17.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|12 janvier 1955]] 
+| [http://{{seminaires}}/seminaireII/1955.01.12.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|19 janvier 1955]] 
+| [http://{{seminaires}}/seminaireII/1955.01.19.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|26 janvier 1955]] 
+| [http://{{seminaires}}/seminaireII/1955.01.26.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|2 février 1955]] 
+| [http://{{seminaires}}/seminaireII/1955.02.02.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|9 février 1955]] 
+| [http://{{seminaires}}/seminaireII/1955.02.09.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|16 février 1955]] 
+| [http://{{seminaires}}/seminaireII/1955.02.16.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|2 mars 1955]] 
+| [http://{{seminaires}}/seminaireII/1955.03.02.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|9 mars 1955]] 
+| [http://{{seminaires}}/seminaireII/1955.03.09.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|16 mars 1955]] 
+| [http://{{seminaires}}/seminaireII/1955.03.16.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|30 mars 1955]] 
+| [http://{{seminaires}}/seminaireII/1955.03.30.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|12 mai 1955]]
+| [http://{{seminaires}}/seminaireII/1955.05.12.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|19 mai 1955]] 
+| [http://{{seminaires}}/seminaireII/1955.05.19.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|25 mai 1955]] 
+| [http://{{seminaires}}/seminaireII/1955.05.25.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|1 juin 1955]] 
+| [http://{{seminaires}}/seminaireII/1955.06.01.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|8 juin 1955]] 
+| [http://{{seminaires}}/seminaireII/1955.06.08.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|15 juin 1955]]
+| [http://{{seminaires}}/seminaireII/1955.06.15.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|22 juin 1955]] 
+| [http://{{seminaires}}/seminaireII/1955.06.22.pdf link]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|29 juin 1955]] 
+| [http://{{seminaires}}/seminaireII/1955.06.29.pdf link]
+|}
+|-
+|}<!-- Start of right-column -->
+|}
+<BR>
+
+
+
+__NOTOC__

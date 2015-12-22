@@ -1,0 +1,40 @@
+==Sessions of Variable Duration==
+[[Lacan]]'s [[practice]] of [[sessions of variable duration]] ([[French]]: ''[[séances scandées]]'') came to be one of the main reasons that the [[IPA]] gave for excluding him when the [[SFP]] was negotiating for [[IPA]] recognition in the early 1960s. 
+<!-- Some people say that [[Lacan]] was expelled because he was experimenting with analytical sessions of variable duration.  
+
+The conventional length of a session was an invariably fifty-minute hour.
+
+[[Lacan]] came to the conclusion that the length of the session should be adjusted according to what the [[patient]] was saying: some long, some short.  He argued that the [[psychoanalyst]] attends not so much to the meaning of the [[analysand]]'s words as to their form.  In his view the ritual ending of the session after a predetermined fixed length of time was "a merely chronometric stopping place."
+
+By contrast, he wanted to find for each session a stopping place suited to what the [[patient]] was [[speech|saying]].  He believed that nothing in theory warrants the fifty-minute session.  Rather, the adjustment of the length of the session should become one of the tools of [[psychoanalysis]].
+
+<!-- Lacan antagonized many people by putting the length of the psychoanalytic session into question.  The difference between the fifty-minute hour and the "short" session is a difference between two concepts of time.  On the one side, time is filled with precision; on the other, it is approximate and variable.  In the normal psychoanalytic hour it is the clock that decides the ending of the session. -->
+<!-- Lacan argued that some analysands, knowing that they were guaranteed fifty minutes no matter what, used their sessions to discuss things that did not interest them in the least.  Lacan reasoned that such analysands were using the fifty-minute hour as a resistance, as an excuse to waste the [[analyst]]'s [[time]], to make him or her wait for them. <blockquote>"We know how the patient reckons the passage of time and adjusts his story to the clock, how he contrives to be saved by the clock.  We know how he anticipates the end of the hour ... keeping an eye on the clock as on a shelter looming in the distance."</blockquote> -->
+<!-- One argument in favor of the variable session is that it prevents boredom.  Many patients come to know when the [[analyst]] is going to end.  If the [[analyst]] cuts off quickly, sessions cannot become an empty ritual.  The [[analyst]] can thus use the element of surprise to open up new pathways.  Lacan's view was that if the patient could be dismissed in the middle of a sentence or a dream or an interval of silence it would provoke the [[patient]] to make a clear revelation of that s/he had been hesitant to disclose. -->
+Alternatively, the [[analyst]] can also [[punctuate]] the [[analysand]]'s [[speech]] by a moment of [[silence]], or by interrupting the [[analysand]], or by terminating the [[session]] at an opportune moment.<ref>{{E}} p.44</ref>  
+
+This last form of [[punctuation]] has been a source of controversy throughout the history of [[Lacan]]ian [[psychoanalysis]], since it contravenes the traditional [[IPA]] [[practice]] of [[session]]s of [[sessions of variable duration|fixed duration]]. 
+
+Today, the [[technique]] of [[punctuation]], especially as expressed in the [[practice]] of [[sessions of variable duration]], continues to be a distinctive feature of [[Lacanian]] [[psychoanalysis]].
+
+==See Also==
+{{See}}
+* [[Signifying chain]]
+* [[Enunciation]]
+||
+* [[Communication]]
+* [[Speech]]
+{{Also}}
+
+== References ==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+
+[[Category:Jacques Lacan]]
+[[Category:Terms]]
+[[Category:Concepts]]
+[[Category:Psychoanalysis]]
+[[Category:Practice]]
+[[Category:Treatment]]

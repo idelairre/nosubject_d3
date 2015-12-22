@@ -1,0 +1,42 @@
+==Freudian Dictionary==
+
+<blockquote>There are some neurotics in whom, to judge by all their reactions, the instinct of self-preservation has actually been reversed. They seem to have nothing in view but selfinjury and self-destruction. It is possible that people who in the end do in fact commit suicide belong to this group.<ref>{{OoPA}} Ch. 1</ref></blockquote>
+{{Freudian Dictionary}}
+{{!}}
+
+Suicide is a symptomatic act connected most frequently to the framework of depression and melancholy. Its etiology is varied and complex, since it is characterized by the collapse of the ego, along with self-reproach and a diminution or a loss of self-esteem—and, at the same time, by a magic omnipotence which allows the annihilation of internal persecutors, as well as a manic feeling based on the denial of death itself. While suicide may appear to be a response to persecutory guilt, it is also a projection of this guilt onto objects as well as a liberation from their control through the death the subject has chosen for himself.
+
+Suicide was discussed in the psychoanalytic literature as early as 1907, as recorded in the Minutes of the Vienna Psychoanalytic Society (Nunberg, Hermann, and Federn, Ernst, 1962-75), but it was a rather superficial discussion, centered on the fact that the differing choice of means by men and women reveals a primal sexual symbolism. From this came the formula that "suicide is the climax of negative autoeroticism" (Minutes, Vol. 1, February 13, 1907, p. 114). This should be understood in the context of the opposition between the ego instincts and sexual instincts in Freud's earliest theorization: "In suicide the life instinct is overwhelmed by the libido" (Vol. 2, April 20, 1910, p. 494).
+
+In this approach, suicide, interpreted as a substitute for psychosis, seems linked both to an inability to tolerate reality and to autoerotic regression: "Suicide is an act of defense of the normal ego against psychosis" (June 6, 1907). Drive regression is equally central to Freud's ideas on the subject of the suicide of high school students; at school "Teachers. . . .must exercise a life-maintaining influence. [The function of] school is to give the child, in this stage of his detachment from his parents, a new footing within a larger relationship" (Vol. 2, April 20, 1910, p. 495). This should extend as far as not to "deny them the right to linger even in those phases of their development that seem vexing." There might well have been some evolution in Freud's thought here, especially if it is considered that, at the very beginning he insisted on the connection between neurasthenia, masturbation, and the risk of suicide. However, Freud also stressed that "in many cases it is the fear of incest itself that drives [children] to suicide" (p. 494), because of the enormous augmentation of their need for love at puberty; Freud went so far as to suggest, this being the case, that homosexuals make the best teachers, the worst being those whom the repression of their homosexuality has turned into sadists, pushing their students to suicide.
+
+Later psychoanalytic thought on suicide followed the main ideas of Freud on the subject. First of all, in the depressive context, suicide was considered self-punishment for the desire to kill, primally directed toward another, as Freud himself stated in Totem and Taboo: "The law of talion, which is so deeply rooted in human feelings, lays it down that a murder can only be expiated by the sacrifice of another life: self-sacrifice points back to blood-guilt" (1912-13a, p. 154). Since then, the risk of self-mutilation or suicide with infantile or borderline personalities has been much emphasized (Kernberg, Otto, 1984); this risk is especially a factor during fits of rage following disappointments which are blamed on others; or else there is a risk of suicide because of failure to achieve success (guilt), or, even the failure of the cure (negative therapeutic reaction).
+
+In fact, the idea that suicide is self-punishment for the desire to kill someone else cannot be understood completely apart from the process of melancholia, whereby the loved/hated object has been introjected within the ego and has become the target of the attack. More even than "self-punishment," suicide would be murder of the other within oneself. "Probably no one finds the mental energy required to kill himself unless, in the first place, in doing so he is at the same time killing an object with whom he has identified himself, and, in the second place, is turning against himself a death-wish which had been directed against someone else" (1920a, p. 162). Freud explained that "the ego is destroyed by the object."
+
+The enigma constituted by suicide in relation to the self-preservative or ego instincts has also been approached in another way, through considering that it is accompanied paradoxically by a tentative intent to reappropriate vital energy, or, indeed, is even prompted by the fantasy of beginning a new life (Grinberg, León, 1983). Accordingly, suicide would result from a state of crisis dominated by the feeling that something must change. The person committing suicide "convokes death imaginally to assure himself paradoxically that life exists" (Triandafillidis, Alexandra, 1991). Ideal images of oneself and others can then survive, at the price of the death of the bad objects cluttering the ego.
+
+The vital stakes involved in this symptomatic conduct have inclined authors not only to attempt to understand the suicidal mechanism, but also to describe its advance symptoms, evaluating the risk of suicide in order to decide on a therapeutic approach, especially in a care-giving institutional setting. León Grinberg (1983) emphasized suicidal premeditation and the fact that a suicidal plan follows the idea of suicide, which was at first only a way of dealing with anxiety. Continuing to the act of suicide depends on an "encounter," which might favor tipping the fantasy into reality. This author also examined factors of present or past vulnerability (feeling of culpability, narcissistic wound, loss of loved object, and so forth). Otto Kernberg (1984) emphasized the need for the therapist not to be fooled by an accentuation of the manic element; he stressed the seriousness of cases where "aggressiveness has infiltrated the grandiose Self," joined to an inability to enter into interpersonal relations and feel emotions. These considerations, however, concern psychotherapeutic strategies rather than the etiology of suicide.
+
+
+==See Also==
+* [[Bettelheim, Bruno: Bjerre, Poul]]
+* [[Great Britain]]
+* [[Morgenstern-Kabatschnik, Sophie: Rosenthal, Tatiana]]
+* [[Secret]]
+* [[Silberer, Herbert]]
+* [[Sokolnicka-Kutner, Eugénie]]
+* [[Stekel, Wilhelm]]
+* [[Tausk, Victor]]
+
+==References==
+<references/>
+# Freud, Sigmund. (1912-13a). Totem and taboo. SE, 13: 1-161.
+
+[[Category:New]]
+
+[[Category:Index]]
+[[Category:Philosophy]]
+[[Category:Political theory]]
+[[Category:Ethics]]
+[[Category:Psychoanalysis]]

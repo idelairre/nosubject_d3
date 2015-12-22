@@ -1,0 +1,16 @@
+{{Slavoj Žižek}}
+
+{{The Reality of the Virtual}}
+
+{| class="" width="500px" cellpadding="2" align="center" bgcolor="ffffff" style="background:#ffffff; width:500px; text-align:center; line-height:2.0em;"
+|-
+| bgcolor="#ffffff" width="" | <center>
+<dhflashplayer>file=The%20Reality%20of%20the%20Virtual%20(4).flv|width=500|height=384|path=http://nosubject.com/archive/flv/</dhflashplayer></center>
+|}
+
+
+{| class="" width="500px" cellpadding="2" align="center" bgcolor="ffffff" style="background:#ffffff; border: 1px solid #aaaaaa; width:500px; text-align:justify; line-height:2.0em;"
+|-
+| bgcolor="#ffffff" width="" style="text-align:justify" |
+<small>In this tour de force filmed lecture, Slavoj Zizek lucidly and compellingly reflects on belief - which takes him from Father Christmas to democracy - and on the various forms that belief takes, drawing on Lacanian categories of thought. In a radical dismissal of todays so called post-political era, he mobilizes the paradox of universal truth urging us to dare to enact the impossible. It is a characteristic virtuoso performance, moving promiscuously from subject to subject but keeping the larger argument in view.
+|}

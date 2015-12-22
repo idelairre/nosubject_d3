@@ -1,0 +1,47 @@
+{{Top}}remémoration{{Bottom}}
+
+==Jacques Lacan==
+[[Recollection]] and '''[[remembering]]''' (''[[mémoration]]'') are '''[[symbolic]]''' processes which [[Lacan]] contrasts with '''reminiscence''' (''réminiscence''), which is an '''[[imaginary]]''' phenomenon.
+
+Whereas [[remembering]] is the [[act]] whereby some [[event]] or [[signifier]] is registered for the first time in the [[symbolic]] [[memory]], [[recollection]] is the [[act]] whereby such an [[event]] or [[signifier]] is [[recalled]].
+
+=====Reminiscence=====
+[[Reminiscence]] involves reliving [[past]] experience and feeling once again the [[emotion]]s associated with that experience. 
+
+[[Lacan]] stresses that the [[analytic process]] does not aim at [[reminiscence]] but at [[recollection]]. 
+
+While it is true that intense [[memories]] may be evoked in [[psychoanalytic treatment]], with accompanying [[emotion]]al [[discharge]], this is not the basis of the [[analytic process]]. 
+
+[[Reminiscence]] is also linked by [[Lacan]] to the [[Plato]]nic theory of [[knowledge]].               
+                                                     
+=====Psychoanalytic Treatment===== 
+[[Recollection]] in the [[treatment]] involves the [[patient]] tracing the [[master signifier]]s of his life.
+
+<blockquote>"The realization by the subject of his history in his relation to a future."<ref>{{E}} p. 88</ref></blockquote>
+
+By means of [[recollection]], the [[treatment]] [[aim]]s at "the complete reconstitution of the subject's history"<ref>{{S1}} p. 12</ref> and the "assumption of his history by the subject."<ref>{{E}} p. 48</ref>
+
+What matters is not "reliving" the formative events of the [[past]] in any intuitive or experiential way; on the contrary, what matters is what the [[analysand]] reconstructs of his [[past]],<ref>{{S1}} p.13</ref> the key word being "reconstruct". 
+
+<blockquote>"It is less a matter of remembering than of rewriting history."<ref>{{S1}} p.14</ref></blockquote>             
+
+==See Also==
+{{See}}
+* [[Acting out]]
+* [[Memory]]
+||
+* [[Signifier]]
+* [[Repression]]
+||
+* [[Resistance]]
+* [[Transference]]
+{{Also}}
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+{{OK}}
+[[Category:Imaginary]]
+__NOTOC__

@@ -1,0 +1,72 @@
+{{Topp}}adapt|adaptation{{Bottom}}
+
+==Biological Concept==
+The concept of [[adaptation]] is a [[biology|biological]] [[:category:concepts|concept]]; [[biology|organism]]s are supposed to be driven to [[adapt]] themselves to fit the [[biology|environment]]. [[Adaptation]] implies a harmonious relation between the ''[[Adaptation|Innenwelt]]'' (inner world) and ''[[adaptation|Umwelt]]'' (surrounding world).
+
+==Ego-Psychology==
+[[Ego-psychology]] applies the [[biological]] concept of [[adaptation]] to [[psychoanalysis]], explaining [[neurotic]] [[symptom]]s in terms of [[maladaptive]] [[behavior]] (such as applying archaic [[defense mechanism]]s in contexts where they are no longer appropriate) and arguing that the aim of [[psychoanalytic treatment]] is to help the [[patient]] [[adapt]] to [[reality]].  [[Ego-psychology]] explain [[neurotic]] [[symptom]]s in terms of maladaptive [[behaviour]]. [[Ego-psychology]] argues that the aim of [[psychoanalytic]] [[treatment]] is to help the [[patient]] adapt to [[reality]].
+
+==Jacques Lacan==
+From his early work in the 1930s on, [[Lacan]] opposes any attempt to explain human phenomena in terms of [[adaptation]].<ref>{{Ec}} p.158; {{Ec}} p. 171-2</ref>  This forms a constant theme in [[Lacan]]'s work; in 1955, for example, he states that "the dimension discovered by analysis is the opposite of anything which progresses through adaptation."<ref>{{S2}} p. 86</ref> 
+
+He takes this view for several reasons:
+
+===1. Reality===
+The stress on the [[adaptation|adaptive function]] of the [[ego]] misses the [[ego]]'s [[alienation|alienating function]] and is based on a simplistic and unproblematic view of "[[reality]]".  [[Reality]] is not a simple, objective thing to which the [[ego]] must [[adapt]], but is itself a product of the [[ego]]'s [[fiction]]al [[mirror stage|misrepresentations]] and [[projection]]s.
+
+<blockquote>"[Therefore] it is not a question of adapting to it [reality], but of showing it [the ego] that it is only too well adapted, since it assists in the construction of that very reality."<ref>{{E}} p. 236</ref></blockquote>
+
+The task of [[psychoanalysis]] is rather to subvert the [[illusory]] sense of [[adaptation]], since this blocks access to the [[unconscious]].
+
+===2. Analyst===
+To set [[adaptation]] as the [[aim]] of the [[treatment]] is to turn the [[analyst]] into the arbiter of the [[patient]]'s [[adaptation]].  The [[analyst]]'s own "relation to reality thus goes without saying."<ref>{{E}} p.230</ref>  It is automatically assumed that the [[analyst]] is better adapted than the [[patient]].  This inevitably turns [[psychoanalysis]] into the exercise of [[power]], in which the [[analyst]] forces his own particular view of [[reality]] onto the [[patient]]; this is not [[psychoanalysis]] but [[suggestion]].
+
+===3. Gap===
+The idea of [[harmony]] between the [[biology|organism]] and its [[biology|environment]], implicit in the concept of [[adaptation]], is inapplicable to [[human]] [[being]]s because [[human|man]]'s inscription in the [[symbolic]] [[order]] [[nature|de-naturalises]] him and means that "in man the [[imaginary]] relation [to nature] has deviated".  Whereas "all animal machines are strictly riveted to the conditions of the external environment,"<ref>{{S2}} p. 322</ref> in the [[human]] [[being]] there is "a certain biological gap."<ref>{{S2}} p. 323</ref>  Any attempt to regain [[harmony]] with [[nature]] overlooks the essentially excessive [[drive]] potential summed up in the [[death drive]].  [[Human]] [[being]]s are essentially [[maladaptive]].
+
+==Treatment==
+[[Lacan]] argues that the stress put by [[ego-psychology]] on the [[adaptation]] of the [[patient]] to [[reality]] reduces [[psychoanalysis]] to an instrument of social control and conformity.  He sees this as a complete betrayal of [[psychoanalysis]], which he regards as an essentially subversive [[practice]].
+
+==United States==
+[[Lacan]] regards it as significant that the [[adaptation]] theme was developed by the European [[psychoanalyst]]s who had emigrated to the USA in the late 1930s.  These [[analyst]]s felt not only that they had to [[adapt]] to life in the USA, but also that they had to [[adapt]] [[psychoanalysis]] to American tastes.<ref>{{E}} p. 115</ref>
+
+==See Also==
+{{See}}
+* [[Analyst]]
+* [[Biology]]
+* [[Death drive]]
+||
+* [[Ego]]
+* [[Ego-psychology]]
+* [[Factor C]]
+||
+* [[Gap]]
+* [[Nature]]
+* [[Neurosis]]
+||
+* [[Pleasure principle]]
+* [[Psychoanalysis]]
+* [[Suggestion]]
+||
+* [[Symptom]]
+* [[Treatment]]
+* [[Unconscious]]
+{{Also}}
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+[[Category:Psychoanalysis]]
+[[Category:Sigmund Freud]]
+[[Category:Jacques Lacan]]
+[[Category:Practice]]
+[[Category:Treatment]]
+[[Category:Science]]
+[[Category:Dictionary]]
+[[Category:Concepts]]
+[[Category:Terms]]
+{{OK}}
+
+__NOTOC__

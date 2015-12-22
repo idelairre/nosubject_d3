@@ -1,0 +1,182 @@
+<center>
+{| cellpadding="2" cellspacing="5" align="center" style="border:1px solid #aaaaaa;text-align:center;margin:6px -8px;align:center;vertical-align:top;width:90%;background-color:#fcfcfc"
+|style="text-align:center;color:#000;line-height:2em;width:100%;";|
+This article is currently undergoing major editing.  It's a mess right now, but will be fixed soon.
+|}
+</center>
+{{Topppp}}désir]]''
+|-
+|| [[German]]: ''[[Wunsch{{Bottom}}
+
+The concept of [[desire]] is at the center of [[Lacan]]ian [[psychoanalysis]] as a theoretical, ethical and clinical point of reference.  Theoretically, Lacan's elaboration of the concept is supported by, yet goes beyond, its Freudian origins.  From an ethical perspective, Lacan has examined in an original way the relationship between desire and the [[law]], and its implications for [[treatment|psychoanalytic praxis]].
+<!-- he concept of [[desire]] is the central concern of [[psychoanalytic theory]]. -->
+
+==Sigmund Freud==
+<!--
+[[Freud]]'s ''[[Interpretation of Dreams]]'' established the basis for the psychoanalytic conception of desire (including Lacan's own contributions), even if the Freudian ''[[Wunsch]]'' (translated as 'wish' in the ''[[Standard Edition]]'') does not exactly coincide with Lacan's desire.<ref>(Lacan, 1977 [1959], pp. 256-7)</ref>
+-->
+[[Lacan]]'s term, ''[[désir]]'', is the term used in the [[French]] translations of [[Freud]] to translate [[Freud]]'s term ''[[Wunsch]]'', which is translated as "[[wish]]" in the ''[[Standard Edition]]''.  
+<!-- Hence English translators of [[Lacan]] are faced with a dilemma; should they translate ''[[désir]]'' by "[[wish]]", which is closer to [[Freud]]'s ''[[Wunsch]]'', or should they translate it as "[[desire]]", which is closer to the [[French]] term, but which lacks the allusion to [[Freud]]?  All of [[Lacan]]'s [[English]] translators have opted for the latter, since the [[English]] term "[[desire]]" conveys, like the [[French]] term, the implication of a ''continuous force'', which is essential to [[Lacan]]'s concept.  The [[English]] term also carries with it the same allusions to [[Hegel]]'s ''[[Begierde]]'' as are carried by the [[French]] term, and thus retains the philosophical nuances which are so essential to [[Lacan]]'s concept of ''[[désir]]'' and which make it "a category far wider and more abstract than any employed by [[Freud]] himself." -->
+
+By shifting the object of study from the imagery of the manifest content of the dream to its unconscious determinants in the dreaming subject, Freud unveiled the structure of both the dream and the subject. Beyond the preconscious wishes attached to a number of desirable objects that the dream-work utilizes, there lies the unconscious wish — indestructible, infantile in its origins, the product of repression, permanently insisting in reaching fulfilment through the dream and the other formations of the unconscious.
+
+The indestructibility that Freud attributes to the unconscious wish is a property of its structural position: it is the necessary, not contingent, effect of a fundamental gap in the subject's psyche; the gap left by a lost satisfaction (cf. the seventh chapter of The Interpretation of Dreams; Freud, 1953, pp. 509-621). 
+
+Such a structural gap in the subject is of a sexual order; it corresponds ultimately to a loss of sexual jouissance due to the fact of the prohibition to which sexuality is subjected in the human being.  This prohibition is a structural cultural necessity, not a contingency, and its subjective correlate is the Oedipus complex — which is a normative organization, rather than a more or less typical set of psychological manifestations.
+
+The model of the unconscious wish elucidated by Freud in his monumental work on dreams remained his guide for the rest of his theoretical and clinical production; in pa rticular, it continued to inform, until the end, Freud's clinical interventions — interpretations and constructions in analysis — and his rationale for them.  This model is inseparable from the form of discourse that Freud created: the rule of free association, the subject's speech, reveals his/her desire and the essential gap that constitutes it.
+
+Lacan's elaboration of the praxis (theory and practice) of desire extends over his half-century of work in psychoanalysis, and attempting to abbreviate it or replace the necessary reading with a summary would be imprudent and misleading. Therefore, we can only indicate some suggestions for further reading (in Lacan's works) and further lines of enquiry.
+
+A first ingredient of the concept of desire in Lacan's work contains a Hegelian reference, according to which desire is bound to its being recognized — even if later on Lacan emphasized the difference between his and Hegel's positions (Lacan, 1977 [1959], pp. 292-325).
+
+But the reference to Freud's analysis of desire as revealed in the dream is from the start highly significant. Lacan emphasized that the analysis of the dream is in fact an analysis of the dreamer, that is, a subject who tells the dream to an other (with whom the subject is engaged in a transference-relation). In 'The function and field of speech and language in psychoanalysis' (1953), Lacan writes:
+
+:Nowhere does it appear more clearly that man's desire finds its meaning in the desire of the other, not so much because the other holds the key to the object desired, as because the first object of desire is to be recognized by the other. (Lacan, 1977 [1959], p. 58)
+
+That the other holds the key to the object desired takes on added value later in Lacan's work. Yet that desire emerges in a relationship with the other which is dialectical, that is, which is embedded in discourse, is an essential property of human desire. Human desire is the desire of the Other (over and above the others who are concrete incarnations of the Other), not 'natural', endogenous appetites or tendencies that would push the subject in one direction or another irrespective of his/her relations with the Other; desire is always inscribed in and mediated by language (cf. The Four Fundamental Concepts of Psycho-Analysis, which is an essential reference in its entirety; Lacan, 1977).
+
+Lacan's study of the dialectical nature of desire led to his distinction between desire, need and demand. The three terms describe lacks in the subject; yet it is indispensable to identify each of these lacks, and their interrelations. The satisfaction of vital needs is subject to demand, and makes the subject dependent on speech and language.
+
+The least noisy appeal of the infant is already inscribed in language, as it is interpreted by the 'significant' others as speech, not as a mere cry. This primordial discursive circuit makes of the infant already a speaking being, a subject of speech, even at the stage in which he/she is still infant. This subordination to the Other through language marks the human forever. Lacan writes:
+
+:The phenomenology that emerges from analytic experience is certainly of a kind to demonstrate in desire the paradoxical, deviant, erratic, eccentric, even scandalous character by which it is distinguished from need [...]
+:Demand in itself bears on something other than the satisfactions it calls for. It is demand of a presence or of an absence — which is what is manifested in the primordial relation to the mother, pregnant with that Other to be situated short of the needs that it can satisfy.
+:Demand constitutes the Other as already possessing the 'privilege' of satisfying needs, that is to say, the power of depriving them of that alone by which they are satisfied [...].
+:In this way, demand annuls (''aufhebt'') the particularity of everything that can be granted by transmuting it into a proof of love, and the very satisfactions that it obtains for need are reduced (''sich erniedrigt'') to the level of being no more than the crushing of the demand for love.
+:Thus desire is neither the appetite for satisfaction, nor the demand for love, but the difference that results from the subtraction of the first from the second, the phenomenon of their splitting (Spaltung). (Lacan, 1977 [1959], pp. 286-7)
+
+This residual status of desire constitutes its essence; at this point the question of the object of desire acquires crucial importance. Lacan considered his theory of this object to be his only original contribution to psychoanalysis.
+
+Although an exaggeration in reality, Lacan's position is justified because with that theory he introduced in psychoanalysis a conception of the object that is genuinely revolutionary and that makes possible a rational critique of the notion of 'object relations' and its clinical applications.
+
+For what Lacan emphasized was the illusory nature of any object that appears to fulfil desire, while the gap, the original splitting which is constitutive of the subject, is real; and it is in this gap that the object a, the object cause of desire, installs itself. (Lacan 1977; in particular, chapter 20).
+
+Desire requires the support of the fantasy, which operates as its ''mise en scène'', where the fading subject faces the lost object that
+causes his/her desire (Lacan 1977 [1959], p. 313). This fading of the subject in the fantastic scenario that supports his/her desire is what makes desire opaque to the subject him-/herself. Desire is a metonymy (p. 175) because the object that causes it, constituted as lost, makes it displace permanently, from object to object, as no one object can really satisfy it.
+
+This permanent displacement of desire follows the logic of the unconscious; thus Lacan could say that desire is its interpretation, as it moves along the chain of unconscious signifiers, without ever being captured by any particular signifier (cf. Seminar VI, 'Desire and its Interpretation'; Lacan, 1958-59).
+
+In the analytic experience, desire 'must be taken literally', as it is through the unveiling of the signifiers that support it (albeit never exhausting it) that its real cause can be circumscribed (Lacan, 1977 [1959], pp. 256-77).
+
+Desire is the other side of the law: the contributions of psychoanalysis to ethical reflection and practice have started off by recognizing this principle (Lacan, 1990; 1992). Desire opposes a barrier to jouissance - the jouissance of the drive (always partial, not in relation to the body considered as a totality, but to the organic function to which it is attached and from which it detaches), and that of the super-ego (with its implacable command to enjoy; Lacan, 1977 [1959], p. 319).
+
+Thus, desire appears to be on the side of life preservation, as it opposes the lethal dimension of jouissance (the partiality of the drive, which disregards the requirements of the living organism, and the demands of the superego - that `senseless law' - which result in the self-destructive unconscious sense of guilt). But desire itself is not without a structural relation with death: death at the heart of the speaking being's lack-in-being (manqué à l'être); death in the mortifying effect of those objects of the world that entice desire, inducing its alienation, without ever satisfying any promise.
+
+There is no Sovereign Good that would sustain the `right' orientation of desire, or guarantee the subject's well-being. As a consequence, the ethics of psychoanalysis require that the analyst does not pretend to embody or to deliver any Sovereign Good; it rather prescribes for the analyst that `the only thing of which one can be guilty is of having given ground relative to one's desire' (Lacan, 1992, p. 319).
+
+The analyst's desire, 'a desire to obtain absolute difference', is the original Lacanian concept that defines the position of the analyst in analytic discourse, and represents a culmination of his elucidation
+of the function of desire in psychoanalysis (Lacan, 1977, p. 276; 1991).
+
+This position is structural, constitutive of analytic discourse - not a psychological state of the analyst. It is his/her lack-in-being, rather than any 'positive' mode of being that orients the analyst's direction of the treatment (Lacan, 1977 [1959], p. 230). This means that the analyst cannot incarnate an ideal for the analysand, and that he/she occupies a position of semblant of the cause of desire (Lacan, 1991; 1998). Only in this way may the analyst's desire become the instrument of the analysand's access to his/her own desire.
+
+See also: [[jouissance]], [[subject]]
+
+References
+Freud, S. (1953) [1900a] The Interpretation of Dreams. Standard Edition of the Complete Psychological Works of Sigmund Freud, Vols 4 & 5. London: Hogarth Press.
+
+#Lacan, J. (1958-59) `Le désir et son interpretation' (seven sessions, ed. by J.-A. Miller). Ornicar? 24 (1981):7-31; 25 (1982):13-36; 26/27 (1983):7-44. The final three sessions appeared as `Desire and the Interpretation of Desire in Hamlet'. Yale French Studies 55/56 (1977):11-52. There are unedited transcripts of the whole seminar available in French and English.
+#Lacan, J. (1977) [1959] Écrits: A Selection. London: Tavistock.
+#Lacan, J. (1977) The Four Fundamental Concepts of Psycho-Analysis. London: Tavistock.
+# Lacan, J. (1990) `Kant with Sade'. October 51. Cambridge, MA and London: MIT Press.
+# Lacan, J. (1991) Le Séminaire, Livre XVII, L'envers de la psychanalyse, 1969-1970. Paris: Seuil.
+# Lacan, J. (1992) The Seminar, Book VII, The Ethics of Psychoanalysis, 1959-1960. New York: W.W. Norton; London: Routledge.
+# Lacan, J. (1998) The Seminar, Book XX, Encore, 1972-1973, On Feminine Sexuality: The Limits of Love and Knowledge. New York: W.W. Norton. Leonardo S. Rodriguez
+
+=====''Unconscious'' Desire=====
+<!-- If there is any one concept which can claim to be the very center of [[Lacan]]'s thought, it is the concept of [[desire]].  -->
+[[Lacan]] follows [[Spinoza]] in arguing that "[[desire]] is the essence of man."<ref>{{S11}} p. 275</ref>  [[Desire]] is simultaneously the heart of [[human]] [[existence]] and the central concern of [[psychoanalysis]].  However, when [[Lacan]] talks about [[desire]], it is not any kind of [[desire]] he is referring to, but always ''[[unconscious]]'' [[desire]].  This is not because [[Lacan]] sees [[conscious]] [[desire]] as unimportant, but simply because it is [[unconscious]] [[desire]] that forms the central concern of [[psychoanalysis]].  
+<!-- [[Unconscious]] [[desire]] is entirely [[sexuality|sexual]]; <blockquote>"the motives of the unconscious are limited . . . to sexual desire .  . . The other great generic desire, that of hunger, is not represented."<ref>{{E}} p. 142</ref></blockquote> -->
+
+=====Truth and Desire=====
+The [[aim]] of [[psychoanalytic]] [[treatment]] is to lead the [[analysand]] to recognize the [[truth]] about his [[desire]].  It is only possible to recognize one's [[desire]] when it is articulate in [[speech]].  
+<!-- <blockquote>"It is only once it is formulated, named in the [[presence]] of the [[other]], that [[desire]], whatever it is, is recognised in the full sense of the term."<ref>{{S1}} p. 183</ref></blockquote> -->
+
+=====Existence=====
+Hence in [[psychoanalysis]], "what's important is to teach the [[subject]] to name, to articulate, to bring this [[desire]] into [[existence]]."<ref>{{S2}} p. 228</ref>  However, it is not a question of seeking a new means of expression for a given [[desire]], for this would imply a expressionist theory of [[language]].  On the contrary, by articulating [[desire]] in [[speech]], the [[analysand]] brings it into [[existence]].  (The [[analysand]], by articulating [[desire]] in [[speech]], (does not simply give expression to a pre-existing [[desire]] but rather) brings that [[desire]] into [[existence]].)
+
+<blockquote>"That the [[subject]] should come to recognise and to name his [[desire]]; that is the efficacious action of [[analysis]]. But it isn't a question of [[recognising]] something which would be entirely given. ... In naming it, the [[subject]] creates, brings forth, a new [[presence]] in the world."<ref>{{S2}} p. 228-9</ref></blockquote>
+
+However, there is a limit to how far [[desire]] can be articulated in [[speech]] because of a fundamental "incompatibility between [[desire]] and [[speech]];"<ref>{{E}} p. 275</ref> it is this incompatibility which explains the irreducibility of the [[unconscious]] (i.e. the fact the the [[unconscious]] is not that which ''is not known'', but that which ''cannot be known'').
+
+"Although the [[truth]] about [[desire]] is present to some degree in all [[speech]], [[speech]] can never articulate the whole [[truth]] about [[desire]]; whenever [[speech]] attempts to articulate [[desire]], there is always a leftover, a [[surplus]], which exceeds [[speech]]."<ref>{{Evans}} p. 36</ref>
+
+=====Criticism=====
+One of [[Lacan]]'s most important criticisms of the [[psychoanalysis|psychoanalytic theories]] of his day was that they tended to confuse the concept of [[desire]] with the related concepts of [[demand]] and [[need]].  In opposition to this tendency, [[Lacan]] insists on distinguishing between these three concepts.  This distinction begins to emerge in his work in 1957,<ref>{{S4}} pp. 100-1, 125</ref>, but only crystallises in 1958.<ref>{{L}} (1958c) "[[The Signification of the Phallus|La signification du phallus]]." ''[[Écrits]]''. Paris: Seuil, 1966: 685-95 ["[[The Signification of the Phallus|The signification of the phallus]]". Trans. [[Alan Sheridan]] ''[[Écrits: A Selection]]''. London: Tavistock, 1977; New York: W.W. Norton & Co, 1977: 281-91].</ref>
+
+=====Need=====
+[[Need]] is a purely [[biological]] [[instinct]], an appetite which emerges according to the requirements of the organism and which abates completely (even if only temporarily) when satisfied.  The [[human]] [[subject]], being born in a state of [[helplessness]], is unable to [[satisfy]] its own [[need]]s, and hence depends on the [[Other]] to help it [[satisfy]] them.  In order to get the [[Other]]'s help, the [[infant]] must express its [[need]]s vocally; need must be articulated in [[demand]].  The primitive [[demand]]s of the [[infant]] may only be inarticulate screams, but they serve to bring the [[Other]] to minister to the [[infant]]'s [[need]]s.  However, the [[presence]] of the [[Other]] soon acquires an importance in itself, an importance that goes beyond the [[satisfaction]] of [[need]], since this [[presence]] [[symbolize]]s the [[Other]]'s [[love]].  Hence [[demand]] soon takes on a double function, serving both as an articulation of [[need]] and as a [[demand]] for [[love]].  However, whereas the [[Other]] can provide the [[object]]s which the [[subject]] requires to satisfy his [[need]]s, the [[Other]] cannot provide that unconditional [[love]] which the [[subject]] craves.  Hence even after the [[need]]s which were articulated in [[demand]] have been satisfied, the other aspect of [[demand]], the craving for [[love]], remains unsatisfied, and this leftover is [[desire]]. 
+
+<blockquote>"Desire is neither the appetite for satisfaction, nor the demand for love, but the difference that results from the subtraction of the first from the second."<ref>{{E}} p. 287</ref></blockquote>
+
+=====Demand=====
+[[Desire]] is thus the [[surplus]] produced by the articulation of [[need]] in [[demand]]; 
+
+<blockquote>"Desire begins to take shape in the margin in which [[demand]] becomes separated from need."<ref>{{E}} p. 311</ref></blockquote> 
+
+Unlike a [[need]], which can be satisfied and which then ceases to motivate the [[subject]] until another [[need]] arises, [[desire]] can never be satisfied; it is constant in its pressure, and eternal.  The realisation of [[desire]] does not consist in being "fulfilled", but in the reproduction of [[desire]] as such.
+
+=====Alexandre Kojève=====
+[[Lacan]]'s distinction between [[need]] and [[desire]], which lifts the concept of [[desire]] completely out of the realm of [[biology]], is strongly reminiscent of [[Kojève]]'s distinction between [[animal]] and [[human]] [[desire]]; [[desire]] is shown to be distinctively [[human]] when it is directed either toward another [[desire]], or to an object which is "perfectly useless from the [[biology|biological]] point of view."<ref>[[Alexandre Kojève|Kojève, Alexandre]] (1947 [1933-39]) ''Introduction to the Reading of Hegel''. Trans. James H. Nichols Jr. New York and London: Basic Books, 1969: 6</ref>
+
+=====Desire and Drive=====
+It is important to distinguish between [[desire]] and the [[drive]]s.  Although they both belong to the field of the [[Other]] (as opposed to [[love]]), [[desire]] is one whereas the [[drive]]s are many.  In other words, the [[drive]]s are the particular (partial) manifestations of a single force called [[desire]] (although there may also be [[desire]]s which are not manifested in the [[drive]]s).<ref>{{S11}} p. 243</ref>  There is only one [[object]] of [[desire]], [[object (petit) a]], and this is represented by a variety of partial objects in different partial [[drive]]s.  The [[object (petit) a]] is not the [[object]] towards which [[desire]] tends, but the [[cause]] of [[desire]].  [[Desire]] is not a relation to an [[object]], but a relation to a [[lack]].
+
+=====Desire of the Other=====
+One of [[Lacan]]'s most oft-repeated formulas is: "man's desire is the desire of the Other."<ref>{{S11}} p. 235</ref>  This can be understood in many complementary ways, of which the following are the most important.
+
+=====More=====
+1. [[Desire]] is essentially "desire of the Other's desire", which means both [[desire]] to be the [[object]] of another's [[desire]], and [[desire]] for recognition by another. 
+
+[[Lacan]] takes this idea from [[Hegel]], via [[Kojève]], who states:
+
+<blockquote>Desire is human only if the one desires, not the body, but the Desire of the other .  . . that is to say, if he wants to be 'desired'         or 'loved', or, rather, 'recognised' in his human value.      .  . . In other words, all human, anthropogenetic Desire  . .  . is, finally, a function of the desire for 'recognition'.<ref>[[Alexandre Kojève|Kojève, Alexandre]] (1947 [1933-39]) ''Introduction to the Reading of Hegel''. Trans. James H. Nichols Jr. New York and London: Basic Books, 1969: 6</ref></blockquote>
+
+=====Object of Another's Desire=====
+[[Kojève]] goes on to argue (still following [[Hegel]]) that in order to achieve the [[desire]]d recognition, the [[subject]] must risk his own life in a struggle for pure prestige (see [[master]]).  That [[desire]] is essentially [[desire]] to be the [[object]] of another's [[desire]] is clearly illustrated in the first 'time' of the [[Oedipus complex]], when the [[subject]] desires to be the [[phallus]] for the [[mother]].
+
+=====Two=====
+2. It is qua Other that the subject desires:<ref>{{E}} p. 312</ref> that is, the [[subject]] [[desire]]s from the point of view of another.  The effect of this is that "the object of man's desire     . . . is essentially an object desired by someone else."<ref>{{L}} "[[Some Reflections on the Ego]]." ''International Journal of Psychoanalysis''. Vol. 34. 1953[1951b]: 12</ref>  What makes an [[object]] desirable is not any intrinsic quality of the thing in itself but simply the fact that it is [[desire]]d by another. 
+
+The [[desire]] of the [[Other]] is thus what makes objects equivalent and exchangeable; this "tends to diminish the special significance of any one particular object, but at the same time it brings into view the existence of objects without number."<ref>{{L}} "[[Some Reflections on the Ego]]." ''International Journal of Psychoanalysis''. Vol. 34. 1953[1951b]: 12</ref>  
+
+This idea too is taken from [[Kojève]]'s reading of [[Hegel]]; [[Kojève]] argues that:
+
+<blockquote>"Desire directed toward a natural object is human only to the extent that it is 'mediated' by the Desire of another directed towards the same object: it is human to desire what others desire, because they desire it."<ref>[[Alexandre Kojève|Kojève, Alexandre]] (1947 [1933-39]) ''Introduction to the Reading of Hegel''. Trans. James H. Nichols Jr. New York and London: Basic Books, 1969: 6</ref></blockquote>
+
+<blockquote>The reason for this goes back to the former point about human desire being desire for recognition; by desiring that which another desires, I can make the other recognise my right to possess that object, and thus make the other recognise my superiority over him.<ref>[[Alexandre Kojève|Kojève, Alexandre]] (1947 [1933-39]) ''Introduction to the Reading of Hegel''. Trans. James H. Nichols Jr. New York and London: Basic Books, 1969: 40</ref></blockquote>
+
+=====Hysteria=====
+This universal feature of [[desire]] is especially evident in [[hysteria]]; the [[hysteric]] is one who sustains another person's [[desire]], converts another's [[desire]] into her own (e.g. Dora desires Frau K because she identifies with Herr K, thus appropriating his perceived desire).<ref>{{S4}} p. 138; {{F}} (1905e) "[[{{FB}}|Fragment of an Analysis of a Case of Hysteria]]." [[SE]] VII, 3.</ref>  Hence what is important in the [[analysis]] of a [[hysteric]] is not to find out the object of her desire but to discover the place from which she [[desire]]s (the [[subject]] with whom she identifies).
+
+=====Desire for the Other=====
+# [[Desire]] is [[desire]] ''for'' the [[Other]] (playing on the ambiguity of the French preposition ''de''). The fundamental [[desire]] is the incestuous [[desire]] for the [[mother]], the primordial [[Other]].<ref>{{S7}} p. 67</ref>
+
+# [[Desire]] is always "the desire for something else,"<ref>{{E}} p. 167</ref> since it is impossible to [[desire]] what one already has.  The [[object]] of [[desire]] is continually deferred, which is why [[desire]] is a [[metonymy]].<ref>{{E}} p. 175</ref>
+
+# [[Desire]] emerges originally in the field of the [[Other]]; i.e. in the [[unconscious]]. 
+
+=====Social Product=====
+The most important point to emerge from [[Lacan]]'s phrase is that [[desire]] is a social product.  [[Desire]] is not the private affair it appears to be but is always constituted in a [[dialectic|dialectical relationship]] with the perceived [[desire]]s of other [[subject]]s.
+
+=====(M)other=====
+The first person to occupy the place of the [[Other]] is the [[mother]], and at first the child is at the mercy of her [[desire]].  It is only when the [[Father]] articulates [[desire]] with the [[law]] by castrating the [[mother]] that the [[subject]] is freed from subjection to the whims of the [[mother]]'s [[desire]].
+
+==See Also==
+{{See}}
+* [[Need]]
+||
+* [[Drive]]
+||
+* [[Demand]]
+{{Also}}
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+{{OK}}
+[[Category:Symbolic]]
+[[Category:Real]]
+[[Category:Mess]]

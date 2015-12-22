@@ -1,0 +1,64 @@
+{{Top}}complexe{{Bottom}}
+
+==Complex and Imago==
+The term "[[complex]]" occupies an important place in [[Lacan]]'s [[Works of Jacques Lacan|work]] before 1950, where it is closely related to the [[imago]].
+
+Whereas the [[imago]] designates an [[imaginary]] stereotype relating to one person, the [[complex]] is a whole constellation of interacting [[imago]]s; it is the internalization of the [[subject]]'s earliest [[structure|social structure]]s (i.e. the relationships between the various actors in his family environment).
+
+A [[complex]] involves multiple [[identification]]s with all the interacting ''[[imago]]s'', and thus provides a script according to which the [[subject]] is led "to play out, as the sole actor, the drama of conflicts' between the members of his family."<ref>{{Ec}} p.90</ref>
+
+==Complex and Instinct==
+In his pre-war work, [[Lacan]] argues that it is because [[human]] [[psychology]] is based on the [[complex]]es, which are entirely [[cultural]] products, rather than on [[natural]] [[instinct]]s, that [[human]] [[behaviour]] cannot be explained by reference to [[biological]] givens. 
+
+Nevertheless, while drawing this explicit contrast between [[complex]]es and [[instinct]]s, [[Lacan]] also recognizes that [[complex]]es may be compared to [[instinct]]s in that they make up for the [[instinct]]ual inadequacy (''insuffisance vitale'') of the [[human]] [[infant]], and argues that the [[complex]]es are propped on [[biological]] functions such as [[weaning]].<ref>{{1938}} p.32-3</ref>
+
+==Family Complexes==
+In 1938 [[Lacan]] identifies three "[[family complexes]]," each of which is the trace of a "psychical crisis" which accompanies a "life crisis." 
+
+===Weaning Complex===
+The first of these [[complex]]es is the [[weaning|weaning complex]] (''[[complexe du sevrage]]''). Taking up the idea of a "trauma of weaning," first developed by René Laforgue in the 1920s, [[Lacan]] argues that no matter how late [[weaning]] occurs, it is always perceived by the [[infant]] as coming too early.
+
+<blockquote>"Whether [[trauma]]tic or not, [[weaning]] leaves in the [[human]] [[psyche]] a permanent trace of the [[biological]] relation which it interrupts. This life crisis is in effect accompanied by a psychical crisis, without doubt the first whose solution has a [[dialectic]]al [[structure]]."<ref>{{1938}} p.27</ref></blockquote>
+
+===Intrusion Complex===
+After the [[weaning]] [[complex]] comes the [[intrusion complex]] (''[[complexe de l'intrusion]]''), which represents the experience that the [[child]] has when he realizes that he has siblings.  The [[child]] must then cope with the fact that he is no longer the exclusive [[object]] of his parents' attention. 
+
+===Oedipus Complex===
+The third and final [[family complex]] is the [[Oedipus Complex]].  After their appearance in the 1938 paper, the terms "[[weaning complex]]" and "[[intrusion complex]]" disappear almost completely from [[Lacan]]'s [[Works of Jacques Lacan|work]].  However, the [[Oedipus complex]] remains a fundamental reference point throughout, and this is complemented by a growing interest, from 1956 on, in the [[castration complex]].
+
+==See Also==
+{{See}}
+* [[Biology]]
+* [[Castration complex]]
+* [[Culture]]
+||
+* [[Development]]
+* [[Imago]]
+* [[Intrusion complex]]
+||
+* [[Instinct]]
+* [[Nature]]
+* [[Oedipus complex]]
+||
+* [[Structure]]
+* [[Subject]]
+* [[Weaning|Weaning complex]]
+{{Also}}
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+[[Category:Freudian psychology]]
+[[Category:Psychoanalysis]]
+[[Category:Jacques Lacan]]
+[[Category:Development]]
+[[Category:Practice]]
+[[Category:Treatment]]
+[[Category:Dictionary]]
+[[Category:Concepts]]
+[[Category:Terms]]
+{{OK}}
+
+__NOTOC__

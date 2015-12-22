@@ -1,0 +1,22 @@
+When Sigmund Freud's essay "The Uncanny" appeared in 1919, he had already made a reference to the Unheimliche, in Totem and Taboo (1912-1913a), as well as bringing up the "omnipotence of thought." This shows that the question had interested Freud for some time. Here there are passages on repetition compulsion as well that foreshadow Beyond the Pleasure Principle, which was published a year later (1920g). A forum for intersecting propositions, the essay is also a compendium of references (Ernst Jentsch, Friedrich von Schiller, Ernst Theodor Amadeus Hoffmann) and yet, Freud does not reference the psychoanalytic literature on related topics, such as Pierre Janet's déjà-vu, or Joseph Capgras's illusion of the double.
+
+To establish his evasive concept, Freud follows two approaches at the same time: etymology and linguistic variants, and observations or fantasies that appear in novels. The French, English, and Spanish translations of unheimlich all fail to recapitulate the principal reference to the familiar, or family (heim, or home), which defines and limits the notion of the uncanny.
+
+Das Unheimliche is defined as "that particular variety of terror that relates to what has been known for a long time, has been familiar for a long time." We are presented at once with a paradox that Freud does nothing to alleviate since the familiar should not be disquieting. This proposition is at the heart of Freud's ideas about the original pleasure-ego that coincides with the good and rejects the bad. In "Instincts and their Vicissitudes" (1915c), we find the same opposition between ego/non-ego, just as we do in "Negation" (1925h). Still, it is not clear why the familiar should be threatening and therefore, a second element is needed, namely, the secret, the hidden, which gives rise to the notion of hostility and danger. For danger is associated with penetrating what is sealed off, and strangeness—based on an idea Freud borrowed from von Schilling—with the revelation of what should by rights remain hidden because it is the bearer of transgression.
+
+To these linguistic and fantasy associations, Freud, in the second part of the essay, introduces a number of literary examples (many from Hoffmann), centered primarily on the intellectual uncertainty over whether something is living or not (from Jentsch). There it is shown how the repetition compulsion manifests itself through the return of the repressed. This is true even in situations where we expect the new and with it the return of the dead to life.
+
+The theme of the double, developed by Otto Rank, whom Freud quotes, is a source of ambivalence: the assurance of survival and a harbinger of death. Consequently, the Unheimliche is connected with the anxiety associated with the return of the repressed and with this the concept receives considerable scope: "With animism, magic, sorcery, the omnipotence of thought, unintentional repetition, and the castration complex, we have for the most part examined all the factors that transform anxiety into the uncanny."
+
+This essay is certainly one of the most fecund, if not one of the most confused, written by Freud. It represents an exemplary effort at combining literature and psychoanalysis, for Freud helps establish his thesis on the basis of the study of works of literature. The concepts of anxiety associated with the foreign (René Spitz) and the secret (Piera Aulagnier) have been the subject of research that does not directly extend Freud's work. However, examination of the supernatural (telepathy, for example) and the analysis of literature based on the "anxiety of fiction" (Mijolla-Mellor) are directly related to Freud's study of the uncanny.
+
+==See Also==
+* [[Double]]
+* [[Fear]]
+
+==References==
+<references/>
+# Freud, Sigmund. (1919h). Das Unheimliche. Imago, 5: 297-324;GW, 12: 229-268;The "uncanny," SE, 17: 217-256.
+
+
+[[Category:New]]

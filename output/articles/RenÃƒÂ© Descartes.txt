@@ -1,0 +1,55 @@
+
+According to Lacan, psychoanalysis is a science. 
+
+It is the science of the unconscious subject, and this subject first emerged in the seventeenth century with the founder of modern philosophy René Descartes (1596-1650). 
+
+
+The [[subject]] 
+
+
+
+
+
+[[Lacan]] interprets the [[Freud]]ian [[unconscious]] as both the direct heir of the Cartesian subject and, at the same time, that which undermines all philosophies deriving from it. 
+
+In Meditations (1642) [[Descartes]] asked how we might know the truth of our beliefs and our perceptions of reality. 
+
+He suggested that we could only do this scientifically if we rejected everything that we had cause to doubt and then saw what remained with certainty as true. 
+
+The difficulty with this approach, [[Descartes]] observed, is that it could lead one into more difficulties and uncertainty than the position from which one originally started. 
+
+One would have to accept, as Descartes put it, that 'there was nothing at all in the world: no sky, no earth, no minds or bodies' (1968 [1642]: 103). 
+
+Descartes concluded, then, that all we could be certain of was the existence of God and ourselves:
+
+here is therefore no doubt that I exist, if he [God] deceives me; and let him deceive me as much as he likes, he can never cause me to be nothing, so long as I think I am something. So that, after having thought carefully about it, and having scrupulously examined everything, one must then, in conclusion, take as assured that the proposition: I am, I exist, is necessarily true, everytime I express it or conceive of it in my mind. (1968 [1642]: 103)
+
+From a Lacanian perspective, on the other hand, as Slavoj Žižek puts it, the only thing one can be certain of is that one does not exist. Let us try to clarify this. Freud remains Cartesian to the extent that he sets out from a position of doubt, but, whereas Descartes moves from a position of doubt to the certainty of conscious mind, Freud moves in the opposite direction and places the emphasis on the doubt that supports certainty. For Freud, it is the central tenet of psychoanalysis that the vast majority of mental life and activity remains inaccessible to the conscious mind. He famously used the image of an iceberg to illustrate the human mind, in the sense that only a fraction of an iceberg is immediately visible and the majority of it remains submerged beneath the surface. Lacan argues that if we take the Freudian unconscious seriously then we must reverse Descartes' formulation thus: 'By virtue of the fact that I doubt, I am sure that I think' (1979 [1973]: 35). The certainty of consciousness is always supported by something else: by doubt, by the unknown or unknowable, or by what Freud will designate as the unconscious. For Lacan, therefore, the only thing we can know with certainty after Freud is 'that the subject of the unconscious manifests itself, that it thinks before it attains certainty' (1979 [1973]: 37). In this sense the unconscious is pre-ontological; it is not a question of existence, of being or non-being, but rather of the unrealized, the unknown of Cartesian doubt. We must be quite clear here though that the unconscious is not the act of doubting as such, as this presupposes an already existing subject. The unconscious is the unknown that lies beyond doubt. 
+
+
+ 	
+
+The psychoanalytic subject - the subject of the unconscious - can only come into being through others and in relation to the Other. As Lacan puts it, the subject unfolds in the place (locus) of the Other. As with the Cartesian subject, the subject of the unconscious is faced with the question of its own existence, or, more precisely, its lack of existence. Unlike the Cartesian subject, however, the Lacanian subject does not have the certainty of self-consciousness - I think, therefore, I am; the Lacanian subject of the unconscious is essentially no-thing; it is a lacking subject who has lost his or her being. The subject in Lacan can also be seen to have a certain equivalence to the unconscious and desire, and these three concepts emerge at the same point within Lacanian theory. The question psychoanalysis poses is: how can something come of nothing? In the 1950s Lacan suggested that the subject was the effect of signifiers and was realized through the processes of metaphor and metonymy.
+
+
+
+{{TTS}}
+: Reply to Six Objections 116
+: the spectre of the Cartesian subject 1-2
+: universality of cogito 100
+: voluntarism 319
+: withdrawal-into-self 34
+* [[Zizek|Žižek, Slavoj]]. ''[[The Parallax View]]''. Cambridge: MIT Press. 2006: 8, 86, 164, 274
+
+==References==
+<references/>
+
+[[Category:Slavoj Žižek]]
+[[Category:Index]]
+[[Category:People]]
+[[Category:Philosophy]]
+
+
+[[Category:Philosophy]]
+[[Category:People]]
+[[Category:Subject]]

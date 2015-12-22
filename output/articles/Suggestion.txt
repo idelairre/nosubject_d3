@@ -1,0 +1,87 @@
+{{Top}}suggest|suggestion{{Bottom}}            
+
+==Psychiatric Definition==
+In nineteenth-century French psychiatry, the term "[[suggestion]]" referred to the use of hypnosis to remove [[neurotic]] [[symptoms]]; while the [[patient]] was in a state of hypnosis, the doctor would "[[suggest]]" that the [[symptom]]s would disappear. 
+
+==Sigmund Freud==
+Taking his cue from the French psychiatrists Charcot and Bernheim, [[Freud]] began using [[suggestion]] to treat [[neurotic]] [[patient]]s in the 1880s. 
+
+==Treatment==
+However, he became increasingly dissatisfied with [[suggestion]], and thus came to abandon [[hypnosis]] and develop [[psychoanalysis]]. 
+
+The reasons for [[Freud]]'s dissatisfaction with [[hypnosis]] are hence fundamental for understanding the specific nature of [[psychoanalysis]]. 
+
+However, it is beyond the scope of this article to enter into a detailed discussion of these reasons. 
+
+==Psychoanalysis==
+Suffice it to say that in [[Freud]]'s later work the term "[[suggestion]]" comes to represent a whole set of ideas which [[Freud]] associates with hypnosis and which is thus diametrically opposed to [[psychoanalysis]].
+
+==Jacques Lacan==
+Following [[Freud]], [[Lacan]] uses the term "[[suggestion]]" to designate a whole range of deviations from true [[psychoanalysis]] (deviations which [[Lacan]] also refers to as "[[psychotherapy]]"), of which the following are perhaps the most salient:
+
+===Direction Toward Moral Value===
+:1. [[Suggestion]] includes the idea of directing the [[patient]] towards some [[ideal]] or some [[moral]] value. 
+: In opposition to this, [[Lacan]] reminds [[analysts]] that their task is to direct the [[treatment]], not the [[patient]].<ref>{{E}} p.227</ref>
+:[[Lacan]] is opposed to any conception of [[psychoanalysis]] as a normative process of social influence.
+
+===Resistance to Treatment===
+:2. [[Suggestion]] also arises when the [[patient]]'s [[resistance]] is seen as something that must be liquidated by the [[analyst]]. 
+:Such a view is completely foreign to [[psychoanalysis]], argues [[Lacan]], since the [[analyst]] recognizes that a certain residue of [[resistance]] is inherent in the [[structure]] of the [[treatment]].
+
+===Interpretation, Signification and Meaning===
+:3. In [[suggestion]], the [[interpretation]]s of the therapist are orientated around [[signification]], whereas the [[analyst]] orientates his [[interpretation]]s around [[meaning]] (''[[meaning|sens]]'') and its correlate, [[meaning|nonsense]]. 
+:Thus whereas in [[psychotherapy]] there is an attempt to avoid the ambiguity and equivocation of [[discourse]], it is precisely this ambiguity which [[psychoanalysis]] thrives on.
+
+==Transference==
+[[Suggestion]] has a close relation with [[transference]].<ref>{{E}} p. 270</ref>
+
+If [[transference]] involves the [[analysand]] attributing [[knowledge]] to the [[analyst]], [[suggestion]] refers to a particular way of responding to this attribution. 
+
+==Position of the Analyst==
+[[Lacan]] argues that the [[analyst]] must realize that he only occupies the position of one who is presumed (by the [[analysand]]) to know, without fooling himself that he really does possess the [[knowledge]] attributed to him. 
+
+In this way, the [[analyst]] is able to transform the [[transference]] into "an analysis of suggestion."<ref>{{E}} p.271</ref>
+
+[[Suggestion]], on the other hand, arises when the [[analyst]] assumes the position of one who really does know.
+
+==Hypnosis and Psychoanalysis==
+Like [[Freud]], [[Lacan]] sees [[hypnosis]] as the model of [[suggestion]]. 
+
+In ''[[Group Psychology and the Analysis of the Ego]]'', [[Freud]] shows how hypnotism makes the [[object]] converge with the [[ego-ideal]].<ref>{{F}} ''[[Works of Sigmund Freud|Group Psychology and the Analysis of the Ego]]'', 1921. [[SE]] XVIII, 69.</ref> 
+
+To put this in [[Lacan]]ian terms, [[hypnotism]] involves the convergence of the [[object]] ''a'' and the I. 
+
+[[Psychoanalysis]] involves exactly the opposite, since "the fundamental mainspring of the analytic operation is the maintenance of the distance between I - identification - and the ''a''."<ref>{{S11}} p. 273</ref>.
+
+==See also==
+{{See}}
+* [[Analysand]]
+* [[Analyst]]
+||
+* [[Interpretation]]
+* [[Knowledge]]
+||
+* [[Progress]]
+* [[Resistance]]
+||
+* [[Signification]]
+* [[Structure]]
+||
+* [[Transference]]
+* [[Treatment]]
+{{Also}}
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+[[Category:Imaginary]]
+[[Category:Jacques Lacan]]
+[[Category:Dictionary]]
+[[Category:Psychoanalysis]]
+[[Category:Concepts]]
+[[Category:Treatment]]
+{{OK}}
+
+__NOTOC__

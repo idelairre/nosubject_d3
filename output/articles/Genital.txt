@@ -1,0 +1,87 @@
+{{Top}}génital{{Bottom}}
+
+==Sigmund Freud==
+==Psychosexual Development==
+In the [[stage]]s of [[psychosexual development]] listed by [[Freud]], the [[genital|genital stage]] is the last [[stage]] in the series, coming after the two [[genital|pregenital stages]] (the [[development|oral stage]] and the [[development|anal stage]]).
+
+The [[genital|genital stage]] first arises between the ages of three and five (the [[development|infantile genital organization]] or [[development|phallic phase]]) and is then interrupted by the [[latency period]], before returning at puberty (the [[genital|genital stage]] proper).
+
+[[Freud]] defined this [[stage]] as the final "complete organization" of the [[libido]], a synthesis of the previously anarchic "[[perversion|polymorphous perversity]]" of the [[genital|pregenital stage]]s.<ref>{{F}} "[[Works of Sigmund Freud|Splitting of the Ego in the Process of Defence]]" 1940a [1938]. [[SE]] XXIII. p. 155</ref>
+
+==Jacques Lacan==
+==Genitality==
+Because of this, the concept of "[[genital|genitality]]" came to represent a privileged value in [[psychoanalytic theory]] after [[Freud]], coming to represent a [[stage]] of full [[development|psychosexual maturity]].
+
+[[Lacan]] rejects most [[psychoanalytic theory]] concerning the [[genital]] [[stage]], [[genital]] [[love]], etc., calling it an "absurd hymn to the [[harmony]] of the [[genital]]."<ref>{{E}} p. 245</ref>
+
+According to [[Lacan]], there is nothing [[harmonious]] about [[genital]]ity.
+
+==Genital Stage==
+The stages of [[development|psychosexual development]] are conceived by [[Lacan]] not as [[nature|natural phases]] of [[biology|biological maturation]] but as forms of [[demand]] which are [[structure]]d [[punctuation|retroactively]].<ref>{{S8}} p. 238-46</ref>
+
+In the [[development|oral]] and [[development|anal stages]], [[desire]] is eclipsed by [[demand]], and it is only in the [[genital stage]] as a third moment which comes after the [[development|oral]] and [[development|anal stages]].<ref>{{S8}} p. 268</ref>
+
+However, [[Lacan]]'s discussion of this [[development|stage]] focuses on what [[Freud]] referred to as the "[[genital|infantile genital organization]]" (also known as the [[phallic phase]]); a [[development|stage]] when the [[child]] knows only one sexual organ (the male one) and passes through the [[castration complex]].
+
+===Castration===
+Thus the [[genital|genital phase]] is only thinkable, [[Lacan]] emphasizes, insofar as it is marked by the [[sign]] of [[castration]]; "[[genital|genital realization]]" can only be achieved on condition that the [[subject]] first assumes his own [[castration]].<ref>{{S4}} p. 219</ref>
+
+Furthermore, [[Lacan]] insists that even when the [[perversion|polymorphous perverse]] [[sexuality]] of the [[genital|pregential phases]] comes under the domination of the genital organization, this does not mean that pregenital [[sexuality]] is abolished.
+
+<blockquote>"The most archaic aspirations of the child are... a nucleus that is never completely resolved under some primacy of genitality."<ref>{{S7}} p.93</ref></blockquote>
+
+He therefore rejects the concept of a [[development|final stage]] of [[progress|synthesis]]; [[progress|synthesis]] is not possible for [[human]] [[being]]s, in [[Lacan]]'s view, since [[human]] [[subjectivity]] is essentially and irremediably [[split|divided]].
+
+===Genital Drive===
+The [[genital|genital drive]] is not listed by [[Lacan]] as one of the [[drive|partial drive]]s.
+
+Given that [[Lacan]] argues that every [[drive]] is a [[drive|partial drive]], his refusal to include the [[genital|genital drive]] among the [[drive|partial drive]]s is tantamount to questioning its [[existence]].
+
+In 1964, [[Lacan]] makes this explicit.
+
+He writes: "the partial drive, if it exists, is not at all articulated like the other drives.<ref>{{S11}} p. 189</ref>
+
+Unlike the other [[drive]]s, the [[genital|genital drive]] (if it [[exist]]s) "finds its form" on the side of the [[Other]].<ref>{{S11}} p. 189</ref>
+
+Furthermore, there is no "[[genital|genital object]]" that would correspond to a supposed [[genital drive]].
+
+==Genital Love==
+[[Lacan]] rejects Michael Balint's concept of "[[genital|genital love]]".
+
+The term indicates a [[development|psychosexual maturity]] in which the two elements of sensuality and affection are completely integrated and harmonized, and in which there is thus no longer any [[ambivalence]].
+
+[[Freud]], however, never used the term, and [[Lacan]] rejects it as completely alien to [[psychoanalytic theory]].
+
+For [[Lacan]], the idea of final [[development|psychosexual maturity]] and [[progress|synthesis]] implied in the term "[[genital|genital love]]" is an [[illusion]] which completely overlooks "the barriers and snubs (''Erniedrigungen'') that are so common even in the most fulfilled love relation."<ref>{{E}} p. 245</ref>  
+
+There is no such thing as a [[ambivalence|post-ambivalent]] [[object]] relation.
+
+===Oblativity===
+The concept of [[genital|genital love]] is closely linked to that of "[[genital|oblativity]]", a term used by some [[psychoanalyst]]s to designate a mature form of [[love]] in which one [[loves]] the other person for what he is rather than for what he can give.
+
+[[Lacan]] is as critical of the concept of [[genital|oblativity]] as he is of the concept of [[genital|genital love]], viewing it as a form of moralism and a betrayal of the analytic discovery of the [[part-object]].<ref>{{S8}} pp. 173-4</ref>
+
+He argues that the concept of [[genital|oblativity]] has little to do with [[genital|genitality]] and has far more in common with anal eroticism.
+
+Following [[Freud]]'s equation between faeces and gifts, [[Lacan]] states that the formula of [[genital|oblativity]] - "everything for the other" -- shows that it is a [[fantasy]] of the [[obsessional neurosis|obsessional neurotic]].<ref>{{S8}} p. 241</ref>
+
+==See also==
+{{See}}
+* [[Development]]
+* [[Libido]]
+{{Also}}
+
+==References==
+<references/>
+
+[[Category:Freudian psychology]]
+[[Category:Psychoanalysis]]
+[[Category:Jacques Lacan]]
+[[Category:Development]]
+[[Category:Dictionary]]
+[[Category:Language]]
+[[Category:Concepts]]
+[[Category:Terms]]
+{{OK}}
+
+__NOTOC__

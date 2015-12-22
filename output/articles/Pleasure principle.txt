@@ -1,0 +1,37 @@
+{{Top}}principe de plaisir{{Bottom}}
+
+==Sigmund Freud==
+According to [[Freud]], the [[pleasure principle]] is one of the "two principles of mental functioning" -- the other being the [[reality principle]].  The [[pleasure principle]] directs all mental or psychical activity towards obtaining -- maximizing -- [[pleasure]] and avoiding -- minimizing -- [[pleasure|unpleasure]].  All mental or psychical activity is directed -- by the [[pleasure principle]] -- towards obtaining [[pleasure]] and avoiding [[pleasure|unpleasure]].
+
+===Equilibrium===
+[[Unpleasure]] is related to the increase of quantities of excitation.  [[Unpleasure]] results from increased excitation.  [[Pleasure]] results from their reduction.  The [[pleasure principle]] therefore serves to reduce tension and to return the [[psyche]] to a state of equilibrium or constancy.
+
+===Beyond the Pleasure Principle===
+[[Freud]] suggests that there is something "beyond the pleasure principle" -- namely the [[death drive]]s -- which attempt to reduce psychic tension to zero, and thus to return living beings to an inorganic state.
+
+==Jacques Lacan==
+For [[Lacan]] the [[pleasure principle]] is an obstacle to ''[[jouissance]]' that takes the [[subject]] to that extreme point where the erotic borders upon [[death]] and where [[subjectivity]] risks extinction.  The [[pleasure principle]] is closely linked -- closely related -- to the [[prohibition]] of [[incest]], the [[symbolic law]] and the regulation of [[desire]].  The [[pleasure principle]] is "that which regulates the distance between the subject and ''[[das Ding]]''.  In [[Chronology|1960]], [[Lacan]] develops an important opposition between [[pleasure]] and ''[[jouissance]]''.  ''[[Jouissance]]'' is an excessive quanitity of excitation which the [[pleasure principle]] tries to prevent.  The [[pleasure principle]] is a commandment -- which can be phrased -- "Enjoy as little as possible."
+
+<blockquote>The function of the pleasure principle is, in effect, to lead the subject from signifier to signifier, by generating as amny signifiers as are required to maintain at as low a level as possible the tension that regulates the whole functioning of the psychic apparatus.<ref>{{S7}} p. 119</ref></blockquote>
+
+[[Lacan]] describes the [[pleasure principle]] in the [[seminar]] of 1954-5.<ref>{{L}}  "[[Seminar II|Le moi dans la théorie de Freud et dans la technique de la psychanalyse]]." (The Ego in Freud's Theory and in the Technique of Psychoanalysis.) 1954-5. Unpublished.</ref>
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+[[Category:Freudian psychology]]
+[[Category:Sigmund Freud]]
+[[Category:Jacques Lacan]]
+[[Category:Terms]]
+[[Category:Concepts]]
+[[Category:Psychoanalysis]]
+[[Category:Theory]]
+[[Category:Symbolic]]
+[[Category:Edit]]
+[[Category:New]]
+[[Category:Dictionary]]
+{{OK}}
+
+__NOTOC__

@@ -1,0 +1,47 @@
+==Disappearance of Desire==
+The literal meaning of this Greek term is '''disappearance'''.  It was first introduced into [[psychoanalysis]] by [[Ernest Jones]], who uses it to mean "the [[disappearance]] of [[sexual]] [[desire]]."<ref>Jones, Ernest. 1927. "Early Development of Female Sexuality" in ''Papers on Psychoanalysis'' (5th edn), Baltimore: Williams & Wilkins, 1948.</ref> For Jones, the [[fear]] of [[aphanisis]] exists in both [[sex]]es, giving rise to the [[castration complex]] in [[male|boys]] and to [[penis envy]] in [[female|girls]].
+
+==Disappearance of the Subject==
+[[Lacan]] takes up Jones's term, but modifies it substantially.  For [[Lacan]], ''[[aphanisis]]'' does not mean the [[disappearance]] of [[desire]], but the [[disappearance]] of the [[subject]].<ref>{{S11}} p. 208</ref>  The ''[[aphanisis]]'' of the [[subject]] is the [[fading]] of the [[subject]], the fundamental [[division]] -- or [[split]] -- of the [[subject]] which institutes the [[dialectic]] of [[desire]].<ref>{{S11}} p. 221</ref>
+
+==Neurosis==
+Far from the [[disappearance]] of [[desire]] being the [[object]] of [[fear]], it is precisely what the [[neurotic]] aims at; the [[neurotic]] attempts to shield himself from his [[desire]], to put it aside.<ref>{{S8}} p. 271</ref>
+
+==Fading==
+[[Lacan]] also uses another term, "[[fading]]," in a way that makes it synonymous with the term ''[[aphanisis]]''.  [[Fading]] (a term which [[Lacan]] uses directly in [[English]]) refers to the [[disappearance]] of the [[subject]] in the process of [[alienation]]. 
+
+==Mathemes==
+The term is used by [[Lacan]] when describing the [[mathemes]] of the [[drive]] and of [[fantasy]]: the [[subject]] "[[fades]]" or "[[disappears]]" in the face of [[demand]] and in the face of the [[object]], as is shown by the fact that the [[subject]] is [[bar]]red in these [[matheme]]s.
+
+==See Also==
+{{See}}
+* [[Alienation]]
+* [[Bar]]
+||
+* [[Castration complex|Castration]]
+* [[Demand]]
+||
+* [[Desire]]
+* [[Dialectic]]
+||
+* [[Matheme]]
+* [[Neurosis]]
+||
+* [[Split]]
+* [[Subject]]
+{{Also}}
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+[[Category:Psychoanalysis]]
+[[Category:Jacques Lacan]]
+[[Category:Subject]]
+[[Category:Dictionary]]
+[[Category:Concepts]]
+[[Category:Terms]]
+{{OK}}
+
+__NOTOC__

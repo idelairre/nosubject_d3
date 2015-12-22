@@ -1,0 +1,75 @@
+{{Top}}ça{{Bottom}}
+
+==Sigmund Freud==
+[[Freud]] borrowed the term ''[[das Es]]'' (which the ''[[Standard Edition]]'' translates as "[[the Id]]") from Georg Groddeck, one of the first [[German]] [[psychiatry|psychiatrists]] to support [[psychoanalysis]], although [[Freud]] also noted, Groddeck himself seems to have taken the term from [[Nietzche]].<ref>{{F}} ''[[Works of Sigmund Freud|The Ego and the Id]]''. 1923b. [[SE]] XIX. p. 23</ref>
+
+=="Unknown and Uncontrollable Forces"==
+Groddeck argued that "what we call the ego behaves essentially passively in life, and ... we are 'lived' by unknown and uncontrollable forces,"<ref>{{F}} ''[[Works of Sigmund Freud|The Ego and the Id]]''. 1923b. [[SE]] XIX. p. 23</ref> and used the term ''[[das Es]]'' to denote these forces.
+
+==Structural Model of the Psyche==
+The term first appears in [[Freud]]'s work in the early 1920s, in the context of the second model of the [[psyche]]; in this model, the [[psyche]] is divided into three agencies: the [[id]], the [[ego]] and the [[superego]].
+
+The [[id]] corresponds roughly to what [[Freud]] called the [[unconscious|unconsicous system]] in his first model of the [[psyche]], but there are also important differences between these two concepts.
+
+==Jacques Lacan==
+[[Lacan]]'s main contribution to the theory of the [[id]] is to stress that the "unknown and uncontrollable forces" in question are not primitive [[biological]] [[need]]s or wild [[instinct]]ual forces of [[nature]], but must be conceived of in [[linguistic]] terms:
+
+<blockquote>The ''Es'' with which anlaysis is concerned is made of the signifier which is already there in the real, the uncomprehended signifier.  It is already there, but it is made of the signifier, it is not some kind of primitive and confused property relevant to some kind of pre-established harmony...<ref>{{S4}} p. 49</ref></blockquote>
+
+==Origin of Speech==
+[[Lacan]] conceives of the [[id]] as the [[unconscious]] origin of [[speech]], the [[symbolic]] "it" beyond the [[imaginary]] [[ego]].
+
+Thus whereas Groddeck states that "the affirmation 'I live' is only conditionally correct, it expresses only a small and superficial part of the fundamental principle 'Man is lived by the It,'"<ref>Groddeck, Georg. ''The Book of the It'', London: Vision Press, 1949 [1923]. p. 5</ref>, [[Lacan]]'s view could be summed up in similar terms, only replacing the verb "to live" with the verb "to speak"; the affirmation "I speak " is only a superifical part of the fundamental principle "Man is spoken by it."
+
+Hence the phrase which [[Lacan]] frequently uses when discussing the [[id]]; "it speaks" (''le ca parle'').<ref>{{S7}} p. 206</ref>
+
+==Subject==
+The [[symbolic]] nature of the [[id]], beyond the [[imaginary]] sense of self-constituted by the [[ego]], is what leads [[Lacan]] to equate it with the term "[[subject]]".
+
+This equation is illustrated by the homophony between the [[German]] term ''[[Id|Es]]'' and the letter '''S''', which is [[Lacan]]'s [[symbol]] for the [[subject]].<ref>{{E}} p. 129</ref>
+
+==''Wo Es war, soll Ich werden''==
+One of [[Freud]]'s most famous statements concerns the [[id]] and its relationship with [[psychoanalytic treatment]]; ''Wo Es war, soll Ich werden'' (which the [[Standard Edition]] renders "Where id was, there ego shall be.")<ref>{{F}} ''[[Works of Sigmund Freud|New Introductory Lectures on Psycho-Analysis]]''. 1933a. [[SE]] XXII. p. 80</ref>
+
+One common reading of this cryptic statement has been to take it as meaning that the task of [[psychoanalytic treatment]] is to enlarge the field of [[consciousness]]; it is just such a reading that is crystallized in the original [[French]] translation of [[Freud]]'s statement - ''le moi doit déloger le ça'' (the [[ego]] shall dislodge the [[id]]).
+
+[[Lacan]] is completely opposed to such a reading.<ref>{{S1}} p. 195</ref>, arguing instead that the word ''soll'' is to be understood as an [[ethics|ethical injunction]], so that the [[end of analysis|aim]] of [[analysis]] is for the [[ego]] to submit to the [[autonomy]] of the [[symbolic order]].
+
+Thus [[Lacan]] prefers to translate [[Freud]]'s statement as "there where it was, or there where one was ... it is my duty that I should come into being" [''Là où c'était, peut-on dire, là où s'était . . . c'est mon devoir que je vienne à être''].<ref>{{E}} p. 129, 299-300; [[Ec]] p. 417-8</ref>
+
+The [[end of analysis]], according to this view, is thus a kind of "existential recognition" of the [[symbolic]] determinants of one's [[being]], a recognition of the fact that "You are this" (You are this [[signifying chain|symbolic chain]], and no more).<ref>{{S1}} p. 3</ref>
+
+==See Also==
+{{See}}
+* [[Biology]]
+* [[Consciousness]]
+* [[Ego]]
+||
+* [[End of analysis]]
+* [[Linguistics]]
+* [[Nature]]
+||
+* [[Speech]]
+* [[Structure]]
+* [[Subject]]
+||
+* [[Superego]]
+* [[Treatment]]
+* [[Unconscious]]
+{{Also}}
+
+== References ==
+<references/>
+
+[[Category:Freudian psychology]]
+[[Category:Psychoanalysis]]
+[[Category:Sigmund Freud]]
+[[Category:Jacques Lacan]]
+[[Category:Dictionary]]
+[[Category:Concepts]]
+[[Category:Terms]]
+{{OK}}
+
+__NOTOC__
+
+{{Encore}} pp. 87, 108''n''

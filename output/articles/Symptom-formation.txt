@@ -1,0 +1,59 @@
+=Freudian Dictionary=
+
+<blockquote>Symptoms result from the injuring of the instinctual impulse through repression.<ref>{{PoA}} Ch. 2</ref></blockquote>
+
+<blockquote>Symptoms are supposed to be an indication of and substitute for an unachieved instinctual gratification; they are, that is, a result of a process of repression.<ref>{{PoA}} Ch. 2</ref></blockquote>
+
+<blockquote>Symptom formation thus has the actual result of putting an end to the danger situation.<ref>{{PoA}} Ch. 9</ref></blockquote>
+
+<blockquote>All phenomena of symptom-formation can be fairly described as "the return of the repressed," The disitnctive character of them, however, lies in the extensive distortion the returning elements have undergone, compared with their original form.<ref>{{M&M}} Part III, Section II</ref></blockquote> 
+
+{{Freudian Dictionary}}
+{{!}}
+
+
+=Below=
+
+
+
+Symptom-formation is the process leading to the production of a symptom—the production, that is to say, of a "sign" or "indication" of a functional disturbance.
+
+The word symptom was borrowed by psychoanalysis from medical language. Even its etymology (Greek, "that which is held together") suggests a link between the symptom and what it indicates (and it is worth noting, too, that syndrome, a set of symptoms, is likewise derived from Greek elements, meaning, in this case, "that which proceeds together"). That having been said, it is important to bear in mind that there is a broad difference between a sign (implying an intentional designation) and a mere indication (implying merely coincidence, without intentionality).
+
+As early as his first psychoanalytical writings, Freud plumbed for the former sense, arguing that to produce a symptom was to produce a sign, that a symptom always had a meaning, even if that meaning were lost on the patient himself. Studies on Hysteria (1895d), or at any rate Freud's contribution to it, is largely dedicated to the illustration of this thesis: "I have examples at my disposal," he wrote, "which seem to prove the genesis of hysterical symptoms through symbolization alone" (p. 179).
+
+Indeed, for Freud, the symptom, like the dream, was a compromise-formation via which a wish struggled to achieve fulfillment, albeit merely a partial one: "A symptom arises," he wrote to Wilhelm Fliess on February 19, 1899, "where the repressed and the repressing thought can come together in the wish-fulfillment" (SE, 1, p. 278). Like dream-images, the symptom was overdetermined, and its formation relied on the processes of condensation and displacement. Unlike the dream-work, however, which led to the creation of images, symptom-formation resulted in the kind of bodily expression of which hysterical conversion was the paradigm; in the emergence of obsessive ideas as in obsessional neurosis (in which case secondary symptoms might arise also as defenses against the primary ones); in phobic avoidances; and so on.
+
+More generally, the work of symptom-formation gave rise to mental processes and types of behavior that were repetitive and relatively "isolated"—that were not, in other words, integrated into other aspects of the patient's personality. The patient would usually recognize these as pathological in nature, and seek treatment, a fact which distinguished such symptoms from fixed "character traits."
+
+The fact is that Freud's entire work, in its attempt to elucidate the neuroses, continually strove for a better understanding of the processes of symptom-formation. Thus in a letter to Jung dated June 15, 1911, distancing himself from his first theory of the trauma, he made the following essential correction: "symptoms spring not directly from the memories but from the fantasies built on them" (1970a, p. 260). He would later review the whole problem once more in the light of his second topography (structural theory) and his second theory of the instincts, in Inhibitions, Symptoms and Anxiety (1926d).
+
+To summarize, Freud's theory viewed the formation of symptoms from the standpoint of "semiology" in both the medical and the linguistic senses of the term (a fact pointed up notably by Jacques Lacan, whose position is famously encapsulated in the claim that "the unconscious is structured like a language"). This view did not hold good, however, beyond the sphere of neurosis proper: in the "actual neuroses," the manifest symptoms had no psychic meaning (Freud, 1916-17a). Absent the mentalization of fantasies, libidinal energy flowed directly into somatic processes—a mechanism that has been studied in more recent times by the Paris school of psychosomatic medicine (Marty, 1976, 1980).
+
+Inasmuch as the symptom expressed a compromise between instinctual satisfaction and defense, its motor was a dynamic that in all cases sought to reestablish an equilibrium, but that also determined the form of individual symptoms as well as the place each would occupy within a specific clinical entity.
+
+It was unpleasure, first and foremost, that triggered the mechanism of symptom-formation—an unpleasure that derived from pleasure and that could not be accounted for save in terms of the confrontation between the internal pressure exerted by fantasy and the idea of the external danger that depended directly upon it. Hitherto, this calculus of pleasure has been the responsibility of repression, along with the other defenses that either collaborated with repression or ensured mastery over the instincts by their own efforts. The formation of a symptom was invariably necessitated by a strengthening of the instinct, whether this increased pressure was attributable to biology, to fantasy, to reality, or to external events. The failure of defense in all cases resulted in the first instance in the emergence of anxiety. Whereas in the actual neuroses anxiety was nothing more than an almost reflexive return to the pathways of discharge of the first great traumas, the situation here made it into a signal of danger and a call for the symptom to arise.
+
+The interplay between affects and ideas—the components of the instinct, whose reciprocal links and independence from each other constituted the dynamic of mental life—was thus the crucible of the symptom (Freud, 1894a). Repression functioned by dissociating the two, working on the idea in order to contain the affect and the action that the affect prefigured. The symptom, for its part, was effective because it operated in the interstice, restoring the rights of the instincts by creating new links, more acceptable to the ego, between affect and idea. The simplest instance of this in the context of neurotic repression was doubtless displacement, which was a function of the instinctual shift with respect to the symbol and the resulting decline in the symbol's significance, but other more complex defensive ploys were the locus of the same dynamic: thus the "Wolf Man" used displacement to transform his homosexual desire into a phobic fear of wolves (1918b [1914]), while Schreber was well able to handle fantasy by means of a similarly discrete action of the component instincts, but one which relied not on repression or displacement, but rather on the projection of the idea and the turning of the affect into its opposite, so producing the symptom of feelings of persecution (1911c).
+
+This amounted to an introduction of differences with respect to the formation and the form of the symptom. Both clearly depended on the nature of the conflict: the threat of castration, the loss of the object, narcissism at risk, or alienation; neurosis, depression, borderline state, or psychosis. It has rightly been pointed out that in this account no symptom can exist independently of a corresponding clinical entity.
+
+Two caveats apply in this connection. The first concerns the specificity of defensive modes to given pathological structures, so that each mode is perforce related to a corresponding symptomatic form of decompensation: whether object-dependency is defended against external reality by disavowal, idealization, projection, or some other means, will serve to explain why breakdown occurs in a particular subject, delusion in another, and so on. Within a single neurosis, to take the case of the obsessional, the oedipal situation is the starting-point of a regression to the anal level of fixation which will determine the compulsiveness and mental retentiveness characterizing the symptoms (Freud, 1926d). Apropos of phobia, however, Freud describes three different phases of symptom-formation: preconscious decathexis, anticathexis of the substitutive idea, and an expansion of this idea's associations and of the vigilance it demands (1915e, pp. 181ff).
+
+The second difficulty is related to the strength of the symptom with respect to the point reached in a particular clinical development. Thus in schizophrenics phobia may rapidly be overwhelmed by the haziness of the dividing-line between inside and outside, so that all projection becomes ineffective. Projection is scarcely more functional in agoraphobics, whose narcissistic inadequacy precludes the establishment of any external protective focus. Cancerophobics, on the other hand, being mentally more obsessional and more objective in their verification procedures, can keep the conflict out of the clutches of depression for some time before it eventually succeeds in bringing the struggle back within the ego. It should be noted, though, that while the neurotic conflict between the ego and the id confines phobia, in its exclusiveness, to a single line of defense, it nevertheless confers on the symptom, not efficacity, for that remains limited, but durability and solidity.
+
+AUGUSTIN JEANNEAU AND ROGER PERRON
+
+See also: Actual neurosis/neurosis of defense; Allergy; "Analysis of a Phobia in a Five-year-Old Boy"; Choice of neurosis; Compromise-formation; Conflict; Constitution; Conversion; Daydream; Defense; Displacement; Ego; Eros; ; Fantasy; Fixation; Hypnoid states; Identification; Identification fantasies; Instinctual impulse; Need for punishment; Overdetermination; Paranoid position; Phobias in children; Principle of constancy; Psychosomatic; Regression; Repression; "Repression"; Reversal into the opposite; Self-punishment; Somatic compliance; Splitting of the ego; Symptom; Unpleasure; Wish fulfillment.
+Bibliography
+
+    * Freud, Sigmund. (1894a). The neuro-psychoses of defense. SE, 3: 41-61.
+    * ——. (1911c). Psycho-analytic notes on an autobiographical account of a case of paranoia (dementia paranoides). SE, 12: 1-82.
+    * ——. (1915e). The unconscious. SE, 14: 159-204.
+    * ——. (1916-17a). Introductory lectures on psychoanalysis. SE, 15-16.
+    * ——. (1918b [1914]). From the history of an infantile neurosis. SE, 17: 1-122.
+    * ——. (1926d). Inhibitions, symptoms and anxiety. SE, 20: 75-172.
+    * Freud, Sigmund, and Josef Breuer. (1895d). Studies on hysteria. SE, 2: 48-106.
+    * Freud, Sigmund, and C. G. Jung. (1970a). The Freud/Jung letters: The correspondence between Sigmund Freud and C. G. Jung (Ralph Manheim and R. F. C. Hull, Trans.). Princeton, NJ: Princeton University Press.
+    * Marty, Pierre. (1976). Les mouvements individuels de vie et de mort I: Essai d'économie psychosomatique. Paris: Payot.
+    * ——. (1980). Les mouvements individuels de vie et de mort II: L'ordre psychosomatique. Paris: Payot.

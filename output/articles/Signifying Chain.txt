@@ -1,0 +1,74 @@
+Inspired by the notion of facilitation, which was central to Freud's description of the functioning of the psychic apparatus, Jacques Lacan defined the signifying chain as an association and combination of signifiers, connected in diverse ways, like the "links by which a necklace firmly hooks onto a link of another necklace made of links" (Lacan, 2002a, p. 145). The unconscious activity of desire is expressed through the associative and combinatory links of the signifier and is repeated in a kind of succession that sets up a chain reaction.
+
+The signifying chain originates in the process of primal repression, during which the Name-of-the-Father signifiers are substituted for the signifier of the desire for the mother. From then on, conscious and unconscious signifiers are woven together through metonymy and metaphor, the two functions that generate signifieds.
+
+The signifying chain has only one destiny: to insert the subject's unconscious desire in the subject's utterances. Thus it constitutes the design and the weave of the speaking subject's psychic fabric. More generally, it is involved in all psychic causality.
+
+
+==new==
+
+The signifying chain is the privileged site of Lacan’s situation of temporality, subjectivity, and above all, desire. It belongs only to the symbolic order, though it has effects in and is affected by the imaginary as well. It is the locus of the signifier divorced from the signified in its perpetual play of deferral and provisionally generated meaning, sustaining the Saussurean dictum that "meaning is not found in any one signifier, but in the play between signifiers along the signifying chain and is therefore unstable" (Evans 185). Whereas the meaning associated with the interaction between the symbolic and the imaginary (via points de capiton) is only a provisional, illusory, and ephemeral function of the link between the signifier and the signified, Lacan’s conception of the chain of signification reduces meaning to a product of anticipation and deferral: "the signifier, by its very nature, always anticipates meaning by unfolding its dimension before it" (Ecrits 153).
+
+The signifying chain is, therefore, fundamentally diachronic, perpetually unfolding and perpetually in process: "A signifying chain can never be complete, since it is always possible to add another signifier to it, ad infinitum, […] signification is not present at any one point in the chain, but rather meaning ‘insists’ in the movement from one signifier to another" (Evans 187-188).19 None of the individual signifiers which go to make up the signifying chain contains meaning in any positive way, but rather meaning "insists" as a function of their interaction. Lacan clarifies this distinction as one between a conception of the signifying chain in which meaning "consists" in a given signifier and one which recognises the pre-eminence of "insistence" as the production of meaning. Like Hopkins’s poetic concept of inscape, the meaning of a given instance of signification can not be readily discerned from the external appearance of a sign, but must be deduced from the outward indications of a meaning that is always elsewhere and incomplete: "it is in the chain of the signifier that the meaning ‘insists’ but that none of its elements ‘consists’ in the signification of which it is at the moment capable" (Ecrits 153). In its fundamental incompleteness and differential production of meaning, the signifying chain is perhaps most easily characterised by the Derridean concept of différance, to which it bears a close conceptual affinity and intellectual ancestry.
+
+The incorrigible diachrony captured in both Derrida’s term and in Lacan’s "insistence" of meaning not only challenges traditional conceptions of signification as a process of reference and equivalence between the signifier and the signified (let alone the sign and the referent), but also harbours the profoundly temporal nature of the signifying chain: "the ‘signifying chain’ which subsumes the language of the unconscious and the language of ordinary speech, is by definition always on the move towards a desired future […] its temporality seem[s] oddly smooth and characterless – ‘pure’ displacement, ‘pure’ continuity, a slippage or a passage that moves ahead with unstoppable fluency" (Bowie 179). So tightly bound up with temporal movement is the signifying chain that any attempt to characterise the glissement of signifiers over signifieds immediately evokes a correlative movement through time. Indeed, the only amendment that I would make to Bowie’s characterisation of this correlation is that Lacan’s conception of the inherent temporality of signification is not necessarily a movement "ahead." Rather, while Lacan certainly does insist on the inescapably temporal quality of the signifying chain, he does not hold that this temporality must proceed in a given direction:
+
+The linearity that Saussure holds to be constitutive of the chain of discourse, in conformity with its emission by a single voice and with its horizontal position in our writing – if this linearity is necessary, in fact, it is not sufficient. It applies to the chain of discourse only in the direction in which it is orientated in time, being taken as a signifying factor in all languages in which ‘Peter hits Paul’ reverses its time when the terms are inverted. (Ecrits 154)
+
+The temporal flow of the signifying chain must therefore be reversible at least, if not subject to outright short-circuits that, though they maintain the linearity of temporal progression, violate the strict progression of its moments. Lacan’s variation on Saussure’s linearly conceived signifying chain thus retains its "necessary" linearity, but allows him to posit that the mental structures and operations (notably desire and subjectivity) which are organised by it are temporally reversible. For all intents and purposes, then, the present can actually change the past and a past event can be experienced again in the present not simply as a remembered event, but as a repetition without antecedent and without an intervening lapse of time (or in which the intervening lapse of time can be overcome instantaneously).
+
+Indeed, part of the reason this temporality is so fundamental to Lacan’s conception of the signifying chain is that it allows for the centrality of repetition in the process of signification and deferral. That is, each instance of signification, each manifest signifier, only repeats the action of deferral and flight that extends back to the infant’s first use of language to articulate the binary between presence and absence actualised in the coming and going of his or her mother (whether actual or as symbolised in the father’s inaugural interdiction). As a result of the felt need to articulate the alternating absence and presence of his or her mother, the infant breaks down his or her relation to her into two categories, making her absence a present feature of the symbolic world into which he or she has just stumbled. This ascription of a signifier to hold the place of an absent object by marking its real absence with a symbolic presence is profoundly formative, as it boomerangs back on the subject when he or she discovers that he or she has forgone the full effectiveness of his or her identification with his or her mother in the very process of naming her. By distinguishing between the mother’s presence and absence, the infant thus creates a binary of primal symbolisation that instantaneously removes the immediately experienced body and being of the mother (as an object in the world) to an irretrievable distance. Henceforth, even when the mother is present to the infant, she will always also be partly absent by virtue of her representation in the symbolic order. The infant undergoes the trauma of entering the symbolic order in the primal moment at which he or she (driven by the father’s prohibitory "No" – see below) names absence as something that can be given content and presence (however illusory). This revelation also introduces, however, the fact that presence is always haunted by absence, a feature which is perpetually highlighted through the symbolic order’s insistence on supplying a signifier that (however arbitrarily) marks the incompleteness of all presence –marks it, indeed, as merely a mask for absence. The endless deferral and ephemerality of all signification thus characterises the infant’s relation to not only the mother, but to all other objects in the world, naturalising alienation as an existential condition since all such relations are part of that perceptual apparatus that is always already organised by the process of symbolisation. 
+
+
+
+
+
+The term '[[signifying chain]]' is used by [[Jacques Lacan]] (from the mid-1950s on) in reference to the [[symbolic]] [[order]].
+
+The [[signifying chain]] denotes a line of descendence into which each subject is inscribed even before his birth and after his death, and which influences his destiny unconsciously.<ref>Ec, 468</ref> 
+
+In 1957 Lacan uses the term '[[signifying chain]]' to refer to a series of [[signifier]]s which are linked togher.
+
+
+
+A signifying chain can never be complete, since it is always possible to add another signifier to it, ad infinitum, in a way which expresses the eternal nature of desire; for this reason, desire is metonymic. 
+
+The chain is also metonymic in the production of meaning; signification is not present at any one point in the chain, but rather meaning 'insists' in the movement from one signifier to another (see E, 153).
+
+At times Lacan speaks of the signifying chain in linear metaphors, and at mother times in circular metaphors;
+
+Linearity          'The linearity that Saussure holds to be constitutive of the chain of discourse applies to the chain of discourse only in the direction in which it is orientated in time' (E, 154).
+
+Circularity           
+The signifying chain is compared to 'rings of a necklace that is a ring in another necklace made of rings' (E, 153).
+On the one hand, the idea of linearity suggests that the signifying chain is the stream of speech, in which signifiers are combined in accordance with the laws of grammar (which Saussure calls 'syntagmatic' relationships, and Lacan, following Jakobson, locates on the metonymic axis of language). On the other hand, the idea of circularity suggests that the signifying chain is a series of signifiers linked by free associations, just one path through the network of signifiers which constitutes the symbolic world of the subject (which Saussure designates 'associative' relationships, and which Lacan, following Jakobson, locates on the metaphoric axis of language). In truth, the signifying chain is both of these things. In its diachronic dimension it is linear, syntagmatic, metonymic; in its synchronic dimension it is circular, associative, metapho- ric. The two cross over: 'there is in effect no signifying chain [diachronic chain] that does not have, as if attached to the punctuation of each of its units, a whole articulation of relevant contexts [synchronic chains] suspended "vertically", as it were, from that point' (E, 154). Lacan thus combines in one concept the two types of relationship ('syntagmatic' and 'associative') which Saussure argued existed between signs, though for Lacan, the relationship is between signifiers, not signs.
+
+==See Also==
+* [[Four discourses]]
+* [[Graph of Desire]]
+* [[Letter]]
+* [[Matheme]]
+* [[Psychic causality]]
+* [[Signifier]]
+* [[Symptom]]
+* [[Sinthome]]
+* [[Unary trait]]
+
+==References==
+<references/>
+# Lacan Jacques. (1993). The seminar of Jacques Lacan. Book 3: The psychoses, 1955-1956 (Russell Grigg, Trans.) New York: W. W. Norton.
+# ——. (2002a).Écrits: A selection (Bruce Fink, Trans.) New York: W. W. Norton.
+# ——. (2002b). The function and field of speech and language in psychoanalysis. In hisÉcrits: A selection (Bruce Fink, Trans.) New York: W. W. Norton. (Original work published 1953)
+# ——. (2002c). The instance of the letter in the unconscious, or reason since Freud. In hisÉcrits: A selection (Bruce Fink, Trans.) New York: W. W. Norton. (Original work published 1957)
+# ——. (2002d). The subversion of the subject and the dialectic of desire in the Freudian unconcsious. In hisÉcrits: A selection (Bruce Fink, Trans.) New York: W. W. Norton. (Original work published 1960)
+
+[[Category:New]]
+
+
+== References ==
+<references/>
+
+[[Category:Lacan]]
+[[Category:Terms]]
+[[Category:Concepts]]
+[[Category:Psychoanalysis]]

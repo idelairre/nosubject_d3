@@ -1,0 +1,49 @@
+=Freudian Dictionary=
+
+
+<blockquote>The great majority work only when forced by necessity, and this natural human aversion to work gives rise to the most difficult social problems.<ref>{{C&D}} Ch. 2</ref></blockquote>
+
+{{Freudian Dictionary}}
+
+
+=Below=
+
+
+In its general sense, the word work denotes an expenditure of energy by a system or organism that produces an effect or transformation. In psychoanalysis, mental work is taken to mean any activity of the psychical apparatus that is designed to deal with instinctual excitations.
+
+As early as "Some Points for a Comparative Study of Organic and Hysterical Motor Paralyses" (1893c), a paper originally published in French, Freud introduced a notion cardinal to his entire work: "Every event, every psychical impression is provided with a certain quota of affect (Affektbetrag) of which the ego divests itself either by means of a motor reaction or by associative psychical activity.... [T]his conception (Vorstellung) does not become liberated and accessible so long as the quota of affect of the psychical trauma has not been eliminated by an adequate motor reaction or by conscious psychical activity" (pp. 171-172). It was therefore on the basis of clinical experience that the idea of mental work imposed itself on Freud the therapist as a necessary activity for the patient—as distinct, in particular, from the patient's more passive role in treatment using hypnosis. In his earliest psychoanalytical writings, it was a cognitive kind of work that was seen as making it possible to resolve the contradiction between an unacceptable idea that had aroused a painful affect and the ego. The aim of such "associative working over (assoziative Verarbeitung)" (1894a, p. 50) was to integrate forgotten ideas—which Freud would later call repressed ideas—into the realm of consciousness.
+
+By drawing this distinction between associative mental work and a motor discharge comparable to the reflex arc, Freud not only described the aim of such work, namely to deal with the quota of affect, but also offered a first glimpse of what was to become psychoanalysis: the study of the functioning of the psychical apparatus, and at the same time a therapeutic method designed to bring back into consciousness, by means, precisely, of psychic work, ideas that had been repressed. The term work appears frequently in Freud's writings, and very often it refers to one or other of these two aspects of psychoanalysis.
+
+It is significant that Freud chose a term belonging at once to ordinary and to scientific language in order to describe his view of the psychical apparatus: by analogy with the natural sciences, which he so often invoked, he took work to mean a physical measure implying a certain expenditure of energy. Throughout Freud's writings, in fact, the idea of work supplied him with the yardstick with which to gauge every manifestation of mental activity, not only within the treatment (the work performed respectively by analyst and analysand, as discussed for example in the Studies on Hysteria [1995d]), but also in respect of the operation of various mental processes (as for instance the dream-work, joke-work, the work of mourning, or the psychic work of repression in the child during the oedipal period).
+
+Beginning with The Interpretation of Dreams (1900a), Freud considered—"since nothing but a wish can set our mental apparatus at work" (p. 567)—that the dream was a wish-fulfillment, and that it was governed by the pleasure principle. The task of the dream-work, whose chief mechanisms Freud described as condensation, displacement, considerations of representability, symbolization, and secondary revision, was to transform the formative components of dreams—daily residues, bodily stimuli, dream-thoughts—into a manifest content acceptable to the otherwise vigilant consciousness of the dreamer. In Jokes and Their Relation to the Unconscious (1905c), Freud discussed the work involved in the construction of jokes, an activity designed to produce pleasure, and demonstrated its kinship with the mechanisms of the dream. The Three Essays on the Theory of Sexuality (1905d) introduced the sexual instinct as a way of conceptualizing the pressure for work mobilized by desire; the work of the psychic apparatus was thus deemed to be the management of excitations emanating from the sexual instinct.
+
+In "Formulations on the Two Principles of Mental Functioning," (1911b), Freud reasserted that the activity of the psychical apparatus was governed by the pleasure principle, but he added that in the course of development the reality principle could establish itself and modify things: "Just as the pleasure-ego can do nothing but wish, work for a yield of pleasure, and avoid unpleasure, so the reality-ego need do nothing but strive for what is useful and guard itself against damage" (p. 223). Later, in "Mourning and Melancholia" (1916-17g [1915]), Freud showed that mourning was responsible for the work of withdrawing libido from the object in situations where the object was highly cathected.
+
+The word work was used throughout Freud's writings, too, to denote effort expended during analytic treatment, whether by the analyst or by the patient. In his paper on "Constructions in Analysis," for example, he reminded his readers "that the work of analysis consists of two quite different portions, that it is carried on in two separate localities [and] involves two people, to each of which a distinct task is assigned." Moreover, the "person who is being analysed has to be induced to remember something that has been experienced by him and repressed; and the dynamic determinants of this process are so interesting that the other portion of the work, the task performed by the analyst, [may be] pushed into the background" (1937d, p. 258). The analyst's said task Freud nevertheless compared first of all to that of the archaeologist; he then distinguished between two kinds of work on the analyst's part that were undertaken in parallel: construction (or reconstruction) and working-through (durcharbeiten), the second being needed in order to overcome the resistances that the analyst's constructions were liable to provoke in the patient.
+
+Finally, Freud did not overlook the everyday meaning of work as professional activity. Like Voltaire, whom he cited, he underscored the great value of work in this sense, but for his part he viewed it from the standpoint of the economics of the libido, and described it as a form of sublimation offering the possibility "of displacing a large amount of libidinal components, whether narcissistic, aggressive or even erotic"; to the extent that it made possible "the use of existing inclinations . . . or . . . instinctual impulses," any profession could be "a source of special satisfaction" (1930a [1929], p. 80n).
+
+Many recent approaches to psychoanalysis have given a significant place to the notion of work. A notable example is André Green's "work of the negative," which, though it is a product of the death instinct, functions in a sense by making the negative positive: a void, a lack, or a state of mourning itself becomes an object of identification or an object susceptible of cathexis, to the detriment of the absent object itself. Negative hallucination, the function of disobjectalization, negative narcissism, or the complex of the dead mother are so many paradigms of the work of the negative in operation.
+
+René Angelergues (1993) has distinguished between two qualitative orientations of mental work, the one toward sublimation, the other toward erotization. It is also worth mentioning the "work of thought" (Anzieu, 1996; Mijolla-Mellor, 1992). And, lastly, the phenomenon of mentalization, which, according to theÉcole de Psychosomatique de Paris, deals with the quantity and quality of an individual's ideas—and is thus closely akin to that mental work which has the capacity to cope with and manage anxiety and intraspsychic conflicts.
+
+MICHÈLE POLLAK CORNILLOT
+
+See also: Adolescent crisis; Autohistorization; Construction/reconstruction; Dream work; Interpretation of Dreams, The; Mourning; Negative, work of; "Outline of Psycho-Analysis, An"; Preconscious, the; Secondary revision; Therapeutic alliance; Working-through.
+Bibliography
+
+    * Angelergues, René (1993). L'Homme psychique. Paris: Calmann-Levy.
+    * Anzieu, Didier. (1996). Créer, détruire. Paris: Dunod.
+    * Freud, Sigmund. (1893c [1888-1893]). Some points for a comparative study of organic and hysterical motor paralyses. SE, 1: 155-172.
+    * ——. (1894a). The neuro-psychoses of defence. SE, 3: 41-61.
+    * ——. (1900a). The interpretation of dreams. Part I, SE,4: 1-338: Part II, SE, 5: 339-625.
+    * ——. (1905c). Jokes and their relation to the unconscious. SE, 8: 1-236.
+    * ——. (1905d). Three essays on the theory of sexuality. SE, 7: 123-243.
+    * ——. (1911b). Formulations on the two principles of mental functioning. SE, 12: 213-226.
+    * ——. (1916-17g [1915]). Mourning and melancholia. SE, 14: 237-258.
+    * ——. (1930a [1929]). Civilization and its discontents. SE, 21: 57-145.
+    * ——. (1937d). Constructions in analysis. SE, 23: 255-269.
+    * Freud, Sigmund, and Breuer, Josef. (1895d). Studies on hysteria. SE,2.
+    * Mijolla-Mellor, Sophie de. (1992). Le Plaisir de pensée. Paris: Presses Universitaires de France.

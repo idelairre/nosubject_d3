@@ -1,0 +1,60 @@
+{{Top}}narcissisme{{Bottom}}
+
+==Sigmund Freud==
+===Development of the Term===
+The term "[[narcissism]]" first appears in [[Freud]]'s [[Works of Sigmund Freud|work]] in 1910, but it is not until his work "[[Freud|On Narcissism: An Introduction]]"<ref>{{F}} "[[Works of Sigmund Freud|On Narcissism: An Introduction]]," 1914c. [[SE]] XIV, 69.</ref> that the concept begins to play a central role in [[psychoanalytic theory]].
+
+===Investment of the Libido in the Ego===
+From this point on, [[Freud]] defines [[narcissism]] as the investment of [[libido]] in the [[ego]], and opposes it to [[object]]-[[love]], in which [[libido]] is invested in [[object]]s.
+
+===Birth of the Ego===
+[[Lacan]] attributes great importance to this phase in [[Freud]]'s work, since it clearly inscribes the [[ego]] as an [[object]] of the [[libido|libidinal economy]], and links the birth of the [[ego]] to the [[narcissism|narcissistic stage]] of [[development]].
+
+===Narcissistic Stage of Development===
+[[Narcissism]] is different from the prior stage of [[autoeroticism]] (in which the [[ego]] does not exist as a unity), and only comes about when "a new psychical action" gives birth to the [[ego]].
+
+==Jacques Lacan==
+===Myth of Narcissus===
+[[Lacan]] develops [[Freud]]'s concept by linking it more explicitly with its namesake, the myth of [[Narcissus]].
+
+===Identification with the Specular Image===
+[[Lacan]] thus defines [[narcissism]] as the erotic attraction to the [[specular image]]; this erotic relation underlies the primary [[identification]] by which the [[ego]] is formed in the [[mirror stage]].
+
+===Erotic-Aggressive Character of Narcissism===
+[[Narcissism]] has both an [[erotic]] character and an [[aggressive]] character.  It is erotic, as the myth of [[Narcissus]] shows, since the [[subject]] is strongly attracted to the [[gestalt]] that is his [[image]].  It is [[aggressive]], since the wholeness of the [[specular image]] contrasts with the uncoordinated disunity of the [[subject]]'s real [[body]], and thus seems to threaten the [[subject]] with [[fragmented body|disintegration]].
+
+===="Narcissistic Suicidal Aggression"====
+In "[[Lacan|Remarks on Psychic Sausality]],"<ref>{{L}} "[[Work of Jacques Lacan|Propos sur la causalité psychique]]", in {{E}} [1946]. pp. 151-93</ref> [[Lacan]] coins the term "[[narcissism|narcissistic suicidal aggression]]" (''[[narcissism|aggression suicidaire narcissique]]'') to express the fact that the [[eroticism|erotic]]-[[aggressive]] character of the [[narcissistic]] infatuation with the [[specular image]] can lead the [[subject]] to self-destruction (as the myth of [[Narcissus]] also illustrates).<ref>{{Ec}} p. 187; {{Ec}} p. 174</ref>
+
+===Imaginary Dimension of Human Relationships===
+The [[narcissistic]] relation constitutes the [[imaginary]] dimension of human relationships.<ref>{{S3}} p. 92</ref>
+
+==See Also==
+{{See}}
+* [[Aggressivity]]
+* [[Autoeroticism]]
+* [[Body]]
+||
+* [[Ego]]
+* [[Identification]]
+* [[Imaginary]]
+||
+* [[Libido]]
+* [[Mirror stage]]
+* [[Specular image]]
+{{Also}}
+
+== References ==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+[[Category:Psychoanalysis]]
+[[Category:Jacques Lacan]]
+[[Category:Imaginary]]
+[[Category:Dictionary]]
+[[Category:Concepts]]
+[[Category:Terms]]
+{{OK}}
+
+__NOTOC__

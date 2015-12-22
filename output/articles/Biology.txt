@@ -1,0 +1,59 @@
+{{Topp}}biologie{{Bottom}}
+
+==Sigmund Freud==
+[[Freud]]'s [[Sigmund Freud:Bibliography|work]] is full of references to [[biology]].  [[Freud]] regarded [[biology]] as a model of [[scientific]] rigor on which to base the new [[science]] of [[psychoanalysis]]. 
+
+==Jacques Lacan==
+[[Lacan]], however, is strongly opposed to any attempt to construct [[psychoanalysis]] upon a [[biology|biological model]], arguing that the direct application of [[biological]] (or [[nature|ethological]]/[[psychology|psychological]]) [[:category:concepts|concepts]] (such as [[adaptation]]) to [[psychoanalysis]] will inevitably be misleading and will obliterate the essential distinction between [[nature]] and [[culture]].
+
+Such [[biology|biologizing explanations]] of [[human|human behavior]] ignore, according to [[Lacan]], the ''primacy'' of the [[symbolic order]] in [[human]] [[existence]]. [[Lacan]] sees this "[[biology|biologism]]" in the work of those [[psychoanalyst]]s who have confused [[desire]] with [[need]], and [[drives]] with [[instinct]]s,  [[:category:concepts|concepts]] which he insists on distinguishing.
+
+===History===
+These arguments are evident from the very earliest of [[Lacan]]'s [[psychoanalytic]] [[Works of Jacques Lacan|writings]].  In his [[{{Y}}|1938]] [[Jacques Lacan:Bibliography|work]] on the [[family]], for example, he rejects any attempt to explain [[family]] [[structure]]s on the basis of purely [[science|biological data]], and argues that [[human]] [[psychology]] is regulated by [[complex]]es rather than by [[instinct]]s.<ref>{{1938}} pp.  23-4</ref>
+
+====Science====
+[[Lacan]] argues that his refusal of [[science|biological reductionism]] is not a ''contradiction'' of [[Freud]] but a ''[[return]]'' to the essence of [[Freud]]'s [[Works of Sigmund Freud|work]].When [[Freud]] used [[biology|biological models]], he did so because [[biology]] was at that time a model of [[science|scientific rigor]] in general, and because the [[science|conjectural science]]s had not then achieved the same degree of rigor.
+
+[[Freud]] certainly did not confuse [[psychoanalysis]] with [[biology]] or any other exact [[science]], and when he borrowed [[:category:concepts|concepts]] from [[biology]] (such as the [[:category:concepts|concept]] of the [[drive]]) he reworked them in such a radical way that they become totally new [[:category:concepts|concepts]]. For example, the [[:category:concepts|concept]] of the [[death instinct]] "is not a question of biology."<ref>{{E}} p. 102</ref>  [[Lacan]] expresses this point with a paradox:
+<blockquote>"Freudian biology has nothing to do with biology."<ref>{{S2}} p. 75</ref></blockquote>
+
+=====Phallus=====
+[[Lacan]], like [[Freud]], uses [[:category:concepts|concepts]] borrowed from [[biology]] (i.e. [[imago]], dehiscence), and then reworks them in an entirely [[symbolic]] framework.  Perhaps the most significant example of this is [[Lacan]]'s concept of the [[phallus]], which he conceives as a [[signifier]] and not as a [[body|bodily organ]].  Thus while [[Freud]] conceives of the [[castration complex]] and [[sexual difference]] in terms of the [[presence]] and [[absence]] of the [[penis]], [[Lacan]] theorizes them in [[biology|non-biological]], [[biology|non-anatomical]] terms -- the [[presence]] and [[absence]] of the [[phallus]].  This has been one of the main attractions of [[Lacan]]ian [[theory]] for certain [[feminist]] writers who have seen it as a way of constructing a [[biology|non-essentialist]] account of gendered [[subjectivity]].
+
+=====Culture=====
+However, while [[Lacan]] consistently rejects all forms of [[science|biological reductionism]], he also rejects the [[culture|culturalist]] position which completely ignores the relevance of [[biology]]. If "[[biology|biologizing]]" is understood correctly (that is, not as the reduction of psychic phenomena to crude [[biology|biological determination]], but as discerning the precise way in which biological data impact on the psychical field), then [[Lacan]] is all in favor of [[biology|biologizing thought]].<ref>{{Ec}} p. 723</ref>  The clearest examples of this are [[Lacan]]'s appeals to examples from [[animal]] [[nature|ethology]] to demonstrate the power of [[image]]s to act as releasing mechanisms; hence [[Lacan]]'s references to pigeons and locusts in his account of the [[mirror stage]],<ref>{{E}} p. 3</ref> and to crustaceans in his account of [[mimicry]].<ref>{{S11}} p. 99</ref>  Thus in his account of [[sexual difference]], [[Lacan]] follows [[Freud]]'s rejection of the false dichotomy between "anatomy or convention".<ref>{{F}} ''[[Works of Sigmund Freud|New Introductory Lectures on Psycho-Analysis]]'', [[SE]] XXII, 1933a. p. 114</ref>
+
+==See Also==
+{{See}}
+* [[Absence]]
+* [[Adaptation]]
+* [[Castration complex|Castration]]
+||
+* [[Complex]]
+* [[Death drive]]
+* [[Desire]]
+||
+* [[Drive]]
+* [[Imago]]
+* [[Instinct]]
+||
+* [[Mirror stage]]
+* [[Nature]]
+* [[Need]]
+||
+* [[Phallus]]
+* [[Science]]
+* [[Sexual difference]]
+{{Also}}
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+{{OK}}
+[[Category:Freudian psychology]]
+[[Category:Science]]
+[[Category:Sexuality]]
+
+__NOTOC__

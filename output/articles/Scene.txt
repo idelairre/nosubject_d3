@@ -1,0 +1,61 @@
+{{Top}}scène{{Bottom}}
+
+==Sigmund Freud==
+[[Freud]] borrowed the expression "[[another scene]]" ([[German]]: ''[[eine andere Schauplatz]]'') from G.T. Fechner, and used it in ''[[The Interpretation of Dreams]]'', stating that "the [[scene]] of [[action]] of [[dream]]s is different from that of waking ideational [[life]]."<ref>{{F}} ''[[The Interpretation of Dreams]]'', 1900a. [[SE]] V. p. 535-6</ref>
+
+This led [[Freud]] to formulate the idea of "[[scene|psychical locality]]".
+
+However, [[Freud]] emphasized that this concept of locality is not to be confused with physical locality or anatomical locality, and [[Lacan]] takes this as a justification for his own use of [[topology]].<ref>{{E}} p. 285</ref>
+
+[[Lacan]] makes repeated reference to Fechner's expression in his work;<ref>{{E}} p. 193</ref> the "other scene" is, in [[Lacan]]ian terms, the [[Other]].
+
+==Jacques Lacan==
+==Fantasy==
+[[Lacan]] also uses the term "[[scene]]" to denote the [[imaginary]] and [[symbolic]] theatre in which the [[subject]] plays out his [[fantasy]], which is built on the edifice of the [[real]] (the world).
+
+The [[scene]] of [[fantasy]] is a virtual space which is framed, in the same way that the [[scene]] of a play is framed by the proscenium arch in a theatre, whereas the world is a [[real]] space which lies beyond the frame.<ref>{{F}} ''[[Seminar X|Le Séminaire. Livre X. L'angoisse, 1962-63]]'', unpublished. [[Seminar]] of 19 December 1962.</ref>
+
+==Acting Out and the Passage to the Act==
+This notion of [[scene]] is used by [[Lacan]] to distinguish between [[acting out]] and [[passage to the act]].
+
+The former still remains inside the [[scene]], for it is still inscribed in the [[symbolic order]].
+
+[[Lacan]] uses the term "[[scene]]" to distinguish between "[[acting out]]" and the "[[passage to the act]]."
+
+It is said that the process of [[acting out]] remains inside the [[scene]], inscribed in the [[symbolic]] [[order]].
+
+The [[passage to the act]], however, is an exit from the [[scene]], is a crossing over from the [[symbolic]] into the [[real]]; there is a total [[identification]] with the [[other]] and hence an abolution of the [[subject]].<ref>{{F}} ''[[Seminar X|Le Séminaire. Livre X. L'angoisse, 1962-63]]'', unpublished. [[Seminar]] of 16 January 1963.</ref> 
+
+==Perversion==
+The [[fantasy]] [[scene]] is also an important aspect in [[perversion]]. 
+
+The [[pervert]] typically stages his [[enjoyment]] in terms of some highly stylised [[scene]], and according to a stereotypical script.
+
+==See Also==
+{{See}}
+* [[Acting out]]
+* [[Identification]]
+||
+* [[Fantasy]]
+* [[Other]]
+||
+* [[Passage to the act]]
+* [[Perversion]]
+||
+* [[Subject]]
+* [[Topology]]
+{{Also}}
+
+== References ==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+[[Category:Psychoanalysis]]
+[[Category:Jacques Lacan]]
+[[Category:Dictionary]]
+[[Category:Concepts]]
+[[Category:Terms]]
+{{OK}}
+
+__NOTOC__

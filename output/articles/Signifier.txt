@@ -1,0 +1,91 @@
+{{Top}}signifiant{{Bottom}}
+
+==Jacques Lacan==
+
+=====Ferdinand de Saussure=====
+[[Lacan]] takes the term "[[signifier]]" from the work of [[Ferdinand de Saussure]].  
+
+According to [[Saussure]], the [[signifier]] is the ''phonological'' element of the '''[[sign]]'''; not the actual sound itself, but the '''[[mental]] [[image]]''' of such a sound. 
+
+In [[Saussure]]'s terms, the [[signifier]] is the "'''acoustic image'''" which signifies a [[signified]].<ref>[[Saussure|Saussure, Ferdinand de]]. (1916) ''[[Saussure|Course in General Linguistics]]'', ed. Charles Bally and Albert Sechehaye, trans. Wade Baskin, Glasgow: Collins Fontana. p. 66-7</ref>
+
+=====Primacy of the Signifier=====
+Whereas [[Saussure]] argues that the [[signifier]] and the '''[[signified]]''' are ''mutually interdependent'', [[Lacan]] states that the [[signifier]] is ''primary'' and produces the '''[[signified]]'''. 
+
+The [[signifier]] is first of all a [[meaning]]less [[material]] element in a ''closed differential [[system]]''; this "'''signifier without the signified'''" is called by [[Lacan]] the "'''pure signifier'''", though this is a question of logical rather than chronological precedence. 
+
+<blockquote>"Every real signifier is, as such, a signifier that signifies nothing. The more the signifier signifies nothing, the more indestructible it is."<ref>{{S3}} p. 185</ref></blockquote>
+
+=====The Subject and the Unconscious===== 
+It is these [[meaning]]less indestructible [[signifier]]s which determine the [[subject]]; the effects of the [[signifier]] on the [[subject]] constitute the [[unconscious]], and hence also constitute the whole of the field of [[psychoanalysis]].
+
+=====Basic Units of Language=====
+Thus for [[Lacan]] [[language]] is not a [[system]] of [[sign]]s -- as it was for [[Saussure]] -- but a [[system]] of [[signifier]]s. 
+
+[[Signifier]]s are the basic units of [[language]], and they are "subjected to the double condition of being reducible to ultimate differential elements and of combining according to the laws of a closed order."<ref>{{E}} p. 152</ref>
+
+=====Differential Elements=====
+By the phrase "reducible to ultimate differential elements," [[Lacan]] follows [[Saussure]] in asserting the fundamentally differential character of the [[signifier]]. 
+
+[[Saussure]] states that in [[language]] there are no positive terms, only [[difference]]s.<ref>[[Saussure|Saussure, Ferdinand de]]. (1916) ''[[Saussure|Course in General Linguistics]]'', ed. Charles Bally and Albert Sechehaye, trans. Wade Baskin, Glasgow: Collins Fontana. p. 120</ref>
+
+=====Signifying Chains=====
+By the phrase "combining according to the laws of a closed order," [[Lacan]] asserts that [[signifier]]s are combined in [[signifying chain]]s according to the [[law]]s of [[metonymy]].
+
+=====Symbolic Order=====
+The [[signifier]] is the constitutive unit of the [[symbolic]] [[order]] because it is integrally related with the concept of [[structure]].
+
+<blockquote>"The notion of structure and that of signifier appear inseparable."<ref>{{S3}} p. 184</ref></blockquote>
+
+The field of the [[signifier]] is the field of the [[Other]], which [[Lacan]] calls "the battery of signifiers."
+
+=====That Which Represents a Subject for Another Signifier=====
+[[Lacan]] defines a [[signifier]] as "that which represents a subject for another signifier," in opposition to the [[sign]], which "represents something for someone."<ref>{{S11}} p. 207</ref>
+
+To be more precise, one [[signifier]] (called the [[master]] [[signifier]], and written '''[[Image:SS1.gif]]''') represents the [[subject]] for ''all other [[signifier]]s'' (written '''[[Image:SS2.gif]]''').
+
+However, no [[signifier]] can ''[[signify]]'' the [[subject]].
+
+=====Sigmund Freud=====
+Although the term "[[signifier]]" is [[absent]] from [[Freud]]'s [[Sigmund Freud:Bibliography|work]], [[Lacan]]'s use of the term focuses attention on a recurrent theme in [[Freud]]'s [[Sigmund Freud:Bibliography|writings]]. 
+
+[[Freud]]'s examples of [[psychoanalytic]] [[interpretation]]s constantly focus on purely formal [[linguistic]] features. 
+
+Thus [[Lacan]]'s insistence that the [[analyst]] attend to the [[signifier]]s in the [[analysand]]'s [[speech]] is not really an innovation in [[technique]] but an attempt to theorize [[Freud]]'s own method in more rigorous terms.
+
+=====Words and Non-Linguistic Things=====
+While it is true that when [[Lacan]] talks about [[signifiers]] he is often referring to what others would call simply "[[word]]s," the two terms are not equivalent.
+
+Not only can units of [[language]] smaller than [[word]]s ([[phoneme|morpheme]]s and [[phoneme]]s) or larger than [[word]]s (phrases and sentences) also function as [[signifier]]s, but so also can [[linguistic|non-linguistic]] things such as [[object]]s, relationships and [[symptom]]atic [[act]]s.<ref>{{S4}} p. 288</ref> 
+
+=====Differential Nature of the Signifier=====
+The single condition which characterizes something as a [[signifier]], for [[Lacan]], is that it is inscribed in a [[system]] in which it takes on value purely by virtue of its [[difference]] from the other elements in the [[system]].
+
+=====Unstable Meaning=====
+It is this differential nature of the [[signifier]] which means that it can never have a univocal or fixed [[meaning]];<ref>{{S4}} p. 289</ref> on the contrary, its [[meaning]] varies according to the [[position]] which it occupies in the [[structure]].
+
+==See Also==
+{{See}}
+* [[Language]]
+* [[Metaphor]]
+||
+* [[Materialism]]
+* [[Sign]]
+||
+* [[Signification]]
+* [[Signified]]
+||
+* [[Signifying Chain]]
+* [[Subject]]
+{{Also}}
+
+== References ==
+<references/>
+
+{{OK}}
+[[Category:Linguistics]]
+[[Category:Language]]
+[[Category:Symbolic]]
+
+
+__NOTOC__

@@ -1,0 +1,34 @@
+The term primal refers to the totality of representations produced at the very beginning of mental life before there is any differentiation between internal and external, psyche and soma.
+
+The primal should not be confused with the origin of fantasy life, but is an early expression of it and has its own contents and its own logic. Never directly observable, the primal and its functioning can only be inferred, notably in the processes characteristic of psychosis (although psychosis is not reducible to these).
+
+The primal was not used as the name of a category by Sigmund Freud, who contrasted the primary processes, describing the unconscious system and the free flow of psychic energy, to the secondary processes, describing the preconscious-conscious system and the binding of energy that allows for postponement of satisfaction. Freud felt the need for a term to describe that which is prior to the primary processes and would precede individual life experience, constituting a sort of a priori framework in which the events in the psychic life of each unique individual would be inscribed. In his view, the "archaic heritage forms the nucleus of the unconscious mind" (1919e, p. 204), the equivalent of instincts in animals in that it is innate and inherited based on phylogenetic traces. The primitive phases of the human family thus survive in each individual subject and are rediscovered by the child according to his or her particular life experiences: "In the case of human being. . .this phytogenetic point of view is partly veiled by the fact that what is at bottom inherited is nevertheless freshly acquired in the development of the individual, probably because the same conditions which originally necessitated its acquisition persist and continue to operate upon each individual" (354-355) (passim) (Introductory Lectures on Psychoanalysis (1916-1917) [1915-1917]).
+
+Thus, Freud's thinking on the origins of psychic life did indeed involve a "primal" defined on both a historical level (humanity's prehistory) and a biological level (the transmission of traces). With his notion of "primal fantasies," Freud provided some elements of the contents of these traces, but their structure was considered identical to the one that generally exists between all events and their memory traces. The only difference lay in his hypothesis that what has become fantasy was a reality in primal times.
+
+The notion of the primal was studied by later psychoanalysts, not as a phylogenetically inscribed prehistory, but rather as the point of emergence of the earliest representations. In a certain sense, psychoanalytic thinking on the primal has been mainly informed by the Freudian notion of hallucinatory wish-fulfillment (The Interpretation of Dreams [1900]). For example, that notion is found in the work of Melanie Klein, who distinguished an "unconscious fantasy" that is linked to sensation and stems from the instinctual impulses themselves. These fantasies quickly become susceptible to being fixed in the form of visual, kinesthetic, tactile, gustatory, or olfactory images. Only secondarily can these fantasies become associated with representations of external reality, and later, under certain conditions (e.g., analysis or the child's spontaneous play) capable of being verbally expressed. However, they remain very remote from both words and conscious relational thought, and they are governed by emotional logic (Isaacs). At this level, there is no differentiation between mind and body, since overall primitive experience and the corporeal schemata associated with it are the determining factors. Traces of this primitive functioning are found in psychosis and hypochondria. Working within a Kleinian theoretical model, Wilfred R. Bion in Learning from Experience (1962) described the primal as being "at the source of experience," defining something prior to thought made up of sensory impressions translated into mnemic traces (alpha elements). The psychotic, who cannot effect this translation, must contend with sensory impressions in a raw form (beta elements) that cannot be represented as thing-presentations or word-presentations. This situation constitutes not a primal functioning of thought but its failure. However, this failure makes it possible to locate what would otherwise have been unfathomable because it normally undergoes transformation.
+
+Clinical experience with psychotic patients also provided Piera Aulagnier with the basis for her development of the notion of the primal. In Aulagnier's theory, mental activity is made up of three modes of functioning: the primal with the pictogram, the primary with the fantasy, and the secondary with the idea. These three processes go into effect in succession (following a genetic perspective), but then remain active simultaneously. However, as she wrote in The Violence of Interpretation: From Pictogram to Statement: "The psychical 'objects' produced by the primal are as heterogeneous to the structure of the secondary, as is the structure of the objects of the physical world that the I encounters and of which it will only know the representation that it makes of it" (p. 4). The primal process has its own logic. By pictogram, Aulagnier means a representation corresponding to the requirements imposed by the body on psychic apparatus (cf. the Freudian definition of the instinct). But the pictogram's main characteristic is that it is unaware of the duality between sensory organ and external object. It is a relational schema in which the representative is reflected as identical to the world. This implies an extension of the Freudian notion of primary narcissism, but with an original theoretical adjunct. As Aulagnier explained in the same book: "What psychical activity contemplates and cathects in the pictogram is this reflection of itself, which ensures that, between psychical space and the space outside-the-psyche, there exists a relation of reciprocal identity and specularisation" (p. 25).
+
+Aulagnier's theory of the primal opened the way to a new understanding of psychosis. Psychosis can in no way be considered a regression to a primal mode, although in the destructiveness of the psychotic process we encounter modalities of functioning that are no longer prevalent in other contexts.
+
+
+==See Also==
+* [[Archaic mother]]
+* [[Intergenerational]]
+* [[Myth of origins]]
+* [[Primary Narcissism]]
+* [[Oceanic feeling]]
+* [[Prehistory]]
+* [[Primal fantasies]]
+* [[Primal repression]]
+* [[Primal scene]]
+* [[Primary identification]]
+* [[Primary masochism]]
+
+==References==
+<references/>
+# Freud, Sigmund. (1916-1917 [1915-1917]). Introductory lectures on psychoanalysis. Parts I and II, SE, 15]]
+* [[Part III, SE, 16.
+
+[[Category:New]]

@@ -1,0 +1,67 @@
+{{Top}}corps morcelé{{Bottom}}
+
+==Jacques Lacan==
+The notion of the [[fragmented body]] is one of the earliest original concepts to appear in [[Lacan]]'s [[Works of Jacques Lacan|work]], and is closely linked to the concept of the [[mirror stage]].
+
+==Mirror Stage==
+In the [[mirror stage]] the [[infant]] sees its [[reflection]] in the [[mirror]] as a [[whole]]/[[synthesis]], and this [[perception]] causes, by contrast, the [[perception]] of its own [[body]] (which [[lack]]s [[motor coordination]] at this [[stage]]) as [[division|divided]] and [[fragmentation|fragmented]]. 
+
+==Ego Formation==
+The [[anxiety]] provoked by this feeling of [[fragmentation]] fuels the [[identification]] with the [[specular image]] by which the [[ego]] is [[formation|formed]]. 
+
+==Fragmentation==
+However, the anticipation of a synthetic [[ego]] is henceforth constantly threatened by the [[memory]] of this sense of [[fragmentation]], which manifests itself in "images of castration, emasculation, mutilation, dismemberment, dislocation, evisceration, devouring, bursting open of the body" which haunt the human imagination.<ref>{{E}} p. 11</ref> 
+
+==Transference==
+These [[image]]s typically appear in the [[analysand]]'s [[dream]]s and [[free association|association]]s at a particular phase in the [[treatment]] - namely, the moment when the [[analysand]]'s [[aggressivity]] emerges in the negative [[transference]]. 
+
+This moment is an important early [[sign]] that the [[treatment]] is progressing in the right direction, i.e. towards the disintegration of the rigid [[unity]] of the [[ego]].<ref>{{L}} "[[Works of Jacques Lacan|Some Reflections on the Ego]]", ''Int. J. Psycho-Anal.'', vol. 34, 1953 [1951b]: 13</ref>
+
+==Illusion of Synthesis==
+In a more general sense, the [[fragmented body]] refers not only to [[image]]s of the physical [[body]] but also to any sense of [[fragmentation]] and disunity: 
+
+<blockquote>"He [the subject] is originally an inchoate collection of desires - there you have the true sense of the expression fragmented body."<ref>{{S3}} p.39</ref></blockquote>
+
+Any such sense of dis[[unity]] threatens the [[illusion]] of [[synthesis]] which constitutes the [[ego]].
+
+==Hysteria==
+[[Lacan]] also uses the term [[fragmented body]] to explain certain typical [[symptom]]s of [[hysteria]]. 
+
+When a [[hysteria|hysterical]] [[paralysis]] affects a limb, it does not respect the physiological [[structure]] of the nervous system, but instead reflects the way the [[body]] is divided up by an "imaginary anatomy". 
+
+In this way, the [[fragmented body]] is "revealed at the organic level, in the lines of fragilization that define the anatomy of phantasy, as exhibited in the schizoid and spasmodic symptoms of hysteria."<ref>{{E}} p. 5</ref>
+
+==See Also==
+{{See}}
+* [[Aggressivity]]
+* [[Anxiety]]
+* [[Castration]]
+||
+* [[Ego]]
+* [[Gestalt]]
+* [[Hysteria]]
+||
+* [[Imaginary]]
+* [[Imago]]
+* [[Lack]]
+||
+* [[Mirror stage]]
+* [[Specular image]]
+* [[Transference]]
+{{Also}}
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+[[Category:Imaginary]]
+[[Category:OK]]
+[[Category:Jacques Lacan]]
+[[Category:Dictionary]]
+[[Category:Psychoanalysis]]
+[[Category:Concepts]]
+[[Category:Terms]]
+{{OK}}
+
+__NOTOC__

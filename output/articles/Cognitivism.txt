@@ -1,0 +1,45 @@
+Ever since the 1960s, an important body of thought has developed in reaction to the presumed behaviorism according to which intellectual activity is beyond the grasp of any form of scientific investigation. Cognitivism has marked a return to a scientific approach to mental activity that has materialized in the development of the cognitive sciences.
+
+The term refers to those sciences that study systems for representing understanding and the processing of information. Included in the term are certain areas of speculative research (philosophy of mind), artificial intelligence, semantic, syntactic, and lexical models (linguistics), the study of human activities (psychology), and the neuronal basis of those activities (neuroscience). These disciplines do not fall entirely within the field of cognitive science (social psychology or the neurobiology of development, for example).
+
+Cognitivism originally developed as an interdisciplinary activity. The work of Jean Piaget on genetic epistemology and the work of Edward Toman on cognitive mapping opened the way in psychology long before Miller, Galanter, and Pribram's seminal work, Plans and the Structure of Behavior (1960). The term "artificial intelligence" was coined during a seminar by Herbert Simon.
+
+The application of the methods of cognitive science to the field of psychopathology is more recent (M. C. Hardy-Baylé, 1996) and is based on work in the philosophy of mind and a renewed interest in phenomenology as well as on expert systems in artificial intelligence (models of paranoid thought, Parry), and especially experimental research (anomalies in the processing of information during schizophrenic states or a slowing down of the decision-making process during depressive states).
+
+The development of cognitivism did not fail to arouse suspicion and opposition on the part of psychoanalysts. Some of their reservations were based on a confusion with so-called cognitive therapies, which in reality have to do with the content of representations (judgment errors) and not the underlying mechanisms. They are based on the use of suggestion, which falls within the domain of behavioral therapy, which in turn draws on behaviorism. More serious reservations involve the fact that cognitivism, which is primarily concerned with understanding, has often neglected the role of affects and has not sufficiently taken into consideration the question of motivation or the role of the body.
+
+For their part cognitive science specialists have contested the scientific value of psychoanalytic theories and, until recently, have had little interest in the area of pathology.
+
+In fact it is easy to show that Sigmund Freud's early work clearly makes use of a cognitive approach (H. K. Pribram, M. Gill, 1968 ), as does chapter seven of the Interpretation of Dreams and a number of later texts. Gradually the emphasis on a dynamic and economic approach shifted the investigation to why rather than how. David Rapaport and, later, Georges Klein resumed the study of thought mechanisms to compare them with experimental results. Their premature deaths and the still strong influence of behaviorism on the psychology of the time explain the delay before psychoanalysts actually got around to confronting these issues directly (P. Holzman, G. Aronson, 1992, D. Widlöcher, 1993).
+
+This confrontation appears to have shocked psychoanalysts, to the extent that they were accustomed to question these disciplines in isolation (psychology, linguistics, logic modeling) and not within an interdisciplinary framework. If psychoanalysis is to assume its place within this framework, the terms of its inclusion must be specified. It would be necessary to acknowledge that psychoanalysis is a unique form of communication and not a science. The knowledge gained from it concerns complex objects that other approaches must first break down into more simple objects.
+
+Such an exchange can benefit the cognitive sciences by exposing them to an area of mental life that has not been explored by them. Psychoanalysis can benefit by escaping the intellectual isolation of their field. It is less obvious how psychoanalytic treatment, as the investigation of the unconscious, can benefit from a more analytic knowledge of the complex objects it engages.
+
+DANIEL WIDLÖCHER
+
+See also: Amnesia; Archetype (analytical psychology); Body; Non-verbal communication; Psychic causality; Psychogenesis/organogenesis.
+Bibliography
+
+    * Hardy-Baylé, Marie-Christine. (1996). Troubles de l'information et troubles mentaux. In Daniel Widlöcher (Ed.). Traité de psychopathologie (pp. 463-496). Paris: Presses Universitaires de France.
+    * Holzman, Philip, and Aronson, Gerald, (1992). Psychoanalysis and its neighboring sciences: Paradigms and opportunities, Journal of the American Psychoanalytical Association, 40 (1), 63-88.
+    * Miller, George A., Galanter, E., and Karl H. Pribram. (1960). Plans and the structure of behavior, New York: Holt, Rinehart & Winston.
+    * Pribram, Karl H., Gill, Merton M. (1976). Freud's "Project" reassessed. London: Hutchinson.
+    * Widlöcher, Daniel. (1993a). Intentionnalité et psychopathologie, Revue internationale de psychopathologie, 10,193-224.
+    * ——. (1993b). L'analyse cognitive du silence en psychanalyse. Quand les mots viennentà manquer, Revue internationale de psychopathologie, 12, 509-528.
+
+<ref>54-7, 59-60 Conversations</ref>
+
+
+
+==References==
+<references/>
+
+
+
+==See Also==
+
+
+[[Category:Science]]
+[[Category:Slavoj Žižek]]
+[[Category:Enotes]]

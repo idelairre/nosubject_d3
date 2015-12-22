@@ -1,0 +1,44 @@
+As an adjective, the term <i>visual</i> designates what is perceptible in the field that presents itself to the eye. As a noun, <i>the visual</i> involves the way in which the psychical apparatus organizes this perceptual data.
+As early as his study on aphasia (1891b), Freud emphasized the importance of the visual in the representation of things in order to understand its complicated relationship with representation by words. In <i>The Interpretation of Dreams</i> (1900a), he both provided an optical model for the psychical apparatus and also noted that the dream material, as well as that of memory traces, are most often presented visually. Thus, modes of representation must fulfill requirements of visual representations. The subsequent recognition of visual component drives provided Freud with the opportunity to verify that their vicissitudes are not homologous to those of the other drives. Finally, in <i>Moses and Monotheism</i> (1939a), he insisted that it was necessary to set aside visual stimuli, especially those caused by the maternal body, in order to name the father. He connected this "advance in intellectuality" (1939a, p. 111) to the impact of monotheistic religion on mental life, especially when it prohibits representations.
+In Freud's work, the visual shows the privileged connection between the sexual and the sensorial. Jacques Lacan discussed this in his article on the "Mirror Stage" (1949), where he expanded Freud's observations of the visual dimension of narcissism. Lacan stressed the importance of the mirror image for the infant held up to the mirror by its mother. When the baby recognizes itself in the mirror, it achieves an identity by assuming the mirror image. But this is also a trap, because once the subject is captured, he confuses himself with the mirror image and thus becomes alienated by a visual definition of self. He is caught in the succession of images.
+In a study relating psychotic discourse to the mirror stage, Piera Aulagnier proposed that in the psyche's primal activity of visual representation its invested object should be called a <i>pictogram.</i> In doing so, she emphasized the prevalence of the visual in unconscious representations.
+It is worthwhile to make another distinction between the visible image and the visual image. Vision exhausts only the empirical reality of a phenomenon, which can become a psychic representation, that is, a visual image, only by passing through the primary and secondary processes. The difference between what is visible and the <i>visual</i> of the image explains how dream images are never confused with things seen by the dreamer. Because it is incongruous with the desire to see, the visual image assures the perpetual thrust of the scopic drive. The impossibility of reducing the visual to the visible prevents the image from showing the object of desire and orients vision towards another image. If we grant Freud's assertion that the desire to see is related to seeing the genital organs, the notion of the visual allows us to specify what is involved in the attempt to see, namely the female genitalia that eludes sight. The only way to represent it is by the visual image, which is a fetish that only exposes its unreal opposite, the maternal penis.
+Why is the visual the predominant sense? This question can be answered by considering that the visual is overdetermined because there is no penis on the female body. When the child fails to see a penis on a female body, his single sex wavers and he begins to think that there is another sex, which exists even though it is "invisible." Other elements of the visual deserve further attention. For example, the central role that psychoanalysis grants the visual is justified by the fact that there must be a visual reference, a virtual psychical mirror (certain moments in the treatment) or a visual fantasy. The determining function of the visual might be related to the timelessness of the unconscious, because only the visual is in a position to prevent the representation of the fantasy from being eternalized.
+
+==See Also==
+* [[Amphimixia]]/[[amphimixis]]
+* [[Dream screen]]
+* [[Dream work]]
+* [[Fort-Da]]
+* [[Functional phenomena]]
+* [[Hallucinosis]]
+* [[Gaze]]
+* [[Mnemic trace]]/[[memory trace]]
+* [[Organic repression]]
+* [[Perception-consciousness]]
+* [[Psychic temporality]]
+* [[Representability]]
+* [[Screen memory]]
+* [[Smell]]
+* [[Sudden involuntary idea]]
+* [[Thing-presentation]]
+* [[Thought]]
+* [[Voyeurism]]
+
+==References==
+<references/>
+# Aulagnier, Piera. (1975). La violence de l 'interprétation. Du pictogrammeà l'énoncé. Paris: Presses Universitaires de France.
+# Freud, Sigmund. (1900a). The interpretation of dreams. SE, 4-5: 1-751.
+# ——. (1939a [1934-38]). Moses and monotheism: Three essays. SE, 23: 1-137.
+# Lacan, Jacques. (2002). The mirror stage as formative of the I function as revealed in psychoanalytic experience. In Écrits: A selection (Bruce Fink, Trans.). New York: W. W. Norton. (Original work published 1949)
+
+[[Category:New]]
+
+
+
+
+[[Category:Psychoanalysis]]
+[[Category:Terms]]
+[[Category:Concepts]]
+[[Category:Sigmund Freud]]
+[[Category:Jacques Lacan]]

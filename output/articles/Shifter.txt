@@ -1,0 +1,78 @@
+=====Linguistic Definition=====
+The term "[[shifter]]" was introduced into [[linguistics]] by [[linguist]] [[Otto Jespersen]] to refer to those elements in [[language]] whose general [[meaning]] cannot be defined without reference to the [[message]]. 
+
+=====Roman Jakobson=====
+For [[Jakobson]], a [[shifter]] is a term whose [[meaning]] cannot be determined without referring to the [[message]] that is being [[communicate]]d between a sender and a receiver.<ref>[[Roman Jakobson|Jakobson, Roman]]. 1957. "Shifters, verbal categories, and the Russian verb," in ''Selected Writings'', vol. II, ''Word and Language'', The Hague: Mouton, 1971. p. 132</ref>
+
+=====Examples=====
+Personal pronouns are [[shifter]]s: the word "I" designates both the speaker or sender who says "I" and the "I" contained in the [[message]] that is sent.
+
+For example the pronouns "I" and "you", as well as words like "here" and "now", and the tenses, can only be understood by reference to the context in which they are uttered. 
+
+=====Roman Jakobson=====
+=====General Meaning=====
+[[Roman Jakobson]] developed the concept in an article published in 1957. 
+
+Before this article, "the peculiarity of the personal pronoun and other shifters was often believed to consist in the lack of a single, constant, general meaning."<ref>[[Roman Jakobson|Jakobson, Roman]]. 1957. "Shifters, verbal categories, and the Russian verb," in ''Selected Writings'', vol. II, ''Word and Language'', The Hague: Mouton, 1971. p. 132</ref>
+
+[[Jakobson]] argues that [[shifter]]s do have a single general [[meaning]]; for example the personal pronoun "I" always means "the person uttering I". 
+
+This makes the [[shifter]] a "[[symbol]]." 
+
+=====Indexical Symbol=====
+[[Jakobson]] concludes that [[shifter]]s combine both [[symbolic]] and [[index]]ical functions and "belong therefore to the class of indexical symbols."<ref>[[Roman Jakobson|Jakobson, Roman]]. 1957. "Shifters, verbal categories, and the Russian verb," in ''Selected Writings'', vol. II, ''Word and Language'', The Hague: Mouton, 1971. p. 132</ref>
+
+=====Context-Free Grammar=====
+In this way, [[Jakobson]] questions the possibility of a context-free grammar, since the [[enunciation]] is encoded in the [[statement]] itself.
+
+Also, since grammar is implicated in ''[[parole]]'', the ''[[langue]]'' / ''[[parole]]'' distinction is put into question.
+
+=====Jacques Lacan=====
+Following [[Jakobson]], [[Lacan]] uses the term "[[shifter]]" (in [[English]]) to show the problematic and undecidable nature of the "I" (''Je''). 
+
+=====Indexical Signifier=====
+However, while [[Jakobson]] defines the [[shifter]] as an [[index]]ical [[symbol]], [[Lacan]] defines it as an [[index]]ical [[signifier]]. 
+
+=====Enunciation and Statement=====
+This problematises the distinction between [[enunciation]] and [[statement]]. 
+
+On the one hand, as a [[signifier]] it is clearly part of the [[statement]]. 
+
+On the other hand, as an [[index]] it is clearly part of the [[enunciation]]. 
+
+=====Division of the Subject=====
+This [[division]] of the "I" is not merely illustrative of the [[splitting]] of the [[subject]]; it is that [[split]]. 
+
+<blockquote>"Indeed, the I of the enunciation is not the same as the I of the statement, that is to say, the shifter which, in the statement, designates him."<ref>{{S11}} p.139</ref></blockquote>
+
+==See Also==
+{{See}}
+* [[Enunciation]]
+* [[Index]]
+||
+* [[Language]]
+* [[Meaning]]
+||
+* [[Signifier]]
+* [[Split]]
+||
+* [[Subject]]
+* [[Symbol]]
+{{Also}}
+
+== References ==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+[[Category:Psychoanalysis]]
+[[Category:Jacques Lacan]]
+[[Category:Linguistics]]
+[[Category:Dictionary]]
+[[Category:Language]]
+[[Category:Symbolic]]
+[[Category:Concepts]]
+[[Category:Terms]]
+[[Category:OK]]
+
+__NOTOC__

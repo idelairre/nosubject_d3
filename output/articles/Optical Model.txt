@@ -1,0 +1,22 @@
+
+
+optical model (modËle optique)                      
+Freud compares the psyche with an optical apparatus such as a microscope or a camera in The Interpretation of Dreams (Freud, 1900a: SE V, 536). Lacan also uses optical apparatuses at several points in his work: for example he             uses the   camera to provide     a  'materialist definition of the phenomenon of consciousness' (S2, ch. 4).
+Lacan argues that optics is a useful way of approaching the structure of the psyche because images play an important role in psychic structure (Sl, 76).
+However, like Freud, Lacan warns that such an approach can never provide more than rather crude analogies, since optical images are not the same as the kind of images which         are the object of psychoanalytic research. For this reason, Lacan soon replaces optical images with topological figures which are intended to prevent imaginary capture (see TOPOLOGY). Nevertheless,       as Freud said of his own optical models, "we need the assistance of provisional ideas' (Freud, 1900: 536).
+The optical model first appears in 1954 (which is the version reproduced in Figure 12, taken from Sl, 124), and is taken up later in 'A remark on Daniel Lagache's report' (1958b), in the seminar on the transference (1960-1), and elsewhere. It is basically an optical experiment which is constructed by means of a plane mirror and a concave mirror. The concave mirror produces a real image of an inverted flower-pot, hidden from view by a box, which is then reflected in the plane mirror to produce a virtual image. This virtual image is only visible to a subject who places himself within a particular area of vision. 
+Lacan uses the model to illustrate various points. Two of the most important points are the structuring role of the symbolic order and the function of the EGO-IDEAL.
+1.    The optical model illustrates the way that the position of the subject in the symbolic order (represented by the angle of the plane mirror) determines the way in which the imaginary is articulated with the real. 'My position in the imaginary    . . . is only conceivable insofar as one finds a guide beyond the imaginary, on the level of the symbolic plane' (Sl, 141). The optical model thus illustrates the primary importance of the symbolic order in structuring the imaginary. The action of psychoanalytic treatment can be compared to the rotation of the plane mirror, which alters the position of the subject in the symbolic.
+2.    The optical model also illustrates the function of the ideal ego, which is represented in the diagram as the real image, in opposition to the ego-ideal, which is the symbolic guide governing the angle of the mirror and hence the position of the subject (Sl, 141).
+
+
+
+
+
+== References ==
+<references/>
+
+[[Category:Lacan]]
+[[Category:Terms]]
+[[Category:Concepts]]
+[[Category:Psychoanalysis]]

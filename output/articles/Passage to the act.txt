@@ -1,0 +1,50 @@
+{{Top}}passage à l'acte{{Bottom}}
+
+
+==Origin of the Term==
+The phrase "[[passage to the act]]" comes from [[French]] [[clinic]]al [[psychiatry]], which uses it to designate those impulsive acts, of a violent or criminal nature, which sometimes mark the onset of an acute psychotic episode.  As the phrase itself indicates, these [[act]]s are supposed to mark the point when the [[subject]] proceeds from a violent idea or [[intention]] to the corresponding [[act]].  Because these acts are attributed to the action of the [[psychosis]], French law absolves the perpetrator of civil responsibility for them.<ref>Chemama, Roland (ed.) (1993) ''Dictionnaire de la Psychanalyse. Dictionnaire actuel des signifiants, concepts et mathèmes de la psychanalyse'', Paris: Larousse. p.41</ref>
+
+==Jacques Lacan==
+===Passage to the Act and Acting Out===
+As [[psychoanalytic theory|psychoanalytic ideas]] gained wider circulation in France in the first half of the twentieth century, it became common for [[French]] [[analyst]]s to use the term ''[[passage à l'acte]]'' to translate the term ''[[Passage to the act|Agieren]]'' used by [[Freud]]: i.e. as a synonym for [[acting out]].  However, in his [[seminar]] of 1962-3, [[Lacan]] establishes a distinction between these terms.  While both are last resorts against [[anxiety]], the [[subject]] who [[acting out|acts something out]] still remains in the [[scene]], whereas a [[passage to the act]] involves an exit from the [[scene]] altogether.
+
+===Exit from the Symbolic Order===
+[[Acting out]] is a [[symbolic]] [[message]] addressed to the [[big Other]], whereas a [[passage to the act]] is a flight from the [[Other]] into the dimension of the [[real]].  The [[passage to the act]] is thus an exit from the [[symbolic order|symbolic nework]], a dissolution of the social bond.  Although the [[passage to the act]] does not, according to [[Lacan]], necessarily imply an underlying [[psychosis]], it does entail a dissolution of the [[subject]]; for a moment, the [[subject]] becomes a pure [[object]].
+
+==Example==
+In order to illustrate what he means, [[Lacan]] refers to the case of the young homosexual woman treated by [[Freud]].<ref>{{F}} (1920a) "The Psychogenesis of a Case of Female Homosexuality", [[SE]] XVIII, 147.</ref>  [[Freud]] reports that the young women was walking in the street with the woman she loved when she was spotted by her father, who cast an angry glance at her.  Immediately afterwards, she rushed off and threw herself over a wall down the side of a cutting onto a railway line.  [[Lacan]] argues that this suicide attempt was a [[passage to the act]]; it was not a [[message]] addressed to anyone, since [[symbolic|symbolization]] had become impossible for the young [[woman]].  Confronted with her [[father]]'s [[desire]], she was consumed with an uncontrollable [[anxiety]] and reacted in an impulsive way by [[identification|identifying]] with the [[object]].  Thus she fell down ([[Ger]]. ''niederkommt'') like the ''[[objet petit a]]'', the leftover of [[signification]].<ref>{{L}} (1962-3) ''[[Seminar X|Le Séminaire. Livre X. L'angoisse, 1962-63]]'', unpublished. Seminar of 16 January 1963.</ref>
+
+==See Also==
+{{See}}
+* [[Act]]
+* [[Acting out]]
+||
+* [[Anxiety]]
+* [[Object]]
+||
+* [[Other]]
+* [[Psychosis]]
+||
+* [[Subject]]
+* [[Woman]]
+{{Also}}
+
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+
+[[Category:Practice]]
+[[Category:Treatment]]
+[[Category:Politics]]
+[[Category:Jacques Lacan]]
+[[Category:Terms]]
+[[Category:Concepts]]
+[[Category:Psychoanalysis]]
+[[Category:Slavoj Žižek]]
+[[Category:Dictionary]]
+{{OK}}
+
+__NOTOC__

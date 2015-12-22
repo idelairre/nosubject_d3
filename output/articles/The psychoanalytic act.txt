@@ -1,0 +1,46 @@
+1967-1968 	
+
+'''Le séminaire, Livre XV: L'acte psychanalytique.'''
+
+Since ''La logique du fantasme'', where he states that there is not a "sexual act," [[Lacan]] questions the difference between the act, ''[[l'acte]]'' and a mere action, ''agir''. 
+To make love would be an action, ''un agir'', and to get married an act, ''un acte'', because there is a commitment and a recognition, which entail ''[[repetition]]'' and the inscription in the [[Other]]. 
+The [[signifier]] will appear soon: the absence of contradiction between Saint John's "In the beginning was the Word," and Goethe's "In the beginning was the action." 
+Lacan then asserts "the irreducibility of the sexual act to any truthful relation." 
+Since [[love]] is itself purely [[narcissism|narcissistic]], a social pact is what remains of a possible rapport between the sexes.
+
+As to the different types of acts in psychoanalysis, there is the founding act: before, the effects of the unconscious existed, but nobody knew that they existed. T
+here is the entrance into analysis and the fact of becoming an analyst, which are decisions and commitments. 
+On the side of the analysand, there are [[slip]]s and failures, which lead Lacan to give an ''Éloge de la connerie'', Praise of Folly. 
+In analysis it is almost impossible to answer simply to the injunction "render unto truth the things that are truth's and unto folly the things that are folly's," because the two overlap and then one finds "the folly of truth even more often than the truth of folly." 
+The ''passage à l'acte'' and the "acting out" are activities that, although they fill a distressing hole, reproduce the past instead of remembering it in words. 
+On the side of the [[analyst]], "outside the manipulation of [[transference]], there is no psychoanalytic act." 
+In order for the [[analysand]] to move to the function of analyst, the latter - while pretending to be the upholder of the [[subject-supposed-to-know]] - must accept being "reduced to the function of cause of a process in which the subject-supposed-to-know is undone." Moreover, in the [[end of analysis | end]] the analyst must accept to be "nothing more than a waste of the operation represented by the ''[[objet a]]''," which will produce an effect of [[truth]]. 
+The position of the analyst is untenable, and this is why he opposes "the most violent misconstruction, ''[[méconnaissance]]'', as to the analytic act itself." 
+Besides, the analysand who experiences ''désêtre'' discovers, when becoming an analyst, that he is forced to restore for another the subject-supposed-to-know. 
+The transmission would thus be completed, very different from the ''passe'' itself. 
+
+The psychoanalytic act, a "setting into act of the subject" and a "setting into act of the [[unconscious]]," is like a tragedy where the hero falls in the end as a piece of trash.
+"In the beginning of psychoanalysis is [[transference]]," without any intersubjectivity, because between the two partners the subject-supposed-to-know acts as a third, as "the pivot from where everything that goes on in transference is articulated." 
+This pivot is the [[signifier]] introduced in the discourse instituted by it, a formation as though detached from the analysand, which has nothing to do with the analyst's person. 
+It is "a chain of letters that leads the not-known to frame knowledge," which concerns [[desire]]. 
+The [[Graph of Desire]] still guides the analysis but an identity is asserted between the [[matheme]] of the subject-supposed-to-know and the ''[[agalma]]'' of [[Plato]]'s [[The Symposium]], which presents "the pure angle of the subject as the free rapport to the signifier, a signifier from which both the desire of knowledge and the desire of the Other are isolated."
+
+Lacan wants to establish, as to the passage from the analysand to the analyst, "an equation whose constant is the ''agalma''" (this term being a sort of compromise between ''[[objet a]]'' and the ''[[phallus]]''). Once "the desire that, in its functioning, uphelds the analysand has been resolved, the analysand no longer wants to remove the possibility of such desire, the remainder which, insofar as it determines his division, makes him fall from his [[fantasy]] and destitutes him as [[subject]]." 
+Lacan interprets the depressive position often noticed as the end of the analysis in terms of ''désêtre'' and "[[subjective destitution]]". 
+"The subject sees its assurance sink, a self-assurance that comes from the fantasy in which everybody's opening onto the real is constituted." 
+The subject realizes that the grasp of [[desire]] is nothing other than that of a ''désêtre''. 
+"In this ''désêtre'' what is unveiled is the nonessential nature of the [[subject-supposed-to-know]]; the analyst-to-be is dedicated to the ''agalma'' of the essence of [[desire]], even if it means that the analyst-to-be has to be reduced to an ordinary [[signifier]], since the subject is the signifier of the pure signifying relation." 
+
+Does going through the fantasy, then, mean going toward the [[drive]] or toward a confrontation with the signifier? Thus Lacan answers: "The being of desire meets the being of knowledge to be reborn from their knot in a strip formed by the only side on which only one lack is inscribed, that which upholds the agalma." 
+The ''agalma'' becomes the signifier of the bar that is put on the Other (A); the gap of (- F) opens in the Other; and the (a) falls from the Other.
+
+== Love ==
+Slavoj Zizek argues that "here we find the inescapable deadlock that defines the position of the loved one: the other sees something in me and wants something from me, but I cannot give him what I do not possess - or as Lacan puts it, there is no rapport between what the loved one possesses and what the loving one lacks. The only way for the loved one to escape this deadlock is to stretch out his hand toward the loving one and to return love, that is to exchange, in a metaphorical gesture, his status as the loved one for the status of the loving one. This reversal designates the point of subjectivization: the object of love changes into the subject the moment it answers the call of love. And it is only by way of this reversal that a genuine love emerges: I am truly in love not when I am simply fascinated by the ''agalma'' in the other, but when I experience the other, the object of love, as frail and lost, as lacking 'it', and my love none the less survives this loss."
+
+
+[[Category:Seminars]]
+[[Category:Lacan]]
+[[Category:Psychoanalysis]]
+
+== See Also ==
+[[Love]]

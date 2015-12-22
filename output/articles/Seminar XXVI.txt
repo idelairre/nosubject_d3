@@ -1,0 +1,68 @@
+{{S}}
+{| style="width:400px; border:1px solid #aaa;text-align:left; line-height:2.0em; padding-left:30px;padding-right:30px;"
+|width="150px"|
+|width="250px"|
+|-
+| [[{{Y}}|1978 - 1979]]
+| ''[[La topologie et le temps]]''<BR>[[Topology and Time]]
+|}
+
+
+{| class="wikitable" width="500px" cellpadding="4" cellspacing="4" align="center" bgcolor="ffffff" style="line-height:2.0em; padding-left:30px; background:#ffffff;width:; height:; text-align:center; line-height:2.0em;"
+|-
+| bgcolor="#ffffff" width="200px" height="30px" style="padding-left:10px" style="padding-left:10px" | [[{{Y}}|Date]] 
+| bgcolor="#ffffff" width="50px" style="padding-left:10px" | [[{{Y}}|PDF]]
+| bgcolor="#ffffff" width="50px" style="padding-left:10px" | [[{{Y}}|HTML]]
+| bgcolor="#ffffff" width="200px" style="padding-left:10px" | [[{{Y}}|Title]]
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|21 novembre 1978]] 
+| [http://gaogoa.free.fr/Seminaires_pdf/26-la%20topologie%20et%20le%20temps/26-01-TT21111978.pdf link]<BR>
+[http://{{archive}}/seminaireXXVI/1978.11.21.pdf link]
+| [http://gaogoa.free.fr/Seminaires_HTML/26-TT/L21111978.htm link]
+|
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|12 décembre 1978]] 
+| [http://gaogoa.free.fr/Seminaires_pdf/26-la%20topologie%20et%20le%20temps/26-02-TT12121978.pdf link]<BR>[http://{{archive}}/seminaireXXVI/1978.12.12.pdf link]
+| [http://gaogoa.free.fr/Seminaires_HTML/26-TT/L12121978.htm link]
+|
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|19 décembre 1978]] 
+| [http://gaogoa.free.fr/Seminaires_pdf/26-la%20topologie%20et%20le%20temps/26-03-TT19121978.pdf link]<BR>[http://{{archive}}/seminaireXXVI/1978.12.19.pdf link]
+| [http://gaogoa.free.fr/Seminaires_HTML/26-TT/L19121978.htm link]
+|
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|09 janvier 1979]]
+| [http://gaogoa.free.fr/Seminaires_pdf/26-la%20topologie%20et%20le%20temps/26-04-TT09011979.pdf link]<BR>[http://{{archive}}/seminaireXXVI/1979.01.09.pdf link]
+| [http://gaogoa.free.fr/Seminaires_HTML/26-TT/L09011979.htm link]
+|
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|16 janvier 1979]]
+| [http://gaogoa.free.fr/Seminaires_pdf/26-la%20topologie%20et%20le%20temps/26-05-TT16011979.pdf link]<BR>[http://{{archive}}/seminaireXXVI/1979.01.16.pdf link]
+| [http://gaogoa.free.fr/Seminaires_HTML/26-TT/L16011979.htm link]
+|
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|20 février 1979]] 
+| [http://gaogoa.free.fr/Seminaires_pdf/26-la%20topologie%20et%20le%20temps/26-06-TT20021979.pdf link]<BR>[http://{{archive}}/seminaireXXVI/1979.02.20.pdf link]
+| [http://gaogoa.free.fr/Seminaires_HTML/26-TT/L20021979.htm link]
+|
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|13 mars 1979]] 
+| [http://gaogoa.free.fr/Seminaires_pdf/26-la%20topologie%20et%20le%20temps/26-07-TT13031979.pdf link]<BR>[http://{{archive}}/seminaireXXVI/1979.03.13.pdf link]
+| [http://gaogoa.free.fr/Seminaires_HTML/26-TT/L13031979.htm link]
+|
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|20 mars 1979]] 
+| [http://gaogoa.free.fr/Seminaires_pdf/26-la%20topologie%20et%20le%20temps/26-08-TT20031979.pdf link]<BR>[http://{{archive}}/seminaireXXVI/1979.03.20.pdf link]
+| [http://gaogoa.free.fr/Seminaires_HTML/26-TT/L20031979.htm link]
+|
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|08 mai 1979]] 
+| [http://gaogoa.free.fr/Seminaires_pdf/26-la%20topologie%20et%20le%20temps/26-09-TT08051979.pdf link]<BR>[http://{{archive}}/seminaireXXVI/1979.05.08.pdf link]
+| [http://gaogoa.free.fr/Seminaires_HTML/26-TT/L08051979.htm link]
+|
+|-
+| bgcolor="#ffffff" style="padding-left:15px" |  [[{{Y}}|15 mai 1979]]
+| [http://gaogoa.free.fr/Seminaires_pdf/26-la%20topologie%20et%20le%20temps/26-10-TT15051979.pdf link]<BR>[http://{{archive}}/seminaireXXVI/1979.05.15.pdf link]
+| [http://gaogoa.free.fr/Seminaires_HTML/26-TT/L15051979.htm link]
+|
+|}

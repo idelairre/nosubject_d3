@@ -1,0 +1,736 @@
+Ces lignes ont &eacute;t&eacute; prononc&eacute;es le 28 septembre 1946 au titre d'un
+rapport, aux<i> </i>journ&eacute;es psychiatriques &agrave; Bonneval.
+Henry Ey avant mis &agrave; l'ordre du jour de ces entretiens le th&egrave;me
+de "la Psychogen&egrave;se". L'ensemble des rapports et de la discussion a &eacute;t&eacute; publi&eacute; en un volume intitul&eacute; : Le <i>Probl&egrave;me </i>de <i>la psychogen&egrave;se des</i> <i>n&eacute;vroses </i>et des&nbsp; <i>psychoses, </i>paru chez Descl&eacute;e de Brouwer. Le rapport pr&eacute;sent a ouvert la r&eacute;union.
+
+==I. Critique d'une th&eacute;orie organiciste de la folie, l'organo-dynamisme d'Henri Ey.==
+
+Invit&eacute; par notre h&ocirc;te, il y a
+d&eacute;j&agrave;
+trois ans, &agrave; m'expliquer devant vous sur la causalit&eacute;
+psychique,
+je suis mis dans une position double. Je suis appel&eacute; &agrave;
+formuler
+une position radicale du probl&egrave;me : celle qu'on suppose
+&ecirc;tre
+la mienne et qui l'est en effet. Et je dois le faire dans un
+d&eacute;bat
+parvenu &agrave; un degr&eacute; d'&eacute;laboration o&ugrave; je n'ai
+point concouru. Je pense r&eacute;pondre &agrave; votre attente en
+visant
+sur ces deux faces &agrave; &ecirc;tre direct, sans que personne puisse
+exiger que je sois complet.</font>
+<br>
+<font size="-1">Je me suis &eacute;loign&eacute; pendant plusieurs
+ann&eacute;es
+de tout propos de m'exprimer. L'humiliation de notre temps, sous les
+ennemis
+du genre humain, m'en d&eacute;tournait, et je me suis abandonn&eacute;
+apr&egrave;s Fontenelle &agrave; ce fantasme d'avoir la main pleine de
+v&eacute;rit&eacute;s pour mieux la refermer sur elles. J'en confesse
+le
+ridicule, parce qu'il marque les limites d'un &ecirc;tre au moment
+o&ugrave;
+il va porter t&eacute;moignage. Faut-il d&eacute;noncer l&agrave;
+quelque
+d&eacute;faillance &agrave; ce qu'exige de nous le mouvement du monde,
+si de nouveau me fut propos&eacute;e la parole, au moment m&ecirc;me
+o&ugrave;
+s'av&eacute;ra pour les moins clairvoyants qu'une fois encore
+l'infatuation
+de la puissance n'avait fait que servir la ruse de la Raison ? Je vous
+laisse de juger ce qu'en peut p&acirc;tir ma recherche.</font>
+<br>
+<font size="-1">Du moins ne pens&eacute;-je point manquer aux exigences
+de la v&eacute;rit&eacute;, en me r&eacute;jouissant qu'ici elle puisse
+&ecirc;tre d&eacute;fendue dans les formes courtoises d'un tournoi de
+la
+parole.</font>
+<br>
+<font size="-1">C'est pourquoi je m'inclinerai d'abord devant un effort
+de pens&eacute;e et d'enseignement qui est l'honneur d'une vie et le
+fondement
+d'une oeuvre, et si je rappelle &agrave; notre ami Henri Ey que par nos
+soutenances th&eacute;oriques premi&egrave;res, nous sommes
+entr&eacute;s
+ensemble du m&ecirc;me c&ocirc;t&eacute; de la lice, ce n'est pas
+seulement
+pour m'&eacute;tonner de nous retrouver si oppos&eacute;s aujourd'hui.</font>
+<br>
+<font size="-1">A vrai dire, d&egrave;s la publication, dans l'<i>Enc&eacute;phale</i>
+de 1936, de son beau travail en collaboration avec Julien Rouart, l'<i>Essai
+d'application des principes de Jackson a une conception dynamique de la
+neuropsychiatrie</i>, je constatais - mon exemplaire en porte la trace
+- tout ce qui le rapprochait et devait le rendre toujours plus proche
+d'une
+doctrine du trouble mental que je crois incompl&egrave;te et fausse et
+qui se d&eacute;signe elle-m&ecirc;me en psychiatrie sous le nom
+d'organicisme.</font>
+<br>
+<font size="-1">En toute rigueur l'organo-dynamisme de Henri Ey
+s'inclut
+valablement dans cette doctrine par le seul fait qu'il ne peut
+rapporter
+la gen&egrave;se du trouble mental en tant que tel, qu'il soit
+fonctionnel
+ou l&eacute;sionnel dans sa nature, global ou partiel dans sa
+manifestation,
+et aussi dynamique qu'on le suppose dans son ressort, &agrave; rien
+d'autre
+qu'au jeu des appareils constitu&eacute;s dans l'&eacute;tendue
+int&eacute;rieure
+au t&eacute;gument du corps. Le point crucial, &agrave; mon point de
+vue,
+est que ce jeu, aussi &eacute;nerg&eacute;tique et int&eacute;grant
+qu'on
+le con&ccedil;oive, repose toujours en derni&egrave;re analyse sur une
+interaction mol&eacute;culaire dans le mode de l'&eacute;tendue "<i>partes
+extra partes</i>" o&ugrave; se construit la physique classique, je veux
+dire dans ce mode, qui permet d'exprimer cette interaction sous la
+forme
+d'un rapport de fonction &agrave; variable, lequel constitue son
+d&eacute;terminisme.</font>
+<br>
+<font size="-1">L'organisme va s'enrichissant des conceptions
+m&eacute;canistes
+aux dynamistes et m&ecirc;me aux gestaltistes, et la conception
+emprunt&eacute;e
+par Henri Ey &agrave; Jackson pr&ecirc;te, certes &agrave; cet
+enrichissement,
+&agrave; quoi sa discussion m&ecirc;me a contribu&eacute; : il ne sort
+pas des limites que je viens de d&eacute;finir; et c'est ce qui, de mon
+point de vue, rend sa diff&eacute;rence n&eacute;gligeable avec la
+position
+de mon ma&icirc;tre Cl&eacute;rambault ou de M. Guiraud, - &eacute;tant
+pr&eacute;cis&eacute; que la position de ces deux auteurs a
+r&eacute;v&eacute;l&eacute;
+une valeur psychiatrique qui me para&icirc;t la moins
+n&eacute;gligeable,
+on verra en quel sens.</font>
+<br>
+<font size="-1">De toute fa&ccedil;on, Henri Ey ne peut r&eacute;pudier
+ce cadre o&ugrave; je l'enferme. Fond&eacute; sur une
+r&eacute;f&eacute;rence
+cart&eacute;sienne qu'il a certainement reconnue et dont je le prie de
+bien ressaisir le sens, ce cadre ne d&eacute;signe rien d'autre que ce
+recours &agrave; l'&eacute;vidence de la r&eacute;alit&eacute;
+physique,
+qui
+vaut pour lui comme pour nous tous depuis que Descartes l'a
+fond&eacute;e
+sur la notion de l'&eacute;tendue. Les "fonctions
+&eacute;nerg&eacute;tiques",
+aux termes de Henri Ey, n'y rentrent pas moins que "les fonctions
+instrumentales"</font><b><sup><font size="-2"><a href="#1">1</a></font></sup></b><font
+ size="-1">
+, puisqu'il &eacute;crit "qu'il y a non seulement possibilit&eacute;
+mais
+n&eacute;cessit&eacute; de rechercher les conditions chimiques,
+anatomiques,
+etc. du processus "c&eacute;r&eacute;bral g&eacute;n&eacute;rateur,
+sp&eacute;cifique
+de la maladie" mentale, ou encore les l&eacute;sions qui affaiblissent
+les processus &eacute;nerg&eacute;tiques n&eacute;cessaires au
+d&eacute;ploiement
+des fonctions psychiques.</font>
+<br>
+<font size="-1">Ceci va de soi au reste, et je ne fais ici que poser
+en mani&egrave;re liminaire la fronti&egrave;re que j'entends mettre
+entre
+nous.</font>
+<br>
+<font size="-1">Ceci pos&eacute;, je m'attacherai d'abord &agrave; une
+critique de l'organo-dynamisme de Henri Ey, non pour dire que sa
+conception
+ne puisse se soutenir, comme notre pr&eacute;sence &agrave; tous ici le
+prouve suffisamment, mais pour d&eacute;montrer dans l'explicitation
+authentique
+qu'elle doit tant &agrave; la rigueur intellectuelle de son auteur
+qu'&agrave;
+la qualit&eacute; dialectique de vos d&eacute;bats, qu'elle n'a pas les
+caract&egrave;res de l'id&eacute;e vraie.</font>
+<br>
+<font size="-1">On s'&eacute;tonnera peut-&ecirc;tre que je passe outre
+&agrave; ce tabou philosophique qui frappe la notion du vrai dans
+l'&eacute;pist&eacute;mologie
+scientifique, depuis que s'y sont diffus&eacute;es les th&egrave;ses
+sp&eacute;culatives
+dites pragmatistes. C'est que vous verrez que la question de la
+v&eacute;rit&eacute;
+conditionne dans son essence le ph&eacute;nom&egrave;ne de la folie, et
+qu'&agrave; vouloir l'&eacute;viter, on ch&acirc;tre ce
+ph&eacute;nom&egrave;ne
+de la signification par o&ugrave; je pense montrer qu'il tient &agrave;
+l'&ecirc;tre m&ecirc;me de l'homme.</font>
+<br>
+<font size="-1">Pour l'usage critique que j'en ferai &agrave; l'instant
+je resterai pr&egrave;s de Descartes en posant la notion du vrai sous
+la
+forme c&eacute;l&egrave;bre que lui a donn&eacute;e Spinoza : <i>Idea
+vera
+debet cum suo ideato convenire</i>. Une id&eacute;e vraie doit
+(l'accent
+est sur ce mot qui a le sens de : c'est sa n&eacute;cessit&eacute;
+propre),
+doit &ecirc;tre en accord avec ce qui est id&eacute;&eacute; par elle.</font>
+<br>
+<font size="-1">La doctrine de Henri Ey fait la preuve du contraire,
+en ceci qu'&agrave; mesure de son d&eacute;veloppement elle
+pr&eacute;sente
+une contradiction croissante avec son probl&egrave;me originel et
+permanent.</font>
+<br>
+<font size="-1">Ce probl&egrave;me dont c'est le m&eacute;rite
+&eacute;clatant
+d'Henri Ey que d'en avoir senti et assum&eacute; la port&eacute;e,
+c'est
+celui qui s'inscrit encore aux titres de ses productions les plus
+r&eacute;centes
+: le probl&egrave;me des limites de la neurologie et de la psychiatrie,
+- qui certes n'aurait pas plus d'importance que concernant toute autre
+sp&eacute;cialit&eacute; m&eacute;dicale, s'il n'engageait
+l'originalit&eacute;
+propre &agrave; l'objet de notre exp&eacute;rience J'ai nomm&eacute; la
+folie : comme je loue Ey d'en maintenir obstin&eacute;ment le terme,
+avec
+tout ce qu'il peut pr&eacute;senter de suspect par son antique relent
+de
+sacr&eacute; &agrave; ceux qui voudraient le r&eacute;duire de quelque
+fa&ccedil;on &agrave; l'<i>omnitudo realitatis</i>.</font>
+<br>
+<font size="-1">Pour parler en termes concrets, y a-t-il rien qui
+distingue
+l'ali&eacute;n&eacute; des autres malades, si ce n'est qu'on l'enferme
+dans un asile, alors qu'on les hospitalise ? Ou encore
+l'originalit&eacute;
+de notre objet est-elle de pratique - sociale ou de raison -
+scientifique
+?</font>
+<br>
+<font size="-1">Il &eacute;tait clair qu'Henri Ey ne pourrait que
+s'&eacute;loigner
+d'une telle raison, d&egrave;s lors qu'il allait chercher dans les
+conceptions
+de Jackson. Car celles-ci, si remarquables qu'elles soient pour leur
+temps
+par leurs exigences totalitaires quant aux fonctions de relation de
+l'organisme,
+ont pour principe et pour fin de ramener &agrave; une &eacute;chelle
+commune
+de dissolutions, troubles neurologiques et troubles psychiatriques.
+C'est
+ce qui s'est pass&eacute; en effet, et quelque subtile
+orthop&eacute;die
+qu'ait apport&eacute;e Ey &agrave; cette conception, ses
+&eacute;l&egrave;ves
+Bonnaf&eacute; lui d&eacute;montrent ais&eacute;ment qu'elle ne permet
+pas de distinguer essentiellement l'aphasie de la d&eacute;mence,
+l'algie
+fonctionnelle de l'hypochondrie, l'hallucinose des hallucinations, ni
+m&ecirc;me
+agnosie de tel d&eacute;lire.</font>
+<br>
+<font size="-1">Et je lui pose moi-m&ecirc;me la question &agrave;
+propos,
+par exemple, du malade c&eacute;l&egrave;bre de Gelb et Goldstein, dont
+l'&eacute;tude a &eacute;t&eacute; reprise s&eacute;par&eacute;ment
+sous
+d'autres angles par B&eacute;nary et par Hochheimer : ce malade atteint
+d'une l&eacute;sion occipitale d&eacute;truisant les deux calcarines,
+pr&eacute;sentait
+autour d'une c&eacute;cit&eacute; psychique, des troubles
+&eacute;lectifs
+de tout le symbolisme cat&eacute;gorial, tels qu'une abolition du
+comportement
+du montrer en contraste avec la conservation du saisir, - des troubles
+agnosiques tr&egrave;s &eacute;lev&eacute;s qu'on doit concevoir comme
+une asymbolie de tout le champ perceptif, - un d&eacute;ficit de
+l'appr&eacute;hension
+significative en tant que telle, manifest&eacute; par
+l'impossibilit&eacute;
+de comprendre l'analogie dans un mouvement direct de l'intelligence,
+alors
+qu'il pouvait la retrouver dans une sym&eacute;trie verbale, par une
+singuli&egrave;re
+"c&eacute;cit&eacute; &agrave; l'intuition du nombre (selon le terme
+d'Hochheimer),
+qui ne l'emp&ecirc;chait pas pour autant d'op&eacute;rer
+m&eacute;caniquement
+sur eux, par une absorption dans l'actuel, qui le rendait incapable de
+toute assomption du fictif, donc de tout raisonnement abstrait,
+&agrave;
+plus forte raison lui barrait tout acc&egrave;s au sp&eacute;culatif.</font>
+<br>
+<font size="-1">Dissolution vraiment uniforme, et du niveau le plus
+&eacute;lev&eacute;,
+qui, notons-le incidemment, retentit jusque dans son fond sur le
+comportement
+sexuel, o&ugrave; l'imm&eacute;diatet&eacute; du projet se
+refl&egrave;te
+dans la bri&egrave;vet&eacute; de l'acte, voire dans sa
+possibilit&eacute;
+d'interruption indiff&eacute;rente.</font>
+<br>
+<font size="-1">Ne trouvons-nous pas l&agrave; le trouble
+n&eacute;gatif
+de dissolution globale et apicale &agrave; la fois, cependant que
+l'&eacute;cart
+organo-clinique me para&icirc;t suffisamment repr&eacute;sent&eacute;
+par
+le contraste entre la l&eacute;sion localis&eacute;e &agrave; la zone
+de
+projection visuelle et l'extension du sympt&ocirc;me &agrave; toute la
+sph&egrave;re du symbolisme ?</font>
+<br>
+<font size="-1">Me dira-t-il que le d&eacute;faut de r&eacute;action
+de la personnalit&eacute; restante au trouble n&eacute;gatif, est ce
+qui
+distingue d'une psychose ce malade &eacute;videmment neurologique ? Je
+lui r&eacute;pondrai qu'il n'en est rien. Car ce malade, au-del&agrave;
+de l'activit&eacute; professionnelle routini&egrave;re qu'il a
+conserv&eacute;e,
+exprime, par exemple, sa nostalgie des sp&eacute;culations religieuses
+et politiques qui lui sont interdites. Dans les &eacute;preuves
+m&eacute;dicales,
+il arrive &agrave; atteindre par la bande certains des objectifs qu'il
+ne comprend plus, en les mettant "en prise" en quelque sorte
+m&eacute;caniquement,
+quoique d&eacute;lib&eacute;r&eacute;ment, sur les comportements
+demeur&eacute;s
+possibles : et plus frappante que la mani&egrave;re dont il parvient
+&agrave;
+fixer sa somatognosie, pour retrouver certains actes du montrer, est la
+fa&ccedil;on dont il s'y prend par t&acirc;tonnements avec le stock du
+langage pour surmonter certains de ses d&eacute;ficits agnosiques. Plus
+path&eacute;tique encore, sa collaboration avec le m&eacute;decin
+&agrave;
+l'analyse de ses troubles, quand il fait certaines trouvailles de mots
+(<i>Anhalts</i> <i>punkte</i>, prises, par exemple) pour nommer
+certains
+de ses artifices.</font>
+<br>
+<font size="-1">Je le demande donc &agrave; Henri Ey : en quoi
+distingue-t-il
+ce malade d'un fou ? A charge pour moi, s'il ne m'en donne pas la
+raison
+dans son syst&egrave;me, que je puisse la lui donner dans le mien.</font>
+<br>
+<font size="-1">Que s'il me r&eacute;pond par les <i>troubles
+no&eacute;tiques
+des dissolutions fonctionnelles</i>, je lui demanderai en quoi ceux-ci
+sont diff&eacute;rents de ce qu'il appelle <i>dissolutions globales</i>.</font>
+<br>
+<font size="-1">En fait, c'est bien la r&eacute;action de la
+personnalit&eacute;
+qui dans la th&eacute;orie d'Henri Ey appara&icirc;t comme
+sp&eacute;cifique
+de la psychose, quoi qu'il en ait. Et c'est ici que cette
+th&eacute;orie
+montre sa contradiction et en m&ecirc;me temps sa faiblesse, car
+&agrave;
+mesure qu'il m&eacute;conna&icirc;t plus syst&eacute;matiquement toute
+id&eacute;e de psychogen&egrave;se, au point qu'il avoue quelque part
+ne
+m&ecirc;me plus pouvoir comprendre ce que cette id&eacute;e signifie</font><b><sup><font
+ size="-2"><a href="#2">2</a></font></sup></b><font size="-1">,
+on le voit alourdir ses expos&eacute;s d'une description "structurale"
+toujours plus surcharg&eacute;e de l'activit&eacute; psychique,
+o&ugrave;
+repara&icirc;t plus paralysante encore la m&ecirc;me interne
+discordance.
+Comme je vais le montrer en le citant.</font>
+<br>
+<font size="-1">Pour critiquer la psychogen&egrave;se, nous le voyons
+la r&eacute;duire &agrave; ces formes d'une id&eacute;e qu'on
+refl&egrave;te
+d'autant plus facilement qu'on va les chercher chez ceux qui en sont
+les
+adversaires. J'&eacute;num&egrave;re avec lui : le choc
+&eacute;motionnel
+- con&ccedil;u par ses effets physiologiques ; les facteurs
+r&eacute;actionnels
+- vus dans la perspective constitutionnaliste ; les effets traumatiques
+inconscients - en tant qu'ils sont abandonn&eacute;s selon lui par
+leurs
+tenants m&ecirc;mes ; la suggestion pathog&egrave;ne enfin, en tant (je
+cite) "que les plus farouches organicistes et neurologues - passons les
+noms - se r&eacute;servent cette soupape et admettent &agrave; titre
+d'exceptionnelle
+&eacute;vidence une psychogen&egrave;se qu'ils expulsent
+int&eacute;gralement
+de tout le reste de la pathologie".</font>
+<br>
+<font size="-1">Je n'ai omis qu'un terme dans la s&eacute;rie, la
+th&eacute;orie
+de la r&eacute;gression dans l'inconscient, retenue parmi les plus
+s&eacute;rieuses,
+sans doute parce qu'elle pr&ecirc;te au moins apparemment &agrave; se
+r&eacute;duire,
+je cite encore, "&agrave; cette atteinte du moi qui se confond encore
+en
+derni&egrave;re analyse avec la notion de dissolution fonctionnelle".
+Je
+retiens cette phrase, r&eacute;p&eacute;t&eacute;e sous cent formes
+dans
+l'oeuvre d'Henri Ey, parce que j'y montrerai la d&eacute;faillance
+radicale
+de sa conception de la psychopathologie.</font>
+<br>
+<font size="-1">Ce que je viens d'&eacute;num&eacute;rer r&eacute;sume,
+nous dit-il, les "faits invoqu&eacute;s" (termes textuels) pour
+d&eacute;montrer
+la psychogen&egrave;se. Il est aussi facile pour Ey de remarquer qu'ils
+sont "plut&ocirc;t d&eacute;monstratifs de tout autre chose"
+qu'&agrave;
+nous de constater qu'une position si ais&eacute;e ne lui donnera pas
+d'embarras.</font>
+<br>
+<font size="-1">Pourquoi faut-il qu'aussit&ocirc;t, s'enqu&eacute;rant
+des tendances doctrinales auxquelles &agrave; d&eacute;faut des faits
+il
+faudrait rapporter "une psychogen&egrave;se - je le cite - si peu
+compatible
+avec les faits psychopathologiques", il croie devoir les faire
+proc&eacute;der
+de Descartes en attribuant &agrave; celui-ci un dualisme absolu
+introduit
+entre l'organique et le psychique. Pour moi j'ai toujours cru, et Ey
+dans
+nos entretiens de jeunesse semblait le savoir aussi, qu'il s'agissait
+plut&ocirc;t
+du dualisme de l'&eacute;tendue et de la pens&eacute;e. On
+s'&eacute;tonne
+au contraire qu'Henri Ey ne cherche point appui dans un auteur pour qui
+la pens&eacute;e ne saurait errer que pour autant qu'y sont admises les
+id&eacute;es confuses que d&eacute;terminent les passions du corps.</font>
+<br>
+<font size="-1">Peut-&ecirc;tre en effet vaut-il mieux qu'Henry Ey ne
+fonde rien sur un tel alli&eacute;, &agrave; qui j'ai l'air d'assez
+bien
+me fier. Mais de gr&acirc;ce, qu'apr&egrave;s nous avoir produit des
+psychog&eacute;n&eacute;tistes
+cart&eacute;siens de la qualit&eacute; de MM. Babinski,
+Andr&eacute;-Thomas
+et Lhermitte, il n'identifie pas "l'intuition cart&eacute;sienne
+fondamentale",
+&agrave; un parall&eacute;lisme psycho-physiologique plus digne de
+Monsieur
+Taine que de Spinoza. Un tel &eacute;loignement des sources nous
+donnerait
+&agrave; croire l'influence de Jackson encore plus pernicieuse qu'il
+n'y
+para&icirc;t d'abord.</font>
+<br>
+<font size="-1">Le dualisme imput&eacute; &agrave; Descartes
+&eacute;tant
+honni, nous entrons de plain-pied, avec une "th&eacute;orie de la vie
+psychique
+incompatible avec l'id&eacute;e d'une psychogen&egrave;se des troubles
+mentaux", dans le dualisme d'Henri Ey qui s'exprime tout dans cette
+phrase
+terminale, dont l'accent rend un son si singuli&egrave;rement
+passionnel
+"les maladies mentales sont des insultes et des entraves &agrave; la
+libert&eacute;,
+elles ne sont pas caus&eacute;es par l'activit&eacute; libre,
+c'est-&agrave;-dire
+purement psycho-g&eacute;n&eacute;tiques."</font>
+<br>
+<font size="-1">Ce dualisme d'Henri Ey me para&icirc;t plus grave en
+ce qu'il suppose une &eacute;quivoque insoutenable dans sa
+pens&eacute;e.
+Je me demande en effet si toute son analyse de l'activit&eacute;
+psychique
+ne repose pas sur un jeu de mots entre son libre jeu et sa
+libert&eacute;.
+Ajoutons-y la cl&eacute; du mot : d&eacute;ploiement.</font>
+<br>
+<font size="-1">Il pose avec Goldstein que "l'int&eacute;gration, c'est
+l'&ecirc;tre". D&egrave;s lors dans cette int&eacute;gration il lui
+faut
+comprendre non seulement le psychique, mais tout le mouvement de
+l'esprit
+et, de synth&egrave;ses en structures, et de formes en
+ph&eacute;nom&egrave;nes,
+il y implique en effet jusqu'aux probl&egrave;mes existentiels. J'ai
+m&ecirc;me
+cru, Dieu me pardonne, relever sous sa plume le terme de
+"hi&eacute;rarchisme
+dialectique", dont l'accouplement conceptuel e&ucirc;t, je crois,
+laiss&eacute;
+r&ecirc;veur le regrett&eacute; Pichon lui-m&ecirc;me, dont ce n'est
+pas
+faire tort &agrave; sa m&eacute;moire que de dire que l'alphabet
+m&ecirc;me
+de Hegel lui &eacute;tait rest&eacute; lettre morte.</font>
+<br>
+<font size="-1">Le mouvement d'Henri Ey est entra&icirc;nant certes,
+mais on ne le peut suivre longtemps pour la raison qu'on
+s'aper&ccedil;oit
+que la r&eacute;alit&eacute; de la vie psychique s'y &eacute;crase dans
+ce n&#339;ud, toujours semblable et effectivement toujours le m&ecirc;me,
+qui
+se resserre toujours plus s&ucirc;rement autour de la pens&eacute;e de
+notre ami, &agrave; mesure m&ecirc;me de son effort pour s'en
+d&eacute;livrer,
+lui d&eacute;robant ensemble par une n&eacute;cessit&eacute;
+r&eacute;v&eacute;latrice
+la v&eacute;rit&eacute; du psychisme avec celle de la folie.</font>
+<br>
+<font size="-1">Quand Henri Ey commence en effet &agrave;
+d&eacute;finir
+cette tant merveilleuse activit&eacute; psychique comme "notre
+adaptation
+personnelle &agrave; la r&eacute;alit&eacute;", je me sens sur le monde
+des vues si s&ucirc;res que toutes mes d&eacute;marches s'y manifestent
+comme celles d'un prince clairvoyant. Vraiment de quoi ne suis-je
+capable
+&agrave; ces hauteurs o&ugrave; je r&egrave;gne ? Rien n'est impossible
+&agrave; l'homme, dit le paysan vaudois avec son accent inimitable, ce
+qu'il ne peut pas faire, il le laisse. Qu'Henri Ey m'emporte par son
+art
+de "trajectoire psychique" en "champ psychique" et m'invite &agrave;
+m'arr&ecirc;ter
+un instant avec lui pour consid&eacute;rer "la trajectoire dans le
+champ",
+je persiste dans mon bonheur, pour la satisfaction d'y
+reconna&icirc;tre
+des formules parentes de celles qui furent les miennes, quand en exorde
+&agrave; ma th&egrave;se sur les psychoses parano&iuml;aques, je
+tentais
+de d&eacute;finir le ph&eacute;nom&egrave;ne de la personnalit&eacute;,
+- sans plus m'apercevoir que nous ne tirons pas aux m&ecirc;mes fins.</font>
+<br>
+<font size="-1">Certes, je "tique" un peu &agrave; lire que "pour le
+dualisme" (toujours cart&eacute;sien je suppose) "l'esprit est un
+esprit
+sans existence", me souvenant que le premier jugement de certitude que
+Descartes fonde sur la conscience qu'a d'elle-m&ecirc;me la
+pens&eacute;e,
+est un pur jugement d'existence : cogito ergo sum, - et je
+m'&eacute;meus
+&agrave; cette autre assertion que "pour le mat&eacute;rialisme
+l'esprit
+est un &eacute;piph&eacute;nom&egrave;ne", me reportant &agrave; cette
+forme du mat&eacute;rialisme pour laquelle l'esprit immanent &agrave;
+la
+mati&egrave;re se r&eacute;alise par son mouvement.</font>
+<br>
+<font size="-1">Mais quand, passant &agrave; la conf&eacute;rence
+d'Henri
+Ey sur la notion des troubles nerveux</font><sup><font size="-2"><a
+ href="#3">3</a></font></sup><font size="-1">,
+j'arrive &agrave; "ce niveau que caract&eacute;rise la cr&eacute;ation
+d'une causalit&eacute; proprement psychique", et que j'apprends que
+"s'y
+concentre la r&eacute;alit&eacute; du Moi" et que par l&agrave; "est
+consomm&eacute;e
+la dualit&eacute; structurale de la vie psychique, vie de relation
+entre
+le monde et le Moi, qu'anime tout le mouvement dialectique de l'esprit
+toujours s'&eacute;vertuant dans l'ordre de l'action comme dans l'ordre
+th&eacute;orique &agrave; r&eacute;duire sans jamais y parvenir cette
+antinomie,
+ou tout au moins &agrave; tenter de concilier et d'accorder les
+exigences
+des objets, d'Autrui, du corps, de l'Inconscient et du Sujet
+conscient",
+alors je me r&eacute;veille et je proteste : le libre jeu de mon
+activit&eacute;
+psychique ne comporte aucunement que je m'&eacute;vertue si
+p&eacute;niblement.
+Car il n'y a aucune antinomie entre les objets que je per&ccedil;ois et
+mon corps, dont la perception est justement constitu&eacute;e par un
+accord
+avec eux des plus naturels. Mon inconscient me m&egrave;ne le plus
+tranquillement
+du monde &agrave; des d&eacute;sagr&eacute;ments que je ne songe
+&agrave;
+aucun degr&eacute; &agrave; lui attribuer, du moins jusqu'&agrave; ce
+que
+je m'occupe de lui par les moyens raffin&eacute;s de la psychanalyse.
+Et
+tout ceci ne m'emp&ecirc;che pas de me conduire envers autrui avec un
+&eacute;go&iuml;sme
+irr&eacute;ductible, toujours dans la plus sublime inconscience de mon
+sujet conscient. Car si je ne tente pas d'atteindre &agrave; la
+sph&egrave;re
+enivrante de l'oblativit&eacute;, ch&egrave;re aux psychanalystes
+fran&ccedil;ais,
+ma na&iuml;ve exp&eacute;rience ne me donnera tien &agrave; retordre de
+ce fil qui, sous le nom d'amour-propre, fut par le g&eacute;nie pervers
+de La Rochefoucauld d&eacute;tect&eacute; dans la trame de tous les
+sentiments
+humains, f&ucirc;t-ce dans celui de l'amour.</font>
+<br>
+<font size="-1">Vraiment toute cette "activit&eacute; psychique"
+m'appara&icirc;t
+alors comme un r&ecirc;ve, et ce peut-il &ecirc;tre le r&ecirc;ve d'un
+m&eacute;decin qui mille et dix mille fois a pu entendre se
+d&eacute;rouler
+&agrave; son oreille cette cha&icirc;ne b&acirc;tarde de destin et
+d'inertie,
+de coups de d&eacute;s et de stupeur, de faux succ&egrave;s et de
+rencontres
+m&eacute;connues, qui fait le texte courant d'une vie humaine ?</font>
+<br>
+<font size="-1">Non, c'est plut&ocirc;t le r&ecirc;ve du fabricant
+d'automates,
+dont Ey savait si bien se gausser avec moi autrefois, me disant
+joliment
+que dans toute conception organiciste du psychisme, on retrouve
+toujours
+dissimul&eacute; "le petit homme qui est dans l'homme", et vigilant
+&agrave;
+faire r&eacute;pondre la machine.</font>
+<br>
+<font size="-1">Ces chutes du niveau de la conscience, ces &eacute;tats
+hypno&iuml;des, ces dissolutions physiologiques, qu'est-ce donc
+d'autre,
+cher Ey, sinon que le petit homme qui est dans l'homme a mal &agrave;
+la
+t&ecirc;te, c'est-&agrave;-dire mal &agrave; l'autre petit homme, sans
+doute, qu'il a lui-m&ecirc;me dans sa t&ecirc;te, et ainsi &agrave;
+l'infini
+? Car l'antique argument de Polyx&egrave;ne</font><sup><font size="-2"><a
+ href="#4">4</a></font></sup><font size="-1">,
+garde sa valeur sous quelque mode qu'on tienne pour donn&eacute;
+l'&ecirc;tre
+de l'homme, soit dans son essence comme Id&eacute;e, soit dans son
+existence
+comme organisme.</font>
+<br>
+<font size="-1">Ainsi je ne r&ecirc;ve plus, et quand je lis maintenant
+que "projet&eacute; dans une r&eacute;alit&eacute; plus spirituelle
+encore,
+se constitue le monde des valeurs id&eacute;ales non plus
+int&eacute;gr&eacute;es,
+mais infiniment int&eacute;grantes : les croyances, l'id&eacute;al, le
+programme vital, les valeurs du jugement logique et de la conscience
+morale",
+- je vois fort bien qu'il y a en effet des croyances et un id&eacute;al
+qui s'articulent dans le m&ecirc;me psychisme avec un programme vital
+tout
+aussi r&eacute;pugnant au regard du jugement logique que de la
+conscience
+morale, pour produire un fasciste, voire plus simplement un
+imb&eacute;cile
+ou un filou. Et je conclus que la forme int&eacute;gr&eacute;e de ces
+id&eacute;aux
+n'implique pour eux nulle culmination psychique et que leur action
+int&eacute;grante
+est sans nul rapport avec leur valeur, - donc que l&agrave; encore il
+doit
+y avoir erreur.</font>
+<br>
+<font size="-1">Certes il n'est pas, Messieurs, dans mon propos de
+rabaisser
+la port&eacute;e de vos d&eacute;bats, non plus que les
+r&eacute;sultats
+auxquels vous &ecirc;tes parvenus. Pour la difficult&eacute; en cause,
+j'aurais bient&ocirc;t &agrave; rougir de la sous-estimer. En
+mobilisant
+gestaltisme, behaviourisme, termes de structure et
+ph&eacute;nom&eacute;nologie
+pour mettre &agrave; l'&eacute;preuve l'organo-dynamisme, vous avez
+montr&eacute;
+des ressources de science que je parais n&eacute;gliger pour un recours
+&agrave; des principes, peut-&ecirc;tre un peu trop s&ucirc;rs, et
+&agrave;
+une ironie, sans doute un peu risqu&eacute;e. C'est qu'il m'a
+sembl&eacute;
+qu'&agrave; all&eacute;ger les termes en balance, je vous aiderais
+mieux
+&agrave; desserrer le n&#339;ud que je d&eacute;non&ccedil;ais tout &agrave;
+l'heure. Mais pour y r&eacute;ussir pleinement dans les esprits qu'il
+&eacute;treint,
+ne faudrait-il pas que ce f&ucirc;t Socrate lui-m&ecirc;me qui vint ici
+prendre la parole, ou bien plut&ocirc;t que je vous &eacute;coute en
+silence.</font>
+<br>
+<font size="-1">Car l'authentique dialectique o&ugrave; vous engagez
+vos termes et qui donne son style &agrave; votre jeune Acad&eacute;mie,
+suffit &agrave; garantir la rigueur de votre progr&egrave;s. J'y prends
+appui moi-m&ecirc;me et m'y sens combien plus &agrave; l'aise que dans
+cette r&eacute;v&eacute;rence idol&acirc;trique des mots qu'on voit
+r&eacute;gner
+ailleurs, et sp&eacute;cialement dans le s&eacute;rail psychanalytique.
+Prenez garde pourtant &agrave; l'&eacute;cho que les v&ocirc;tres
+peuvent
+&eacute;voquer hors de l'enceinte o&ugrave; votre intention les anima.</font>
+<br>
+<font size="-1">L'usage de la parole requiert bien plus de vigilance
+dans la science de l'homme partout ailleurs, car il engage l&agrave;
+l'&ecirc;tre
+m&ecirc;me de son objet.</font>
+<br>
+<font size="-1">Toute attitude incertaine &agrave; l'endroit de la
+v&eacute;rit&eacute;
+saura toujours d&eacute;tourner nos termes de leur sens et ces sortes
+d'abus
+ne sont jamais innocents.</font>
+<br>
+<font size="-1">Vous publiez, - je m'excuse d'&eacute;voquer une
+exp&eacute;rience
+personnelle - un article sur "l'Au-del&agrave; du principe de
+r&eacute;alit&eacute;",
+o&ugrave; vous ne vous attaquez &agrave; rien de moins qu'au statut de
+l'objet psychologique, en vous essayant d'abord &agrave; poser une
+ph&eacute;nom&eacute;nologie
+de la relation psychanalytique telle qu'elle est v&eacute;cue entre
+m&eacute;decin
+et malade. Et de l'horizon de votre cercle vous reviennent des
+consid&eacute;rations
+sur la "relativit&eacute; de la r&eacute;alit&eacute;", qui vous font
+prendre
+en aversion votre propre rubrique.</font>
+<br>
+<font size="-1">C'est dans un tel sentiment, je le sais, que le grand
+esprit de Politzer renon&ccedil;a &agrave; l'expression
+th&eacute;orique
+o&ugrave; il aura laiss&eacute; sa marque ineffa&ccedil;able, pour se
+vouer
+&agrave; une action qui devait nous le ravir irr&eacute;parablement.
+Car
+ne perdons pas de vue, en exigeant apr&egrave;s lui qu'une psychologie
+concr&egrave;te se constitue en science, que nous n'en sommes encore
+l&agrave;
+qu'aux postulations formelles. Je veux dire que nous n'avons encore pu
+poser la moindre loi o&ugrave; se r&egrave;gle notre efficience.</font>
+<br>
+<font size="-1">C'est au point qu'&agrave; entrevoir le sens
+op&eacute;ratoire
+des traces qu'a laiss&eacute;es aux parois de ses cavernes l'homme de
+la
+pr&eacute;histoire, il peut nous venir &agrave; l'esprit que nous en
+savons
+r&eacute;ellement moins que lui sur ce que j'appellerai tr&egrave;s
+intentionnellement
+la mati&egrave;re psychique. Faute donc de pouvoir comme Deucalion</font><b><sup><font
+ size="-2"><a href="#5">5</a></font></sup></b><font size="-1">
+avec des pierres faire des hommes, gardons-nous avec soin de
+transformer
+les mots en pierres.</font>
+<br>
+<font size="-1">Il serait d&eacute;j&agrave; beau que par une pure
+men&eacute;e
+de l'esprit nous puissions voir se dessiner le concept de l'objet
+o&ugrave;
+se fonderait une psychologie scientifique. C'est la d&eacute;finition
+d'un
+tel concept que j'ai toujours d&eacute;clar&eacute;e n&eacute;cessaire,
+que j'ai annonc&eacute;e comme prochaine, et qu'&agrave; la faveur du
+probl&egrave;me
+que vous me proposez, je vais tenter de poursuivre aujourd'hui en
+m'exposant
+&agrave; mon tour &agrave; vos critiques.</font>
+
+# On peut lire le dernier expos&eacute; actuellement paru des points de vue d'Henri Ey dans la brochure qui donne le rapport pr&eacute;sent&eacute; par J. de Ajuriaguerra et
+H.H&eacute;caen aux Journ&eacute;es de Bonneval de 1943 (soit de la session
+imm&eacute;diatement ant&eacute;c&eacute;dente). A ce rapport qui est une critique de sa doctrine, H.Ey apporte en effet une introduction et une longue r&eacute;ponse.
+Certaines des citations qui suivront leur sont emprunt&eacute;es. (Rapports de la
+Neurologie et de la Psychiatrie. H. Ey, J. de Ajuriaguerra et H. H&eacute;caen, Hermann &eacute;dit., 1947. No 1018 de la collection bien connue : Actualit&eacute;s scientifiques et industrielles".) D'autres citations ne se trouvent pourtant que dans des textes dactylographi&eacute;s o&ugrave; s'est poursuivie une tr&egrave;s f&eacute;conde discussion qui a pr&eacute;par&eacute; les Journ&eacute;es de 1945.
+# Cf. loc. cit., p.14.
+# loc.cit., p.122, Cf. le texte publi&eacute; dans le pr&eacute;c&eacute;dent num&eacute;ro de cette Revue, voir p. 71.
+# Polyx&egrave;ne : fille de Priam et d'H&eacute;cube. Venue r&eacute;clamer avec Priam et Andromaque le cadavre d'Hector &agrave; Achille, elle s'offrit comme esclave et le fit fl&eacute;chir (la trahison d'Achille !)
+# Deucalion, fils de Prom&eacute;th&eacute;e, apr&egrave;s le d&eacute;luge de neuf jours, d&eacute;barqua en Thessalie avec Pyrrha sa femme. Herm&egrave;s lui dit de jeter les os de leurs m&egrave;res pour repeupler la terre, ce qu'il fit comprenant que ce n'&eacute;taient que des pierres ; et des pierres jet&eacute;es naquirent hommes et femmes.

@@ -1,0 +1,87 @@
+{| style="line-height:2.0em;width:100%;text-align:justify;"
+|style="width:100%;border:0px solid #cccccc;background-color:#ffffff;vertical-align:top"|
+{| width="100%" cellpadding="2" cellspacing="5" style="text-align:justify;vertical-align:top;background-color:#ffffff"
+|-
+|style="text-align:justify;color:#000;line-height:2.5em;align:justify;"|
+The [[graph of desire]] is a [[topology|topological model]] of the [[structure]] of [[desire]].
+
+==History==
+[[Jacques Lacan]] began to develop the [[graph of desire]] in his [[{{Y}}|1957]]-[[{{Y}}|58]] [[seminar]], ''[[Seminar V|Les formations de l'inconscient]]''.<ref>[[Jacques Lacan|Lacan, Jacques]]. ''[[Seminar V|Les formations de l'inconscient]]''. [[Seminar V|The Formations of the Unconscious]]. [[{{Y}}|1957]]-[[{{Y}}|58]]</ref>  The [[graph of desire]] reappears in some of the following [[seminar]]s in various forms, although the most well known form of it appears in "[[The Subversion of the Subject and the Dialectic of Desire in the Freudian Unconscious]]."<ref>[[Jacques Lacan|Lacan, Jacques]]. "[[Works of Jacques Lacan|Subversion du sujet et dialectique du désir dans l'inconscient freudien]]." ''[[Écrits]]''. Paris: Seuil, 1966. p.793-827. "[[The subversion of the subject and the dialectic of desire in the Freudian unconscious]]." [[Ecrits: A Selection]]. Trans. Alan Sheridan. Bruce Fink. London: Tavistock. 1977. New York: W. W. Norton. 2004. p.292-325</ref>
+
+==Four Stages==
+In this paper, [[Lacan]] builds up the [[graph of desire]] in four stages.
+
+===Elementary Cell===
+The first of these stages in the "[[graph of desire|elementary cell]]" of the [[graph of desire|graph]].<ref>{{E}} p.303</ref>
+
+The horizontal line represents the [[diachronic]] [[signifying chain]]; the horseshoe-shaped line represents the vector of the [[subject]]'s [[intention]]ality.
+
+The double intersection of these two lines illustrates the nature of [[time|retroaction]]: the message, at the point marked '''s(A)''' in the [[graph of desire|elementary cell]], is the ''[[point de capiton]]'' determined [[time|retroactively]] by the particular [[punctuation]] given to it by the [[Other]], '''A'''.
+
+The [[linguistic|prelinguistic]] mythical [[subject]] of pure [[need]], indicated by the triangle, must pass through the defiles of the [[signifier]] which produces the [[divided]] [[subject]], '''$'''.
+
+===Intermediate Stages===
+The intermediate stages of the [[graph of desire]] are not meant to show any [[progress|evolution]] or [[development|temporal development]], since the [[graph of desire|graph]] always exists as a whole; they are simply pedagogical devices used by [[Lacan]] in order to illustrate the [[structure]] of the [[graph of desire|complete graph]].<ref>{{E}} p.315</ref>
+
+Nevertheless, [[Lacan]] never intended to describe the genetic stages of a [[biological]] [[development]].
+
+Rather, it represents the "logical moments" of the birth of a [[speaking]] [[subject]].
+
+===Complete Graph===
+
+In the [[completed graph]] there are not one but two [[signifying chain]]s.
+
+The lower [[chain]] (from the [[signifier]] to the [[voice]]) is the [[conscious]] [[signifying chain]], the level of the [[statement]].
+
+The upper [[chain]] (from ''[[jouissance]]'' to [[castration]]) is the [[signifying chain]] in the [[unconscious]], the level of the [[enunciation]].
+
+The [[structure]] is thus duplicated: the upper part of the [[graph]] is structured exactly like the lower part.
+
+==See Also==
+{{See}}
+* [[Desire]]
+* ''[[Point de capiton]]''
+||
+* [[Signifier]]
+* [[Signifying Chain]]
+||
+* [[Structure]]
+* [[Subject]]
+||
+* [[Unconscious]]
+* [[Topology]]
+{{Also}}
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+|-
+|}
+
+|style="width:200px;background-color:#ffffff;vertical-align:top;color:#000"|
+{| cellpadding="2" cellspacing="5" style="text-align:justify;vertical-align:top;background-color:#ffffff"
+|-
+|style="color:#000;line-height:2em;width:100%;";|
+
+{| align="right"  style="line-height:2.0em;margin-left:10px;text-align:right;background-color:#fcfcfc;border:1px solid #aaa" 
+| [[French]]: ''[[graphe du désir]] 
+|}
+
+[[Image:GRAPHOFDESIRE-ONE.jpg||thumb|]]
+[[Image:GRAPHOFDESIRE-TWO.jpg|thumb|]]
+[[Image:Vector2.jpg|thumb|]]
+[[Image:Goodwill.jpg|thumb|]]
+
+
+|-
+|}<!-- Start of right-column -->
+|}
+
+
+[[Category:Psychoanalysis]]
+[[Category:Jacques Lacan]]
+[[Category:Dictionary]]
+[[Category:Concepts]]
+[[Category:Terms]]

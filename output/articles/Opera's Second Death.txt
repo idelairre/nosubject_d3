@@ -1,0 +1,11 @@
+{{BBSZ}}<BR>
+[[Image:OperasSecondDeath.jpg|200px|thumb|Book Cover]]
+=====Book Description=====
+Opera's Second Death is a passionate exploration of opera - the genre, its masterpieces, and the nature of death. Using a dazzling array of tools, Slavoj Zizek and coauthor Mladen Dolar explore the strange compulsions that overpower characters in Mozart and Wagner, as well as our own desires to die and to go to the opera.  
+
+=====Product Details=====
+{| style="width:100%; border:1px solid #aaa;text-align:left; line-height:2.0em; padding-left:10px;"
+|width="100%"| [[Slavoj Žižek|Zizek, Slavoj]]. '''''[[Opera's Second Death]]'''''. London: Routledge. November 21, 2001, 1st edition, Hardcover, 256 pages, Language: English, ISBN: 0415930162. <small>Buy it at [http://www.amazon.com/exec/obidos/ASIN/0415930162/nosubject-20/ Amazon.com], [http://www.amazon.ca/exec/obidos/ASIN/0415930162/nosub07-20/ Amazon.ca], [http://www.amazon.de/exec/obidos/ASIN/0415930162/nosub-21/ Amazon.de], [http://www.amazon.co.uk/exec/obidos/ASIN/0415930162/nosubjencyofl-21/ Amazon.co.uk] or [http://www.amazon.fr/exec/obidos/ASIN/0415930162/nosub04-21/ Amazon.fr].</small>
+|}
+
+{{CBBSZ}}

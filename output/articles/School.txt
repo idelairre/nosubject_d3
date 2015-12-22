@@ -1,0 +1,86 @@
+{{Top}}école{{Bottom}}
+
+=====Jacques Lacan=====
+=====''Ècole Freudienne de Paris''=====
+When [[Jacques Lacan]] founded the ''[[Ècole Freudienne de Paris]]'' ([[EFP]]) in 1964, after his resignation from the ''[[Société Française de Psychanalyse]]'' ([[SPP]]), he chose to call it a "[[school]]" (''école'') for precise reasons.
+
+Not only was it the first time that a [[school|psychoanalytic organisation]] had been called a "[[school]]" rather than an "[[school|association]]" or a "[[school|society]]", but the term "[[school|school]]" also highlighted the fact that the [[EFP]] was more a means of [[school|psychoanalytic formation]] centred around a ''doctrine'' than an [[school|institutional order]] centred around ''a group of important people''. 
+
+=====Psychoanalytic Institution=====
+Thus the very use of the term "[[school]]" in the name of the [[EFP]] indicated that it was an attempt to found a very different type of [[school|psychoanalytic institution]] from those which had been founded before. 
+
+[[Lacan]] was particularly keen to avoid the dangers of the hierarchy dominating the institution, which he saw in the [[International Psychoanalytic Association]] ([[IPA]]), and which he blamed for the theoretical misunderstandings which had come to dominate the [[IPA]]; the [[IPA]] had become, he argued, a kind of [[religion|church]].<ref>{{S11}} p.4</ref>
+
+However, it is also important to note that [[Lacan]]'s criticisms of the [[IPA]] do not imply a criticism of the [[school|psychoanalytic institution]] ''per se''; while [[Lacan]] is very critical of the dangers that beset all [[school|psychoanalytic institution]]s, the fact that he himself founded one is evidence that he thought that some kind of institutional framework was necessary for [[psychoanalyst]]s. 
+
+Thus [[Lacan]] is just as sceptical of those [[analyst]]s who reject all institutions as he is of those who turn the institution into a kind of [[religion|church]].
+
+=====History of the EFP=====
+=====Training of Analysts=====
+Many of Lacan's ideas cannot be understood without some understanding of the history of the [[EFP]] (1964-80), especially those of [[Lacan]]'s ideas which relate to the [[training]] of analysts. 
+
+=====Membership=====
+In this context it is important to note that the [[EFP]] was not merely a [[school|training institute]], and that membership was not restricted to [[analysts]]/trainees, but was open to anyone with an interest in [[psychoanalysis]]. 
+
+All members had equal voting rights, which meant that the [[EFP]] was the first truly ''democratic'' [[school|psychoanalytic organisation]] in history.
+
+=====Four Categories=====
+There were four categories of members in the [[EFP]]: 
+* [[school|M.E.]] (''Membre de l'Ecole, or simple member''), 
+* [[school|A.P.]] (''Analyste Practiquant''), 
+* [[school|A.M.E.]] (''Analyste Membre de l'Ècole''), and 
+* [[school|A.E.]] (''Analyste de l'Ècole''). 
+
+Members could, and often did, hold several titles simultaneously. 
+
+Those who applied for membership of the [[school]] were interviewed by a committee called the ''[[school|cardo]]'' (a word meaning a hinge on which a door turns) before being admitted as an [[school|M.E.]]
+
+Only the [[school|A.M.E.]] and the [[school|A.E.]] were recognised as [[analyst]]s by the [[school]], although other members were not forbidden to conduct [[treatment|analyses]], and could award themselves the title of [[school|A.P.]] to indicate that they were [[treatment|practising]] [[analysts]]. 
+
+The title of [[school|A.M.E.]] was granted to members of the school who satisfied a jury of senior members that they had conducted the [[analysis]] of two [[patient]]s in a satisfactory manner; in this sense, the category of [[school|A.M.E]], was similar to that of the titular members of other [[school|psychoanalytic societies]]. 
+
+The title of [[school|A.E.]], was awarded on the basis of a very different procedure, which [[Lacan]] called the [[pass]].
+
+=====Pass=====
+The [[pass]] was instituted by [[Lacan]] in 1967 as a means of verifying the [[end of analysis]], and constitutes the most original feature of the [[EFP]]. 
+
+=====Cartels=====
+Another original feature of the [[EFP]] was the promotion of research in small study groups known as [[cartel]]s.
+
+=====Dissolution of the EFP=====
+The final years of the [[EFP]] were dominated by intense controversy over the [[pass]] and other issues. 
+
+In 1980, [[Lacan]] dissolved the [[EFP]], and in 1981 he created a new institution in its stead, the [[École de la Cause Freudienne]] ([[ECF]]). 
+
+Some of the original members of the [[EFP]] followed [[Lacan]] into the [[ECF]], whereas others left to set up a variety of other groups. 
+
+Some of these groups still exist today, as does the [[ECF]].
+
+==See Also==
+{{See}}
+* [[Analysand]]
+* [[Cartel]]
+||
+* ''[[Ècole Freudienne de Paris]]''
+* [[International Psychoanalytic Association]]
+||
+* [[Pass]]
+* [[Psychoanalysis]]
+||
+* [[Training]]
+* [[Treatment]]
+{{Also}}
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+[[Category:Psychoanalysis]]
+[[Category:Jacques Lacan]]
+[[Category:Schools]]
+[[Category:Dictionary]]
+[[Category:Concepts]]
+[[Category:Terms]]
+
+__NOTOC__

@@ -1,0 +1,61 @@
+An individual's internal reality corresponds to a collection of processes, representations, and affects that are essentially (but not only) unconscious, which Sigmund Freud referred to as "psychical reality." It thus contains the representations of the world that the subject has formed, fantasies stemming from unconscious desires, and universal fantasy structures: the primal fantasies. For the analyst, it has an existence and efficiency that are comparable to physical reality.
+External reality, also called material reality, subsumes the objects of our physical environment, the subject's body, and the subject's inscribed place in society.
+These two concepts exist in a dialectical and sometimes paradoxical relation throughout Freud's work. They presuppose a theorization of each one taken separately and of their interconnection. In other words, what is at stake is knowing how material reality becomes internalized and how a reality that is initially completely subjective is gradually constituted as external.
+In "Negation" (1925) Freud asserted, "What is bad, what is alien to the ego and what is external are, to begin with, identical" (p. 237). According to him, external reality always remains unknowable, like Immanuel Kant's <i>Ding an sich</i> (Thing-in-itself); but, like Kant, Freud did not adhere to George Berkeley's absolute idealism, which essentially holds that there exists only mental reality. Actually, such a state is only found in certain psychoses (schizophrenia, chronic delusional psychosis, etc.), in which the movements of mental reality are taken for external reality (cf. hallucination). In neurosis, these two topographical spaces remain distinct, even if "psychical reality plays a dominant role," as Freud wrote in the <i>Introductory Lectures on Psychoanalysis</i> (1916-17b [1915-17]).
+
+The theory of the connection between the two orders was adumbrated as early as 1891 in Freud's text "On Aphasia: A Critical Study," where he distinguished between thing-presentations and word-presentations. The unconscious contains only <i>Sachvorstellungen</i> (thing-presentations), whereas both forms of representation are found in the preconscious and the conscious.
+In elaborating the idea of mental reality Freud no doubt drew upon the teachings of the philosopher Franz von Brentano (<i>Psychology from an Empirical Standpoint</i>, 1874/1973). However, his first model can justifiably be traced back to the 1895 "Project for a Scientific Psychology," where Freud invoked a "reality of thought [<i>Denkrealität</i>] that is autonomous although dependent upon external reality." "Project for a Scientific Psychology," which Jean Guillaumin has called "a wide-ranging meditation on the relationship between the Ego and the external world," deals with material reality by introducing the concept of the "reality index," based on the perceptual neurons capable of apprehending external reality. The actual term "psychical reality" appears for the first time in 1909 in an addendum to the second edition of <i>The Interpretation of Dreams</i>. Not until the 1919 edition was the
+
+
+
+now-classic distinction between "psychical reality" and "material reality" finally posited.
+Throughout his writings Freud attempted to specify the laws of the functioning of psychic reality and to shed light on its dialectical connection with external reality. In "Formulations on the Two Principles of Mental Functioning" (1911), he asserted that in the earliest stages of life the subject is dominated by the pleasure principle and hallucinatory satisfaction. But the failure of this as a means of attaining satisfaction forces the infant to "represent for itself the real state of the external world." Thought, which is originally unconscious, is split: One part remains under the control of the pleasure principle and constructs fantasies; the other part, with language, becomes conscious and capable of judging whether a representation belongs to internal, psychic reality or to the external reality of the world. Thus psychic reality functions under the yoke of instinct and according to the laws of the primary processes. Unaware of time or negation, these representations and affects are displaced and condensed according to the flow of cathexis. Ever concerned with shedding light on the connections that exist between this internal reality and the external world, Freud then introduced, in "A Case of Paranoia Running Counter to the Psycho-Analytic Theory of the Disease" (1915), the idea of "primal fantasies." These "constitute" a treasure of organizing "schemas" of all fantasies and are in a sense the hard core of psychic reality (Jean Laplanche and Jean-Bertrand Pontalis, 1985).
+By postulating that the primal fantasies are phylogenetic in origin, an idea he would defend until his death, Freud re-enmeshed external reality and psychic reality. What had once been prehistoric reality later became part of psychic reality. In any case, in Freud's view, in "An Outline of Psychoanalysis" (1940 [1938]), external reality must forever remain "unknowable," just as a "quantity of (unconscious) processes are themselves unknowable." He concluded this work by emphasizing the function of the internalized external world constituted by the superego that "reunites the influences of the present and the past."
+
+Since then, numerous psychoanalysts, inspired in particular by the writings of Melanie Klein, have developed the idea of psychic reality, most often on the basis of work on psychosis: Michael Balint, Donald Winnicott, Wilfred Bion—who emphasized the hatred the psychotic patient feels for realities—and Piera Aulagnier, with the concept of historical reality. In France, Jacques Lacan took up this thematics with his 1953 introduction of the category of the real, as distinct from reality. In his 1975 seminar "R.S.I.," he defined the Real as "what is impossible to subjectivize." A stopping point for thought, it supposedly appears in psychosis and irrupts at the end of the cure.
+During the same period, Serge Viderman in <i>La Construction de l'espace analytique</i> (Construction of the analytical space; 1970) argued that "the reality of events is of no importance to the analyst, whose duty it is to invent it." By stating it to the patient, the analyst in a sense brings this reality into existence. The event or its trace is argued to be at most the grain of sand around which fantasies are formed, like the pearl around an impurity. Thus Freud invented a new reality, constrained by the "epistemological necessity" of delimiting his object of study and his field of action. Although the notion of psychic reality is no longer contested today, and although all analysts recognize its heuristic value, fundamental divergences exist among the various conceptions relating to the articulation of internal and external realities.
+Adherence to a physical realism has led many practitioners to invoke social and material reality from a normative perspective (Heinz Hartmann, 1956). Explaining symptoms only in terms of real events and advocating adaptation to reality are a contemporary trend in psychotherapeutic practices that retain from the analytic approach nothing but the adjective in which it is tricked out.
+Another theoretical and practical current advocates the bracketing of external and historical reality (Lacan, Viderman). Beyond their divergences, these theorists share the same desire to master the domain of the psyche whose purity cannot be altered by any factual opacity. Today, most analysts are in agreement on a principle of "undecidability" (Daniel Widlöcher, Jean Guillaumin, Haydée Faimberg, etc.) as to what should be attributed to material reality and what comes from psychic reality. Deeper understanding of the notion of the primal (Aulagnier) and transcultural studies show that "the infantile, culture, and the characteristic of the object," as Maurice Dayan expressed it in <i>Inconscient et Réalité</i> (Unconscious and reality; 1985)—in other words, external reality—organize the subject's psychic reality in their own way.
+
+==See Also==
+Adaptation]] 
+* [[Animus-Anima]] (analytical psychology) 
+* [[Children's play]] 
+* [[Collective unconscious]] (analytical psychology) 
+* [[Contradiction]] 
+* [[Creativity]] 
+* [[Cure]] 
+* [[Dreamlike memory]] 
+* [[Ego]] 
+* [[Ego autonomy]] 
+* [[Id]] 
+* [[Illusion]] 
+* ''[[Metapsychological Supplement to the Theory of Dreams]]''
+* [[Money and psychoanalytic treatment]] 
+* [[Mourning]] 
+* [[Negation]] 
+* [[Omnipotence of thought]] 
+* ''[[A Phylogenetic Fantasy: Overview of the Transference Neuroses]]''
+* [[Psychotic part of the personality]] 
+* [[Reality testing]] 
+* [[Real trauma]] 
+* [[Symbolization, process of]] 
+* [[Thought]] 
+* [[Transitional object]] 
+* [[Transitional space]]
+* [[Transitional phenomena]]
+
+==References==
+<references/>
+
+# Freud, Sigmund. (1891b). On aphasia: A critical study. (E. Stengel, Trans.). New York: International Universities Press, 1953.
+# ——. (1895 [1950c]). Project for a scientific psychology. SE, 1: 281-387.
+# ——. (1911b). Formulations on the two principles of mental functioning. SE, 12: 213-226.
+# ——. (1915f). A case of paranoia running counter to the psycho-analytic theory of the disease. SE, 14: 261-272.
+# ——. (1916-17b [1915-17]). Introductory lectures on psychoanalysis. SE, 15-16.
+# ——. (1925h). Negation. SE, 19: 233-239.
+# ——. (1940a [1938]). An outline of psychoanalysis. SE, 23: 139-207.
+# Lacan, Jacques. (1974-1975). Le Séminaire-Livre XXII, R.S.I. Jacques-Alain Miller (ed.). Ornicar?, 2-5.
+# Laplanche, Jean, and Pontalis, Jean-Bertrand. (1974). The language of psycho-analysis. (Donald Nicholson-Smith, Trans.). New York: W. W. Norton. (Original work published 1967)
+
+[[Category:New]]

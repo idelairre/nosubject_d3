@@ -1,0 +1,22 @@
+In [[psychoanalysis]], '''anticathexis'''  is the energy derived from the [[Superego]] to run the Ego, according to [[Freud]].  The function of the anticathexis is to restrict and block [[cathexis]] from the [[id|Id]] for overall benefit.
+
+<blockquote>A process which maintains the repression n the first case and, in the second, ensures its being established and continued by means of which the system Pcs guards itself against the intrusion of the unconscious idea.<ref>{{Ucs}}</ref></blockquote>
+
+<blockquote>Reaction formation in the ego, through an intensification of the attitude which is the antithesis of the instinctual tendency to be repressed (pity, conscientiousness, cleanliness).  It is much more difficult to demonstrate anticathexis in hysteria, where, theoretically, it is just as indispensable.<ref>{{PoA}} Ch. 11</ref></blockquote>
+
+==Anticathexis, External and Internal==
+<blockquote>The contrast in the direction of the anticathexis as between hysteria and phobia on the one hand and compulsion neurosis on the other appears to be of importance, even though this antithesis is not an ab­solute one. It leads us to suppose that a rather intimate con­nection exists between repression and external anticathexis, as well as between regression and internal anticathexis (ego-­alteration through reaction formation).<ref>{{PoA}} Ch. 11</ref></blockquote>
+
+==Anticathexis in Hysteria==
+<blockquote>The hysterical type of anti­cathexis is predominantly directed outwards, against the dan­gerous perception; it takes the form of a special watchfulness which, through restrictions imposed upon the ego, avoids situations in which such a perception would inevitably occur, and which effects the withdrawal of attention from the per­ception if this has actually occurred.<ref>{{PoA}} Ch. 11</ref></blockquote>
+
+==Anticathexis in Phobias==
+<blockquote>Even more strikingly than in hysteria is this technique of anticathexis displayed in the phobias, the interest of which is concentrated upon effecting a further and further removal of the possibility of experiencing the dreaded perception.<ref>{{PoA}} Ch. 11</ref></blockquote>
+
+
+==See Also==
+* [[Ego-resistance]]
+
+
+{{Freudian Dictionary}}
+[[Category:Freudian psychology]]

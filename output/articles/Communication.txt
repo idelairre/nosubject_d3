@@ -1,0 +1,50 @@
+{{Top}}communicating|communication{{Bottom}}
+
+=====Modern Linguistics=====
+Most theories of [[communication]] -- offered by modern [[linguistics]] --  are characterised by two important features.
+
+# Firstly, they usually involve a reference to the category of intentionality, which is conceived of as coterminuous with [[consciousness]].
+# Secondly, they represent [[communication]] as a simple process in which a [[message]] is sent by one person (the addresser) to another (the addressee).<ref>[[Roman Jakobson|Jakobson, Roman]]. (1960) "Linguistics and poetics," in ''Selected Writings'', vol. II, ''Poetry of Grammar and Grammar of Poetry'', The Hague: Mouton, 1981, p. 21</ref>
+
+=====Psychoanalytic Treament=====
+However, both these features are put into question by the specific experience of [[communication]] in [[psychoanalytic]] [[treatment]]. 
+
+# Firstly, [[speech]] is revealed to possess an [[intentionality]] that goes beyond [[conscious]] purpose.
+# Secondly, the speaker's [[message]] is seen to be not merely directed at another but also at himself.
+:<blockquote>"In [[human]] [[speech]] the sender is always a receiver at the same time."<ref>{{S3}} p. 24</ref></blockquote>
+
+=====Unconscious Message=====
+Putting these two points together, it can be said that the part of the speaker's [[message]] which is addressed to himself is the [[unconscious]] [[intention]] behind the [[message]].  When speaking to the [[analyst]], the [[analysand]] is also addressing a [[message]] to himself, but is not aware of this. 
+
+=====Analytic Communication=====
+The task of the [[analyst]] is to enable the [[analysand]] to hear the [[message]] he is [[unconscious]]ly addressing to himself by [[interpretation|interpreting]] the [[analysand]]'s words, the [[analyst]] permits the [[analysand]]'s [[message]] to return to him in its true, [[unconscious]] dimension. 
+
+Hence [[Lacan]] defines [[communication| analytic communication]] as the [[act]] whereby "the sender receives his own message from the receiver in an inverted form."<ref>{{Ec}} p. 41</ref>
+
+==See Also==
+{{See}}
+* [[Analysand]]
+* [[Analyst]]
+||
+* [[Interpretation]]
+* [[Intersubjectivity]]
+||
+* [[Speech]]
+* [[Unconscious]]
+{{Also}}
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+[[Category:Psychoanalysis]]
+[[Category:Jacques Lacan]]
+[[Category:Linguistics]]
+[[Category:Dictionary]]
+[[Category:Language]]
+[[Category:Symbolic]]
+[[Category:Concepts]]
+[[Category:Terms]]
+[[Category:OK]]
+
+__NOTOC__

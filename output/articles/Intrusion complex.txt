@@ -1,0 +1,23 @@
+''Click here for information about the notion of a "[[complex]]"''
+
+The [[intrusion complex]] is one of the three 'family complexes' which [[Lacan]] discusses in his 1938 article on the family, and arises when the [[child]] first realises that he has siblings, that other subjects like him participate in the family [[structure]]. 
+
+The emphasis here is on likeness; the child identifies with his siblings on the basis of the recognition of bodily similarity (which depends, of course, on their being a relatively small age difference between the subject and his siblings). 
+
+It is this identification that gives rise to the "imago of the counterpart."<ref>{{L}} 1938: 35-9</ref>
+
+
+==References==
+<reference/>
+
+==See Also==
+* [[Counterpart]]
+* [[specular image]]
+
+
+[[Category:Terms]]
+[[Category:Concepts]]
+[[Category:Imaginary]]
+[[Category:Jacques Lacan]]
+[[Category:Dictionary]]
+[[Category:Development]]

@@ -1,0 +1,34 @@
+{{Top}}folie{{Bottom}}
+
+=Jacques Lacan=
+==Madness==
+When [[Lacan]] uses the term "[[madness]]," or refers to someone as being "[[mad]]," he is referring to [[psychosis]]:
+
+<blockquote>"The psychoses ... correspond to what has always been callled and legitimately continues to be called ''madness''."<ref>{{S3}} p. 4</ref></blockquote>
+
+==Usage==
+[[Lacan]] adds that "there is no reason to deny oneself the luxury of the word."<ref>{{S3}} p.4</ref>
+
+Thus far from seeing it as a derogatory term, [[Lacan]] values it for its poetic resonances, and approves of its use, on condition that it is used in the precise sense of [[psychosis]].
+
+So, for example, in 1946 [[Lacan]] congratulates the French psychiatrist Henry Ey for "obstinately preserving the term."<ref>{{Ec}} p. 154</ref>
+
+=See Also=
+* [[Psychosis]]
+
+=References=
+<div style="font-size:11px" class="references-small">
+<references/>
+</div>
+
+[[Category:Dictionary]]
+[[Category:Psychoanalysis]]
+[[Category:Treatment]]
+[[Category:Jacques Lacan]]
+[[Category:Concepts]]
+[[Category:Terms]]
+
+
+{{OK}}
+
+__NOTOC__

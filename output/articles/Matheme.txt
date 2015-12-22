@@ -1,0 +1,104 @@
+{| align="left" style="margin-right:10px;line-height:2.0em;text-align:left;align:left;background-color:#fcfcfc;border:1px solid #aaa" 
+| [[French]]: ''[[mathème{{Bottom}}
+
+The term [[matheme|mathème]] is a neologism which [[Lacan]] derives from the word "[[mathematics]], presumably by analogy with the term ''[[mytheme]]'' (a term coined by [[Claude Lévi-Strauss]] to denote the basic constituents of [[myth]]ological [[system]]s).<ref>[[Claude Lévi-Strauss|Lévi-Strauss, Claude]]. 1955.</ref>  The [[matheme]]s are part of [[algebra|Lacanian algebra]].
+
+<!-- The [[matheme]] is a concept introduced in the [[{{LB}}|work]] of [[Jacques Lacan]].  The "[[matheme]]" is a neologism coined by [[Jacques Lacan]] in the early 1970s.  Formed by derivation from "[[mathematics]]" and by analogy with [[phoneme]] and [[Lévi-Strauss]]'s [[mytheme]],<ref>''Mytheme'' is a term coined by [[Claude Lévi-Strauss]] to denote the basic constituents of mythological systems.</ref> the term is an equivalent to "[[algebra|mathematical sign]]".  It is not used in conventional [[mathematics]], but is part of [[Lacan]]'s [[algebra]]. -->
+
+==Schema L==
+[[Image:Schema.L.simplifie.gif|thumb|150px|right|Schema L]]
+
+In 1955, [[Lacan]] introduced what could be called his first [[matheme]], the relatively simple "'''[[schema L]]'''", illustrating the [[imaginary|imaginary function]] of the [[ego]].
+
+'''[[Schema L]]''' [[identification|identifies]] four points in the [[signifying chain]]: 
+# [[Image:CapitalA.gif]], the [[unconscious]] or the "[[discourse]] of the [[Other]]]", and then .
+# [[Image:Smalls.gif]], the [[subject]], which in turn results from the relation between 
+# [[Image:Schema.L.smalla.gif]], the [[ego]] and 
+# [[Image:Schema.L.smalla'.gif]], the [[counterpart|other]].
+
+==Signifier==
+[[Image:SAUSSUREANALGORITHM.gif|thumb|100px|right|Saussurean algorithm|The Saussurean algorithm]]
+
+Perhaps the most familiar [[matheme]] is the "[[matheme|algorithm]]" which in 1957 replaces [[Saussure]]'s simple diagram / arbor with the notion '''S/s'''.  In 1957, [[Lacan]] replaces [[Saussure]]'s diagram of the [[sign]] with what is now referred to as the  "'''[[Saussurean algorithm]]'''".<ref>{{E}} p. 149</ref>  The [[matheme]] links the [[law]]s of the [[unconscious]] discovered by [[Freud]] to the [[law]]s of [[language]] ([[metaphor]] and [[metonymy]]).
+
+This is to be understood as demonstrating that the [[signifier]] is above the [[signified]] , showing the primacy of the [[signifier]] (which is capitalized, whereas the [[signified]] is reduced to mere lower-case italic), and that the two are separated by a [[bar]] that resists [[signification]] and forces the [[signifier]] to [[slip|slide]] endlessly.<ref>{{L}} "[[The Agency of the Letter in the Unconscious or Reason Since Freud|L'instance de la lettre dans l'inconscient ou la raison depuis Freud]]." ''[[Écrits]]''. Paris: Seuil, 1966: 493-528 ["[[The Agency of the Letter in the Unconscious or Reason Since Freud|The agency of the letter in the unconscious or reason since Freud]]." Trans. [[Alan Sheridan]] ''[[Écrits: A Selection]]''. London: Tavistock, 1977; New York: W.W. Norton & Co., 1977: 146-78].</ref>
+
+==Compendium==
+
+Lacan first introduced the notion of mathème (matheme) in 1973: in his seminar, of course, but more particularly in 'The Twit' ('L'Étourdit'), his last major piece of writing. That was the year of Seminar, Book XX, Encore, and p. 108 of the transcript reads: 'Formalization is our goal, our ideal. Why? Because formalization as such is a mathème: it can be fully transmitted.'   
+
+In 'The Twit', he says that he has mathematized his discourse so that it could be taught: 'the unteachable, I turned into a mathème' (Scilicet 4, 1973, p. 39).   
+
+But what exactly is a mathème? What does Lacan have in mind?
+Is he thinking of the formulas that punctuate his teachings, such as the formulas for metaphor and metonymy, for instance, or the formulas for sexuation? Or is he rather thinking of the topological constructions on the torus and the cross-cap that he had just introduced, not as metaphor, but as structure itself?   
+
+If one tracks down the word 'mathème' in 'The Twit', it first appears to be intertwined with the topological construction presented as contributing to the analytical discourse, to its fabric: 'No other fabric to endow it with but the language of a pure matheme, in other words, the only teachable discourse' (1973, p. 28). The definition, which identifies the mathème with the teachable, supersedes the mathematizable itself, since the Real can only be apprehended through mathematics, except the real of the impossible sexual relation, which, in point of fact, cannot be transcribed by any mathematical relation: 'This is why the mathèmes which are transcribed as dead-ends by the mathematizable, that is, the teachable in the Real, are likely to be coordinated to this "impossible" from the Real' (p. 35).   
+
+How is the mathème apprehended in the structure of our language? The first mathèmes, the arithmetical figures, are on the border of language, in its fringe: 'The mathème is a product of the only real which is first recognized in language: the arithmetical figure' (1973, p. 37). The arithmetical figure is on the border between common language and mathematical discourse. The first figures are signifiers, but these quickly become meaningless. 
+
+In L'Oeuvre Claire (1995), J. C. Milner attempts to define the mathème on the basis of the definitions of phoneme (the linguist's phonetic unit) and mytheme (part of a myth). Milner proposes that the mathème is an `atom of knowledge'. But, apart from mathematical objects, there is no such thing as an atom of knowledge in mathematics. This is in fact what J. A. Miller means when, talking about the mathème in the Revue de la Cause Freudienne No. 33, he says that the aim of the analytical experience is to `know one's own mathème' (1996). What is important then, is less to formalize the knowledge achieved during the cure, than to identify with one's own mathème.   
+
+Miller gives the witty example of the triangles and the spheres, but it is obvious that in this particular context the mathèmes are mathematical objects, such as the triangle or the sphere, but also the Borromean knot, the torus, the Möbius strip, and the geometrical projection. These objects are no longer at the edge of language, but rather at the point where the real, the imaginary, and the symbolic intersect. Rather than being atoms of knowledge, each one of these objects is a concentrate of knowledge: that which governs the subject's relation to the Real.   This means that, as J. A. Miller makes clear in the abovementioned article, the knowledge which is formalized in the mathème (and intertwined with satisfaction), represents a stake for the ending of the cure: 
+
+<blockquote>This is what Lacan has reformulated when he suggested that the experience be carried on to the point when the subject accedes to his own mathème, and more particularly the mathème of the primary fantasy, since this fantasy conditions, indeed, determines, whatever keeps Mr So and So going all through his existence. (p. 11)</blockquote>
+
+The stakes of the mathème are many. After the fundamental stake, which has to do with the aim of the cure, there is teaching, as my first allusions to the mathème and its definitions make clear; then there is a political stake and a clinical one.  
+
+If the only valuable teaching is the one that can be transcribed into a mathème, then the teacher's role is reduced to the ultimate: to transmit an elaboration without having anything to do with it.   The consequence is the same with all writing: Scilicet, the journal where 'The Twit' ('L'Étourdit') was first published is — except for Lacan's texts — a collection of unsigned articles after Bourbaki's style of presentation, Bourbaki being one of the collective and anonymous mathematical writers of the time. As J. C. Milner points out in his book on Lacan, the master's figure disappears with the mathèmes: we are left with professors.   
+
+If one takes Lacan's topology and mathèmes seriously, the clinical scene changes too. That which makes the symbolic ensnare and bump into the impossible of the real becomes clearer in the light of what Lacan called the topology of signifiers, which taps in the general topology of kinship between signifiers, a topology which, according to Lacan, is budding, if not born, in Freud's 'Project' (Esquisse, see Ornicar? 36). Inasmuch as it can be separated from the clinic of signifiers, the clinic of the object is spotted in, by, and through, the topology of surfaces, just as Lacan shows in 'The Twit' and in some of his later seminars.   
+
+Later, J. A. Miller took up the clinical stake. He focused on interpretation. There is a trace of this concern in Revue de la cause Freudienne, No. 34. The classical interpretation that focused on meaning is no longer convincing; we are witnessing what S. Cottet would describe as 'the decline of interpretation'. This led J. A. Miller to devise a conception of interpretation aiming at the level of the Real where 'it is loving it' (ça jouit) rather than at the level where 'it speaks' (ça parle). If the analytical interpretation is that through which the Real is asserting itself, then interpretation is a matter of formalization — supposing that the mathematical formalization is the only one that can reach the Real. This is what Lacan explores (1996, p. 18).   
+
+The Borromean knot provides an illustration of what Lacan was striving to achieve with a 'mathematical clinic'. This knot consists of three 'loops of string': two of these loops are loose while the third is tied. Thus, when one loop becomes undone, all three become undone. This first enabled Lacan to illustrate the solidarity of the three registers, that is, the Imaginary, the Real, and the Symbolic, in the knot which defines the human subject. But in the year of his seminar on Joyce, which is when the question of the structure of the writer arises, Lacan devises a knot with three untied loops that would collapse unless a fourth loop ties them all together. Lacan identifies this fourth loop with the symptom - spelled sinthome in Joyce's case. Thus, Joyce's psychosis never manifested, because his writing acted as a substitute that held together the three registers, despite Joyce's obvious lack of the paternal function. One could therefore generalize the question of the real of the symptom as being equivalent to the Father, as father version (or to invert elements in the pun, père-version), that holds the knot together. It might now be possible to differentiate between types and to outline a clinic. 
+
+<!--
+See also: Borromean knot, formulas, imaginary, real, symbolic, topology other terms: fantasy, interpretation, symptom, torus   
+
+
+References Lacan, J. (1973) 'L'Étourdit' (The Twit). Scilicet, 4. Lacan, J. (1975) [1972-73] De Séminaire XX Encore. Paris, Seuil. Lacan, J. (1976) De Sinthome, Séminaire XXIII (1975-76), ornicar? 6, 7, 8, 9, 10, 11 [Provisional transcription]. Lacan, J. (1986) [1945-46] Esquisse. ornicar? 36. Miller, J. A. (1996) 'Retour de Granade: Savoir et satisfaction'. Revue de la cause Freudienne, 33: 7-15. Miller, J. A. (1996) 'De monologue de l'appard'. Revue de la cause Freudienne, 34: 7-18. Milner, J. C. (1995) D'oeuvre Claire. Paris: Seuil. Nathalie Charraud (trans. Dominique Hecq)
+-->            
+
+==See Also==
+{{See}}
+* [[Algebra]]
+* [[Borromean knot]]
+* [[Drive]]
+* [[Fantasy]]
+||
+* [[Formula]]s
+* [[Graph of desire]]
+* [[Imaginary]]
+* [[Interpretation]]
+||
+* [[Knowledge]]
+* [[Mathematics]]
+* [[Real]]
+* [[Schema]]
+||
+* [[Signification]]
+* [[Structure]]
+* [[Subject]]
+* [[Symbol]]
+||
+* [[Symbolic]]
+* [[Symptom]]
+* [[Topology]]
+* [[Torus]]
+{{Also}}
+
+==References==
+<div style="font-size:11px" class="references-small">
+<references/>
+* [[Lacan, Jacques]]. (1973) 'L'Etourdit' (The Twit). Scilicet, 4. 
+* [[Lacan, Jacques]]. (1975) [1972-73] Le Seminaire xx Encore. Paris, Seuil.
+* [[Lacan, Jacques]]. (1976) Le Sinthome, Seminaire XXIII (1975-76), Ornicar? 6, 7, 8, 9, 10, 11 [Provisional transcription]. 
+* [[Lacan, Jacques]]. (1986) [1945-46] Esquisse. Ornicar? 36. 
+* [[Miller, Jacques-Alain]]. (1996) 'Retour de Granade: Savoir et satisfaction'. Revue de la cause Freudienne, 33: 7-15. 
+* [[Miller, Jacques-Alain]]. (1996) 'Le monologue de l'appard'. Revue de la cause Freudienne, 34: 7-18. 
+* [[Milner, Jean-Claude]]. (1995) L'Oeuvre Claire. Paris: Seuil. 
+</div>
+
+{{OK}}
+
+__NOTOC__

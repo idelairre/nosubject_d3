@@ -1,0 +1,32 @@
+==Topology==
+
+A [[topographical model]] uses imagined space to make a [[Freud]]'s theory of the [[mind]] or [[psyche]] understandable, helps us to picture the structure of the [[mind]] or [[psyche]].
+
+==Topographical Model==
+According to the [[Freud]]'s first "[[topographical model]]", the [[mind]] or [[psyche]]
+is divided into three three separate component parts, systems or "psychical localities":
+
+* the [[conscious]] ('''[[conscious|Cs]]'''),
+* the [[preconscious]] ('''[[preconscious|Pcs]]''') and
+* the [[unconscious]] ('''[[unconscious|Ucs]]''')
+
+===Unconscious===
+This simple model assumed that the [[unconscious]] was chiefly, if not entirely, derived from [[repression]], and therefore consisted of impulses, thoughts, and feelings, which were unacceptable to the [[conscious]] [[ego]]. 
+
+===Material===
+Material in the [[unconscious]] could never become [[conscious]], but material in the [[preconscious]] could occasionally become [[conscious]]. 
+
+The [[unconscious]], Freud saw as containing material which had been [[repressed]] for some reason: because it was too [[traumatic]] or [[pain]]ful to reach [[consciousness]]. 
+
+This material might consist of memories, fantasies, wishes, dreams, etc. 
+
+===Development===
+During the first 20 years of the twentieth century, [[Freud]] came to realize that this model  was inadequate. 
+
+
+==Structural Model==
+The three structures of the [[id]], [[ego]], and [[superego]] Freud saw as mapping onto this model. 
+
+The [[ego]] he argued was not always [[conscious]], or even [[preconscious]]. 
+
+The [[superego]], he argued, spanned the [[unconscious]] and the [[preconscious]], while the [[id]] was completely [[unconscious]].
