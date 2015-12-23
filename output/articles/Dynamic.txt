@@ -1,5 +1,0 @@
-<DynamicArticleList>
-  title=Most Popular Articles
-  type=hot
-  count=5
-</DynamicArticleList>

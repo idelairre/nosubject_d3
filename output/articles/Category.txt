@@ -1,3 +1,0 @@
-<DPL>
-category=People
-</DPL>
