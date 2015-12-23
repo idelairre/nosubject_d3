@@ -43,7 +43,7 @@ gulp.task('deploy', function() {
    return gulp.src('./dist/**/*')
       .pipe(ghPages());
 });
-// 
+//
 // gulp.task('styles', function() {
 //   return $.rubySass('app/styles/main.scss', {
 //       style: 'expanded',
@@ -122,12 +122,12 @@ gulp.task('minify:js', function() {
     .pipe($.size());
 });
 
-// gulp.task('minify:css', function() {
-//   return gulp.src('dist/styles/**/*.css')
-//     .pipe($.minifyCss())
-//     .pipe(gulp.dest('dist/styles'))
-//     .pipe($.size());
-// });
+gulp.task('minify:css', function() {
+  // return gulp.src('dist/styles/**/*.css')
+  //   .pipe($.minifyCss())
+  //   .pipe(gulp.dest('dist/styles'))
+  //   .pipe($.size());
+});
 
 gulp.task('minify', ['minify:js', 'minify:css']);
 
