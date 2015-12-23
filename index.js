@@ -15,12 +15,14 @@ class Scraper {
       path: '/',                  // path to api.php script
       debug: false                 // is more verbose when set to true
     });
+    this.articles = [];
+    this.backlinks = [];
     this.index = [];
     this.categories = [];
   }
 
   prompt() {
-    console.log(' 1: get article,\n 2: get all articles,\n 3: get article backlinks,\n 4: get article categories,\n 5: get article external links,\n 6: get categories, \n 7: get pages in category, \n 8: generate article database,\n 9: generate backlink database,\n 10: generate backline JSON,\n 11: generate category database,\n 12: generate external link database,\n');
+    console.log(' 1: get article,\n 2: get all articles,\n 3: get article backlinks,\n 4: get article categories,\n 5: get article external links,\n 6: get categories, \n 7: get pages in category, \n 8: generate article database,\n 9: generate backlink database,\n 10: generate backlink JSON,\n 11: generate category database,\n 12: generate external link database,\n 13: generate label anchors,\n14: generate links');
     return prompt.get(['option', 'object'], (error, result) => {
       switch(parseInt(result.option)) {
         case 1:
@@ -58,6 +60,12 @@ class Scraper {
           break;
         case 12:
           this.generateExternalLinkDatabase();
+          break;
+        case 13:
+          this.generateNodesAndLabelAnchors();
+          break;
+        case 14:
+          this.generateLinks();
           break;
       }
     });
@@ -319,6 +327,66 @@ class Scraper {
         }
       });
     });
+  }
+
+  generateNodesAndLabelAnchors() {
+    let labelAnchors = [];
+    let nodes = [];
+    let i = 0;
+    let articlesJson = require('./output/articles.json');
+    while (i < articlesJson.length) {
+      let node = {
+        label: articlesJson[i].title
+      };
+      console.log(i + ': ' + JSON.stringify(node));
+      nodes.push(node);
+      labelAnchors.push({ node : node });
+      labelAnchors.push({ node : node });
+      console.log(articlesJson.length - i, ' left');
+      if (i === articlesJson.length - 1) {
+        console.log('called', labelAnchors);
+        fs.writeFile('output/labelAnchors.json', JSON.stringify(labelAnchors, null, 3), (error) => {
+          this.handleErrors(error);
+        });
+        fs.writeFile('output/nodes.json', JSON.stringify(nodes, null, 3), (error) => {
+          this.handleErrors(error);
+        });
+      }
+      i += 1;
+    }
+  }
+
+  generateLinks() {
+    // note this is arbitrary for now
+    let links = [];
+    let labelAnchorLinks = [];
+    let articlesJson = require('./output/articles.json');
+    let i = 0, j = 0;
+    while (i < articlesJson.length) {
+      while (j < i) {
+          links.push({
+            source : i,
+            target : j,
+            weight : 1
+          });
+          j += 1;
+        }
+
+        labelAnchorLinks.push({
+          source : i * 2,
+          target : i * 2 + 1,
+          weight : 1
+        });
+        if (i === articlesJson.length - 1 && j === articlesJson.length - 1) {
+          fs.writeFile('output/links.json', JSON.stringify(links, null, 3), (error) => {
+            this.handleErrors(error);
+          });
+          fs.writeFile('output/labelAnchorLinks.json', JSON.stringify(labelAnchorLinks, null, 3), (error) => {
+            this.handleErrors(error);
+          });
+      }
+      i += 1;
+    }
   }
 
   getPagesInCategory(category) {
