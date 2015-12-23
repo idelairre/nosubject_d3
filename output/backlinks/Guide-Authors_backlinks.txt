@@ -1,3 +1,0 @@
-Guide/Preface
-Guide/Glossary
-Guide/Introduction
