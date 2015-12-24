@@ -27,7 +27,7 @@ var articlesWithLinks = backlinks.filter(function (article) {
   }
 });
 
-console.log('first pass: ', articlesWithLinks.length);
+// console.log('first pass: ', articlesWithLinks.length);
 
 articlesWithLinks.sort(function (a, b) {
   return a.title.toLowerCase() - b.title.toLowerCase();
@@ -43,11 +43,28 @@ articlesWithLinks = articlesWithLinks.filter(function (element) {
   return (typeof element !== "undefined");
 });
 
-console.log('second pass: ', articlesWithLinks.length);
+// console.log('second pass: ', articlesWithLinks.length);
+
+// shuffle articles
+var numberArray = [];
+
+for (var i = 0; i < articlesWithLinks.length - 1; i += 1) {
+  numberArray.push(i);
+}
+
+function shuffle(numberArray) {
+    for (var j, x, i = numberArray.length; i; j = parseInt(Math.random() * i)) {
+       x = numberArray[--i], numberArray[i] = numberArray[j], numberArray[j] = x;
+     }
+    console.log(numberArray)
+    return numberArray;
+};
+
 
 for (var i = 0; i < 150; i += 1) {
+  var rand = numberArray.pop();
 	var node = {
-		label : articlesWithLinks[Math.floor(Math.random() * articlesWithLinks.length)].title
+		label : articlesWithLinks[rand].title
 	};
 	nodes.push(node);
 	labelAnchors.push({
