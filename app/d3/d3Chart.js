@@ -47,7 +47,7 @@ console.log('second pass: ', articlesWithLinks.length);
 
 for (var i = 0; i < 150; i += 1) {
 	var node = {
-		label : articlesWithLinks[i].title
+		label : articlesWithLinks[Math.floor(Math.random() * articlesWithLinks.length)].title
 	};
 	nodes.push(node);
 	labelAnchors.push({
