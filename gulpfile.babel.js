@@ -17,13 +17,14 @@ var bundler = {
   w: null,
   init: function() {
     this.w = watchify(browserify({
+      // entries: ['./app/app.js'],
       entries: ['./app/app.js'],
       extensions: ['.js'],
       debug: true,
       insertGlobals: true,
       cache: {},
       packageCache: {}
-    }).transform(babelify.configure({ optional: ['es7.decorators', 'es7.classProperties', 'es7.functionBind']})));
+    }).transform(babelify.configure()));
   },
   bundle: function() {
     return this.w && this.w.bundle()
@@ -62,23 +63,9 @@ gulp.task('scripts', function() {
 });
 
 gulp.task('html', function() {
-  var assets = $.useref.assets();
   return gulp.src('app/*.html')
-    .pipe(assets)
-    .pipe(assets.restore())
     .pipe($.useref())
     .pipe(gulp.dest('dist'))
-    .pipe($.size());
-});
-
-gulp.task('images', function() {
-  return gulp.src('app/images/**/*')
-    .pipe($.cache($.imagemin({
-      optimizationLevel: 3,
-      progressive: true,
-      interlaced: true
-    })))
-    .pipe(gulp.dest('dist/images'))
     .pipe($.size());
 });
 
@@ -133,7 +120,7 @@ gulp.task('minify', ['minify:js', 'minify:css']);
 
 gulp.task('clean', del.bind(null, 'dist'));
 
-gulp.task('bundle', ['html', 'scripts', 'images', 'fonts', 'extras']);
+gulp.task('bundle', ['html', 'scripts', 'fonts', 'extras']);
 
 gulp.task('clean-bundle', sync(['clean', 'bundle']));
 
@@ -151,6 +138,5 @@ gulp.task('watch', sync(['clean-bundle', 'serve']), function() {
   bundler.watch();
   gulp.watch('app/*.html', ['html']);
   // gulp.watch('app/styles/**/*.scss', ['styles']);
-  gulp.watch('app/images/**/*', ['images']);
   gulp.watch('app/fonts/**/*', ['fonts']);
 });

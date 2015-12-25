@@ -1,10 +1,12 @@
 import bot from 'nodemw';
 import prompt from 'prompt';
-import fs from 'fs';
+import fsp from 'fs-promise';
 import byline from 'byline';
 import { handleErrors } from './decorators';
 import { decorate } from 'core-decorators';
 import console from 'better-console';
+import 'babel-polyfill';
+
 
 @handleErrors
 class Scraper {
@@ -22,7 +24,18 @@ class Scraper {
   }
 
   prompt() {
-    console.log(' 1: get article,\n 2: get all articles,\n 3: get article backlinks,\n 4: get article categories,\n 5: get article external links,\n 6: get categories, \n 7: get pages in category, \n 8: generate article database,\n 9: generate backlink database,\n 10: generate backlink JSON,\n 11: generate category database,\n 12: generate external link database,\n 13: generate label anchors,\n14: generate links');
+     console.log('1: get article');
+     console.log('2: get all articles');
+     console.log('3: get article backlinks');
+     console.log('4: get article categories');
+     console.log('5: get article external links');
+     console.log('6: get categories');
+     console.log('7: get pages in category');
+     console.log('8: generate article database');
+     console.log('9: generate backlink database');
+     console.log('10: generate backlink JSON');
+     console.log('11: generate category database');
+     console.log('12: generate external link database');
     return prompt.get(['option', 'object'], (error, result) => {
       switch(parseInt(result.option)) {
         case 1:
@@ -62,10 +75,10 @@ class Scraper {
           this.generateExternalLinkDatabase();
           break;
         case 13:
-          this.generateNodesAndLabelAnchors();
+          this.initializeGraphData(result.object)
           break;
         case 14:
-          this.generateLinks();
+          this.checkGraphJson();
           break;
       }
     });
@@ -115,15 +128,13 @@ class Scraper {
     }
 
     function fix(string) {
-      console.log(`string after string to fix: ${string}`);
-      string = string.replace(pat, (result) => {
-        return sub(result);
-      });
-      console.log(`string after first pass: ${string}`);
-      string = string.replace(pat, (result) => {
-        return sub(result);
-      });
-      console.log(`string after second pass: ${string}\n`);
+      // console.log(`string to fix: ${string}\n`);
+      for (let i = 0; i < 5; i += 1) {
+        // console.log(`string after ${i + 1} pass(es): ${string}\n`);
+        string = string.replace(pat, (result) => {
+          return sub(result);
+        });
+      }
       return string;
     }
 
@@ -188,30 +199,29 @@ class Scraper {
   }
 
   generateBacklinksJSON() {
-    fs.readdir('./output/backlinks', (error, files) => {
+    fsp.readdir('./output/backlinks', (error, articles) => {
       this.handleErrors(error);
-      let i = 0, requests = files.length;
+      let i = 0, requests = articles.length;
       let jsonArray = [];
-      while (files.length > i) {
-        let article = files[i];
-        this.generateBacklinkJSON(article).then((response) => {
-          jsonArray.push(response);
-          requests -= 1;
-          if (requests === 0) {
-            console.log('json array:', jsonArray);
-            fs.writeFile('output/backlinks.json', JSON.stringify(jsonArray, null, 3), (error) => {
-              this.handleErrors(error);
-            });
-          }
-        });
+      while (articles.length > i) {
         i += 1;
+        let article = articles[i];
+        let backlinks = this.generateBacklinkJSON(article);
+        jsonArray.push(backlinks);
+        requests -= 1;
+        if (requests === 0) {
+          console.log('json array:', jsonArray);
+          fsp.writeFile('output/backlinks.json', JSON.stringify(jsonArray, null, 3), (error) => {
+            // this.handleErrors(error);
+          });
+        }
       }
     });
   }
 
   generateBacklinkJSON(article) {
     return new Promise((resolve, reject) => {
-      let stream = fs.createReadStream(`./output/backlinks/${article}`, { encoding: 'utf8'});
+      let stream = fsp.createReadStream(`./output/backlinks/${article}`, { encoding: 'utf8'});
       stream = byline.createStream(stream);
       stream.on('data', (line) => {
         // console.log(`${article}: ${line}`);
@@ -221,14 +231,6 @@ class Scraper {
         };
         resolve(json);
       });
-    });
-  }
-
-  generateBacklinkD3Nodes() {
-    let stream = fs.createReadStream(`./output/backlinks.json`, { encoding: 'utf8'});
-    stream = byline.createStream(stream);
-    stream.on('data', (line) => {
-
     });
   }
 
@@ -244,8 +246,8 @@ class Scraper {
             pages = response;
             console.log(pages);
             pages = this.fixUtf8(JSON.stringify(data, null, 3));
-            fs.writeFile('output/articles.json', pages, (error) => {
-              this.handleErrors(error);
+            fsp.writeFile('output/articles.json', pages, (error) => {
+              // this.handleErrors(error);
             });
             resolve(pages);
           });
@@ -314,79 +316,30 @@ class Scraper {
     });
   }
 
+  formatCategories(categories) {
+    for (let i in categories) {
+      categories[i] = this.fixUtf8(categories[i]);
+    }
+    categories = categories.sort((a, b) => {
+      return a.toLowerCase() - b.toLowerCase();
+    });
+    categories = categories.filter(function(item, pos) {
+        return categories.indexOf(item) == pos;
+    })
+    console.log(categories);
+    return categories;
+  }
+
   getCategories() {
-    let categories = [];
     return new Promise((resolve, reject) => {
+      let categories = [];
       this.client.getCategories((error, data) => {
-        if (error) {
-          reject(error);
-        } else {
-          categories = data;
-          this.categories = categories;
-          resolve(categories);
-        }
+        reject(this.handleErrors(error));
+        let categories = this.formatCategories(data);
+        fsp.writeFile('./output/categories.json', JSON.stringify(categories, null, 3));
+        resolve(categories);
       });
     });
-  }
-
-  generateNodesAndLabelAnchors() {
-    let labelAnchors = [];
-    let nodes = [];
-    let i = 0;
-    let articlesJson = require('./output/articles.json');
-    while (i < articlesJson.length) {
-      let node = {
-        label: articlesJson[i].title
-      };
-      console.log(i + ': ' + JSON.stringify(node));
-      nodes.push(node);
-      labelAnchors.push({ node : node });
-      labelAnchors.push({ node : node });
-      console.log(articlesJson.length - i, ' left');
-      if (i === articlesJson.length - 1) {
-        console.log('called', labelAnchors);
-        fs.writeFile('output/labelAnchors.json', JSON.stringify(labelAnchors, null, 3), (error) => {
-          this.handleErrors(error);
-        });
-        fs.writeFile('output/nodes.json', JSON.stringify(nodes, null, 3), (error) => {
-          this.handleErrors(error);
-        });
-      }
-      i += 1;
-    }
-  }
-
-  generateLinks() {
-    // note this is arbitrary for now
-    let links = [];
-    let labelAnchorLinks = [];
-    let articlesJson = require('./output/articles.json');
-    let i = 0, j = 0;
-    while (i < articlesJson.length) {
-      while (j < i) {
-          links.push({
-            source : i,
-            target : j,
-            weight : 1
-          });
-          j += 1;
-        }
-
-        labelAnchorLinks.push({
-          source : i * 2,
-          target : i * 2 + 1,
-          weight : 1
-        });
-        if (i === articlesJson.length - 1 && j === articlesJson.length - 1) {
-          fs.writeFile('output/links.json', JSON.stringify(links, null, 3), (error) => {
-            this.handleErrors(error);
-          });
-          fs.writeFile('output/labelAnchorLinks.json', JSON.stringify(labelAnchorLinks, null, 3), (error) => {
-            this.handleErrors(error);
-          });
-      }
-      i += 1;
-    }
   }
 
   getPagesInCategory(category) {
@@ -408,7 +361,7 @@ class Scraper {
 
   save(location, filename, data) {
     filename = filename.replace(/\//g, "-");
-    fs.writeFile(`output/${location}/${filename}.json`, data, (error) => {
+    fsp.writeFile(`./output/${location}/${filename}.json`, data, (error) => {
       this.handleErrors(error);
     });
   }
