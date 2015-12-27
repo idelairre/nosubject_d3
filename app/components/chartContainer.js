@@ -1,4 +1,6 @@
 import React from 'react';
+import resolver from 'alt-resolver';
+import AltContainer from 'alt-container';
 import ChartActions from '../actions/chartActions';
 import ChartStore from '../store/chartStore';
 // import Chart from './chart';
@@ -8,11 +10,6 @@ import Graph from '../d3/graph';
 
 @connectToStores
 export default class ChartContainer extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state = { data: null };
-  }
-
   static getStores() {
     return [ChartStore];
   }
@@ -22,13 +19,23 @@ export default class ChartContainer extends React.Component {
   }
 
   componentWillMount() {
-    ChartActions.generateChartData(this.props.nodeCount, this.props.minLinks, this.props.shuffle);
-    this.setState({ data: ChartStore.getState().data});
+    ChartActions.generateChartData(30, 15, true);
   }
 
   render() {
     return (
-        <Graph data={this.state.data} />
+      <AltContainer stores={[ChartStore]} inject={
+        {
+         data: (props) => {
+           return ChartStore.getState().data
+         },
+         labels: (props) => {
+           return ChartStore.getState().labels
+         }
+        }
+       }>
+        <Graph />
+      </AltContainer>
     );
   }
 };

@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default class Link extends React.Component {
+export default class AnchorLink extends React.Component {
   render() {
     return (
       <line
@@ -8,11 +8,6 @@ export default class Link extends React.Component {
         y1={this.props.datum.source.y}
         x2={this.props.datum.target.x}
         y2={this.props.datum.target.y}
-        style={{
-          "stroke": "#999",
-          "strokeOpacity": "0.6",
-          "strokeWidth": 0.5
-        }}
         />
     );
   }

@@ -10,7 +10,9 @@
   "license": "ISC",
   "devDependencies": {
     "alt": "^0.18.1",
+    "alt-async": "git+https://github.com/altjs/async.git",
     "alt-container": "^1.0.0",
+    "alt-resolver": "git+https://github.com/altjs/resolver.git",
     "alt-utils": "^1.0.0",
     "babel-cli": "^6.3.17",
     "babel-plugin-transform-async-to-generator": "^6.3.13",
@@ -41,6 +43,7 @@
     "nodemw": "^0.8.0",
     "parsoid": "^0.4.0",
     "path": "^0.12.7",
+    "react-resolver": "^2.0.5",
     "vinyl-source-stream": "^1.1.0",
     "watchify": "^3.6.1"
   },

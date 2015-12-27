@@ -11,22 +11,23 @@ class GraphGenerator {
       articlesWithLinks = await this.shuffle(articlesWithLinks);
     }
 
-    try {
-      let [ nodes, labelAnchors ] = await this.generateNodes(nodeCount, articlesWithLinks);
-      let [ links, labelAnchorLinks ] = await this.generateLinks(nodes, articlesWithLinks);
-      // await this.checkGraphJson(nodes, links, labelAnchors, labelAnchorLinks);
+    let [ nodes, labelAnchors ] = await this.generateNodes(nodeCount, articlesWithLinks);
+    let [ links, labelAnchorLinks ] = await this.generateLinks(nodes, articlesWithLinks);
+    // await this.checkGraphJson(nodes, links, labelAnchors, labelAnchorLinks);
 
-      // d3 chart parses these values
-      let data = {
-        nodes: nodes,
-        links: links
-      };
-      // labelAnchors, labelAnchorLinks
-      // console.log(JSON.stringify(data, null, 3));
-      return (data);
-    } catch (error) {
-      console.error(error);
-    }
+    // d3 chart parses these values
+    let data = {
+      nodes: nodes,
+      links: links
+    };
+
+    let labels = {
+      labelAnchors: labelAnchors,
+      labelAnchorLinks: labelAnchorLinks
+    };
+    // labelAnchors, labelAnchorLinks
+    // console.log(JSON.stringify(data, null, 3));
+    return ([data, labels]);
   }
 
   shuffle(array) {
@@ -85,7 +86,7 @@ class GraphGenerator {
     console.log(`generating ${nodeCount} nodes...`);
     let nodes = [], labelAnchors = [];
     return new Promise ((resolve, reject) => {
-      for (let i = 0; i < nodeCount - 1; i += 1) {
+      for (let i = nodeCount - 1; i -= 1;) {
         let node = {
           label : articles[i].title
         };
