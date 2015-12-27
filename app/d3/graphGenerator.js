@@ -5,7 +5,6 @@ class GraphGenerator {
   constructor() {};
 
   async initializeGraphData(nodeCount, minimumLinkCount, shuffleArticles) {
-    console.log(nodeCount, minimumLinkCount, shuffleArticles);
     let articlesWithLinks = await this.generateArticlesWithLinks(minimumLinkCount);
     if (shuffleArticles) {
       articlesWithLinks = await this.shuffle(articlesWithLinks);
