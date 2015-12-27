@@ -1,4 +1,5 @@
 import React from 'react';
+import ReactDOM from 'react-dom';
 import Link from './link';
 import Node from './node';
 import AnchorNode from './anchorNode';
@@ -39,9 +40,9 @@ export default class Graph extends React.Component {
     this.state.force2
               .nodes(this.state.labels.labelAnchors)
               .links(this.state.labels.labelAnchorLinks)
-              .start()
 
     this.state.force.on("tick", (tick, b, c) => {
+      this.state.force2.start()
       self.forceUpdate()
     });
   }
@@ -66,7 +67,7 @@ export default class Graph extends React.Component {
     return nodes;
   }
 
-  drawLabels() {
+  drawLabelLinks() {
     let labelAnchorLinks = this.state.labels.labelAnchorLinks.map((link, index) => {
       return (
         <AnchorLink datum={link} key={index} />
@@ -77,23 +78,13 @@ export default class Graph extends React.Component {
     );
   }
 
-  drawLabelLinks() {
+  drawLabelNodes() {
     let labelAnchors = this.state.labels.labelAnchors.map((datum, index) => {
       let transform = '';
       if (index % 2 === 0) {
-        datum.x = datum.node.x;
-        datum.y = datum.node.y;
-      } else {
-        let b = {};
-        b.width = 0.5;
-        let diffX = datum.x - datum.node.x; // wat?
-        let diffY = datum.y - datum.node.y
-        let dist = Math.sqrt(diffX * diffX + diffY * diffY);
-        let shiftX = b.width * (diffX - dist) / (dist * 2);
-        shiftX = Math.max(-b.width, Math.min(0, shiftX));
-        let shiftY = 5;
-        transform = `translate(${shiftX || 0}, ${shiftY})`;
-      }
+          datum.x = datum.node.x;
+          datum.y = datum.node.y;
+        }
       return (
         <AnchorNode index={index} key={index} x={datum.x} y={datum.y} label={datum.node.label} node={datum.node} transform={transform}/>
       );
@@ -104,7 +95,7 @@ export default class Graph extends React.Component {
   render() {
     let links = this.drawLinks();
     let nodes = this.drawNodes();
-    let labelAnchors = this.drawLabels();
+    let labelAnchors = this.drawLabelNodes();
     let labelAnchorLinks = this.drawLabelLinks();
 
     return (
@@ -126,7 +117,8 @@ Graph.defaultProps = {
   initialHeight: 900,
   initialWidth: 2000,
   initialData: { links: [], nodes: [] },
-  initialLabels: { labelAnchors: [], labelAnchorLinks: [] }
+  initialLabels: { labelAnchors: [], labelAnchorLinks: [] },
+  initialLabelLinks: {}
 }
 
 Graph.propTypes = {

@@ -19,7 +19,7 @@ export default class ChartContainer extends React.Component {
   }
 
   componentWillMount() {
-    ChartActions.generateChartData(30, 15, true);
+    ChartActions.generateChartData(40, 15, true);
   }
 
   render() {
