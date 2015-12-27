@@ -8,10 +8,12 @@ export default class AnchorNode extends React.Component {
       label = "";
     } else {
       label = this.props.label;
+      console.log(this.props.transform)
     }
 
+
     return (
-      <g className="anchorNode">
+      <g className="anchorNode" transform={this.props.transform}>
         <text
           x={this.props.x}
           y={this.props.y}

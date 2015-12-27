@@ -14,13 +14,14 @@ export default class Graph extends React.Component {
       labels: this.props.initialLabels,
       force: d3.layout.force()
                .size([this.props.initialWidth, this.props.initialHeight])
-               .linkDistance(30)
-               .charge(-1000)
+               .linkDistance(50)
+               .charge(-3000)
                .gravity(0.5),
       force2: d3.layout.force()
                .size([this.props.initialWidth, this.props.initialHeight])
                .linkDistance(0)
                .linkStrength(8)
+               .gravity(1)
                .charge(-100)
     }
   }
@@ -78,12 +79,23 @@ export default class Graph extends React.Component {
 
   drawLabelLinks() {
     let labelAnchors = this.state.labels.labelAnchors.map((datum, index) => {
+      let transform = '';
       if (index % 2 === 0) {
         datum.x = datum.node.x;
         datum.y = datum.node.y;
+      } else {
+        let b = {};
+        b.width = 0.5;
+        let diffX = datum.x - datum.node.x; // wat?
+        let diffY = datum.y - datum.node.y
+        let dist = Math.sqrt(diffX * diffX + diffY * diffY);
+        let shiftX = b.width * (diffX - dist) / (dist * 2);
+        shiftX = Math.max(-b.width, Math.min(0, shiftX));
+        let shiftY = 5;
+        transform = `translate(${shiftX || 0}, ${shiftY})`;
       }
       return (
-        <AnchorNode index={index} key={index} x={datum.x} y={datum.y} label={datum.node.label} node={datum.node} />
+        <AnchorNode index={index} key={index} x={datum.x} y={datum.y} label={datum.node.label} node={datum.node} transform={transform}/>
       );
     });
     return labelAnchors;
