@@ -17,7 +17,6 @@ var bundler = {
   w: null,
   init: function() {
     this.w = watchify(browserify({
-      // entries: ['./app/app.js'],
       entries: ['./app/app.js'],
       extensions: ['.js'],
       debug: true,

@@ -1,9 +1,11 @@
 import backlinks from '../../output/backlinks';
 import 'babel-polyfill';
 
-export default class GraphGenerator {
+class GraphGenerator {
   constructor() {};
+
   async initializeGraphData(nodeCount, minimumLinkCount, shuffleArticles) {
+    console.log(nodeCount, minimumLinkCount, shuffleArticles);
     let articlesWithLinks = await this.generateArticlesWithLinks(minimumLinkCount);
     if (shuffleArticles) {
       articlesWithLinks = await this.shuffle(articlesWithLinks);
@@ -12,11 +14,18 @@ export default class GraphGenerator {
     try {
       let [ nodes, labelAnchors ] = await this.generateNodes(nodeCount, articlesWithLinks);
       let [ links, labelAnchorLinks ] = await this.generateLinks(nodes, articlesWithLinks);
-      await this.checkGraphJson(nodes, links, labelAnchors, labelAnchorLinks);
-      console.log('done');
-      return ([ nodes, links, labelAnchors, labelAnchorLinks ]);
+      // await this.checkGraphJson(nodes, links, labelAnchors, labelAnchorLinks);
+
+      // d3 chart parses these values
+      let data = {
+        nodes: nodes,
+        links: links
+      };
+      // labelAnchors, labelAnchorLinks
+      // console.log(JSON.stringify(data, null, 3));
+      return (data);
     } catch (error) {
-      console.log(error);
+      console.error(error);
     }
   }
 
@@ -40,11 +49,13 @@ export default class GraphGenerator {
 
     return new Promise((resolve, reject) => {
       // only get articles greater than the minimum length
-      let articlesWithLinks = backlinks.filter((article) => {
-        if (article.links.length > minimumLinkCount) {
-          return article;
+      let articlesWithLinks = [];
+
+      for (let i = backlinks.length; i -= 1;) {
+        if (backlinks[i].links.length > minimumLinkCount) {
+          articlesWithLinks.push(backlinks[i]);
         }
-      });
+      }
 
       console.log('first pass: ', articlesWithLinks.length);
 
@@ -54,8 +65,8 @@ export default class GraphGenerator {
       });
 
       // remove duplicates
-      for (let i = 0; i < articlesWithLinks.length - 1; i += 1) {
-        if (articlesWithLinks[i + 1] && articlesWithLinks[i].title.toLowerCase() === articlesWithLinks[i + 1].title.toLowerCase()) {
+      for (let i = articlesWithLinks.length - 1; i -= 1;) {
+        if (articlesWithLinks[i - 1] && articlesWithLinks[i].title.toLowerCase() === articlesWithLinks[i - 1].title.toLowerCase()) {
           delete articlesWithLinks[i];
         }
       }
@@ -65,6 +76,7 @@ export default class GraphGenerator {
       });
 
       console.log('second pass: ', articlesWithLinks.length);
+
       resolve(articlesWithLinks);
     });
   }
@@ -128,14 +140,14 @@ export default class GraphGenerator {
       let targetIndex = links[j].target;
       let sourceIndex = links[j].source;
       if (nodes[targetIndex]) {
-        console.log(`target node ${JSON.stringify(nodes[targetIndex])} referenced at link ${JSON.stringify(links[j])} is OK`);
+        // console.log(`target node ${JSON.stringify(nodes[targetIndex])} referenced at link ${JSON.stringify(links[j])} is OK`);
       } else {
         console.error(`target node ${JSON.stringify(nodes[targetIndex])} referenced at link ${JSON.stringify(links[j])} is shit, index position: ${targetIndex}`);
         delete nodes[j];
         errors += 1;
       }
       if (nodes[sourceIndex]) {
-        console.log(`source node ${JSON.stringify(nodes[sourceIndex])} referenced at link ${JSON.stringify(links[j])} is OK`);
+        // console.log(`source node ${JSON.stringify(nodes[sourceIndex])} referenced at link ${JSON.stringify(links[j])} is OK`);
       } else {
         console.error(`source node ${JSON.stringify(nodes[sourceIndex])} referenced at link ${JSON.stringify(links[j])} is shit, index position: ${sourceIndex}`);
         delete nodes[j];
@@ -158,14 +170,14 @@ export default class GraphGenerator {
       let targetIndex = labelAnchorLinks[i].target;
       let sourceIndex = labelAnchorLinks[i].source;
       if (labelAnchors[targetIndex]) {
-        console.log(`target node ${JSON.stringify(labelAnchors[targetIndex])} referenced at link ${JSON.stringify(labelAnchorLinks[i])} is OK`);
+        // console.log(`target node ${JSON.stringify(labelAnchors[targetIndex])} referenced at link ${JSON.stringify(labelAnchorLinks[i])} is OK`);
       } else {
         console.error(`target node ${JSON.stringify(labelAnchors[targetIndex])} referenced at link ${JSON.stringify(labelAnchorLinks[i])} is shit, index position: ${targetIndex}`);
         delete labelAnchorLinks[i];
         errors += 1;
       }
       if (labelAnchors[sourceIndex]) {
-        console.log(`source node ${JSON.stringify(labelAnchors[sourceIndex])} referenced at link ${JSON.stringify(labelAnchorLinks[i])} is OK`);
+        // console.log(`source node ${JSON.stringify(labelAnchors[sourceIndex])} referenced at link ${JSON.stringify(labelAnchorLinks[i])} is OK`);
       } else {
         console.error(`source node ${JSON.stringify(labelAnchors[sourceIndex])} referenced at link ${JSON.stringify(labelAnchorLinks[i])} is shit, index position: ${sourceIndex}`);
         delete labelAnchorLinks[i];
@@ -181,3 +193,7 @@ export default class GraphGenerator {
     errors > 0 ? console.log('label links repaired') : null;
   }
 }
+
+const graphGenerator = new GraphGenerator();
+
+export default graphGenerator;

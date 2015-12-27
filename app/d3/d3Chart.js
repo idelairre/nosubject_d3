@@ -1,20 +1,19 @@
 import GraphGenerator from './graphGenerator';
+import React from 'react';
+var d3Chart = {};
 
-function getChartData() {
-  var graphGenerator = new GraphGenerator();
-  return graphGenerator.initializeGraphData(150, 5, true);
-}
+d3Chart.create = function (width, height, element, nodes, links, labelAnchors, labelAnchorLinks) {
+  console.log(arguments);
+  if (!nodes || !links || !labelAnchors || !labelAnchors) {
+    nodes = [];
+    links = [];
+    labelAnchors = [];
+    labelAnchorLinks = [];
+  }
 
-function generateChart(chartData) {
-  var nodes = chartData[0];
-  var links = chartData[1];
-  var labelAnchors = chartData[2];
-  var labelAnchorLinks = chartData[3];
-
-  var width = 2000, height = 960;
   var labelDistance = 0;
 
-  var vis = d3.select('body')
+  var vis = d3.select(element)
               .append('svg:svg')
               .attr('width', width)
               .attr('height', height);
@@ -23,9 +22,9 @@ function generateChart(chartData) {
                 .size([width, height])
                 .nodes(nodes)
                 .links(links)
-                .gravity(1)
+                .gravity(0.5)
                 .linkDistance(50)
-                .charge(-4000)
+                .charge(-5000)
                 .linkStrength(function (x) {
                   return x.weight * 5
                 })
@@ -140,11 +139,5 @@ function generateChart(chartData) {
   });
   return vis;
 }
-
-var d3Chart = {};
-
-getChartData().then(function (chartData) {
-  d3Chart = generateChart(chartData);
-})
 
 export default d3Chart;
