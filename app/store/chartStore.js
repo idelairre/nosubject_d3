@@ -18,7 +18,6 @@ class ChartStore {
      let [ data, labels ] = chartData;
      this.state.data = data;
      this.state.labels = labels;
-     console.log(data, labels);
    }
 
 }

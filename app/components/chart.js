@@ -1,44 +1,57 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import d3Chart from '../d3/d3Chart';
-import ChartActions from '../actions/chartActions';
-import ChartStore from '../store/chartStore';
+import d3Chart from './d3Chart';
 
 export default class Chart extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      nodeCount: this.props.initialNodeCount,
-      minLinksCount: this.props.initialMinLinksCount,
-      shuffle: this.props.initialShuffleValue,
-      nodes: this.props.nodes,
-      links: this.props.links,
-      labelAnchors: this.props.labelAnchors,
-      labelAnchorLinks: this.props.labelAnchorLinks
-     };
+          height: this.props.initialHeight,
+          width: this.props.initialWidth,
+          data: this.props.initialData,
+          labels: this.props.initialLabels
+        }
   }
-// nodes, links, labelAnchors, labelAnchorLinks
-  generateGraph() {
-    console.log('generate graph called');
+
+  componentWillReceiveProps(nextProps) {
+    this.setState(nextProps);
     let element = ReactDOM.findDOMNode(this);
-    d3Chart.create(2000, 1000, element, this.state.nodes, this.state.links, this.state.labelAnchors, this.state.labelAnchorLinks);
+    if (this.state.data.nodes.length !== 0) {
+      d3Chart.create(element, this.state.width, this.state.height, this.state.data, this.state.labels);
+      d3Chart.addNode('fuck');
+      // d3Chart.addNode('twat');
+      // d3Chart.addLink('twat', 'fuck');
+    }
+  }
+
+  shouldComponentUpdate(nextProps, nextState) {
+    return nextProps.data.nodes.length !== 0;
   }
 
   render() {
     return (
-      <div className="Chart"></div>
+      <div className="chart"></div>
     );
   }
-};
-//
-// Chart.propTypes = {
-//   nodeCount: React.PropTypes.number,
-//   minLinksCount: React.PropTypes.number,
-//   shuffle: React.PropTypes.bool
-// };
+}
 
-// Chart.defaultProps = {
-//   initialNodeCount: 50,
-//   initialMinLinksCount: 15,
-//   initialShuffleValue: true
-// };
+Chart.defaultProps = {
+  initialHeight: 900,
+  initialWidth: 2000,
+  initialData: { links: [], nodes: [] },
+  initialLabels: { labelAnchors: [], labelAnchorLinks: [] },
+  initialLabelLinks: {}
+}
+
+Chart.propTypes = {
+  height: React.PropTypes.number,
+  width: React.PropTypes.number,
+  data: React.PropTypes.shape({
+    nodes: React.PropTypes.array,
+    links: React.PropTypes.array
+  }),
+  labels: React.PropTypes.shape({
+    labelAnchors: React.PropTypes.array,
+    labelAnchorLinks: React.PropTypes.array
+  })
+}

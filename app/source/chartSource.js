@@ -1,7 +1,7 @@
 import createAsyncDispatch from 'alt-async';
 import ChartActions from '../actions/chartActions';
 import alt from '../alt';
-import graphGenerator from '../d3/graphGenerator';
+import graphGenerator from '../generator/graphGenerator';
 
 const asyncDispatch = createAsyncDispatch(alt);
 

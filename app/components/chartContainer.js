@@ -7,7 +7,7 @@ import ChartStore from '../store/chartStore';
 import connectToStores from 'alt-utils/lib/connectToStores';
 // import NodeCountInput from './nodeCountInput';
 import Graph from '../d3/graph';
-import D3Chart from '../d3/d3Chart';
+import Chart from './chart';
 
 @connectToStores
 export default class ChartContainer extends React.Component {
@@ -20,7 +20,7 @@ export default class ChartContainer extends React.Component {
   }
 
   componentWillMount() {
-    ChartActions.generateChartData(40, 15, true);
+    ChartActions.generateChartData(10, 15, true);
   }
 
   render() {
@@ -35,7 +35,7 @@ export default class ChartContainer extends React.Component {
          }
         }
        }>
-        <D3Chart />
+        <Chart />
       </AltContainer>
     );
   }
