@@ -1,20 +1,32 @@
 import alt from '../alt';
-// import graphGenerator from '../d3/graphGenerator';
-import generateGraph from '../source/chartSource';
+import initializer from '../source/graphInitializer';
+import nodeGenerator from '../source/nodeGenerator';
 
 class ChartActions {
-   generateChartData(nodes, minLinks, shuffle) {
-    //  graphGenerator.initializeGraphData(nodes, minLinks, shuffle);
-    return generateGraph(nodes, minLinks, shuffle);
+   generateGraph(nodeCount, minLinks, shuffle) {
+      return initializer.generateGraph(nodeCount, minLinks, shuffle);
    }
 
-   generatedChartData(data) {
+   generatedGraph(data) {
      return data;
    }
 
-   generatingChartDataFailed(errorMessage) {
+   generatedGraph(errorMessage) {
+     return errorMessage;
+   }
+
+   generateNodes(nodeCount, shuffle) {
+     return nodeGenerator.addNode(nodeCount, shuffle);
+   }
+
+   generatedNodes(data) {
+     return data;
+   }
+
+   generatingNodesFailed(errorMessage) {
      return errorMessage;
    }
 }
+
 
 export default alt.createActions(ChartActions);

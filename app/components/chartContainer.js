@@ -3,10 +3,7 @@ import resolver from 'alt-resolver';
 import AltContainer from 'alt-container';
 import ChartActions from '../actions/chartActions';
 import ChartStore from '../store/chartStore';
-// import Chart from './chart';
 import connectToStores from 'alt-utils/lib/connectToStores';
-// import NodeCountInput from './nodeCountInput';
-import Graph from '../d3/graph';
 import Chart from './chart';
 
 @connectToStores
@@ -20,7 +17,15 @@ export default class ChartContainer extends React.Component {
   }
 
   componentWillMount() {
-    ChartActions.generateChartData(10, 15, true);
+    ChartActions.generateGraph(50, 10, true);
+    // setInterval(() => {
+    //   ChartActions.generateNodes(10, true);
+    //   console.log('adding new nodes...')
+    // }, 5000);
+    // setTimeout(() => {
+    //   ChartActions.generateNodes(10, true);
+    //   console.log('adding new nodes...')
+    // }, 2000);
   }
 
   render() {
@@ -32,6 +37,12 @@ export default class ChartContainer extends React.Component {
          },
          labels: (props) => {
            return ChartStore.getState().labels
+         },
+         newData: (props) => {
+           return ChartStore.getState().newData
+         },
+         newLabels: (props) => {
+           return ChartStore.getState().newLabels
          }
         }
        }>

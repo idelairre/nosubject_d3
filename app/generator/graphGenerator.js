@@ -1,20 +1,43 @@
 import backlinks from '../../output/backlinks';
+import { includes } from 'lodash';
 import 'babel-polyfill';
 
 class GraphGenerator {
-  constructor() {};
+  constructor() {
+  };
+
+  async generateNewNodes(nodeCount, shuffle) {
+    console.warn(`generating ${nodeCount} new nodes`);
+    try {
+      let articles = this.storedArticles || await this.generateArticlesWithLinks(15);
+      shuffle ? articles = await this.shuffle(articles) : null;
+      let [ nodes, labelAnchors ] = await this.generateNodes(nodeCount, articles);
+      console.log('new nodes: ', nodes.length, 'new labels: ', labelAnchors.length);
+      let [ links, labelAnchorLinks ] = await this.generateLinks(nodes, articles);
+      let data = {
+        nodes: nodes,
+        links: links
+      };
+
+      let labels = {
+        labelAnchors: labelAnchors,
+        labelAnchorLinks: labelAnchorLinks
+      };
+
+      console.warn('new nodes generated');
+      return ([ data, labels ]);
+    } catch (error){
+      console.log(error);
+    }
+  }
 
   async initializeGraphData(nodeCount, minimumLinkCount, shuffleArticles) {
     let articlesWithLinks = await this.generateArticlesWithLinks(minimumLinkCount);
-    if (shuffleArticles) {
-      articlesWithLinks = await this.shuffle(articlesWithLinks);
-    }
-
+    shuffleArticles ? articlesWithLinks = await this.shuffle(articlesWithLinks) : null;
     let [ nodes, labelAnchors ] = await this.generateNodes(nodeCount, articlesWithLinks);
     let [ links, labelAnchorLinks ] = await this.generateLinks(nodes, articlesWithLinks);
     // await this.checkGraphJson(nodes, links, labelAnchors, labelAnchorLinks);
 
-    // d3 chart parses these values
     let data = {
       nodes: nodes,
       links: links
@@ -24,26 +47,26 @@ class GraphGenerator {
       labelAnchors: labelAnchors,
       labelAnchorLinks: labelAnchorLinks
     };
-    // labelAnchors, labelAnchorLinks
-    // console.log(JSON.stringify(data, null, 3));
-    return ([data, labels]);
+    console.warn('done');
+    return [data, labels];
   }
 
   shuffle(array) {
     console.log('shuffling...');
     return new Promise((resolve, reject) => {
-      for (var i = array.length - 1; i > 0; i--) {
-          var j = Math.floor(Math.random() * (i + 1));
-          var temp = array[i];
+      for (let i = array.length - 1; i > 0;  i-= 1) {
+          let j = Math.floor(Math.random() * (i + 1));
+          let temp = array[i];
           array[i] = array[j];
           array[j] = temp;
       }
+      console.log('shuffling done');
       resolve(array);
     });
   }
 
   generateArticlesWithLinks(minimumLinkCount) {
-    console.log('generating articles...');
+    console.log(`generating articles with ${minimumLinkCount} or less links...`);
 
     console.log('initial data: ', backlinks.length);
 
@@ -76,56 +99,66 @@ class GraphGenerator {
       });
 
       console.log('second pass: ', articlesWithLinks.length);
-
+      console.log('done');
+      this.storedArticles = articlesWithLinks;
+      console.log('articles stored: ', !!this.storedArticles.length);
       resolve(articlesWithLinks);
     });
   }
 
   generateNodes(nodeCount, articles) {
-    console.log(`generating ${nodeCount} nodes...`);
+    console.log(`generating ${nodeCount} nodes from ${articles.length} articles...`);
     let nodes = [], labelAnchors = [];
     return new Promise ((resolve, reject) => {
-      for (let i = nodeCount - 1; i -= 1;) {
-        let node = {
-          label : articles[i].title
-        };
-        nodes.push(node);
-        labelAnchors.push({
-          node : node
-        });
-        labelAnchors.push({
-          node : node
-        });
-      };
-      console.log('nodes & anchorlabels: ', nodes.length, labelAnchors.length);
-      resolve([ nodes, labelAnchors ]);
+      try {
+        for (let i = (nodeCount - 1 || 2); i -= 1;) {
+          let node = {
+            label : articles[i].title
+          };
+          nodes.push(node);
+          labelAnchors.push({
+            node : node
+          });
+          labelAnchors.push({
+            node : node
+          });
+          resolve([ nodes, labelAnchors ]);
+        }
+      } catch (error) {
+        console.error(error);
+      }
+      // console.log('nodes & anchorlabels: ', nodes.length, labelAnchors.length);
     });
   }
 
   generateLinks(nodes, articles) {
-    console.log('node array size: ', nodes.length, 'articles: ', articles.length);
+    // console.log('node array size: ', nodes.length, 'articles: ', articles.length);
     return new Promise((resolve, reject) => {
-      let links = [], labelAnchorLinks = [];
-      for (let i = 0; i < nodes.length; i += 1) {
-        for (let j = 0; j < articles[i].links.length; j += 1) {
-          nodes.map((node) => {
-            if (node.label === articles[i].links[j].title) {
-              links.push({
-                source: i,
-                target: nodes.indexOf(node),
-                weight: Math.random()
-              });
-            }
+      try {
+        let links = [], labelAnchorLinks = [];
+        for (let i = nodes.length; i -= 1;) {
+          for (let j = articles[i].links.length; j -= 1;) {
+            nodes.map((node) => {
+              if (node.label === articles[i].links[j].title) {
+                links.push({
+                  source: nodes[i],
+                  target: node,
+                  weight: Math.random()
+                });
+              }
+            });
+          }
+          labelAnchorLinks.push({
+            source : i / 2,
+            target : i / 2 - 1,
+            weight : Math.random()
           });
         }
-        labelAnchorLinks.push({
-          source : i * 2,
-          target : i * 2 + 1,
-          weight : Math.random()
-        });
+        // console.log('labelAnchorLinks : ', labelAnchorLinks.length);
+        resolve([ links, labelAnchorLinks ]);
+      } catch (error) {
+        resolve(error);
       }
-      console.log('labelAnchorLinks : ', labelAnchorLinks.length);
-      resolve([ links, labelAnchorLinks ]);
     });
   }
 

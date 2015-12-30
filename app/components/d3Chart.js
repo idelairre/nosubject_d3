@@ -1,36 +1,110 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import graphGenerator from '../generator/graphGenerator';
+import { includes } from 'lodash';
 
 let d3Chart = {};
 
-d3Chart.create = function(element, width, height, data, labels) {
-  if (data.nodes.length === 0 || data.links.length === 0) {
-    return;
-  }
+d3Chart.create = function(element, width, height) {
   let self = this;
-  this.data = data;
-  this.labels = labels;
+  this.data = {
+    nodes: [],
+    links: []
+  };
+  this.labels = {
+    labelAnchors: [],
+    labelAnchorLinks: []
+  };
 
-
-
-  this.addNode = function(label) {
+  this.validateLink = function (link) {
     let nodes = force.nodes();
-    let labelNodes = force2.nodes();
-    let node = {
-      "label": label
-    };
-    let labelNode = {
-      node: node
-    };
-    nodes.push(node);
-    labelNodes.push(labelNode);
-    labelNodes.push(labelNode);
-    self.labels.labelAnchorLinks.push({
-      source: self.labels.labelAnchors.indexOf(labelNode),
-      target: self.labels.labelAnchors.indexOf(labelNode) + 1,
-      weight: Math.random()
-    })
+    if (nodes.indexOf(link.source) === -1 || nodes.indexOf(link.target) === -1) {
+      throw new Error(`link ${JSON.stringify(link)} invalid`);
+    } else {
+      return true;
+    }
+  }
+
+  this.redrawLinks = async function (nodes) {
+    // console.log(graphGenerator.storedArticles);
+    let [ links ] = await graphGenerator.generateLinks(nodes, graphGenerator.storedArticles);
+    for (let i in links) {
+      // console.log('valid links source/target?', nodes.indexOf(links[i].source) !== -1 && nodes.indexOf(links[i].target) !== -1);
+      if (!self.graphContainsLink(links[i])) {
+        self.addLink(links[i]);
+      }
+    }
+    graphGenerator.checkNodes(force.nodes(), force.links());
+  }
+
+  this.graphContainsLink = function (link) {
+    let links = force.links();
+    let found = false;
+    for (let i in links) {
+      // console.log(includes(links[i].target.label, link.target.label) && includes(links[i].source.label, link.source.label));
+      if (includes(links[i].target.label, link.target.label) && includes(links[i].source.label, link.source.label)) {
+        // console.log('duplicate: ', links[i]);
+        found = true;
+      }
+    }
+    return found;
+  }
+
+  // will move this to store
+
+  this.graphContainsNode = function (node) {
+    let nodes = force.nodes();
+    let found = false;
+    for (let i in nodes) {
+      if (includes(nodes[i], node.label)) {
+        found = true;
+      }
+    }
+    return found;
+  }
+
+  this.addNodes = function(data, labels) {
+    // console.log('new chart labels: ', labels.labelAnchors.length, 'chart label links: ', labels.labelAnchorLinks.length);
+    try {
+      for (let i in data.nodes) {
+        if (!self.graphContainsNode(data.nodes[i])) {
+          // console.log(data.nodes[i]);
+          self.addNode(data.nodes[i]);
+        }
+      }
+      for (let i in data.links) {
+        self.addLink(data.links[i]);
+      }
+
+      self.redrawLinks(force.nodes());
+    } catch (error) {
+      console.error(error);
+    }
+    console.log('(after update) chart labels: ', force2.nodes().length, 'chart label links: ', force2.links().length);
+  };
+
+  this.addNode = function(node) {
+    try {
+      let nodes = force.nodes();
+      let labelAnchors = force2.nodes();
+      let labelAnchorLinks = force2.links();
+      let labelNode1 = {
+        node: node
+      };
+      let labelNode2 = {
+        node: node
+      };
+      nodes.push(node);
+      labelAnchors.push(labelNode1);
+      labelAnchors.push(labelNode2);
+      labelAnchorLinks.push({
+        source: labelAnchors.length - 1,
+        target: labelAnchors.length - 2,
+        weight: Math.random()
+      });
+    } catch (error) {
+      console.error(error);
+    }
     self.update();
   };
 
@@ -53,31 +127,40 @@ d3Chart.create = function(element, width, height, data, labels) {
         break;
       }
     }
-    update();
+    self.update();
   };
 
-  this.removeallLinks = function() {
+  this.removeAllLinks = function() {
     links.splice(0, links.length);
-    update();
+    self.update();
   };
 
   this.removeAllNodes = function() {
     nodes.splice(0, links.length);
-    update();
+    self.update();
   };
 
-  this.addLink = function(source, target, value) {
-    links.push({
-      "source": findNode(source),
-      "target": findNode(target),
-      "value": value
-    });
-    update();
+  this.addLink = function(link) {
+    try {
+      let links = force.links();
+      let newLink = {
+        source: link.source,
+        target: link.target,
+        weight: link.weight
+      };
+      self.validateLink(newLink);
+      links.push(newLink);
+      self.update();
+    } catch (error) {
+      console.error(error);
+    }
   };
 
   let findNode = function(label) {
+    let nodes = force.nodes();
+    console.log(nodes);
     for (let i in nodes) {
-      if (nodes[i]["id"] === label) {
+      if (nodes[i]["label"] === label) {
         return nodes[i];
       }
     };
@@ -100,19 +183,19 @@ d3Chart.create = function(element, width, height, data, labels) {
 
   let force = d3.layout.force()
     .size([width, height])
-    .nodes(this.data.nodes)
-    .links(this.data.links)
+    .nodes([])
+    .links([])
     .gravity(0.5)
     .linkDistance(50)
     .charge(-5000)
-    .linkStrength(function(x) {
+    .linkStrength((x) => {
       return x.weight * 5
     });
 
   // graph that displays labels
   let force2 = d3.layout.force()
-    .nodes(this.labels.labelAnchors)
-    .links(this.labels.labelAnchorLinks)
+    .nodes([])
+    .links([])
     .gravity(0)
     .linkDistance(0)
     .linkStrength(8)
@@ -120,56 +203,62 @@ d3Chart.create = function(element, width, height, data, labels) {
     .size([width, height])
 
   this.update = function() {
-    let link = vis.selectAll('line.link')
-      .data(this.data.links);
 
-    link.enter()
+    let link = vis.selectAll('line.link')
+      .data(force.links(), (datum) => {
+        return datum.source.label + "-" + datum.target.label;
+      });
+
+    let linkEnter = link.enter()
       .append('svg:line')
       .attr('class', 'link')
       .style('stroke', '#CCC');
 
-    // link.exit().remove();
+    link.exit().remove();
 
     let node = vis.selectAll('g.node')
       .data(force.nodes());
 
-    node.enter().append('svg:g')
+    let nodeEnter = node.enter().append('svg:g')
       .attr('class', 'node');
 
-    node.append('svg:circle')
+    nodeEnter.append('svg:circle')
       .attr('r', 7)
       .style('fill', '#555')
       .style('stroke', '#FFF')
       .style('stroke-width', 3);
 
-    node.call(force.drag);
-    // node.exit().remove();
+    nodeEnter.call(force.drag);
+    node.exit().remove();
 
     let anchorLink = vis.selectAll('line.anchorLink')
       .data(force2.links());
 
-    anchorLink.enter()
-      .append('svg:line');
+    let anchorLinkEnter = anchorLink.enter()
+      .append('svg:line')
+      .attr('class', 'anchorLink');
 
+    anchorLink.exit().remove();
 
     let anchorNode = vis.selectAll('g.anchorNode')
-      .data(force2.nodes())
+      .data(force2.nodes());
 
-    anchorNode.enter().append('svg:g')
+    let anchorNodeEnter = anchorNode.enter().append('svg:g')
       .attr('class', 'anchorNode');
 
-    anchorNode.append('svg:circle')
+    anchorNodeEnter.append('svg:circle')
       .attr('r', 0)
       .style('fill', '#FFF')
 
-    anchorNode.append('svg:text')
+    anchorNodeEnter.append('svg:text')
       .text(function(datum, index) {
         return index % 2 === 0 ? "" : datum.node.label;
       })
       .style('fill', '#555')
       .style('font-family', 'Arial')
-      .style('font-size', 16)
+      .style('font-size', 16);
 
+    anchorNode.exit().remove();
 
     this.updateLink = function() {
       this.attr('x1', function(datum) {
@@ -195,19 +284,16 @@ d3Chart.create = function(element, width, height, data, labels) {
 
     force.on('tick', function(tick) {
       node.call(self.updateNode);
-
       anchorNode.each(function(datum, index) {
         if (index % 2 === 0) {
           datum.x = datum.node.x;
           datum.y = datum.node.y;
         } else {
           try {
-            let b = this.childNodes[1].getBBox() || 100;
+            let b = this.childNodes[1].getBoundingClientRect();
             let diffX = datum.x - datum.node.x; // wat?
-            let diffY = datum.y - datum.node.y
-
+            let diffY = datum.y - datum.node.y;
             let dist = Math.sqrt(diffX * diffX + diffY * diffY);
-
             let shiftX = b.width * (diffX - dist) / (dist * 2);
             shiftX = Math.max(-b.width, Math.min(0, shiftX));
             let shiftY = 5;
@@ -228,6 +314,7 @@ d3Chart.create = function(element, width, height, data, labels) {
     force.start();
     force2.start();
   }
+  this.update();
 }
 
 d3Chart.destroy = function(element) {
