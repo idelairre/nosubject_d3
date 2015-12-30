@@ -26,10 +26,8 @@ d3Chart.create = function(element, width, height) {
   }
 
   this.redrawLinks = async function (nodes) {
-    // console.log(graphGenerator.storedArticles);
     let [ links ] = await graphGenerator.generateLinks(nodes, graphGenerator.storedArticles);
     for (let i in links) {
-      // console.log('valid links source/target?', nodes.indexOf(links[i].source) !== -1 && nodes.indexOf(links[i].target) !== -1);
       if (!self.graphContainsLink(links[i])) {
         self.addLink(links[i]);
       }
@@ -41,9 +39,7 @@ d3Chart.create = function(element, width, height) {
     let links = force.links();
     let found = false;
     for (let i in links) {
-      // console.log(includes(links[i].target.label, link.target.label) && includes(links[i].source.label, link.source.label));
       if (includes(links[i].target.label, link.target.label) && includes(links[i].source.label, link.source.label)) {
-        // console.log('duplicate: ', links[i]);
         found = true;
       }
     }
@@ -63,20 +59,20 @@ d3Chart.create = function(element, width, height) {
     return found;
   }
 
+  let calledCount = 0
+
   this.addNodes = function(data, labels) {
-    // console.log('new chart labels: ', labels.labelAnchors.length, 'chart label links: ', labels.labelAnchorLinks.length);
+    console.log('new chart labels: ', labels.labelAnchors.length, 'chart label links: ', labels.labelAnchorLinks.length);
     try {
       for (let i in data.nodes) {
-        if (!self.graphContainsNode(data.nodes[i])) {
-          // console.log(data.nodes[i]);
-          self.addNode(data.nodes[i]);
-        }
+        self.addNode(data.nodes[i]);
       }
       for (let i in data.links) {
         self.addLink(data.links[i]);
       }
 
-      self.redrawLinks(force.nodes());
+    calledCount !== 0 ? self.redrawLinks(force.nodes()) : null;
+    calledCount += 1;
     } catch (error) {
       console.error(error);
     }
@@ -84,6 +80,9 @@ d3Chart.create = function(element, width, height) {
   };
 
   this.addNode = function(node) {
+    if (self.graphContainsNode(node)) {
+      return;
+    }
     try {
       let nodes = force.nodes();
       let labelAnchors = force2.nodes();
@@ -315,13 +314,6 @@ d3Chart.create = function(element, width, height) {
     force2.start();
   }
   this.update();
-}
-
-d3Chart.destroy = function(element) {
-  // this.vis.remove();
-  // let graph = d3.selectAll('chart.graph');
-  // console.log(graph[0])
-  // graph.remove();
 }
 
 export default d3Chart;
