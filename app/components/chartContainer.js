@@ -18,21 +18,20 @@ export default class ChartContainer extends React.Component {
   }
 
   componentWillMount() {
-    // ChartActions.generateLinkedNodes("Marxism");
-    ChartActions.generateNodes(100, 15, true);
+    ChartActions.generateNodes(100, 10, true);
       // ChartActions.generateCategoryNodes("Sexuality");
     // ChartActions.generateNodes(10, 15, true);
 
-    // setInterval(() => {
-    //   ChartActions.generateNodes(5, 15, true);
-    //   console.log('adding new nodes...')
-    // }, 2000);
-    //
-    // setTimeout(() => {
-    //   ChartActions.generateCategoryNodes("Music");
-    //   console.log('adding new nodes...')
-    // }, 4000);
-    // //
+    setTimeout(() => {
+      ChartActions.generateLinkedNodes("Marxism");
+      console.log('adding new nodes...')
+    }, 5000);
+
+    setTimeout(() => {
+      ChartActions.generateCategoryNodes("Music");
+      console.log('adding new nodes...')
+    }, 6000);
+
     // setTimeout(() => {
     //   ChartActions.generateCategoryNodes("Sexuality");
     //   console.log('adding new nodes...')

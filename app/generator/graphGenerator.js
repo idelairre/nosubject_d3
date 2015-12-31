@@ -220,7 +220,7 @@ class GraphGenerator {
           if (sourceNode !== undefined) {
             for (let k = articles[j].links.length; k -= 1;) {
               let targetNode = this.findNode(articles[j].links[k].title, nodes);
-              if (targetNode !== undefined) {
+              if (targetNode !== undefined && targetNode.label !== sourceNode.label) {
                 links.push({
                   source: sourceNode,
                   target: targetNode,
