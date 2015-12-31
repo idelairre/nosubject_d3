@@ -4,6 +4,7 @@ import fsp from 'fs-promise';
 import byline from 'byline';
 import { decorate } from 'core-decorators';
 import console from 'better-console';
+import backlinks from './output/backlinks';
 import 'babel-polyfill';
 
 
@@ -34,8 +35,22 @@ class Scraper {
         case 3:
           this.generateCategoryDatabase();
           break;
+        case 4:
+          this.checkArticleBacklinks(result.object);
+          break;
       }
     });
+  }
+
+  checkArticleBacklinks(title) {
+    for (let i = backlinks.length; i -= 1;) {
+      if (title === backlinks[i].title) {
+        console.log('found');
+        for (let j = backlinks[i].links.length; j -= 1;) {
+          console.log(backlinks[i].links[j]);
+        }
+      }
+    }
   }
 
   /*
@@ -281,7 +296,7 @@ class Scraper {
     return new Promise((resolve, reject) => {
       this.client.getCategories((error, data) => {
         if (error) {
-          throw new Error(error);
+          resolve(error);
         }
         this.formatCategories(data).then((response) => {
           resolve(response);

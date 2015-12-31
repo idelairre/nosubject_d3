@@ -22,7 +22,6 @@ class ChartStore {
   }
 
   handleGeneratedNodes(data) {
-    console.log(data);
     this.setState({
       data: {
         nodes: this.state.data.nodes.concat(data.nodes),

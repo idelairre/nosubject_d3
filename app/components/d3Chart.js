@@ -76,17 +76,23 @@ d3Chart.create = function(element, width, height) {
   let calledCount = 0
 
   this.addNodes = function(data) {
+    console.log(data.nodes);
     try {
-      for (let i = 0; data.nodes.length > i; i += 1) {
+      // force.nodes(data.nodes);
+      // force.links(data.links);
+      // self.update();
+      for (let i = 0; data.nodes.length - 1 > i; i += 1) {
         self.addNode(data.nodes[i]);
       }
-      for (let i = 0; data.links.length > i; i += 1) {
+
+      for (let i = 0; data.links.length - 1 > i; i += 1) {
         self.addLink(data.links[i]);
       }
 
       if (calledCount !== 0) {
         self.redrawLinks(force.nodes());
       }
+      // graphGenerator.validateLinks(force.nodes(), force.links());
       self.update();
       calledCount += 1;
       console.log('(after update) chart labels: ', force2.nodes().length, 'chart label links: ', force2.links().length);
@@ -117,6 +123,7 @@ d3Chart.create = function(element, width, height) {
         target: labelAnchors.length - 2,
         weight: Math.random()
       });
+      self.update();
     } catch (error) {
       console.error(error);
     }
@@ -165,7 +172,7 @@ d3Chart.create = function(element, width, height) {
       self.validateLink(newLink);
       // console.log(newLink);
       links.push(newLink);
-      // self.update();
+      self.update();
     } catch (error) {
       console.error(error);
     }
@@ -201,7 +208,7 @@ d3Chart.create = function(element, width, height) {
     .links([])
     .gravity(0.5)
     .linkDistance(500)
-    .charge(-2000)
+    .charge(-3000)
     .linkStrength((x) => {
       return x.weight * 5
     });
@@ -231,7 +238,9 @@ d3Chart.create = function(element, width, height) {
     link.exit().remove();
 
     let node = vis.selectAll('g.node')
-      .data(force.nodes());
+      .data(force.nodes(), (datum) =>{
+        return datum.label;
+      });
 
     let nodeEnter = node.enter().append('svg:g')
       .attr('class', 'node');
@@ -241,6 +250,12 @@ d3Chart.create = function(element, width, height) {
       .style('fill', '#555')
       .style('stroke', '#FFF')
       .style('stroke-width', 3);
+
+    // node.attr('cx', (datum) => {
+    //   return datum.x;
+    // }).attr('cy', (datum) => {
+    //   return datum.y;
+    // });
 
     nodeEnter.call(force.drag);
     node.exit().remove();
@@ -324,7 +339,6 @@ d3Chart.create = function(element, width, height) {
       anchorLink.call(self.updateLink);
       force.start();
       force2.start();
-
 
     });
     force.start();

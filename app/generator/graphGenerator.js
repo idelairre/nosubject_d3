@@ -44,7 +44,7 @@ class GraphGenerator {
         for (let j = nodes.length; j -= 1;) {
           if (nodes[j].label !== rootNode.label) {
             links.push({
-              source: nodes[0],
+              source: rootNode,
               target: nodes[j],
               weight: Math.random()
             });
@@ -120,12 +120,13 @@ class GraphGenerator {
       let nodes = await this.generateNodes(nodeCount, articles);
       let links = await this.generateLinks(nodes, articles);
 
-      console.log('new nodes: ', nodes.length);
+      console.log('new nodes: ', nodes.length, 'new links: ', links.length);
 
       let data = {
         nodes: nodes,
         links: links
       };
+      // this.checkNodes(data.nodes, data.links);
       console.warn('new nodes generated');
       return data;
     } catch (error) {
@@ -211,26 +212,38 @@ class GraphGenerator {
   generateLinks(nodes, articles) {
     // console.log('node array size: ', nodes.length, 'articles: ', articles.length);
     return new Promise((resolve, reject) => {
+      let foundNodes = [];
       try {
         let links = [];
-        for (let i = nodes.length; i -= 1;) {
-          for (let j = articles[i].links.length; j -= 1;) {
-            nodes.map((node) => {
-              if (node.label === articles[i].links[j].title) {
+        for (let j = articles.length; j -= 1;) {
+          let sourceNode = this.findNode(articles[j].title, nodes);
+          if (sourceNode !== undefined) {
+            for (let k = articles[j].links.length; k -= 1;) {
+              let targetNode = this.findNode(articles[j].links[k].title, nodes);
+              if (targetNode !== undefined) {
                 links.push({
-                  source: node,
-                  target: nodes[i],
+                  source: sourceNode,
+                  target: targetNode,
                   weight: Math.random()
                 });
               }
-            });
+            }
           }
         }
+        // console.log('links: ', links);
         resolve(links);
       } catch (error) {
         resolve(error);
       }
     });
+  }
+
+  findNode(title, nodes) {
+    for (let i = nodes.length; i -= 1;) {
+      if (nodes[i].label === title) {
+        return nodes[i];
+      }
+    }
   }
 
   checkGraphJson(nodes, links, labelAnchors, labelAnchorLinks) {
@@ -296,6 +309,55 @@ class GraphGenerator {
       });
     }
     errors > 0 ? console.log('label links repaired') : null;
+  }
+
+  graphContainsNode(node, nodes) {
+    let found = false;
+    for (let i in nodes) {
+      if (includes(nodes[i], node)) {
+        found = true;
+        break;
+      }
+    }
+    return found;
+  }
+
+  compareBacklinksToChartLinks(nodes, testLinks, article) {
+    let valid = false;
+    try {
+      testLinks.map((link) => {
+        article.links.map((articleLink) => {
+          if (link.target.label === articleLink.title) {
+            valid = true;
+          }
+          console.log(`link ${JSON.stringify(link)} is valid? ${valid}`);
+        });
+      });
+    } catch (error) {
+      console.error(error);
+    }
+  }
+
+  validateLinks(nodes, links, testNumber) {
+    try {
+      // console.log(`validating ${JSON.stringify(links[3])}`);
+      // if (links.length - 1> testNumber) {
+      //   testNumber = links.length - 1;
+      // }
+      for (let i = 0; testNumber - 1 > 0; i += 1) {
+        let sourceArticle = this.fetchArticle(links[i].source.label);
+        let targetArticle = this.fetchArticle(links[i].target.label);
+        let testLinks = [];
+        for (let j = 0; links.length - 1 > j; j += 1) {
+          if (links[i].source.label === links[j].source.label) {
+            testLinks.push(links[j]);
+          }
+        }
+        this.compareBacklinksToChartLinks(nodes, testLinks, sourceArticle);
+      }
+    } catch (error) {
+      throw error;
+    }
   }
 }
 
