@@ -5,6 +5,7 @@ import ChartActions from '../actions/chartActions';
 import ChartStore from '../store/chartStore';
 import connectToStores from 'alt-utils/lib/connectToStores';
 import Chart from './chart';
+import categories from '../../output/categories';
 
 @connectToStores
 export default class ChartContainer extends React.Component {
@@ -17,15 +18,23 @@ export default class ChartContainer extends React.Component {
   }
 
   componentWillMount() {
-    ChartActions.generateGraph(50, 10, true);
-    // setInterval(() => {
-    //   ChartActions.generateNodes(10, true);
-    //   console.log('adding new nodes...')
-    // }, 5000);
+    ChartActions.generateNodes(150, 10, true);
+      // ChartActions.generateCategoryNodes("Sexuality");
+
     // setTimeout(() => {
-    //   ChartActions.generateNodes(10, true);
+    //   ChartActions.generateCategoryNodes("Neurosis");
     //   console.log('adding new nodes...')
     // }, 2000);
+    //
+    // setTimeout(() => {
+    //   ChartActions.generateCategoryNodes("Music");
+    //   console.log('adding new nodes...')
+    // }, 4000);
+    // //
+    // setTimeout(() => {
+    //   ChartActions.generateCategoryNodes("Sexuality");
+    //   console.log('adding new nodes...')
+    // }, 3000);
   }
 
   render() {

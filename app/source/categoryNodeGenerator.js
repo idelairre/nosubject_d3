@@ -3,14 +3,14 @@ import ChartActions from '../actions/chartActions';
 import graphGenerator from '../generator/graphGenerator';
 import { AsyncDispatch } from 'alt-async';
 
-class NodeGenerator extends AsyncDispatch {
+class CategoryNodeGenerator extends AsyncDispatch {
   constructor(dispatcher, name) {
     super(dispatcher, name);
   }
 
-  addNodes(nodeCount, minLinks, shuffle) {
+  generateCategoryNodes(title) {
     return this.send(null, status => {
-        return graphGenerator.generateNewNodes(nodeCount, minLinks, shuffle);
+        return graphGenerator.generateCategoryNodes(title);
     }, {
       success: ChartActions.generatedNodes,
       failure: ChartActions.generatingNodesFailed
@@ -18,6 +18,6 @@ class NodeGenerator extends AsyncDispatch {
   }
 }
 
-const nodeGenerator = new NodeGenerator(alt, "NodeGenerator");
+const categoryNodeGenerator = new CategoryNodeGenerator(alt, "CategoryNodeGenerator");
 
-export default nodeGenerator;
+export default categoryNodeGenerator;

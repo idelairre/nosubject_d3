@@ -2,13 +2,11 @@ import bot from 'nodemw';
 import prompt from 'prompt';
 import fsp from 'fs-promise';
 import byline from 'byline';
-import { handleErrors } from './decorators';
 import { decorate } from 'core-decorators';
 import console from 'better-console';
 import 'babel-polyfill';
 
 
-@handleErrors
 class Scraper {
   constructor() {
     // pass configuration object
@@ -17,75 +15,31 @@ class Scraper {
       path: '/',                  // path to api.php script
       debug: false                 // is more verbose when set to true
     });
-    this.articles = [];
-    this.backlinks = [];
     this.index = [];
     this.categories = [];
   }
 
   prompt() {
-     console.log('1: get article');
-     console.log('2: get all articles');
-     console.log('3: get article backlinks');
-     console.log('4: get article categories');
-     console.log('5: get article external links');
-     console.log('6: get categories');
-     console.log('7: get pages in category');
-     console.log('8: generate article database');
-     console.log('9: generate backlink database');
-     console.log('10: generate backlink JSON');
-     console.log('11: generate category database');
-     console.log('12: generate external link database');
+     console.log('1: generate backlink database');
+     console.log('2: generate backlink JSON');
+     console.log('3: generate category database');
     return prompt.get(['option', 'object'], (error, result) => {
       switch(parseInt(result.option)) {
         case 1:
-          this.getArticle(result.object);
-          break;
-        case 2:
-          this.getAllArticles();
-          break;
-        case 3:
-          this.getBacklinks(result.object);
-          break;
-        case 4:
-          this.getArticleCategories(result.object);
-          break;
-        case 5:
-          this.getExternalLinks(result.object);
-          break;
-        case 6:
-          this.getCategories();
-          break;
-        case 7:
-          this.getPagesInCategory(result.object);
-          break;
-        case 8:
-          this.generateArticleDatabase();
-          break;
-        case 9:
           this.generateBacklinkDatabase();
           break;
-        case 10:
+        case 2:
           this.generateBacklinksJSON();
           break;
-        case 11:
+        case 3:
           this.generateCategoryDatabase();
-          break;
-        case 12:
-          this.generateExternalLinkDatabase();
-          break;
-        case 13:
-          this.initializeGraphData(result.object)
-          break;
-        case 14:
-          this.checkGraphJson();
           break;
       }
     });
   }
 
   /*
-  NB: modified code from Lenny Domnitser. Blow is his original copyright info
+  NB: modified code from Lenny Domnitser. Below is his original copyright info
 
   This is the unpacked source code of the "fix encoding" bookmarklet,
   available at <http://domnit.org/bookmarklets/>.
@@ -139,7 +93,6 @@ class Scraper {
     }
 
     return fix(string);
-
   };
 
   generateArticleDatabase() {
@@ -163,25 +116,32 @@ class Scraper {
     });
   }
 
-  generateCategoryDatabase() {
-    this.getCategories().then((response) => {
-      for (let item in this.categories) {
-        this.getPagesInCategory(this.categories[item]);
-      }
-    }, (error) => {
-      console.log(error);
-    });
-  }
-
-  generateExternalLinkDatabase() {
-    console.log('generating external link database...');
-    this.getAllArticles().then((response) => {
-      for (let item in this.index) {
-        this.getExternalLinks(this.index[item]);
-      }
-    }, (error) => {
-      console.log(error);
-    });
+  async generateCategoryDatabase() {
+    let categories = await this.getCategories();
+    let categoriesArray = [];
+    let requests = 0;
+    let i = 0
+    while (categories.length > i) {
+      i += 1;
+      let categoryHash = { title: null, articles: [] };
+      categoryHash.title = categories[i];
+      console.log(categories[i]);
+      requests += 1;
+      this.getArticlesInCategory(categories[i]).then((response) => {
+        requests -= 1;
+        categoryHash.articles = response;
+        categoryHash.articles.map((article) => {
+          article.title = this.fixUtf8(article.title);
+          console.log('pushing ', article.title, ', ' , requests, ' articles left');
+        });
+        categoriesArray.push(categoryHash);
+        if (requests === 0) {
+          fsp.writeFile('./output/categories.json', JSON.stringify(categoriesArray, null, 3), (error) => {
+            console.log(error);
+          });
+        }
+      });
+    }
   }
 
   generateIndex(data, callback) {
@@ -200,7 +160,9 @@ class Scraper {
 
   generateBacklinksJSON() {
     fsp.readdir('./output/backlinks', (error, articles) => {
-      this.handleErrors(error);
+      if (error) {
+        throw new Error(error);
+      }
       let i = 0, requests = articles.length;
       let jsonArray = [];
       while (articles.length > i) {
@@ -212,7 +174,6 @@ class Scraper {
         if (requests === 0) {
           console.log('json array:', jsonArray);
           fsp.writeFile('output/backlinks.json', JSON.stringify(jsonArray, null, 3), (error) => {
-            // this.handleErrors(error);
           });
         }
       }
@@ -240,18 +201,17 @@ class Scraper {
       this.client.getAllPages((error, data) => {
         if (error) {
           reject(error);
-        } else {
-          // need to make options for generating a database
-          this.generateIndex(data, (response) => {
-            pages = response;
-            console.log(pages);
-            pages = this.fixUtf8(JSON.stringify(data, null, 3));
-            fsp.writeFile('output/articles.json', pages, (error) => {
-              // this.handleErrors(error);
-            });
-            resolve(pages);
+        }
+        // need to make options for generating a database
+        this.generateIndex(data, (response) => {
+          pages = response;
+          console.log(pages);
+          pages = this.fixUtf8(JSON.stringify(data, null, 3));
+          fsp.writeFile('./output/articles.json', pages, (error) => {
+            throw new Error(error);
           });
-        };
+          resolve(pages);
+        });
       });
     });
   }
@@ -271,16 +231,14 @@ class Scraper {
 
   getArticleCategories(article) {
     console.log('fetching categories');
-    let categories = {};
     return new Promise((resolve, reject) => {
       this.client.getArticleCategories(article, (error, data) => {
         if (error) {
           reject(error);
-        } else {
-          categories = this.fixUtf8(JSON.stringify(data));
-          this.save('article_categories', `${article}`, categories);
-          resolve(categories);
         }
+        let categories = this.fixUtf8(JSON.stringify(data));
+        this.save('article_categories', `${article}`, categories);
+        resolve(categories);
       });
     });
   }
@@ -300,61 +258,45 @@ class Scraper {
     });
   }
 
-  getExternalLinks(article) {
-    // console.log('fetching external links...');
-    let links = {};
-    return new Promise((resolve, reject) => {
-      this.client.getExternalLinks(article, (error, data) => {
-        if (error) {
-          reject(error);
-        } else {
-          links = this.formatLinks(data);
-          this.save('external_links', `${article}_external_links`, links);
-          resolve(links);
-        }
-      });
-    });
-  }
-
   formatCategories(categories) {
-    for (let i in categories) {
-      categories[i] = this.fixUtf8(categories[i]);
-    }
-    categories = categories.sort((a, b) => {
-      return a.toLowerCase() - b.toLowerCase();
+    return new Promise((resolve, reject) => {
+      try {
+        for (let i in categories) {
+          categories[i] = this.fixUtf8(categories[i]);
+        }
+        categories = categories.sort((a, b) => {
+          return a.toLowerCase() - b.toLowerCase();
+        });
+        categories = categories.filter(function(item, pos) {
+            return categories.indexOf(item) == pos;
+        })
+        resolve(categories);
+      } catch (error) {
+        reject(error);
+      }
     });
-    categories = categories.filter(function(item, pos) {
-        return categories.indexOf(item) == pos;
-    })
-    console.log(categories);
-    return categories;
   }
 
   getCategories() {
     return new Promise((resolve, reject) => {
-      let categories = [];
       this.client.getCategories((error, data) => {
-        reject(this.handleErrors(error));
-        let categories = this.formatCategories(data);
-        fsp.writeFile('./output/categories.json', JSON.stringify(categories, null, 3));
-        resolve(categories);
+        if (error) {
+          throw new Error(error);
+        }
+        this.formatCategories(data).then((response) => {
+          resolve(response);
+        });
       });
     });
   }
 
-  getPagesInCategory(category) {
-    let pages = [];
-    new Promise((resolve, reject) => {
+  getArticlesInCategory(category) {
+    return new Promise((resolve, reject) => {
       this.client.getPagesInCategory(category, (error, data) => {
         if (error) {
           reject(error);
-        } else {
-          pages = data;
-          // pages = this.formatCategoryPages(pages);
-          // console.log(pages.toJSON());
-          this.save('categories', `${category}_pages`, JSON.stringify(pages));
-          resolve(pages);
         }
+        resolve(data);
       });
     });
   }
@@ -362,7 +304,7 @@ class Scraper {
   save(location, filename, data) {
     filename = filename.replace(/\//g, "-");
     fsp.writeFile(`./output/${location}/${filename}.json`, data, (error) => {
-      this.handleErrors(error);
+      throw new Error(error);
     });
   }
 

@@ -18,35 +18,48 @@ d3Chart.create = function(element, width, height) {
 
   this.validateLink = function (link) {
     let nodes = force.nodes();
-    if (nodes.indexOf(link.source) === -1 || nodes.indexOf(link.target) === -1) {
-      throw new Error(`link ${JSON.stringify(link)} invalid`);
-    } else {
-      return true;
+    let links = force.links();
+    if (nodes.indexOf(link.source) === -1) {
+      throw new Error(`link source at ${JSON.stringify(link)} invalid, ${links.indexOf(link)}`);
     }
+    if (nodes.indexOf(link.target) === -1) {
+      throw new Error(`link target at ${JSON.stringify(link)} invalid, ${links.indexOf(link)}`);
+    }
+    return true;
   }
 
   this.redrawLinks = async function (nodes) {
-    let [ links ] = await graphGenerator.generateLinks(nodes, graphGenerator.storedArticles);
-    for (let i in links) {
-      if (!self.graphContainsLink(links[i])) {
-        self.addLink(links[i]);
+    try {
+      let links = await graphGenerator.generateLinks(nodes, graphGenerator.storedArticles);
+      for (let i in links) {
+        if (!self.graphContainsLink(links[i])) {
+          self.addLink(links[i]);
+        }
       }
+    } catch (error) {
+      console.error(error);
     }
-    graphGenerator.checkNodes(force.nodes(), force.links());
+    // graphGenerator.checkNodes(force.nodes(), force.links());
   }
 
   this.graphContainsLink = function (link) {
+    // console.log(link);
     let links = force.links();
     let found = false;
-    for (let i in links) {
-      if (includes(links[i].target.label, link.target.label) && includes(links[i].source.label, link.source.label)) {
-        found = true;
+    try {
+      for (let i in links) {
+        if (includes(links[i].target.label, link.target.label) && includes(links[i].source.label, link.source.label)) {
+          found = true;
+          break;
+        }
       }
+      return found;
+    } catch (error) {
+      console.error(error);
     }
-    return found;
   }
 
-  // will move this to store
+  // will move this to store, maybe the graph generator?
 
   this.graphContainsNode = function (node) {
     let nodes = force.nodes();
@@ -54,6 +67,7 @@ d3Chart.create = function(element, width, height) {
     for (let i in nodes) {
       if (includes(nodes[i], node.label)) {
         found = true;
+        break;
       }
     }
     return found;
@@ -61,22 +75,24 @@ d3Chart.create = function(element, width, height) {
 
   let calledCount = 0
 
-  this.addNodes = function(data, labels) {
-    console.log('new chart labels: ', labels.labelAnchors.length, 'chart label links: ', labels.labelAnchorLinks.length);
+  this.addNodes = function(data) {
     try {
-      for (let i in data.nodes) {
+      for (let i = 0; data.nodes.length > i; i += 1) {
         self.addNode(data.nodes[i]);
       }
-      for (let i in data.links) {
+      for (let i = 0; data.links.length > i; i += 1) {
         self.addLink(data.links[i]);
       }
 
-    calledCount !== 0 ? self.redrawLinks(force.nodes()) : null;
-    calledCount += 1;
+      if (calledCount !== 0) {
+        self.redrawLinks(force.nodes());
+      }
+      self.update();
+      calledCount += 1;
+      console.log('(after update) chart labels: ', force2.nodes().length, 'chart label links: ', force2.links().length);
     } catch (error) {
       console.error(error);
     }
-    console.log('(after update) chart labels: ', force2.nodes().length, 'chart label links: ', force2.links().length);
   };
 
   this.addNode = function(node) {
@@ -104,7 +120,6 @@ d3Chart.create = function(element, width, height) {
     } catch (error) {
       console.error(error);
     }
-    self.update();
   };
 
   this.removeNode = function(label) {
@@ -148,8 +163,9 @@ d3Chart.create = function(element, width, height) {
         weight: link.weight
       };
       self.validateLink(newLink);
+      // console.log(newLink);
       links.push(newLink);
-      self.update();
+      // self.update();
     } catch (error) {
       console.error(error);
     }
@@ -173,7 +189,6 @@ d3Chart.create = function(element, width, height) {
     };
   };
 
-  let labelDistance = 0;
   let vis = d3.select(element)
     .append('svg:svg')
     .attr('width', width)
@@ -185,8 +200,8 @@ d3Chart.create = function(element, width, height) {
     .nodes([])
     .links([])
     .gravity(0.5)
-    .linkDistance(50)
-    .charge(-5000)
+    .linkDistance(500)
+    .charge(-2000)
     .linkStrength((x) => {
       return x.weight * 5
     });
@@ -201,15 +216,15 @@ d3Chart.create = function(element, width, height) {
     .charge(-100)
     .size([width, height])
 
-  this.update = function() {
-
+  this.update = function () {
+    // force.alpha(0);
     let link = vis.selectAll('line.link')
       .data(force.links(), (datum) => {
         return datum.source.label + "-" + datum.target.label;
       });
 
     let linkEnter = link.enter()
-      .append('svg:line')
+      .insert('svg:line', 'g.node')
       .attr('class', 'link')
       .style('stroke', '#CCC');
 
@@ -222,7 +237,7 @@ d3Chart.create = function(element, width, height) {
       .attr('class', 'node');
 
     nodeEnter.append('svg:circle')
-      .attr('r', 7)
+      .attr('r', 8)
       .style('fill', '#555')
       .style('stroke', '#FFF')
       .style('stroke-width', 3);
@@ -255,7 +270,7 @@ d3Chart.create = function(element, width, height) {
       })
       .style('fill', '#555')
       .style('font-family', 'Arial')
-      .style('font-size', 16);
+      .style('font-size', 18);
 
     anchorNode.exit().remove();
 
@@ -309,6 +324,8 @@ d3Chart.create = function(element, width, height) {
       anchorLink.call(self.updateLink);
       force.start();
       force2.start();
+
+
     });
     force.start();
     force2.start();

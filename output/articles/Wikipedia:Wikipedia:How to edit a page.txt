@@ -1,1 +1,0 @@
-#redirect [http://en.wikipedia.org/wiki/Wikipedia:How_to_edit_a_page]

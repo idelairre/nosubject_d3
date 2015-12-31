@@ -1,4 +1,0 @@
-jouissance//enjoyment
-
-
-<tooltip>This should be the text|This is the tooltip text</tooltip>

@@ -28,9 +28,8 @@ export default class Chart extends React.Component {
   }
 
   componentDidUpdate(prevProps, prevState) {
-    console.log('current state: ', this.state);
     let element = ReactDOM.findDOMNode(this);
-    d3Chart.addNodes(this.state.newData, this.state.newLabels);
+    d3Chart.addNodes(this.state.newData);
   }
 
   shouldComponentUpdate(nextProps, nextState) {

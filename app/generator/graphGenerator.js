@@ -1,64 +1,146 @@
 import backlinks from '../../output/backlinks';
+import categories from '../../output/categories';
 import { includes } from 'lodash';
 import 'babel-polyfill';
 
 class GraphGenerator {
   constructor() {
+    this.storedArticles = []
   };
 
-  async generateNewNodes(nodeCount, shuffle) {
-    console.warn(`generating ${nodeCount} new nodes`);
+  // putRootNodeFirst(nodes) {
+  //   let temp;
+  //   temp = nodes[0];
+  //   nodes[0] = nodes[nodes.length - 1];
+  //   nodes[nodes.length - 1] = temp;
+  //   return nodes;
+  // }
+
+  fetchCategory(title) {
+    for (let i = categories.length; i -= 1;) {
+      if (categories[i].title === title) {
+        return categories[i];
+      }
+    }
+    // throw new Error('article doesn\'t exist');
+  }
+
+  async generateCategoryNodes(title) {
     try {
-      let articles = this.storedArticles || await this.generateArticlesWithLinks(15);
-      shuffle ? articles = await this.shuffle(articles) : null;
-      let [ nodes, labelAnchors ] = await this.generateNodes(nodeCount, articles);
-      console.log('new nodes: ', nodes.length, 'new labels: ', labelAnchors.length);
-      let [ links, labelAnchorLinks ] = await this.generateLinks(nodes, articles);
+      let category = await this.fetchCategory(title);
+      let links = [], nodes = [];
+      let rootNode = {
+        label: category.title
+      };
+      nodes.push(rootNode);
+      for (let i = category.articles.length; i -= 1;) {
+        let article = category.articles[i].title
+        let node = {
+          label: article
+        };
+        nodes.push(node);
+      }
+      for (let i = category.articles.length; i -= 1;) {
+        for (let j = nodes.length; j -= 1;) {
+          if (nodes[j].label !== rootNode.label) {
+            links.push({
+              source: nodes[0],
+              target: nodes[j],
+              weight: Math.random()
+            });
+          }
+        }
+      }
+      // this.checkNodes(nodes, links)
       let data = {
         nodes: nodes,
         links: links
       };
-
-      let labels = {
-        labelAnchors: labelAnchors,
-        labelAnchorLinks: labelAnchorLinks
-      };
-
-      console.warn('new nodes generated');
-      return ([ data, labels ]);
-    } catch (error){
-      console.log(error);
+      return data;
+    } catch (error) {
+      throw error;
     }
   }
 
-  async initializeGraphData(nodeCount, minimumLinkCount, shuffleArticles) {
-    let articlesWithLinks = await this.generateArticlesWithLinks(minimumLinkCount);
-    shuffleArticles ? articlesWithLinks = await this.shuffle(articlesWithLinks) : null;
-    let [ nodes, labelAnchors ] = await this.generateNodes(nodeCount, articlesWithLinks);
-    let [ links, labelAnchorLinks ] = await this.generateLinks(nodes, articlesWithLinks);
-    // await this.checkGraphJson(nodes, links, labelAnchors, labelAnchorLinks);
+  fetchArticle(title) {
+    try {
+      for (let i = backlinks.length; i -= 1;) {
+        if (backlinks[i].title === title) {
+          return backlinks[i];
+        }
+      }
+    } catch (error) {
+      throw error;
+    }
+    // throw new Error('article doesn\'t exist');
+  }
 
-    let data = {
-      nodes: nodes,
-      links: links
-    };
+  async generateLinkedNodes(title) {
+    try {
+      let article = await this.fetchArticle(title);
+      let nodes = [],
+        links = [];
+      let rootNode = {
+        label: article.title
+      };
+      nodes.push(rootNode);
+      for (let i = article.links.length; i -= 1;) {
+        let foundArticle = this.fetchArticle(article.links[i].title) || article.links[i].title;
+        let node = {
+          label: foundArticle.title || foundArticle
+        };
+        nodes.push(node);
+      }
+      for (let i = nodes.length; i -= 1;) {
+        for (let j = article.links.length; j -= 1;) {
+          if (nodes[i].label === article.links[j].title && nodes[i].label !== title) {
+            links.push({
+              source: rootNode,
+              target: nodes[i],
+              weight: Math.random()
+            });
+          }
+        }
+      }
+      let data = {
+        nodes: nodes,
+        links: links
+      };
+      return data;
+    } catch (error) {
+      throw error;
+    }
+  }
 
-    let labels = {
-      labelAnchors: labelAnchors,
-      labelAnchorLinks: labelAnchorLinks
-    };
-    console.warn('done');
-    return [data, labels];
+  async generateNewNodes(nodeCount, minLinks, shuffle) {
+    console.warn(`generating ${nodeCount} new nodes with atleast ${minLinks} links`);
+    try {
+      let articles = await this.generateArticlesWithLinks(minLinks);
+      shuffle ? articles = await this.shuffle(articles) : null;
+      let nodes = await this.generateNodes(nodeCount, articles);
+      let links = await this.generateLinks(nodes, articles);
+
+      console.log('new nodes: ', nodes.length);
+
+      let data = {
+        nodes: nodes,
+        links: links
+      };
+      console.warn('new nodes generated');
+      return data;
+    } catch (error) {
+      throw error;
+    }
   }
 
   shuffle(array) {
     console.log('shuffling...');
     return new Promise((resolve, reject) => {
-      for (let i = array.length - 1; i > 0;  i-= 1) {
-          let j = Math.floor(Math.random() * (i + 1));
-          let temp = array[i];
-          array[i] = array[j];
-          array[j] = temp;
+      for (let i = array.length - 1; i > 0; i -= 1) {
+        let j = Math.floor(Math.random() * (i + 1));
+        let temp = array[i];
+        array[i] = array[j];
+        array[j] = temp;
       }
       console.log('shuffling done');
       resolve(array);
@@ -67,67 +149,62 @@ class GraphGenerator {
 
   generateArticlesWithLinks(minimumLinkCount) {
     console.log(`generating articles with ${minimumLinkCount} or less links...`);
-
     console.log('initial data: ', backlinks.length);
 
     return new Promise((resolve, reject) => {
       // only get articles greater than the minimum length
-      let articlesWithLinks = [];
-
-      for (let i = backlinks.length; i -= 1;) {
-        if (backlinks[i].links.length > minimumLinkCount) {
-          articlesWithLinks.push(backlinks[i]);
+      try {
+        let articlesWithLinks = [];
+        for (let i = backlinks.length; i -= 1;) {
+          if (backlinks[i].links.length > minimumLinkCount) {
+            articlesWithLinks.push(backlinks[i]);
+          }
         }
-      }
 
-      console.log('first pass: ', articlesWithLinks.length);
+        // console.log('first pass: ', articlesWithLinks.length);
 
-      // sort articles
-      articlesWithLinks = articlesWithLinks.sort((a, b) => {
-        return a.title.toLowerCase() - b.title.toLowerCase();
-      });
+        // sort articles
+        articlesWithLinks = articlesWithLinks.sort((a, b) => {
+          return a.title.toLowerCase() - b.title.toLowerCase();
+        });
 
-      // remove duplicates
-      for (let i = articlesWithLinks.length - 1; i -= 1;) {
-        if (articlesWithLinks[i - 1] && articlesWithLinks[i].title.toLowerCase() === articlesWithLinks[i - 1].title.toLowerCase()) {
-          delete articlesWithLinks[i];
+        // remove duplicates
+        for (let i = articlesWithLinks.length - 1; i -= 1;) {
+          if (articlesWithLinks[i - 1] && articlesWithLinks[i].title.toLowerCase() === articlesWithLinks[i - 1].title.toLowerCase()) {
+            delete articlesWithLinks[i];
+          }
         }
+
+        articlesWithLinks = articlesWithLinks.filter((element) => {
+          return (typeof element !== "undefined");
+        });
+
+        // console.log('second pass: ', articlesWithLinks.length);
+        // console.log('done');
+        this.storedArticles = articlesWithLinks;
+        // console.log('articles stored: ', !!this.storedArticles.length);
+        resolve(articlesWithLinks);
+      } catch (error) {
+        resolve(error);
       }
-
-      articlesWithLinks = articlesWithLinks.filter((element) => {
-        return (typeof element !== "undefined");
-      });
-
-      console.log('second pass: ', articlesWithLinks.length);
-      console.log('done');
-      this.storedArticles = articlesWithLinks;
-      console.log('articles stored: ', !!this.storedArticles.length);
-      resolve(articlesWithLinks);
     });
   }
 
   generateNodes(nodeCount, articles) {
     console.log(`generating ${nodeCount} nodes from ${articles.length} articles...`);
-    let nodes = [], labelAnchors = [];
-    return new Promise ((resolve, reject) => {
+    let nodes = [];
+    return new Promise((resolve, reject) => {
       try {
-        for (let i = (nodeCount - 1 || 2); i -= 1;) {
+        for (let i = (nodeCount || 2); i -= 1;) {
           let node = {
-            label : articles[i].title
+            label: articles[i].title
           };
           nodes.push(node);
-          labelAnchors.push({
-            node : node
-          });
-          labelAnchors.push({
-            node : node
-          });
-          resolve([ nodes, labelAnchors ]);
+          resolve(nodes);
         }
       } catch (error) {
-        console.error(error);
+        reject(error);
       }
-      // console.log('nodes & anchorlabels: ', nodes.length, labelAnchors.length);
     });
   }
 
@@ -135,27 +212,21 @@ class GraphGenerator {
     // console.log('node array size: ', nodes.length, 'articles: ', articles.length);
     return new Promise((resolve, reject) => {
       try {
-        let links = [], labelAnchorLinks = [];
+        let links = [];
         for (let i = nodes.length; i -= 1;) {
           for (let j = articles[i].links.length; j -= 1;) {
             nodes.map((node) => {
               if (node.label === articles[i].links[j].title) {
                 links.push({
-                  source: nodes[i],
-                  target: node,
+                  source: node,
+                  target: nodes[i],
                   weight: Math.random()
                 });
               }
             });
           }
-          labelAnchorLinks.push({
-            source : i / 2,
-            target : i / 2 - 1,
-            weight : Math.random()
-          });
         }
-        // console.log('labelAnchorLinks : ', labelAnchorLinks.length);
-        resolve([ links, labelAnchorLinks ]);
+        resolve(links);
       } catch (error) {
         resolve(error);
       }
@@ -189,7 +260,7 @@ class GraphGenerator {
       }
     }
     console.log('errors: ', errors);
-      if (errors > 0) {
+    if (errors > 0) {
       links = links.filter((element) => {
         return (typeof element !== "undefined");
       });
@@ -219,7 +290,7 @@ class GraphGenerator {
       }
     }
     console.log('errors: ', errors);
-      if (errors > 0) {
+    if (errors > 0) {
       labelAnchorLinks = labelAnchorLinks.filter((element) => {
         return (typeof element !== "undefined");
       });

@@ -1,9 +1,0 @@
-<flvplayer width="400" height="400" autoplay="true" hidecontrols="true">Lacan_em_Louvain_1.flv</flvplayer>
-
-<flvplayer width="400" height="400" loop="true">http://path.to.server/filename.flv</flvplayer>
-
-<!--
-<flash>file=Lacan_em_Louvain_1.flv|width=10%|height=30|quality=best</flash>
--->
-
-<dhflashplayer>file=video.flv|width=200|height=120|path=http://nosubject.com/mediaplayer/</dhflashplayer>

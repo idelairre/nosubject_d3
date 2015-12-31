@@ -1,22 +1,11 @@
 import alt from '../alt';
-import initializer from '../source/graphInitializer';
 import nodeGenerator from '../source/nodeGenerator';
+import linkedNodeGenerator from '../source/linkedNodeGenerator';
+import categoryNodeGenerator from '../source/categoryNodeGenerator';
 
 class ChartActions {
-   generateGraph(nodeCount, minLinks, shuffle) {
-      return initializer.generateGraph(nodeCount, minLinks, shuffle);
-   }
-
-   generatedGraph(data) {
-     return data;
-   }
-
-   generatedGraph(errorMessage) {
-     return errorMessage;
-   }
-
-   generateNodes(nodeCount, shuffle) {
-     return nodeGenerator.addNode(nodeCount, shuffle);
+   generateNodes(nodeCount, minLinks, shuffle) {
+     return nodeGenerator.addNodes(nodeCount, minLinks, shuffle);
    }
 
    generatedNodes(data) {
@@ -24,6 +13,30 @@ class ChartActions {
    }
 
    generatingNodesFailed(errorMessage) {
+     return errorMessage;
+   }
+
+   generateLinkedNodes(title) {
+     return linkedNodeGenerator.generateLinkedNodes(title)
+   }
+
+   generatedLinkedNodes(data) {
+     return data;
+   }
+
+   generatedLinkedNodesFailed(errorMessage) {
+     return errorMessage;
+   }
+
+   generateCategoryNodes(title) {
+     return categoryNodeGenerator.generateCategoryNodes(title);
+   }
+
+   generatedCategoryNodes(data) {
+     return data;
+   }
+
+   generatingCategoryNodesFailed(errorMessage) {
      return errorMessage;
    }
 }

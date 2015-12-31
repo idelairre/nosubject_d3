@@ -1,4 +1,0 @@
-<calendar>
-format="%j.%n.%Y"
-view=year
-</calendar>

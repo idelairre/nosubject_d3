@@ -3,81 +3,37 @@ import { getActionCreators } from 'alt-async'
 import { createStore } from 'alt-utils/lib/decorators';
 import ChartActions from '../actions/chartActions';
 
-const Initializer = getActionCreators("Initializer");
+const LinkedNodeGenerator = getActionCreators("LinkedNodeGenerator");
 const NodeGenerator = getActionCreators("NodeGenerator");
+const CategoryNodeGenerator = getActionCreators("CategoryNodeGenerator");
 
 @createStore(alt)
 class ChartStore {
   constructor() {
-    this.state = {
-      data: {
-        nodes: [],
-        links: []
-      },
-      labels: {
-        labelAnchors: [],
-        labelAnchorLinks: []
-      },
-      newData: {
-        nodes: [],
-        links: []
-      },
-      newLabels: {
-        labelAnchors: [],
-        labelAnchorLinks: []
-      },
-      nodeCount: 50,
-      minLinks: 15,
-      shuffle: false
-    };
-
+    this.state = { data: { nodes: [], links: [] }, newData: { nodes: [], links: [] } };
     this.bindListeners({
-      handleGeneratedChartData: Initializer.success,
-      handleGeneratingChartDataFailed: Initializer.failure,
-      handleGeneratedNodes: NodeGenerator.success,
-      handleGeneratingNodesFailed: NodeGenerator.failure
+      handleGeneratedNodes: [CategoryNodeGenerator.success, LinkedNodeGenerator.success, NodeGenerator.success],
+      handleGeneratingNodesFailed: [CategoryNodeGenerator.failure, LinkedNodeGenerator.failure, NodeGenerator.failure]
     });
-  }
-
-  handleGenerateChartData() {
-    // do nothing
-  }
-
-  handleGeneratedChartData(chartData) {
-    // console.log('generated chart data: ', chartData);
-    let [ data, labels ] = chartData;
-    this.setState({ data: data, labels: labels, newData: data, newLabels: labels });
-  }
-
-  handleGeneratingChartDataFailed(errorMessage) {
-    console.error(errorMessage);
   }
 
   handleGenerateNodes() {
     // do nothing
   }
 
-  handleGeneratedNodes(newChartData) {
-    let [ data, labels ] = newChartData;
+  handleGeneratedNodes(data) {
+    console.log(data);
     this.setState({
       data: {
         nodes: this.state.data.nodes.concat(data.nodes),
         links: this.state.data.links.concat(data.links)
       },
-      labels: {
-          labelAnchors: this.state.labels.labelAnchors.concat(labels.labelAnchors),
-          labelAnchorLinks: this.state.labels.labelAnchorLinks.concat(labels.labelAnchorLinks)
-      },
       newData: {
         nodes: data.nodes,
         links: data.links
-      },
-      newLabels: {
-        labelAnchors: labels.labelAnchors,
-        labelAnchorLinks: labels.labelAnchorLinks
       }
     });
-    console.log('updated data: nodes: ', this.state.data.nodes.length, 'labels: ', this.state.labels.labelAnchors.length);
+    console.log('updated data: nodes: ', this.state.data.nodes.length);
   }
 
   handleGeneratingNodesFailed(errorMessage) {
