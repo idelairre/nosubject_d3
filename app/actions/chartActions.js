@@ -1,44 +1,57 @@
 import alt from '../alt';
+import graphGenerator from '../generator/graphGenerator';
 import nodeGenerator from '../source/nodeGenerator';
 import linkedNodeGenerator from '../source/linkedNodeGenerator';
 import categoryNodeGenerator from '../source/categoryNodeGenerator';
 
 class ChartActions {
-   generateNodes(nodeCount, minLinks, shuffle) {
-     return nodeGenerator.addNodes(nodeCount, minLinks, shuffle);
-   }
+  // clearGraph() {
+  //   return graphGenerator.clearGraph();
+  // }
+  //
+  // clearedGraph(data) {
+  //   return data;
+  // }
+  //
+  // clearingGraphFailed(errorMessage) {
+  //   return errorMessage;
+  // }
 
-   generatedNodes(data) {
-     return data;
-   }
+  generateNodes(nodeCount, minLinks, shuffle) {
+    return nodeGenerator.addNodes(nodeCount, minLinks, shuffle);
+  }
 
-   generatingNodesFailed(errorMessage) {
-     return errorMessage;
-   }
+  generatedNodes(data) {
+    return data;
+  }
 
-   generateLinkedNodes(title) {
-     return linkedNodeGenerator.generateLinkedNodes(title)
-   }
+  generatingNodesFailed(errorMessage) {
+    return errorMessage;
+  }
 
-   generatedLinkedNodes(data) {
-     return data;
-   }
+  generateLinkedNodes(title) {
+    return linkedNodeGenerator.generateLinkedNodes(title)
+  }
 
-   generatedLinkedNodesFailed(errorMessage) {
-     return errorMessage;
-   }
+  generatedLinkedNodes(data) {
+    return data;
+  }
 
-   generateCategoryNodes(title) {
-     return categoryNodeGenerator.generateCategoryNodes(title);
-   }
+  generatedLinkedNodesFailed(errorMessage) {
+    return errorMessage;
+  }
 
-   generatedCategoryNodes(data) {
-     return data;
-   }
+  generateCategoryNodes(title) {
+    return categoryNodeGenerator.generateCategoryNodes(title);
+  }
 
-   generatingCategoryNodesFailed(errorMessage) {
-     return errorMessage;
-   }
+  generatedCategoryNodes(data) {
+    return data;
+  }
+
+  generatingCategoryNodesFailed(errorMessage) {
+    return errorMessage;
+  }
 }
 
 

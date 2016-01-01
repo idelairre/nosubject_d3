@@ -24,7 +24,6 @@ export default class Chart extends React.Component {
 
   componentWillReceiveProps(nextProps) {
     this.setState(nextProps);
-    // console.log(this.state);
   }
 
   componentDidUpdate(prevProps, prevState) {
@@ -37,7 +36,7 @@ export default class Chart extends React.Component {
   }
 
   render() {
-    return ( < div className = "chart" > < /div>);
+    return (<div className="chart"></div>);
   }
 }
 
@@ -45,33 +44,17 @@ Chart.defaultProps = {
   initialHeight: 1000,
   initialWidth: 2000,
   initialData: {
-    links: [],
     nodes: []
-  },
-  initialLabels: {
-    labelAnchors: [],
-    labelAnchorLinks: []
-  },
-  initialLabelLinks: {}
+  }
 }
 
 Chart.propTypes = {
   height: React.PropTypes.number,
   width: React.PropTypes.number,
   data: React.PropTypes.shape({
-    nodes: React.PropTypes.array,
-    links: React.PropTypes.array
+    nodes: React.PropTypes.array
   }),
-  labels: React.PropTypes.shape({
-    labelAnchors: React.PropTypes.array,
-    labelAnchorLinks: React.PropTypes.array
-  }),
-  newLabels: React.PropTypes.shape({
-    nodes: React.PropTypes.array,
-    links: React.PropTypes.array
-  }),
-  newLabels: React.PropTypes.shape({
-    labelAnchors: React.PropTypes.array,
-    labelAnchorLinks: React.PropTypes.array
+  newData: React.PropTypes.shape({
+    nodes: React.PropTypes.array
   })
 }

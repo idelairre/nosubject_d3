@@ -11,12 +11,25 @@ const CategoryNodeGenerator = getActionCreators("CategoryNodeGenerator");
 @createStore(alt)
 class ChartStore {
   constructor() {
-    this.state = { data: { nodes: [], links: [] }, newData: { nodes: [], links: [] } };
+    this.state = { data: { nodes: [] }, newData: { nodes: [] } };
     this.bindListeners({
+      // handleClearGraph: ChartActions.clearGraph,
       handleGeneratedNodes: [CategoryNodeGenerator.success, LinkedNodeGenerator.success, NodeGenerator.success],
       handleGeneratingNodesFailed: [CategoryNodeGenerator.failure, LinkedNodeGenerator.failure, NodeGenerator.failure]
     });
   }
+
+  // handleClearGraph() {
+  //   // do nothing
+  // }
+  //
+  // handleClearedGraph(data) {
+  //   this.setState(data);
+  // }
+  //
+  // handleClearingGraphFailed(errorMessage) {
+  //   console.error(errorMessage);
+  // }
 
   handleGenerateNodes() {
     // do nothing
@@ -25,12 +38,10 @@ class ChartStore {
   handleGeneratedNodes(data) {
     this.setState({
       data: {
-        nodes: union(data.nodes, this.state.data.nodes),
-        links: union(data.links, this.state.data.links)
+        nodes: this.state.data.nodes.concat(data.nodes)
       },
       newData: {
-        nodes: data.nodes,
-        links: data.links
+        nodes: data.nodes
       }
     });
     console.log('updated data: nodes: ', this.state.data.nodes.length);

@@ -4,7 +4,6 @@ import fsp from 'fs-promise';
 import byline from 'byline';
 import { decorate } from 'core-decorators';
 import console from 'better-console';
-import backlinks from './output/backlinks';
 import 'babel-polyfill';
 
 
@@ -21,22 +20,19 @@ class Scraper {
   }
 
   prompt() {
-     console.log('1: generate backlink database');
-     console.log('2: generate backlink JSON');
-     console.log('3: generate category database');
+     console.log('1: generate backlink JSON');
+     console.log('2: generate category database');
+     console.log('3: generate article database');
     return prompt.get(['option', 'object'], (error, result) => {
       switch(parseInt(result.option)) {
         case 1:
-          this.generateBacklinkDatabase();
-          break;
-        case 2:
           this.generateBacklinksJSON();
           break;
-        case 3:
+        case 2:
           this.generateCategoryDatabase();
           break;
-        case 4:
-          this.checkArticleBacklinks(result.object);
+        case 3:
+          this.generateArticleDatabase()
           break;
       }
     });
@@ -111,11 +107,14 @@ class Scraper {
   };
 
   generateArticleDatabase() {
-    this.getAllArticles().then((response) => {
-      for (let item in this.index) {
-        this.getArticle(this.index[item]);
-      }
-    }, (error) => {
+    let articles = require('./output/articles.json');
+    // console.log(JSON.stringify(articles));
+    let articleArray = [];
+    for (let i = 0; articles.length - 1 > i; i += 1) {
+      console.log(articles[i])
+      articleArray.push(articles[i].title);
+    }
+    fsp.writeFile('./output/articles.json', JSON.stringify(articleArray, null, 3), (error) => {
       console.log(error);
     });
   }

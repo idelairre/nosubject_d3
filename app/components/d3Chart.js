@@ -24,8 +24,8 @@ class D3Chart {
       .size([this.width, this.height])
       .nodes([])
       .links([])
-      .gravity(0.5)
-      .linkDistance(350)
+      .gravity(0.7)
+      .linkDistance(250)
       .charge(-3000)
       .linkStrength((x) => {
         return x.weight * 5
@@ -54,88 +54,54 @@ class D3Chart {
 
   redrawLinks(nodes) {
     let links = graphGenerator.generateLinks(nodes, graphGenerator.storedArticles);
-    for (let i = 0; links.length > i; i += 1) {
-      this.addLink(links[i]);
-    }
+    this.force.links(links);
     this.update();
     // graphGenerator.checkNodes(this.force.nodes(), this.force.links());
   }
 
-  graphContainsLink(testLink) {
-    let links = this.force.links();
-    let found = false;
-      links.map((link) => {
-        try {
-          if (links.source.label === testLink.source.label && links.target.label === testLink.target.label) {
-            found = true;
-          }
-        } catch (error) {
-          console.error()
-        }
-      });
-    return found;
-  }
-
-  graphContainsNode(testNode) {
-    let nodes = this.force.nodes();
-    let found = false;
-    nodes.map((node) => {
-      if (node.label === testNode.label) {
-        found = true;
-      }
-    });
-    return found;
-  }
-
   addNodes(data) {
-    try {
-      for (let i = 0; data.nodes.length > i; i += 1) {
-        this.addNode(data.nodes[i]);
-      }
-
-      this.redrawLinks(this.force.nodes());
-    } catch (error) {
-      console.error(error);
+    for (let i = 0; data.nodes.length > i; i += 1) {
+      this.addNode(data.nodes[i]);
     }
+
+    this.redrawLinks(this.force.nodes());
   };
 
   addNode(node) {
-    try {
-        let nodes = this.force.nodes();
-        let labelAnchors = this.force2.nodes();
-        let labelAnchorLinks = this.force2.links();
-        let labelNode1 = {
-          node: node
-        };
-        let labelNode2 = {
-          node: node
-        };
-        nodes.push(node);
-        labelAnchors.push(labelNode1);
-        labelAnchors.push(labelNode2);
-        labelAnchorLinks.push({
-          source: labelAnchors.length - 1,
-          target: labelAnchors.length - 2,
-          weight: Math.random()
-        });
-        this.update();
-    } catch (error) {
-      console.error(error);
-    }
+    let nodes = this.force.nodes();
+    let labelAnchors = this.force2.nodes();
+    let labelAnchorLinks = this.force2.links();
+    let labelNode1 = {
+      node: node
+    };
+    let labelNode2 = {
+      node: node
+    };
+    nodes.push(node);
+    labelAnchors.push(labelNode1);
+    labelAnchors.push(labelNode2);
+    labelAnchorLinks.push({
+      source: labelAnchors.length - 1,
+      target: labelAnchors.length - 2,
+      weight: Math.random()
+    });
   };
 
-  addLink(link) {
-    // console.log('graph contains link? ', this.graphContainsLink(link));
-    // if (this.graphContainsLink(link)) {
-    //   return;
-    // }
-    try {
-      let links = this.force.links();
-      links.push(link);
-      this.update();
-    } catch (error) {
-      console.error(error);
-    }
+  clearGraph() {
+    this.removeAllLinks();
+    this.removeAllNodes();
+  }
+
+  removeAllLinks() {
+    this.force.links().splice(0, this.force.links().length);
+    this.force2.links().splice(0, this.force2.links().length);
+    this.update();
+  };
+
+  removeAllNodes() {
+    this.force.nodes().splice(0, this.force.nodes().length);
+    this.force2.nodes().splice(0, this.force2.nodes().length);
+    this.update();
   };
 
   updateLink() {
@@ -178,7 +144,7 @@ class D3Chart {
       .attr('class', 'node');
 
     nodeEnter.append('svg:circle')
-      .attr('r', 8)
+      .attr('r', 8.5)
       .style('fill', '#555')
       .style('stroke', '#FFF')
       .style('stroke-width', 3);

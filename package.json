@@ -44,8 +44,11 @@
     "parsoid": "^0.4.0",
     "path": "^0.12.7",
     "react-faux-dom": "git+https://github.com/Olical/react-faux-dom.git",
+    "react-inline-css": "^2.0.1",
+    "react-keydown": "^1.4.4",
     "react-motion": "^0.3.1",
     "react-resolver": "^2.0.5",
+    "react-typeahead": "git+https://github.com/fmoo/react-typeahead.git",
     "vinyl-source-stream": "^1.1.0",
     "watchify": "^3.6.1"
   },

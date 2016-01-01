@@ -5,7 +5,7 @@ import ChartActions from '../actions/chartActions';
 import ChartStore from '../store/chartStore';
 import connectToStores from 'alt-utils/lib/connectToStores';
 import Chart from './chart';
-import categories from '../../output/categories';
+import NodeControls from './nodeControls';
 
 @connectToStores
 export default class ChartContainer extends React.Component {
@@ -18,16 +18,16 @@ export default class ChartContainer extends React.Component {
   }
 
   componentWillMount() {
-    ChartActions.generateNodes(100, 10, true);
-    // ChartActions.generateLinkedNodes("Frustration");
-    // ChartActions.generateLinkedNodes("Acting out");
+    // ChartActions.generateNodes(30, 35, true);
+    // ChartActions.generateLinkedNodes("Ideology");
+    ChartActions.generateLinkedNodes("Jouissance");
     // ChartActions.generateCategoryNodes("Academia");
-
+    //
     // setInterval(() => {
-    //   ChartActions.generateNodes(5, 15, true);
+    //   ChartActions.generateNodes(5, 5, true);
     //   console.log('adding new nodes...')
     // }, 3000);
-
+    //
     // setTimeout(() => {
     //   ChartActions.generateLinkedNodes("Acting out");
     //   console.log('adding new nodes...')
@@ -70,17 +70,12 @@ export default class ChartContainer extends React.Component {
          data: (props) => {
            return ChartStore.getState().data
          },
-         labels: (props) => {
-           return ChartStore.getState().labels
-         },
          newData: (props) => {
            return ChartStore.getState().newData
-         },
-         newLabels: (props) => {
-           return ChartStore.getState().newLabels
          }
         }
        }>
+        <NodeControls />
         <Chart />
       </AltContainer>
     );

@@ -7,7 +7,6 @@ class GraphGenerator {
   constructor() {
     this.storedArticles = [];
     this.storedNodes = [];
-    this.storedLinks = [];
   };
 
   fetchCategory(title) {
@@ -84,8 +83,6 @@ class GraphGenerator {
 
       nodes = this.validateNodeUniqueness(nodes);
 
-      // let links = this.generateLinks(nodes, articles);
-
       // console.log('links: ', links.length, 'nodes: ', nodes.length);
       this.storedNodes = union(this.storedNodes, nodes);
       let data = {
@@ -109,28 +106,15 @@ class GraphGenerator {
     return nodes;
   }
 
-  validateLinkUniqueness(links) {
-    this.storedLinks.map((storedLink) => {
-      links.map((link) => {
-        if (storedLink.source.label === link.source.label && storedLink.target.label === link.target.label) {
-          links.splice(links.indexOf(link), 1);
-        }
-      });
-    });
-    return links;
-  }
-
   async generateNewNodes(nodeCount, minLinks, shuffle) {
     console.warn(`generating ${nodeCount} new nodes with atleast ${minLinks} links`);
     try {
       let articles = await this.generateArticlesWithLinks(minLinks);
       shuffle ? articles = await this.shuffle(articles) : null;
       let nodes = this.generateNodes(nodeCount, articles);
-      // let links = this.generateLinks(nodes, articles);
 
       // console.log('new nodes: ', nodes.length, 'new links: ', links.length);
       console.log('stored nodes', this.storedNodes.length);
-      // links = this.validateLinkUniqueness(links);
       nodes = this.validateNodeUniqueness(nodes);
       console.log('unique nodes', nodes.length)
       this.storedNodes = union(this.storedNodes, nodes);
