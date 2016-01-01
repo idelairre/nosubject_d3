@@ -1,20 +1,14 @@
 import backlinks from '../../output/backlinks';
 import categories from '../../output/categories';
-import { includes } from 'lodash';
+import { includes, uniq, union, difference } from 'lodash';
 import 'babel-polyfill';
 
 class GraphGenerator {
   constructor() {
-    this.storedArticles = []
+    this.storedArticles = [];
+    this.storedNodes = [];
+    this.storedLinks = [];
   };
-
-  // putRootNodeFirst(nodes) {
-  //   let temp;
-  //   temp = nodes[0];
-  //   nodes[0] = nodes[nodes.length - 1];
-  //   nodes[nodes.length - 1] = temp;
-  //   return nodes;
-  // }
 
   fetchCategory(title) {
     for (let i = categories.length; i -= 1;) {
@@ -22,7 +16,6 @@ class GraphGenerator {
         return categories[i];
       }
     }
-    // throw new Error('article doesn\'t exist');
   }
 
   async generateCategoryNodes(title) {
@@ -45,8 +38,7 @@ class GraphGenerator {
           if (nodes[j].label !== rootNode.label) {
             links.push({
               source: rootNode,
-              target: nodes[j],
-              weight: Math.random()
+              target: nodes[j]
             });
           }
         }
@@ -70,41 +62,35 @@ class GraphGenerator {
         }
       }
     } catch (error) {
-      throw error;
+      console.error(error);
     }
-    // throw new Error('article doesn\'t exist');
   }
 
   async generateLinkedNodes(title) {
     try {
       let article = await this.fetchArticle(title);
-      let nodes = [],
-        links = [];
-      let rootNode = {
-        label: article.title
-      };
-      nodes.push(rootNode);
-      for (let i = article.links.length; i -= 1;) {
-        let foundArticle = this.fetchArticle(article.links[i].title) || article.links[i].title;
-        let node = {
-          label: foundArticle.title || foundArticle
-        };
-        nodes.push(node);
-      }
-      for (let i = nodes.length; i -= 1;) {
-        for (let j = article.links.length; j -= 1;) {
-          if (nodes[i].label === article.links[j].title && nodes[i].label !== title) {
-            links.push({
-              source: rootNode,
-              target: nodes[i],
-              weight: Math.random()
-            });
-          }
+      let articles = [];
+      articles.push(article);
+      for (let i = 0; article.links.length - 1 > i; i += 1) {
+        let foundArticle = this.fetchArticle(article.links[i].title)
+        if (foundArticle !== undefined) {
+          articles.push(foundArticle);
         }
       }
+      this.storedArticles = union(this.storedArticles, articles);
+
+      console.log('stored articles: ', this.storedArticles.length);
+      let nodes = this.generateNodes(articles.length, articles);
+
+      nodes = this.validateNodeUniqueness(nodes);
+
+      // let links = this.generateLinks(nodes, articles);
+
+      // console.log('links: ', links.length, 'nodes: ', nodes.length);
+      this.storedNodes = union(this.storedNodes, nodes);
       let data = {
-        nodes: nodes,
-        links: links
+        nodes: nodes
+        // links: links
       };
       return data;
     } catch (error) {
@@ -112,19 +98,47 @@ class GraphGenerator {
     }
   }
 
+  validateNodeUniqueness(nodes) {
+    this.storedNodes.map((storedNode) => {
+      nodes.map((node) => {
+        if (storedNode.label === node.label) {
+          nodes.splice(nodes.indexOf(node), 1);
+        }
+      });
+    });
+    return nodes;
+  }
+
+  validateLinkUniqueness(links) {
+    this.storedLinks.map((storedLink) => {
+      links.map((link) => {
+        if (storedLink.source.label === link.source.label && storedLink.target.label === link.target.label) {
+          links.splice(links.indexOf(link), 1);
+        }
+      });
+    });
+    return links;
+  }
+
   async generateNewNodes(nodeCount, minLinks, shuffle) {
     console.warn(`generating ${nodeCount} new nodes with atleast ${minLinks} links`);
     try {
       let articles = await this.generateArticlesWithLinks(minLinks);
       shuffle ? articles = await this.shuffle(articles) : null;
-      let nodes = await this.generateNodes(nodeCount, articles);
-      let links = await this.generateLinks(nodes, articles);
+      let nodes = this.generateNodes(nodeCount, articles);
+      // let links = this.generateLinks(nodes, articles);
 
-      console.log('new nodes: ', nodes.length, 'new links: ', links.length);
+      // console.log('new nodes: ', nodes.length, 'new links: ', links.length);
+      console.log('stored nodes', this.storedNodes.length);
+      // links = this.validateLinkUniqueness(links);
+      nodes = this.validateNodeUniqueness(nodes);
+      console.log('unique nodes', nodes.length)
+      this.storedNodes = union(this.storedNodes, nodes);
 
+      // this.storedLinks = union(this.storedLinks, links);
       let data = {
-        nodes: nodes,
-        links: links
+        nodes: nodes
+        // links: links
       };
       // this.checkNodes(data.nodes, data.links);
       console.warn('new nodes generated');
@@ -182,7 +196,7 @@ class GraphGenerator {
 
         // console.log('second pass: ', articlesWithLinks.length);
         // console.log('done');
-        this.storedArticles = articlesWithLinks;
+        this.storedArticles = union(this.storedArticles, articlesWithLinks);
         // console.log('articles stored: ', !!this.storedArticles.length);
         resolve(articlesWithLinks);
       } catch (error) {
@@ -194,52 +208,54 @@ class GraphGenerator {
   generateNodes(nodeCount, articles) {
     console.log(`generating ${nodeCount} nodes from ${articles.length} articles...`);
     let nodes = [];
-    return new Promise((resolve, reject) => {
+    // return new Promise((resolve, reject) => {
       try {
-        for (let i = (nodeCount || 2); i -= 1;) {
+        for (let i = 0; nodeCount > i; i += 1) {
           let node = {
             label: articles[i].title
           };
           nodes.push(node);
-          resolve(nodes);
+          // console.log(node);
         }
+
+        return nodes;
       } catch (error) {
-        reject(error);
+        // reject(error);
       }
-    });
+    // });
   }
 
   generateLinks(nodes, articles) {
-    // console.log('node array size: ', nodes.length, 'articles: ', articles.length);
-    return new Promise((resolve, reject) => {
+    try {
       let foundNodes = [];
-      try {
-        let links = [];
-        for (let j = articles.length; j -= 1;) {
-          let sourceNode = this.findNode(articles[j].title, nodes);
-          if (sourceNode !== undefined) {
-            for (let k = articles[j].links.length; k -= 1;) {
-              let targetNode = this.findNode(articles[j].links[k].title, nodes);
-              if (targetNode !== undefined && targetNode.label !== sourceNode.label) {
-                links.push({
+      let links = [];
+      for (let j = 0; articles.length - 1 > j; j += 1) {
+        let sourceNode = this.findNode(articles[j].title, nodes);
+        if (sourceNode !== undefined && articles[j].hasOwnProperty('links')) {
+          for (let k = 0; articles[j].links.length  - 1 > k; k += 1) {
+            let targetNode = this.findNode(articles[j].links[k].title, nodes);
+            // console.log(targetNode)
+            if (targetNode !== undefined && targetNode.label !== sourceNode.label) {
+              let link = {
                   source: sourceNode,
                   target: targetNode,
                   weight: Math.random()
-                });
-              }
+                };
+              links.push(link);
+              // console.log(link, 'links count: ', links.length);
             }
           }
         }
-        // console.log('links: ', links);
-        resolve(links);
-      } catch (error) {
-        resolve(error);
       }
-    });
+      // console.log('links: ', links);
+      return links;
+    } catch (error) {
+      console.error(error);
+    }
   }
 
   findNode(title, nodes) {
-    for (let i = nodes.length; i -= 1;) {
+    for (let i = 0; nodes.length > i; i += 1) {
       if (nodes[i].label === title) {
         return nodes[i];
       }
@@ -311,15 +327,21 @@ class GraphGenerator {
     errors > 0 ? console.log('label links repaired') : null;
   }
 
-  graphContainsNode(node, nodes) {
-    let found = false;
-    for (let i in nodes) {
-      if (includes(nodes[i], node)) {
-        found = true;
-        break;
-      }
+  graphContainsNode(node) {
+    let nodes = this.force.nodes();
+    if (nodes.indexOf(node) !== -1 || nodes.indexOf(node) > -1) {
+      return true;
+    } else {
+      return false;
     }
-    return found;
+    // for (let i = 0; nodes.length > i; i += 1) {
+    //   let label = nodes[i].label.trim();
+    //   // console.log(label);
+    //   if (label === node.label.trim()) {
+    //     console.log('found by label');
+    //     return true;
+    //   }
+    // }
   }
 
   compareBacklinksToChartLinks(nodes, testLinks, article) {
@@ -327,7 +349,7 @@ class GraphGenerator {
     try {
       testLinks.map((link) => {
         article.links.map((articleLink) => {
-          if (link.target.label === articleLink.title) {
+          if (link.target.label === articleLink.title && graphContainsNode(articleLink.title)) {
             valid = true;
           }
           console.log(`link ${JSON.stringify(link)} is valid? ${valid}`);
@@ -338,23 +360,16 @@ class GraphGenerator {
     }
   }
 
-  validateLinks(nodes, links, testNumber) {
+  validateNode(node, nodes, links) {
     try {
-      // console.log(`validating ${JSON.stringify(links[3])}`);
-      // if (links.length - 1> testNumber) {
-      //   testNumber = links.length - 1;
-      // }
-      for (let i = 0; testNumber - 1 > 0; i += 1) {
-        let sourceArticle = this.fetchArticle(links[i].source.label);
-        let targetArticle = this.fetchArticle(links[i].target.label);
-        let testLinks = [];
-        for (let j = 0; links.length - 1 > j; j += 1) {
-          if (links[i].source.label === links[j].source.label) {
-            testLinks.push(links[j]);
-          }
+      let testLinks = [];
+      let sourceArticle = this.fetchArticle(node);
+      for (let i = links.length; i -= 1;) {
+        if (node === links[i].source.label) {
+          testLinks.push(links[i]);
         }
-        this.compareBacklinksToChartLinks(nodes, testLinks, sourceArticle);
       }
+      this.compareBacklinksToChartLinks(nodes, testLinks, sourceArticle);
     } catch (error) {
       throw error;
     }

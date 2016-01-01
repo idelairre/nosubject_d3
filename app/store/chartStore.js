@@ -2,6 +2,7 @@ import alt from '../alt';
 import { getActionCreators } from 'alt-async'
 import { createStore } from 'alt-utils/lib/decorators';
 import ChartActions from '../actions/chartActions';
+import { union } from 'lodash';
 
 const LinkedNodeGenerator = getActionCreators("LinkedNodeGenerator");
 const NodeGenerator = getActionCreators("NodeGenerator");
@@ -24,8 +25,8 @@ class ChartStore {
   handleGeneratedNodes(data) {
     this.setState({
       data: {
-        nodes: this.state.data.nodes.concat(data.nodes),
-        links: this.state.data.links.concat(data.links)
+        nodes: union(data.nodes, this.state.data.nodes),
+        links: union(data.links, this.state.data.links)
       },
       newData: {
         nodes: data.nodes,

@@ -19,23 +19,48 @@ export default class ChartContainer extends React.Component {
 
   componentWillMount() {
     ChartActions.generateNodes(100, 10, true);
-      // ChartActions.generateCategoryNodes("Sexuality");
-    // ChartActions.generateNodes(10, 15, true);
+    // ChartActions.generateLinkedNodes("Frustration");
+    // ChartActions.generateLinkedNodes("Acting out");
+    // ChartActions.generateCategoryNodes("Academia");
 
-    setTimeout(() => {
-      ChartActions.generateLinkedNodes("Marxism");
-      console.log('adding new nodes...')
-    }, 5000);
-
-    setTimeout(() => {
-      ChartActions.generateCategoryNodes("Music");
-      console.log('adding new nodes...')
-    }, 6000);
-
-    // setTimeout(() => {
-    //   ChartActions.generateCategoryNodes("Sexuality");
+    // setInterval(() => {
+    //   ChartActions.generateNodes(5, 15, true);
     //   console.log('adding new nodes...')
     // }, 3000);
+
+    // setTimeout(() => {
+    //   ChartActions.generateLinkedNodes("Acting out");
+    //   console.log('adding new nodes...')
+    // }, 6000);
+
+    // setTimeout(() => {
+    //   ChartActions.generateLinkedNodes("Frustration");
+    //   console.log('adding new nodes...')
+    // }, 3000);
+
+    // setTimeout(() => {
+    //   ChartActions.generateLinkedNodes("Alan Sheridan");
+    //   console.log('adding new nodes...')
+    // }, 8000);
+    //
+    // setTimeout(() => {
+    //   ChartActions.generateLinkedNodes("Action");
+    //   console.log('adding new nodes...')
+    // }, 7000);
+
+    // setTimeout(() => {
+    //   ChartActions.generateLinkedNodes("Activity");
+    //   console.log('adding new nodes...')
+    // }, 9000);
+    // setTimeout(() => {
+    //   ChartActions.generateLinkedNodes("Psychoanalysis");
+    //   console.log('adding new nodes...')
+    // }, 10000);
+    //
+    // setTimeout(() => {
+    //   ChartActions.generateNodes(10, 15, true);
+    //   console.log('adding new nodes...')
+    // }, 15000);
   }
 
   render() {
