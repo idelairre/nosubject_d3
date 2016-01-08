@@ -51,6 +51,13 @@ class D3Chart {
 
   addNode(node) {
     let nodes = this.force.nodes();
+    node.x = 500;
+    node.y = 300;
+    nodes.push(node);
+    this.addLabels(node);
+  };
+
+  addLabels(node) {
     let labelAnchors = this.force2.nodes();
     let labelAnchorLinks = this.force2.links();
     let labelNode1 = {
@@ -63,9 +70,6 @@ class D3Chart {
       x: 500,
       y: 300
     };
-    node.x = 500;
-    node.y = 300;
-    nodes.push(node);
     labelAnchors.push(labelNode1);
     labelAnchors.push(labelNode2);
     labelAnchorLinks.push({
@@ -73,7 +77,8 @@ class D3Chart {
       target: labelNode2,
       weight: Math.random()
     });
-  };
+    this.update();
+  }
 
   clearGraph() {
     this.removeAllLinks();
@@ -120,16 +125,15 @@ class D3Chart {
   removeNode(label) {
     let node = this.findNode(label);
     let nodes = this.force.nodes();
-    let labelAnchors = this.vis.selectAll(`text.${node.label}`);
-    let labelAnchorLinks = this.force2.links();
+    // this is hideous but no other way works
+    this.force2.nodes([]);
+    this.force2.links([]);
+    let labelAnchors = this.force2.nodes();
     nodes.splice(node.index, 1);
-    // console.log(this.findLabelNode(label).index);
-    labelAnchors.each((datum) => {
-      d3.select(datum).parentNode.remove();
-    });
-    console.log(labelAnchors);
-
-    // labelAnchor.remove().exit();
+    this.update();
+    for (let i = 0; nodes.length > i; i += 1) {
+      this.addLabels(nodes[i]);
+    }
     this.redrawLinks(nodes);
     return nodes;
   };
