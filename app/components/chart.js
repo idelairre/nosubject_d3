@@ -41,8 +41,8 @@ export default class Chart extends React.Component {
 }
 
 Chart.defaultProps = {
-  initialHeight: 1000,
-  initialWidth: 2000,
+  initialHeight: 800,
+  initialWidth: 1800,
   initialData: {
     nodes: []
   }

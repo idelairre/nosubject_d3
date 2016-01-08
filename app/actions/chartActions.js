@@ -5,17 +5,17 @@ import linkedNodeGenerator from '../source/linkedNodeGenerator';
 import categoryNodeGenerator from '../source/categoryNodeGenerator';
 
 class ChartActions {
-  // clearGraph() {
-  //   return graphGenerator.clearGraph();
-  // }
-  //
-  // clearedGraph(data) {
-  //   return data;
-  // }
-  //
-  // clearingGraphFailed(errorMessage) {
-  //   return errorMessage;
-  // }
+  clearGraph() {
+    return graphGenerator.clearGraph();
+  }
+
+  clearedGraph(data) {
+    return data;
+  }
+
+  clearingGraphFailed(errorMessage) {
+    return errorMessage;
+  }
 
   generateNodes(nodeCount, minLinks, shuffle) {
     return nodeGenerator.addNodes(nodeCount, minLinks, shuffle);
@@ -50,6 +50,18 @@ class ChartActions {
   }
 
   generatingCategoryNodesFailed(errorMessage) {
+    return errorMessage;
+  }
+
+  removeNode(node) {
+    return graphGenerator.removeNode(node);
+  }
+
+  removedNode(data) {
+    return data;
+  }
+
+  removingNodeFailed(errorMessage) {
     return errorMessage;
   }
 }

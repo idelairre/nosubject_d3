@@ -13,26 +13,21 @@ class ChartStore {
   constructor() {
     this.state = { data: { nodes: [] }, newData: { nodes: [] } };
     this.bindListeners({
-      // handleClearGraph: ChartActions.clearGraph,
+      handleClearedGraph: ChartActions.clearedGraph,
+      handleClearingGraphFailed: ChartActions.clearingGraphFailed,
       handleGeneratedNodes: [CategoryNodeGenerator.success, LinkedNodeGenerator.success, NodeGenerator.success],
-      handleGeneratingNodesFailed: [CategoryNodeGenerator.failure, LinkedNodeGenerator.failure, NodeGenerator.failure]
+      handleGeneratingNodesFailed: [CategoryNodeGenerator.failure, LinkedNodeGenerator.failure, NodeGenerator.failure],
+      handleRemovedNode: ChartActions.removedNode,
+      handleRemovingNodeFailed: ChartActions.removingNodeFailed
     });
   }
 
-  // handleClearGraph() {
-  //   // do nothing
-  // }
-  //
-  // handleClearedGraph(data) {
-  //   this.setState(data);
-  // }
-  //
-  // handleClearingGraphFailed(errorMessage) {
-  //   console.error(errorMessage);
-  // }
+  handleClearedGraph(data) {
+    this.setState(data);
+  }
 
-  handleGenerateNodes() {
-    // do nothing
+  handleClearingGraphFailed(errorMessage) {
+    console.error(errorMessage);
   }
 
   handleGeneratedNodes(data) {
@@ -48,6 +43,14 @@ class ChartStore {
   }
 
   handleGeneratingNodesFailed(errorMessage) {
+    console.error(errorMessage);
+  }
+
+  handleRemovedNode(nodes) {
+    this.setState({ data: { nodes: nodes } });
+  }
+
+  handleRemovingNodeFailed(errorMessage) {
     console.error(errorMessage);
   }
 }

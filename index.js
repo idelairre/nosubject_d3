@@ -2,7 +2,6 @@ import bot from 'nodemw';
 import prompt from 'prompt';
 import fsp from 'fs-promise';
 import byline from 'byline';
-import { decorate } from 'core-decorators';
 import console from 'better-console';
 import 'babel-polyfill';
 
@@ -15,7 +14,6 @@ class Scraper {
       path: '/',                  // path to api.php script
       debug: false                 // is more verbose when set to true
     });
-    this.index = [];
     this.categories = [];
   }
 
@@ -161,7 +159,6 @@ class Scraper {
   generateIndex(data, callback) {
     let string = '';
     for (let i in data) {
-      this.index.push(data[i].title);
       string += `${data[i].title}\n`;
     }
     data = string;
@@ -216,7 +213,6 @@ class Scraper {
         if (error) {
           reject(error);
         }
-        // need to make options for generating a database
         this.generateIndex(data, (response) => {
           pages = response;
           console.log(pages);

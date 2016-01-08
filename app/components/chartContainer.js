@@ -5,7 +5,11 @@ import ChartActions from '../actions/chartActions';
 import ChartStore from '../store/chartStore';
 import connectToStores from 'alt-utils/lib/connectToStores';
 import Chart from './chart';
-import NodeControls from './nodeControls';
+import NodeControls from './buttons/nodeControls';
+
+function getRandomInt(min, max) {
+  return Math.floor(Math.random() * (max - min)) + min;
+}
 
 @connectToStores
 export default class ChartContainer extends React.Component {
@@ -18,49 +22,20 @@ export default class ChartContainer extends React.Component {
   }
 
   componentWillMount() {
-    // ChartActions.generateNodes(30, 35, true);
-    // ChartActions.generateLinkedNodes("Ideology");
-    ChartActions.generateLinkedNodes("Jouissance");
-    // ChartActions.generateCategoryNodes("Academia");
-    //
-    // setInterval(() => {
-    //   ChartActions.generateNodes(5, 5, true);
-    //   console.log('adding new nodes...')
-    // }, 3000);
-    //
-    // setTimeout(() => {
-    //   ChartActions.generateLinkedNodes("Acting out");
-    //   console.log('adding new nodes...')
-    // }, 6000);
+    // let number = getRandomInt(0, 3);
+    // switch(number) {
+    //   case 0:
+    //     ChartActions.generateLinkedNodes("Anxiety");
+    //     break;
+    //   case 1:
+    //     ChartActions.generateLinkedNodes("Ideology");
+    //     break;
+    //   case 2:
+    //     ChartActions.generateLinkedNodes("Jouissance");
+    //     break;
+    //   }
+      ChartActions.generateLinkedNodes("Jesus");
 
-    // setTimeout(() => {
-    //   ChartActions.generateLinkedNodes("Frustration");
-    //   console.log('adding new nodes...')
-    // }, 3000);
-
-    // setTimeout(() => {
-    //   ChartActions.generateLinkedNodes("Alan Sheridan");
-    //   console.log('adding new nodes...')
-    // }, 8000);
-    //
-    // setTimeout(() => {
-    //   ChartActions.generateLinkedNodes("Action");
-    //   console.log('adding new nodes...')
-    // }, 7000);
-
-    // setTimeout(() => {
-    //   ChartActions.generateLinkedNodes("Activity");
-    //   console.log('adding new nodes...')
-    // }, 9000);
-    // setTimeout(() => {
-    //   ChartActions.generateLinkedNodes("Psychoanalysis");
-    //   console.log('adding new nodes...')
-    // }, 10000);
-    //
-    // setTimeout(() => {
-    //   ChartActions.generateNodes(10, 15, true);
-    //   console.log('adding new nodes...')
-    // }, 15000);
   }
 
   render() {
