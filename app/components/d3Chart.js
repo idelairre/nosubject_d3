@@ -25,7 +25,7 @@ class D3Chart {
       .nodes([])
       .links([])
       .gravity(0.5)
-      .friction(0.3)
+      .friction(0.4)
       .linkDistance(375)
       .charge(-3000)
       .linkStrength((x) => {
@@ -75,7 +75,7 @@ class D3Chart {
     labelAnchorLinks.push({
       source: labelNode1,
       target: labelNode2,
-      weight: Math.random()
+      weight: 1
     });
     this.update();
   }
@@ -167,7 +167,7 @@ class D3Chart {
 
     let nodeEnter = node.enter().append('svg:g')
       .attr('class', (datum) => {
-        return 'node ' + datum.label;
+        return 'node';
       });
 
     nodeEnter.append('svg:circle')
@@ -192,17 +192,17 @@ class D3Chart {
       .data(this.force2.nodes());
 
     anchorNode
-    .on('mouseover', function (datum) {
-      d3.select(this.childNodes[1])
-      .style('text-decoration', 'underline');
-    })
-    .on('mouseleave', function (datum) {
-      d3.select(this.childNodes[1])
-      .style('text-decoration', 'none');
-    })
-    .on('click', function (datum) {
-      window.location = `http://nosubject.com/${datum.node.label}`;
-    });
+      .on('mouseover', function (datum) {
+        d3.select(this.childNodes[1])
+        .style('text-decoration', 'underline');
+      })
+      .on('mouseleave', function (datum) {
+        d3.select(this.childNodes[1])
+        .style('text-decoration', 'none');
+      })
+      .on('click', function (datum) {
+        window.location = `http://nosubject.com/${datum.node.label}`;
+      });
 
     let anchorNodeEnter = anchorNode.enter().append('svg:g')
       .attr('class', 'anchorNode');
@@ -210,6 +210,7 @@ class D3Chart {
     anchorNodeEnter.append('svg:circle')
       .attr('r', 0)
       .style('fill', '#FFF')
+      .style('height', 28);
 
     anchorNodeEnter.append('svg:text')
       .text((datum, index) => {
@@ -220,7 +221,7 @@ class D3Chart {
       })
       .style('fill', '#555')
       .style('font-family', 'Arial')
-      .style('font-size', 18);
+      .style('font-size', 20)
 
     anchorNode.exit().remove();
 
