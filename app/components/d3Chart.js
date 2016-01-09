@@ -85,15 +85,6 @@ class D3Chart {
     this.removeAllNodes();
   }
 
-  findLabelNode(label) {
-    let labelAnchors = this.force2.nodes();
-    for (let i = 0; labelAnchors.length > i; i+= 1) {
-      if (labelAnchors[i].node.label === label) {
-        return labelAnchors[i];
-      }
-    }
-  }
-
   findNode(label) {
     let nodes = this.force.nodes();
     for (let i = 0; nodes.length > i; i += 1) {
@@ -200,6 +191,19 @@ class D3Chart {
     let anchorNode = this.vis.selectAll('g.anchorNode')
       .data(this.force2.nodes());
 
+    anchorNode
+    .on('mouseover', function (datum) {
+      d3.select(this.childNodes[1])
+      .style('text-decoration', 'underline');
+    })
+    .on('mouseleave', function (datum) {
+      d3.select(this.childNodes[1])
+      .style('text-decoration', 'none');
+    })
+    .on('click', function (datum) {
+      window.location = `http://nosubject.com/${datum.node.label}`;
+    });
+
     let anchorNodeEnter = anchorNode.enter().append('svg:g')
       .attr('class', 'anchorNode');
 
@@ -219,6 +223,7 @@ class D3Chart {
       .style('font-size', 18);
 
     anchorNode.exit().remove();
+
 
     this.force.start();
     this.force2.start();

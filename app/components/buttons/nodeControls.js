@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import articles from '../../../output/articles';
 import AddRandomNodes from './addRandomNodes';
+import graphGenerator from '../../generator/graphGenerator';
 import ChartActions from '../../actions/chartActions';
 import DropdownMenu from './dropdownMenu';
 import fuzzy from 'fuzzy';
@@ -9,59 +10,61 @@ import InlineCss from 'react-inline-css';
 import { memoize } from 'lodash';
 import { Typeahead } from 'react-typeahead';
 
-function fuzzyMatch(pattern, str) {
-  let cache = memoize((str) => {
-    return new RegExp("^" + str.replace(/./g, (x) => {
-      return /[\-\[\]\/\{\}\(\)\*\+\?\.\\\^\$\|]/.test(x) ? "\\"+x+"?" : x+"?";
-    })+"$");
-  });
-  if (cache(str.toLowerCase()).test(pattern.toLowerCase())) {
-    return str;
-  }
-};
-
-function displayOption(addedToken) {
-  return addedToken;
-}
-
 export default class NodeControls extends React.Component {
   constructor(props) {
     super(props);
-    this.state = { addRandomNodesStatus: "nodeInput--disabled", toggleRemove: false, placeholder: "add node", typeaheadStatus: "typeahead--active" };
+    this.state = {
+      addRandomNodesStatus: "nodeInput--disabled",
+      data: articles,
+      placeholder: "add node",
+      toggleRemove: false,
+      typeaheadStatus: "typeahead--active",
+      value: ''
+     };
   }
+
+  displayOption(option, index) {
+    if (this.state.data === articles) {
+      return option;
+    } else {
+      return option.label;
+    }
+  }
+
+  fuzzyMatch(pattern, str) {
+    let cache = memoize((str) => {
+      return new RegExp("^" + str.replace(/./g, (x) => {
+        return /[\-\[\]\/\{\}\(\)\*\+\?\.\\\^\$\|]/.test(x) ? "\\"+x+"?" : x+"?";
+      })+"$");
+    });
+    if (this.state.data === articles) {
+      if (cache(str.toLowerCase()).test(pattern.toLowerCase())) {
+        console.log(str);
+        return str;
+      }
+    } else {
+      let node = str;
+      if (cache(node.label.toLowerCase()).test(pattern.toLowerCase())) {
+        return node.label;
+      }
+    }
+  };
 
   handleToggle(val) {
     if (val === 'add node') {
-      this.setState({ toggleRemove: false, addRandomNodesStatus: "nodeInput--disabled", typeaheadStatus: "typeahead--active", placeholder: val });
+      this.setState({ toggleRemove: false, addRandomNodesStatus: "nodeInput--disabled", data: articles, typeaheadStatus: "typeahead--active", placeholder: val });
     } else if (val === 'add random nodes') {
       this.setState({ toggleRemove: false, typeaheadStatus: "typeahead--disabled", addRandomNodesStatus: "nodeInput--active" });
     } else if (val === 'remove node') {
-      this.setState({ toggleRemove: true, addRandomNodesStatus: "nodeInput--disabled", typeaheadStatus: "typeahead--active", placeholder: val });
+      this.setState({ addRandomNodesStatus: "nodeInput--disabled", data: graphGenerator.storedNodes, toggleRemove: true, typeaheadStatus: "typeahead--active", placeholder: val });
     } else {
       ChartActions.clearGraph();
     }
-    console.log(this.state);
   }
 
   handleKeyDown(event) {
     if (event.keyCode === 13) {
-      // let results = fuzzy.filter(event.target.value, articles);
-      // let highestScore = Math.max.apply(Math, results.map((element) => { return element.score }));
-      // results = results.map((element) => {
-      //   if (element.score === highestScore) {
-      //     return element;
-      //   }
-      // });
-      // results = results.filter((element) => { return element !== undefined });
-      // let minWCResult = Math.min.apply(Math, results.map((element) => {
-      //   return element.string.split(' ').length;
-      // }));
-      // results = results.map((element => {
-      //   if (element.string.split(' ').length === minWCResult) {
-      //     return element;
-      //   }
-      // }));
-      // results = results.filter((element) => { return element !== undefined });
+      this.setState({ value: null });
       ::this.handleOptionSelected(event.target.value);
     }
   }
@@ -70,7 +73,8 @@ export default class NodeControls extends React.Component {
     if (this.state.toggleRemove === false) {
       ChartActions.generateLinkedNodes(article);
     } else {
-      ChartActions.removeNode(article);
+      article.label ? article = article.label : null;
+      ChartActions.removeNode(article); // returns a node not an article name
     }
   }
 
@@ -131,10 +135,13 @@ export default class NodeControls extends React.Component {
        }`}>
          <Typeahead
             className={this.state.typeaheadStatus}
-            placeholder={this.state.placeholder}
-            options={articles}
+            displayOption={::this.displayOption}
+            filterOption={::this.fuzzyMatch}
+            options={this.state.data}
             maxVisible={30}
             onOptionSelected={this.handleOptionSelected.bind(this)}
+            placeholder={this.state.placeholder}
+            inputProps={{...this.state}}
             onKeyDown={this.handleKeyDown.bind(this)}
             customClasses={{
              input: "typeahead",
