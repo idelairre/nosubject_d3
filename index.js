@@ -5,7 +5,6 @@ import byline from 'byline';
 import console from 'better-console';
 import 'babel-polyfill';
 
-
 class Scraper {
   constructor() {
     // pass configuration object
