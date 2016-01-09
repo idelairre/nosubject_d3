@@ -26,8 +26,8 @@ class D3Chart {
       .links([])
       .gravity(0.5)
       .friction(0.4)
-      .linkDistance(375)
-      .charge(-3000)
+      .linkDistance(300)
+      .charge(-9000)
       .linkStrength((x) => {
         return x.weight * 5
       });
@@ -38,7 +38,7 @@ class D3Chart {
       .gravity(0)
       .linkDistance(0)
       .linkStrength(8)
-      .charge(-200)
+      .charge(-300)
       .size([this.width, this.height])
   }
 
@@ -221,7 +221,7 @@ class D3Chart {
       })
       .style('fill', '#555')
       .style('font-family', 'Arial')
-      .style('font-size', 20)
+      .style('font-size', 18)
 
     anchorNode.exit().remove();
 
