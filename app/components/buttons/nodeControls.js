@@ -39,7 +39,6 @@ export default class NodeControls extends React.Component {
     });
     if (this.state.data === articles) {
       if (cache(str.toLowerCase()).test(pattern.toLowerCase())) {
-        console.log(str);
         return str;
       }
     } else {

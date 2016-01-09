@@ -94,6 +94,19 @@ class D3Chart {
     }
   }
 
+  findLinks(label) {
+    console.log(label);
+    let links = this.force.links();
+    let linkArray = [];
+    for (let i = 0; links.length > i; i += 1) {
+      if (links[i].source.label === label || links[i].target === label) {
+         linkArray.push(links[i]);
+      }
+    }
+    console.log(linkArray);
+    return linkArray;
+  }
+
   redrawLinks(nodes) {
     let links = graphGenerator.generateLinks(nodes, graphGenerator.storedArticles);
     this.force.links(links);
@@ -161,9 +174,18 @@ class D3Chart {
     link.exit().remove();
 
     let node = this.vis.selectAll('g.node')
-      .data(this.force.nodes(), (datum) =>{
+      .data(this.force.nodes(), (datum) => {
         return datum.label;
       });
+
+    node.on('mouseenter', (node) => {
+      link.style('stroke', (datum) => {
+        return datum.source.label === node.label || datum.target.label === node.label ? '#B02E2E' : '#CCC';
+      });
+      text.style('text-decoration', (datum, index) => {
+        return datum.node.label && index % 2 === 0 ? 'underline' : 'none';
+      });
+    });
 
     let nodeEnter = node.enter().append('svg:g')
       .attr('class', (datum) => {
@@ -225,6 +247,7 @@ class D3Chart {
 
     anchorNode.exit().remove();
 
+    let text = this.vis.selectAll('text').data(this.force2.nodes());
 
     this.force.start();
     this.force2.start();
@@ -236,18 +259,14 @@ class D3Chart {
           datum.x = datum.node.x;
           datum.y = datum.node.y;
         } else {
-          try {
-            let b = this.childNodes[1].getBoundingClientRect();
-            let diffX = datum.x - datum.node.x; // wat?
-            let diffY = datum.y - datum.node.y;
-            let dist = Math.sqrt(diffX * diffX + diffY * diffY);
-            let shiftX = b.width * (diffX - dist) / (dist * 2);
-            shiftX = Math.max(-b.width, Math.min(0, shiftX));
-            let shiftY = 5;
-            this.childNodes[1].setAttribute('transform', `translate(${shiftX}, ${shiftY})`);
-          } catch (error) {
-            console.error(error);
-          }
+          let b = this.childNodes[1].getBoundingClientRect();
+          let diffX = datum.x - datum.node.x; // wat?
+          let diffY = datum.y - datum.node.y;
+          let dist = Math.sqrt(diffX * diffX + diffY * diffY);
+          let shiftX = b.width * (diffX - dist) / (dist * 2);
+          shiftX = Math.max(-b.width, Math.min(0, shiftX));
+          let shiftY = 5;
+          this.childNodes[1].setAttribute('transform', `translate(${shiftX}, ${shiftY})`);
         }
       });
 
