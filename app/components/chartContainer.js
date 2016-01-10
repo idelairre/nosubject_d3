@@ -23,18 +23,17 @@ export default class ChartContainer extends React.Component {
 
   componentWillMount() {
     let number = getRandomInt(0, 3);
-    // switch(number) {
-    //   case 0:
-    //     ChartActions.generateLinkedNodes("Anxiety");
-    //     break;
-    //   case 1:
-    //     ChartActions.generateLinkedNodes("Ideology");
-    //     break;
-    //   case 2:
-    //     ChartActions.generateLinkedNodes("Jouissance");
-    //     break;
-    //   }
-        ChartActions.generateLinkedNodes("Jesus");
+    switch(number) {
+      case 0:
+        ChartActions.generateLinkedNodes("Anxiety");
+        break;
+      case 1:
+        ChartActions.generateLinkedNodes("Ideology");
+        break;
+      case 2:
+        ChartActions.generateLinkedNodes("Jouissance");
+        break;
+      }
   }
 
   render() {
