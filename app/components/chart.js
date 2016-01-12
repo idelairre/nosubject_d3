@@ -9,7 +9,8 @@ export default class Chart extends React.Component {
     super(props);
     this.state = {
       height: this.props.initialHeight,
-      width: this.props.initialWidth
+      width: this.props.initialWidth,
+      nodes: this.props.initialNodes
     }
   }
 
@@ -28,11 +29,11 @@ export default class Chart extends React.Component {
 
   componentDidUpdate(prevProps, prevState) {
     let element = ReactDOM.findDOMNode(this);
-    d3Chart.addNodes(this.state.newData);
+    d3Chart.addNodes(this.state.nodes);
   }
 
   shouldComponentUpdate(nextProps, nextState) {
-    return nextState.data.nodes.length !== this.props.data.nodes.length;
+    return nextState.nodes.length !== this.props.nodes.length;
   }
 
   render() {
@@ -43,18 +44,11 @@ export default class Chart extends React.Component {
 Chart.defaultProps = {
   initialHeight: 800,
   initialWidth: 1800,
-  initialData: {
-    nodes: []
-  }
+  initialNodes: []
 }
 
 Chart.propTypes = {
   height: React.PropTypes.number,
   width: React.PropTypes.number,
-  data: React.PropTypes.shape({
-    nodes: React.PropTypes.array
-  }),
-  newData: React.PropTypes.shape({
-    nodes: React.PropTypes.array
-  })
+  nodes: React.PropTypes.array
 }

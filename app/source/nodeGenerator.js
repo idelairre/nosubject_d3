@@ -1,6 +1,6 @@
 import alt from '../alt';
 import ChartActions from '../actions/chartActions';
-import graphGenerator from '../generator/graphGenerator';
+import graphGenerator from './graphGenerator';
 import { AsyncDispatch } from 'alt-async';
 
 class NodeGenerator extends AsyncDispatch {
@@ -10,7 +10,7 @@ class NodeGenerator extends AsyncDispatch {
 
   addNodes(nodeCount, minLinks, shuffle) {
     return this.send(null, status => {
-        return graphGenerator.generateNewNodes(nodeCount, minLinks, shuffle);
+        return graphGenerator.populateNodes(nodeCount, minLinks, shuffle);
     }, {
       success: ChartActions.generatedNodes,
       failure: ChartActions.generatingNodesFailed

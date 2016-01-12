@@ -1,16 +1,15 @@
 import alt from '../alt';
-import graphGenerator from '../generator/graphGenerator';
+import graphGenerator from '../source/graphGenerator';
 import nodeGenerator from '../source/nodeGenerator';
 import linkedNodeGenerator from '../source/linkedNodeGenerator';
-import categoryNodeGenerator from '../source/categoryNodeGenerator';
 
 class ChartActions {
   clearGraph() {
     return graphGenerator.clearGraph();
   }
 
-  clearedGraph(data) {
-    return data;
+  clearedGraph(nodes) {
+    return nodes;
   }
 
   clearingGraphFailed(errorMessage) {
@@ -21,8 +20,8 @@ class ChartActions {
     return nodeGenerator.addNodes(nodeCount, minLinks, shuffle);
   }
 
-  generatedNodes(data) {
-    return data;
+  generatedNodes(nodes) {
+    return nodes;
   }
 
   generatingNodesFailed(errorMessage) {
@@ -33,23 +32,11 @@ class ChartActions {
     return linkedNodeGenerator.generateLinkedNodes(title)
   }
 
-  generatedLinkedNodes(data) {
-    return data;
+  generatedLinkedNodes(nodes) {
+    return nodes;
   }
 
   generatedLinkedNodesFailed(errorMessage) {
-    return errorMessage;
-  }
-
-  generateCategoryNodes(title) {
-    return categoryNodeGenerator.generateCategoryNodes(title);
-  }
-
-  generatedCategoryNodes(data) {
-    return data;
-  }
-
-  generatingCategoryNodesFailed(errorMessage) {
     return errorMessage;
   }
 
@@ -57,8 +44,8 @@ class ChartActions {
     return graphGenerator.removeNode(node);
   }
 
-  removedNode(data) {
-    return data;
+  removedNode(nodes) {
+    return nodes;
   }
 
   removingNodeFailed(errorMessage) {

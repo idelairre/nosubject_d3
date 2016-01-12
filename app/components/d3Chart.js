@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import graphGenerator from '../generator/graphGenerator';
-import { includes, trim, union, difference } from 'lodash';
+import graphGenerator from '../source/graphGenerator';
 
 class D3Chart {
   constructor(element, height, width) {
@@ -42,9 +41,9 @@ class D3Chart {
       .size([this.width, this.height])
   }
 
-  addNodes(data) {
-    for (let i = 0; data.nodes.length > i; i += 1) {
-      this.addNode(data.nodes[i]);
+  addNodes(nodes) {
+    for (let i = 0; nodes.length > i; i += 1) {
+      this.addNode(nodes[i]);
     }
     this.redrawLinks(this.force.nodes());
   };
@@ -95,7 +94,6 @@ class D3Chart {
   }
 
   findLinks(label) {
-    console.log(label);
     let links = this.force.links();
     let linkArray = [];
     for (let i = 0; links.length > i; i += 1) {
@@ -103,7 +101,6 @@ class D3Chart {
          linkArray.push(links[i]);
       }
     }
-    console.log(linkArray);
     return linkArray;
   }
 
@@ -111,7 +108,6 @@ class D3Chart {
     let links = graphGenerator.generateLinks(nodes, graphGenerator.storedArticles);
     this.force.links(links);
     this.update();
-    // graphGenerator.checkNodes(this.force.nodes(), this.force.links());
   }
 
   removeAllLinks() {
@@ -129,12 +125,14 @@ class D3Chart {
   removeNode(label) {
     let node = this.findNode(label);
     let nodes = this.force.nodes();
+    let labelAnchors = this.force2.nodes();
     // this is hideous but no other way works
     this.force2.nodes([]);
     this.force2.links([]);
-    let labelAnchors = this.force2.nodes();
+
     nodes.splice(node.index, 1);
     this.update();
+
     for (let i = 0; nodes.length > i; i += 1) {
       this.addLabels(nodes[i]);
     }
@@ -185,6 +183,11 @@ class D3Chart {
       text.style('text-decoration', (datum, index) => {
         return datum.node.label && index % 2 === 0 ? 'underline' : 'none';
       });
+    });
+
+    node.on('mouseleave', (node) => {
+      link.style('stroke', '#CCC');
+      text.style('text-decoration', 'none');
     });
 
     let nodeEnter = node.enter().append('svg:g')
@@ -277,17 +280,6 @@ class D3Chart {
       this.force.start();
       this.force2.start();
     });
-  }
-
-  validateLink (link) {
-    let nodes = this.force.nodes();
-    let links = this.force.links();
-    if (nodes.indexOf(link.source) === -1) {
-      throw new Error(`link source at ${JSON.stringify(link)} invalid, ${nodes.indexOf(link)}`);
-    }
-    if (nodes.indexOf(link.target) === -1) {
-      throw new Error(`link target at ${JSON.stringify(link)} invalid, ${nodes.indexOf(link)}`);
-    }
   }
 }
 

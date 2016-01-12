@@ -1,0 +1,67 @@
+fetchCategory(title) {
+  for (let i = categories.length; i -= 1;) {
+    if (categories[i].title === title) {
+      return categories[i];
+    }
+  }
+}
+
+async generateCategoryNodes(title) {
+  try {
+    let category = await this.fetchCategory(title);
+    let links = [], nodes = [];
+    let rootNode = {
+      label: category.title
+    };
+    nodes.push(rootNode);
+    for (let i = category.articles.length; i -= 1;) {
+      let article = category.articles[i].title
+      let node = {
+        label: article
+      };
+      nodes.push(node);
+    }
+    for (let i = category.articles.length; i -= 1;) {
+      for (let j = nodes.length; j -= 1;) {
+        if (nodes[j].label !== rootNode.label) {
+          links.push({
+            source: rootNode,
+            target: nodes[j]
+          });
+        }
+      }
+    }
+    // this.checkNodes(nodes, links)
+    let data = {
+      nodes: nodes,
+      links: links
+    };
+    return data;
+  } catch (error) {
+    throw error;
+  }
+}
+
+import alt from '../alt';
+import ChartActions from '../actions/chartActions';
+import graphGenerator from '../generator/graphGenerator';
+import { AsyncDispatch } from 'alt-async';
+
+class CategoryNodeGenerator extends AsyncDispatch {
+  constructor(dispatcher, name) {
+    super(dispatcher, name);
+  }
+
+  generateCategoryNodes(title) {
+    return this.send(null, status => {
+        return graphGenerator.generateCategoryNodes(title);
+    }, {
+      success: ChartActions.generatedNodes,
+      failure: ChartActions.generatingNodesFailed
+    });
+  }
+}
+
+const categoryNodeGenerator = new CategoryNodeGenerator(alt, "CategoryNodeGenerator");
+
+export default categoryNodeGenerator;

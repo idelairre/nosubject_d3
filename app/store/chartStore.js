@@ -6,40 +6,31 @@ import { union } from 'lodash';
 
 const LinkedNodeGenerator = getActionCreators("LinkedNodeGenerator");
 const NodeGenerator = getActionCreators("NodeGenerator");
-const CategoryNodeGenerator = getActionCreators("CategoryNodeGenerator");
 
 @createStore(alt)
 class ChartStore {
   constructor() {
-    this.state = { data: { nodes: [] }, newData: { nodes: [] } };
+    this.state = { nodes: [] };
     this.bindListeners({
       handleClearedGraph: ChartActions.clearedGraph,
       handleClearingGraphFailed: ChartActions.clearingGraphFailed,
-      handleGeneratedNodes: [CategoryNodeGenerator.success, LinkedNodeGenerator.success, NodeGenerator.success],
-      handleGeneratingNodesFailed: [CategoryNodeGenerator.failure, LinkedNodeGenerator.failure, NodeGenerator.failure],
+      handleGeneratedNodes: [LinkedNodeGenerator.success, NodeGenerator.success],
+      handleGeneratingNodesFailed: [LinkedNodeGenerator.failure, NodeGenerator.failure],
       handleRemovedNode: ChartActions.removedNode,
       handleRemovingNodeFailed: ChartActions.removingNodeFailed
     });
   }
 
-  handleClearedGraph(data) {
-    this.setState(data);
+  handleClearedGraph(nodes) {
+    this.setState({ nodes: nodes });
   }
 
   handleClearingGraphFailed(errorMessage) {
     console.error(errorMessage);
   }
 
-  handleGeneratedNodes(data) {
-    this.setState({
-      data: {
-        nodes: this.state.data.nodes.concat(data.nodes)
-      },
-      newData: {
-        nodes: data.nodes
-      }
-    });
-    console.log('updated data: nodes: ', this.state.data.nodes.length);
+  handleGeneratedNodes(nodes) {
+    this.setState({ nodes: nodes });
   }
 
   handleGeneratingNodesFailed(errorMessage) {
@@ -47,7 +38,7 @@ class ChartStore {
   }
 
   handleRemovedNode(nodes) {
-    this.setState({ data: { nodes: nodes } });
+    this.setState({ nodes: nodes });
   }
 
   handleRemovingNodeFailed(errorMessage) {

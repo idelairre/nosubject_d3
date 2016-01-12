@@ -22,7 +22,7 @@ export default class ChartContainer extends React.Component {
   }
 
   componentWillMount() {
-    let number = getRandomInt(0, 3);
+    let number = getRandomInt(0, 4);
     switch(number) {
       case 0:
         ChartActions.generateLinkedNodes("Anxiety");
@@ -33,6 +33,9 @@ export default class ChartContainer extends React.Component {
       case 2:
         ChartActions.generateLinkedNodes("Jouissance");
         break;
+      case 3:
+        ChartActions.generateLinkedNodes("Alienation");
+        break;
       }
   }
 
@@ -40,11 +43,8 @@ export default class ChartContainer extends React.Component {
     return (
       <AltContainer stores={[ChartStore]} inject={
         {
-         data: (props) => {
-           return ChartStore.getState().data
-         },
-         newData: (props) => {
-           return ChartStore.getState().newData
+         nodes: (props) => {
+           return ChartStore.getState().nodes
          }
         }
        }>

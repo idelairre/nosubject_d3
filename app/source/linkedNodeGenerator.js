@@ -1,6 +1,6 @@
 import alt from '../alt';
 import ChartActions from '../actions/chartActions';
-import graphGenerator from '../generator/graphGenerator';
+import graphGenerator from './graphGenerator';
 import { AsyncDispatch } from 'alt-async';
 
 class LinkedNodeGenerator extends AsyncDispatch {
