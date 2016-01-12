@@ -316,7 +316,6 @@ class Scraper {
       throw new Error(error);
     });
   }
-
 }
 
 let scraper = new Scraper();

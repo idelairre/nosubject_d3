@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import articles from '../../../output/articles';
 import AddRandomNodes from './addRandomNodes';
-import graphGenerator from '../../generator/graphGenerator';
+import articles from '../../../output/articles';
 import ChartActions from '../../actions/chartActions';
 import DropdownMenu from './dropdownMenu';
 import fuzzy from 'fuzzy';
+import graphGenerator from '../../source/graphGenerator';
 import InlineCss from 'react-inline-css';
 import { memoize } from 'lodash';
 import { Typeahead } from 'react-typeahead';
@@ -14,12 +14,12 @@ export default class NodeControls extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      addRandomNodesStatus: "nodeInput--disabled",
-      data: articles,
-      placeholder: "add node",
-      toggleRemove: false,
-      typeaheadStatus: "typeahead--active",
-      value: ''
+      addRandomNodesStatus: this.props.initialAddRandomNodesStatus,
+      data: this.props.initialData,
+      placeholder: this.props.initialPlaceholder,
+      toggleRemove: this.props.initialToggleRemove,
+      typeaheadStatus: this.props.initialTypeaheadStatus,
+      value: this.props.initialValue
      };
   }
 
@@ -152,4 +152,22 @@ export default class NodeControls extends React.Component {
       </InlineCss>
     );
   }
+}
+
+NodeControls.defaultProps = {
+  initialAddRandomNodesStatus: "nodeInput--disabled",
+  initialData: articles,
+  initialPlaceholder: "add node",
+  initialToggleRemove: false,
+  initialTypeaheadStatus: "typeahead--active",
+  initialValue: ''
+}
+
+NodeControls.propTypes = {
+  addRandomNodesStatus: React.PropTypes.string,
+  data: React.PropTypes.array,
+  placeholder: React.PropTypes.string,
+  toggleRemove: React.PropTypes.bool,
+  typeaheadStatus: React.PropTypes.string,
+  value: React.PropTypes.string
 }

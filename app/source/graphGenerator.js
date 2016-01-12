@@ -12,7 +12,7 @@ class GraphGenerator {
 
   clearGraph() {
     d3Chart.clearGraph();
-    this.storedNodes = [];
+    this.storedNodes = d3Chart.force.nodes();
     return this.storedNodes;
   }
 
