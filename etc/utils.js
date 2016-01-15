@@ -73,7 +73,7 @@ export default class Utils {
     }
 
     function format(string) {
-     return string.replace(/[?]/g, 'Ã'); // the likelyhood of an article title including bizarre punctuation is slim
+      return string.replace(/[?]/g, 'Ã'); // the likelyhood of an article title including bizarre punctuation is slim
     }
 
     return fix(format(string), pattern);

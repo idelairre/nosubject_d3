@@ -1,5 +1,4 @@
 import React from 'react';
-import resolver from 'alt-resolver';
 import AltContainer from 'alt-container';
 import ChartActions from '../actions/chartActions';
 import ChartStore from '../store/chartStore';
@@ -13,6 +12,9 @@ function getRandomInt(min, max) {
 
 @connectToStores
 export default class ChartContainer extends React.Component {
+  static defaultProps = { nodes: [] };
+  static propTypes = { nodes: React.PropTypes.array };
+
   static getStores() {
     return [ChartStore];
   }

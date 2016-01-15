@@ -11,6 +11,24 @@ import { memoize } from 'lodash';
 import { Typeahead } from 'react-typeahead';
 
 export default class NodeControls extends React.Component {
+  static defaultProps = {
+    initialAddRandomNodesStatus: "nodeInput--disabled",
+    initialData: articles,
+    initialPlaceholder: "add node",
+    initialToggleRemove: false,
+    initialTypeaheadStatus: "typeahead--active",
+    initialValue: ''
+  };
+
+  static propTypes = {
+    addRandomNodesStatus: React.PropTypes.string,
+    data: React.PropTypes.array,
+    placeholder: React.PropTypes.string,
+    toggleRemove: React.PropTypes.bool,
+    typeaheadStatus: React.PropTypes.string,
+    value: React.PropTypes.string
+  };
+
   constructor(props) {
     super(props);
     this.state = {
@@ -25,24 +43,24 @@ export default class NodeControls extends React.Component {
 
   displayOption(option, index) {
     if (this.state.data === articles) {
-      return option;
+      return option.title;
     } else {
       return option.label;
     }
   }
 
-  fuzzyMatch(pattern, str) {
+  fuzzyMatch(pattern, item) {
     let cache = memoize((str) => {
       return new RegExp("^" + str.replace(/./g, (x) => {
         return /[\-\[\]\/\{\}\(\)\*\+\?\.\\\^\$\|]/.test(x) ? "\\"+x+"?" : x+"?";
       })+"$");
     });
     if (this.state.data === articles) {
-      if (cache(str.toLowerCase()).test(pattern.toLowerCase())) {
-        return str;
+      if (cache(item.title.toLowerCase()).test(pattern.toLowerCase())) {
+        return item.title;
       }
     } else {
-      let node = str;
+      let node = item;
       if (cache(node.label.toLowerCase()).test(pattern.toLowerCase())) {
         return node.label;
       }
@@ -140,7 +158,6 @@ export default class NodeControls extends React.Component {
             maxVisible={30}
             onOptionSelected={this.handleOptionSelected.bind(this)}
             placeholder={this.state.placeholder}
-            inputProps={{...this.state}}
             onKeyDown={this.handleKeyDown.bind(this)}
             customClasses={{
              input: "typeahead",
@@ -152,22 +169,4 @@ export default class NodeControls extends React.Component {
       </InlineCss>
     );
   }
-}
-
-NodeControls.defaultProps = {
-  initialAddRandomNodesStatus: "nodeInput--disabled",
-  initialData: articles,
-  initialPlaceholder: "add node",
-  initialToggleRemove: false,
-  initialTypeaheadStatus: "typeahead--active",
-  initialValue: ''
-}
-
-NodeControls.propTypes = {
-  addRandomNodesStatus: React.PropTypes.string,
-  data: React.PropTypes.array,
-  placeholder: React.PropTypes.string,
-  toggleRemove: React.PropTypes.bool,
-  typeaheadStatus: React.PropTypes.string,
-  value: React.PropTypes.string
 }

@@ -11,7 +11,7 @@ var watchify   = require('watchify');
 var source     = require('vinyl-source-stream');
 var path       = require('path');
 
-require('harmonize')();
+require('babel-register');
 
 var bundler = {
   w: null,
@@ -23,7 +23,7 @@ var bundler = {
       insertGlobals: true,
       cache: {},
       packageCache: {}
-    }).transform(babelify.configure()));
+    }).transform(babelify.configure({ presets: ["stage-0", "es2015", "react"], plugins: ["transform-class-properties", "transform-decorators-legacy", "transform-async-to-generator"]})));
   },
   bundle: function() {
     return this.w && this.w.bundle()
@@ -96,14 +96,7 @@ gulp.task('minify:js', function() {
     .pipe($.size());
 });
 
-gulp.task('minify:css', function() {
-  // return gulp.src('dist/styles/**/*.css')
-  //   .pipe($.minifyCss())
-  //   .pipe(gulp.dest('dist/styles'))
-  //   .pipe($.size());
-});
-
-gulp.task('minify', ['minify:js', 'minify:css']);
+gulp.task('minify', ['minify:js']);
 
 gulp.task('clean', del.bind(null, 'dist'));
 

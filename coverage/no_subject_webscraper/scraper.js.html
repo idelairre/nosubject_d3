@@ -1,0 +1,468 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title>Code coverage report for no_subject_webscraper/scraper.js</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="../prettify.css" />
+    <link rel="stylesheet" href="../base.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style type='text/css'>
+        .coverage-summary .sorter {
+            background-image: url(../sort-arrow-sprite.png);
+        }
+    </style>
+</head>
+<body>
+<div class='wrapper'>
+  <div class='pad1'>
+    <h1>
+      <a href="../index.html">all files</a> / <a href="index.html">no_subject_webscraper/</a> scraper.js
+    </h1>
+    <div class='clearfix'>
+      <div class='fl pad1y space-right2'>
+        <span class="strong">100% </span>
+        <span class="quiet">Statements</span>
+        <span class='fraction'>177/177</span>
+      </div>
+      <div class='fl pad1y space-right2'>
+        <span class="strong">100% </span>
+        <span class="quiet">Branches</span>
+        <span class='fraction'>71/71</span>
+      </div>
+      <div class='fl pad1y space-right2'>
+        <span class="strong">100% </span>
+        <span class="quiet">Functions</span>
+        <span class='fraction'>37/37</span>
+      </div>
+      <div class='fl pad1y space-right2'>
+        <span class="strong">100% </span>
+        <span class="quiet">Lines</span>
+        <span class='fraction'>53/53</span>
+      </div>
+      <div class='fl pad1y'>
+        <span class="strong">31 statements, 6 functions, 33 branches</span>
+        <span class="quiet">Ignored</span>  &nbsp;&nbsp;&nbsp;&nbsp;
+      </div>
+    </div>
+  </div>
+  <div class='status-line high'></div>
+<pre><table class="coverage">
+<tr><td class="line-count quiet">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+127
+128
+129
+130
+131
+132
+133
+134</td><td class="line-coverage quiet"><span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">5×</span>
+<span class="cline-any cline-yes">5×</span>
+<span class="cline-any cline-yes">5×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">5×</span>
+<span class="cline-any cline-yes">5×</span>
+<span class="cline-any cline-yes">5×</span>
+<span class="cline-any cline-yes">5×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">6×</span>
+<span class="cline-any cline-yes">6×</span>
+<span class="cline-any cline-yes">6×</span>
+<span class="cline-any cline-yes">5×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">5×</span>
+<span class="cline-any cline-yes">5×</span>
+<span class="cline-any cline-yes">5×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">5×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">2×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">3×</span>
+<span class="cline-any cline-yes">3×</span>
+<span class="cline-any cline-yes">3×</span>
+<span class="cline-any cline-yes">3×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">6×</span>
+<span class="cline-any cline-yes">9×</span>
+<span class="cline-any cline-yes">9×</span>
+<span class="cline-any cline-yes">9×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">3×</span>
+<span class="cline-any cline-yes">3×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span></td><td class="text"><pre class="prettyprint lang-js">import async from 'async';
+import bot from 'nodemw';
+import byline from 'byline';
+import console from 'better-console';
+import Utils from './etc/utils';
+import fsp from 'fs-promise';
+import inquirer from 'inquirer';
+import pace from 'pace';
+import { snakeCase } from 'lodash';
+import 'babel-polyfill';
+&nbsp;
+export default class Scraper {
+  constructor(server, path, debug, silent) {
+    this.client = new bot({
+      server: server, // host name of MediaWiki-powered site
+      path: path, // path to api.php script
+      debug: debug // is more verbose when set to true
+    });
+    this.save = true;
+    this.silent = silent;
+    this.test = false;
+  }
+&nbsp;
+  /* istanbul ignore next */
+  prompt() {
+<span class="cstat-skip" title="statement not covered" >    let questions = [{</span>
+      type: 'list',
+      name: 'option',
+      message: 'What do you want to do?',
+      choices: [
+        'Initialize graph json'
+      ]
+    }, {
+      type: 'confirm',
+      name: 'save',
+      message: 'Save article json to file?',
+      default: true
+    }];
+<span class="cstat-skip" title="statement not covered" >    inquirer.prompt(questions, <span class="fstat-skip" title="function not covered" >(answers) =&gt; {</span></span>
+<span class="cstat-skip" title="statement not covered" >      this.save = answers.save;</span>
+<span class="cstat-skip" title="statement not covered" >      switch (answers.option) {</span>
+        case 'Initialize graph json':
+<span class="cstat-skip" title="statement not covered" >          this.generateArticles().then(<span class="fstat-skip" title="function not covered" >articles </span>=&gt; this.populateArticleBacklinks(articles));</span>
+<span class="cstat-skip" title="statement not covered" >          break;</span>
+      }
+    });
+  }
+&nbsp;
+  fetchAllArticles() {
+    return new Promise((resolve, reject) =&gt; {
+      this.client.getAllPages((error, data) =&gt; {
+        <span class="skip-if-branch" title="if path not taken" >I</span>if (error) {
+<span class="cstat-skip" title="statement not covered" >          reject(error);</span>
+<span class="cstat-skip" title="statement not covered" >          return;</span>
+        }
+        let articles = Utils.fixUtf8(JSON.stringify(data, null, 3));
+        resolve(JSON.parse(articles));
+        <span class="skip-if-branch" title="else path not taken" >E</span>if (this.save) {
+          fsp.outputFile('./output/articles.json', articles, <span class="fstat-skip" title="function not covered" >(error) =&gt; {</span>
+<span class="cstat-skip" title="statement not covered" >            error &amp;&amp; !this.silent ? console.error(error) : null;</span>
+          });
+        }
+      });
+    });
+  }
+&nbsp;
+  fetchArticleBacklinks(article) {
+    return new Promise((resolve, reject) =&gt; {
+      let links = {};
+      this.client.getBacklinks(article, (error, data) =&gt; {
+        <span class="skip-if-branch" title="if path not taken" >I</span>if (error) {
+<span class="cstat-skip" title="statement not covered" >          reject(error);</span>
+<span class="cstat-skip" title="statement not covered" >          return;</span>
+        }
+        links = Utils.fixUtf8(JSON.stringify(data));
+        <span class="skip-if-branch" title="else path not taken" >E</span>if (this.save) {
+          fsp.outputFile(`./output/backlinks/${snakeCase(article)}.json`, links, <span class="fstat-skip" title="function not covered" >(error) =&gt; {</span>
+<span class="cstat-skip" title="statement not covered" >            error &amp;&amp; !this.silent ? console.error(error) : null;</span>
+          });
+          resolve(JSON.parse(links));
+        }
+      });
+    });
+  }
+&nbsp;
+  async generateArticles() {
+    let articles = [];
+    try {
+      articles = await fsp.readJson('./output/articles.json');
+    } catch (error) {
+      !this.silent ? <span class="branch-0 cbranch-skip" title="branch not covered" >console.error(error) </span>: null;
+      articles = this.fetchAllArticles();
+    } finally {
+      return Promise.resolve(articles);
+    }
+  }
+&nbsp;
+  async generateArticleBacklinks(article) {
+    let response = {};
+    try {
+      response = await fsp.readJson(`./output/backlinks/${snakeCase(article.title)}.json`);
+    } catch (error) {
+<span class="cstat-skip" title="statement not covered" >      error &amp;&amp; !this.silent ? console.error(error) : null;</span>
+<span class="cstat-skip" title="statement not covered" >      response = this.fetchArticleBacklinks(article.title);</span>
+    } finally {
+      return Promise.resolve(response);
+    }
+  }
+&nbsp;
+  async populateArticleBacklinks(articles) {
+    try {
+      let i = 0;
+      let articlesArray = [];
+      let pace = {};
+      <span class="skip-if-branch" title="if path not taken" >I</span>if (!this.test) {
+<span class="cstat-skip" title="statement not covered" >        pace = require('pace')(articles.length - 1);</span>
+      }
+      for (i; articles.length &gt; i; i += 1) {
+        articles[i].links = await this.generateArticleBacklinks(articles[i]);
+        !this.test ? <span class="branch-0 cbranch-skip" title="branch not covered" >pace.op() </span>: null;
+        articlesArray.push(articles[i]);
+        if (i === articles.length - 1) {
+          fsp.outputFile('./output/backlinks.json', JSON.stringify(articlesArray, null, 3)).then((error) =&gt; {
+            error &amp;&amp; <span class="branch-1 cbranch-skip" title="branch not covered" >!this.silent </span>? <span class="branch-0 cbranch-skip" title="branch not covered" >console.error(error) </span>: null;
+          });
+          return Promise.resolve(articlesArray);
+        }
+      }
+    } catch (error) {
+<span class="cstat-skip" title="statement not covered" >      reject(error);</span>
+    }
+  }
+}
+&nbsp;</pre></td></tr>
+</table></pre>
+<div class='push'></div><!-- for sticky footer -->
+</div><!-- /wrapper -->
+<div class='footer quiet pad2 space-top1 center small'>
+  Code coverage
+  generated by <a href="http://istanbul-js.org/" target="_blank">istanbul</a> at Fri Jan 15 2016 14:28:10 GMT-0500 (EST)
+</div>
+</div>
+<script src="../prettify.js"></script>
+<script>
+window.onload = function () {
+        if (typeof prettyPrint === 'function') {
+            prettyPrint();
+        }
+};
+</script>
+<script src="../sorter.js"></script>
+</body>
+</html>

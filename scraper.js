@@ -18,8 +18,10 @@ export default class Scraper {
     });
     this.save = true;
     this.silent = silent;
+    this.test = false;
   }
 
+  /* istanbul ignore next */
   prompt() {
     let questions = [{
       type: 'list',
@@ -54,8 +56,8 @@ export default class Scraper {
         let articles = Utils.fixUtf8(JSON.stringify(data, null, 3));
         resolve(JSON.parse(articles));
         if (this.save) {
-          fsp.writeFile('./output/articles.json', articles, (error) => {
-            error ? console.error(error) : null;
+          fsp.outputFile('./output/articles.json', articles, (error) => {
+            error && !this.silent ? console.error(error) : null;
           });
         }
       });
@@ -73,7 +75,7 @@ export default class Scraper {
         links = Utils.fixUtf8(JSON.stringify(data));
         if (this.save) {
           fsp.outputFile(`./output/backlinks/${snakeCase(article)}.json`, links, (error) => {
-            error ? console.error(error) : null;
+            error && !this.silent ? console.error(error) : null;
           });
           resolve(JSON.parse(links));
         }
@@ -98,7 +100,7 @@ export default class Scraper {
     try {
       response = await fsp.readJson(`./output/backlinks/${snakeCase(article.title)}.json`);
     } catch (error) {
-      !this.silent ? console.error(error) : null;
+      error && !this.silent ? console.error(error) : null;
       response = this.fetchArticleBacklinks(article.title);
     } finally {
       return Promise.resolve(response);
@@ -110,16 +112,16 @@ export default class Scraper {
       let i = 0;
       let articlesArray = [];
       let pace = {};
-      if (!this.silent) {
+      if (!this.test) {
         pace = require('pace')(articles.length - 1);
       }
       for (i; articles.length > i; i += 1) {
         articles[i].links = await this.generateArticleBacklinks(articles[i]);
-        !this.silent ? pace.op() : null;
+        !this.test ? pace.op() : null;
         articlesArray.push(articles[i]);
         if (i === articles.length - 1) {
           fsp.outputFile('./output/backlinks.json', JSON.stringify(articlesArray, null, 3)).then((error) => {
-            error ? console.error(error) : null;
+            error && !this.silent ? console.error(error) : null;
           });
           return Promise.resolve(articlesArray);
         }

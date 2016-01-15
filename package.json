@@ -4,14 +4,15 @@
   "description": "data visualization for nosubject.com",
   "main": "index.js",
   "scripts": {
-    "start": "babel-node index.js",
+    "start": "make start",
     "test": "make test",
     "coverage": "make test-cov"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "babel-cli": "^6.3.17",
+    "babel-cli": "^6.4.0",
+    "babel-core": "^6.4.0",
     "babel-plugin-transform-async-to-generator": "^6.3.13",
     "babel-plugin-transform-class-properties": "^6.3.13",
     "babel-plugin-transform-decorators-legacy": "^1.3.3",
@@ -19,7 +20,7 @@
     "babel-preset-es2015": "^6.3.13",
     "babel-preset-react": "^6.3.13",
     "babel-preset-stage-0": "^6.3.13",
-    "babel-register": "^6.3.13",
+    "babel-register": "^6.4.3",
     "babelify": "^7.2.0",
     "better-console": "^0.2.4",
     "chai": "^3.4.1",
@@ -43,10 +44,8 @@
     "isparta": "^4.0.0",
     "istanbul": "^0.4.2",
     "mocha": "^2.3.4",
-    "mock-fs": "^3.6.0",
     "nodemw": "^0.8.0",
     "path": "^0.12.7",
-    "proxyquire": "^1.7.3",
     "sinon": "^1.17.2",
     "vinyl-source-stream": "^1.1.0",
     "watchify": "^3.6.1"
@@ -62,6 +61,7 @@
     "d3": "^3.5.12",
     "fs-extra": "^0.26.4",
     "fs-promise": "^0.3.1",
+    "gulp": "^3.9.0",
     "inquirer": "^0.11.2",
     "pace": "0.0.4",
     "parsoid": "^0.4.0",
@@ -69,6 +69,6 @@
     "react-dom": "^0.14.3",
     "react-inline-css": "^2.0.1",
     "react-simple-dropdown": "^1.0.1",
-    "react-typeahead": "git+https://github.com/fmoo/react-typeahead.git"
+    "react-typeahead": "^1.1.5"
   }
 }

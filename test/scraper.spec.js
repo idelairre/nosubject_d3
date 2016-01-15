@@ -1,14 +1,13 @@
-import articles from './data/test_articles';
-import backlinks from './data/test_backlinks';
 import bot from 'nodemw';
 import chai, { assert } from 'chai';
-import isPromise from 'is-promise';
 import fsp from 'fs-promise';
+import isPromise from 'is-promise';
 import malformedArticles from './data/test_malformed_articles';
 import malformedLinks from './data/test_malformed_links';
 import sinon from 'sinon';
 import Scraper from '../scraper';
-import proxyquire from 'proxyquire';
+import testArticles from './data/test_articles';
+import testBacklinks from './data/test_backlinks';
 import testOutput from './data/test_output';
 import Utils from '../etc/utils';
 import 'babel-polyfill';
@@ -18,25 +17,10 @@ let stub = {};
 let client = {};
 let res = {};
 
-describe('Utils', function () {
-  describe('Utils#fixUtf8', function () {
-    it('should fix malformed utf8 encoded strings: ÃƒÅ tres vivants --> Êtres vivants', function () {
-      assert.equal(Utils.fixUtf8('ÃƒÅ tres vivants'), 'Êtres vivants');
-    });
-
-    it('should fix malformed utf8 encoded strings: Ãƒâ€°chec --> Échec', function () {
-      assert.equal(Utils.fixUtf8('Ãƒâ€°chec'), 'Échec');
-    });
-
-    it('should fix malformed utf8 encoded strings: ?â€°crits --> Écrits', function () {
-      assert.equal(Utils.fixUtf8('?â€°crits'), 'Écrits');
-    });
-  });
-});
-
 describe('Scraper', async function() {
   before(function() {
     scraper = new Scraper('nosubject.com', '/', false, true);
+    scraper.test = true;
   });
   describe('Scraper#fetchAllArticles()', async function() {
     before(function() {
@@ -62,7 +46,7 @@ describe('Scraper', async function() {
 
     it('should call method to fix utf8 encoding', async function (done) {
       this.timeout(15000);
-      sinon.stub(Utils, "fixUtf8").returns(JSON.stringify(articles));
+      sinon.stub(Utils, "fixUtf8").returns(JSON.stringify(testArticles));
       try {
         let response = await scraper.fetchAllArticles();
         assert.ok(response);
@@ -109,8 +93,8 @@ describe('Scraper', async function() {
     before(function() {
       let fspPromise = sinon.stub(fsp, 'outputFile').returns(null);
       let outputPromise = sinon.stub(scraper.client, 'getBacklinks');
-      outputPromise.onCall(1).callsArgWith(1, null, backlinks[0].links);
-      outputPromise.onCall(2).callsArgWith(1, null, backlinks[0].links);
+      outputPromise.onCall(1).callsArgWith(1, null, testBacklinks[0].links);
+      outputPromise.onCall(2).callsArgWith(1, null, testBacklinks[0].links);
       outputPromise.onCall(3).callsArgWith(1, null, [{"pageid":2805,"ns":0,"title":"Knowledge"}]);
       outputPromise.onCall(4).callsArgWith(1, null, [{"pageid":9254,"ns":0,"title":"Alexandre Koyré","redirect":""}]);
       outputPromise.onCall(5).callsArgWith(1, null, malformedLinks);
@@ -126,7 +110,7 @@ describe('Scraper', async function() {
         let response = await scraper.fetchArticleBacklinks('Slavoj Zizek Cocaine Fest 2012: The Porno');
         assert.ok(response);
         assert.isArray(response);
-        assert.equal(JSON.stringify(response), JSON.stringify(backlinks[0].links), 'given well formed data, the response from the scraper is the same as the response from the nodemw bot');
+        assert.equal(JSON.stringify(response), JSON.stringify(testBacklinks[0].links), 'given well formed data, the response from the scraper is the same as the response from the nodemw bot');
         done();
       } catch (error) {
         done(error);
@@ -196,10 +180,10 @@ describe('Scraper', async function() {
 
   describe('Scraper#generateArticles', function () {
     before(function () {
-      let readJson = sinon.stub(fsp, "readJson").withArgs('./output/articles.json').returns(Promise.resolve(articles));
+      let readJson = sinon.stub(fsp, "readJson").withArgs('./output/articles.json').returns(Promise.resolve(testArticles));
       readJson.onCall(1).throws();
-      let fetchArticlesStub = sinon.stub(scraper, "fetchAllArticles").returns(Promise.resolve(articles));
-      fetchArticlesStub.returns(Promise.resolve(articles));
+      let fetchArticlesStub = sinon.stub(scraper, "fetchAllArticles").returns(Promise.resolve(testArticles));
+      fetchArticlesStub.returns(Promise.resolve(testArticles));
     });
 
     it('should check to see if the article file exists and require it if it does', async function(done) {
@@ -207,7 +191,7 @@ describe('Scraper', async function() {
         let response = await scraper.generateArticles();
         assert.ok(response);
         sinon.assert.called(fsp.readJson);
-        assert.equal(response, articles, 'the stub data and required data are the same');
+        assert.equal(response, testArticles, 'the stub data and required data are the same');
         done();
       } catch (error) {
         done(error);
@@ -265,15 +249,15 @@ describe('Scraper', async function() {
     before(function() {
       sinon.stub(fsp, 'outputFile').withArgs('./output/backlinks.json').returns(Promise.resolve(null));
       sinon.stub(scraper, 'generateArticleBacklinks')
-           .withArgs(articles[0]).returns(Promise.resolve(backlinks[0].links))
-           .withArgs(articles[1]).returns(Promise.resolve(backlinks[1].links))
-           .withArgs(articles[2]).returns(Promise.resolve(backlinks[2].links));
+           .withArgs(testArticles[0]).returns(Promise.resolve(testBacklinks[0].links))
+           .withArgs(testArticles[1]).returns(Promise.resolve(testBacklinks[1].links))
+           .withArgs(testArticles[2]).returns(Promise.resolve(testBacklinks[2].links));
     });
 
     it('called the same number of times as the array size', async function(done) {
       try {
-        let response = await scraper.populateArticleBacklinks(articles);
-        sinon.assert.callCount(scraper.generateArticleBacklinks, articles.length);
+        let response = await scraper.populateArticleBacklinks(testArticles);
+        sinon.assert.callCount(scraper.generateArticleBacklinks, testArticles.length);
         done();
       } catch (error) {
         done(error);
@@ -283,9 +267,9 @@ describe('Scraper', async function() {
     it('appends a list of backlinked articles to each article', async function(done) {
       this.timeout(15000);
       try {
-        let response = await scraper.populateArticleBacklinks(articles);
+        let response = await scraper.populateArticleBacklinks(testArticles);
         assert.ok(response);
-        assert.equal(JSON.stringify(response), JSON.stringify(backlinks));
+        assert.equal(JSON.stringify(response), JSON.stringify(testBacklinks));
         done();
       } catch (error) {
         done(error);
@@ -295,7 +279,7 @@ describe('Scraper', async function() {
     it('writes backlinks.json once it appended all backlinks to articles', async function(done) {
       this.timeout(15000);
       try {
-        let response = await scraper.populateArticleBacklinks(articles);
+        let response = await scraper.populateArticleBacklinks(testArticles);
         sinon.assert.called(fsp.outputFile);
         done();
       } catch (error) {
@@ -306,6 +290,22 @@ describe('Scraper', async function() {
     after(function() {
       fsp.outputFile.restore();
       scraper.generateArticleBacklinks.restore();
+    });
+  });
+});
+
+describe('Utils', function () {
+  describe('Utils#fixUtf8', function () {
+    it('should fix malformed utf8 encoded strings: ÃƒÅ tres vivants --> Êtres vivants', function () {
+      assert.equal(Utils.fixUtf8('ÃƒÅ tres vivants'), 'Êtres vivants');
+    });
+
+    it('should fix malformed utf8 encoded strings: Ãƒâ€°chec --> Échec', function () {
+      assert.equal(Utils.fixUtf8('Ãƒâ€°chec'), 'Échec');
+    });
+
+    it('should fix malformed utf8 encoded strings: ?â€°crits --> Écrits', function () {
+      assert.equal(Utils.fixUtf8('?â€°crits'), 'Écrits');
     });
   });
 });

@@ -26,7 +26,7 @@ class D3Chart {
       .gravity(0.5)
       .friction(0.4)
       .linkDistance(300)
-      .charge(-9000)
+      .charge(-10000)
       .linkStrength((x) => {
         return x.weight * 5
       });
