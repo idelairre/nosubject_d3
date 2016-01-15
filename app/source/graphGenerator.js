@@ -1,5 +1,4 @@
 import backlinks from '../../output/backlinks';
-import categories from '../../output/categories';
 import { union } from 'lodash';
 import d3Chart from '../components/d3Chart';
 import 'babel-polyfill';
