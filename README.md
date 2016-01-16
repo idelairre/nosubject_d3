@@ -7,8 +7,9 @@ a quick and dirty scraper utility to create json to visualize articles and backl
 + better styling and readability
 + ~~make the graph more performant (there is a massive slowdown after 400 nodes)~~
 + find a way to pre-generate nodes with static json rather than generate them in the browser (note: a lot of problems emerged here.)
-+ make scraper methods work for other wikis besides nosubject.
-+ tests
++ ~~make scraper methods work for other wikis besides nosubject.~~
++ ~~tests~~
++ tests for d3(?)
 
 ## conclusion
 for more complicated force directed graphs, react does not yet play well with d3: http://stackoverflow.com/questions/30330646/how-to-create-a-d3-force-layout-graph-using-react/34485379#34485379

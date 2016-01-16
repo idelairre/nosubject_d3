@@ -1,6 +1,6 @@
 import backlinks from '../../output/backlinks';
 import d3Chart from '../components/d3Chart';
-import { union, difference, uniq } from 'lodash';
+import { union } from 'lodash';
 import 'babel-polyfill';
 
 class GraphGenerator {
