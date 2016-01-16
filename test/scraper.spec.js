@@ -307,5 +307,9 @@ describe('Utils', function () {
     it('should fix malformed utf8 encoded strings: ?â€°crits --> Écrits', function () {
       assert.equal(Utils.fixUtf8('?â€°crits'), 'Écrits');
     });
+
+    it('should leave question marks at the end of strings alone', function () {
+      assert.equal(Utils.fixUtf8('Today, Iraq. Tomorrow ... Democracy?'), 'Today, Iraq. Tomorrow ... Democracy?');
+    })
   });
 });

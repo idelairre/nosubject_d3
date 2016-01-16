@@ -3,10 +3,8 @@ import ReactDOM from 'react-dom';
 import graphGenerator from '../source/graphGenerator';
 
 class D3Chart {
-  constructor(element, height, width) {
-    this.element = element;
-    this.height = height;
-    this.width = width;
+  constructor(...args) {
+    this.args = args;
   }
 
   initialize(element, height, width) {
@@ -283,6 +281,6 @@ class D3Chart {
   }
 }
 
-let d3Chart = new D3Chart();
+const d3Chart = new D3Chart();
 
 export default d3Chart;

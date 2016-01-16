@@ -8,9 +8,9 @@ class LinkedNodeGenerator extends AsyncDispatch {
     super(dispatcher, name);
   }
 
-  generateLinkedNodes(title) {
+  generateLinkedNodes(title, backlinks) {
     return this.send(null, status => {
-        return graphGenerator.generateLinkedNodes(title);
+        return graphGenerator.generateLinkedNodes(title, backlinks);
     }, {
       success: ChartActions.generatedLinkedNodes,
       failure: ChartActions.generatingLinkedNodesFailed

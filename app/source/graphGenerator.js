@@ -7,7 +7,6 @@ class GraphGenerator {
   constructor() {
     this.storedArticles = [];
     this.storedNodes = [];
-    this.backlinks = backlinks;
   };
 
   clearGraph() {
@@ -120,7 +119,7 @@ class GraphGenerator {
     }
   }
 
-  async generateLinkedNodes(title) {
+  async generateLinkedNodes(title, toggleBacklinkedNodes) {
     try {
       let article = await this.fetchArticle(title);
       let articles = [];
@@ -131,11 +130,13 @@ class GraphGenerator {
           articles.push(foundArticle);
         }
       }
-      for (let i = 0; backlinks.length > i; i += 1) {
-        for (let j = 0; backlinks[i].links.length > j; j += 1) {
-          if (backlinks[i].links[j].title === title) {
-            articles.push(backlinks[i]);
-            break;
+      if (toggleBacklinkedNodes) {
+        for (let i = 0; backlinks.length > i; i += 1) {
+          for (let j = 0; backlinks[i].links.length > j; j += 1) {
+            if (backlinks[i].links[j].title === title) {
+              articles.push(backlinks[i]);
+              break;
+            }
           }
         }
       }
@@ -154,25 +155,29 @@ class GraphGenerator {
   }
 
   generateLinks(nodes, articles) {
-    let foundNodes = [];
-    let links = [];
-    for (let j = 0; articles.length > j; j += 1) {
-      let sourceNode = this.findNode(articles[j].title, nodes);
-      if (sourceNode !== undefined && articles[j].hasOwnProperty('links')) {
-        for (let k = 0; articles[j].links.length > k; k += 1) {
-          let targetNode = this.findNode(articles[j].links[k].title, nodes);
-          if (targetNode !== undefined && targetNode.label !== sourceNode.label) {
-            let link = {
-              source: sourceNode,
-              target: targetNode,
-              weight: Math.random()
-            };
-            links.push(link);
+    try {
+      let foundNodes = [];
+      let links = [];
+      for (let j = 0; articles.length > j; j += 1) {
+        let sourceNode = this.findNode(articles[j].title, nodes);
+        if (sourceNode !== undefined && articles[j].hasOwnProperty('links')) {
+          for (let k = 0; articles[j].links.length > k; k += 1) {
+            let targetNode = this.findNode(articles[j].links[k].title, nodes);
+            if (targetNode !== undefined && targetNode.label !== sourceNode.label) {
+              let link = {
+                source: sourceNode,
+                target: targetNode,
+                weight: Math.random()
+              };
+              links.push(link);
+            }
           }
         }
       }
+      return links;
+    } catch (error) {
+      console.error(error);
     }
-    return links;
   }
 
   generateNodes(nodeCount, articles) {

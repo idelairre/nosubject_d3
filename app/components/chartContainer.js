@@ -6,10 +6,6 @@ import connectToStores from 'alt-utils/lib/connectToStores';
 import Chart from './chart';
 import NodeControls from './buttons/nodeControls';
 
-function getRandomInt(min, max) {
-  return Math.floor(Math.random() * (max - min)) + min;
-}
-
 @connectToStores
 export default class ChartContainer extends React.Component {
   static defaultProps = { nodes: [] };
@@ -23,20 +19,24 @@ export default class ChartContainer extends React.Component {
     return ChartStore.getState();
   }
 
+  getRandomInt(min, max) {
+    return Math.floor(Math.random() * (max - min)) + min;
+  }
+
   componentWillMount() {
-    let number = getRandomInt(0, 4);
+    let number = this.getRandomInt(0, 4);
     switch(number) {
       case 0:
-        ChartActions.generateLinkedNodes("Anxiety");
+        ChartActions.generateLinkedNodes("Anxiety", false);
         break;
       case 1:
-        ChartActions.generateLinkedNodes("Ideology");
+        ChartActions.generateLinkedNodes("Ideology", false);
         break;
       case 2:
-        ChartActions.generateLinkedNodes("Jouissance");
+        ChartActions.generateLinkedNodes("Jouissance", false);
         break;
       case 3:
-        ChartActions.generateLinkedNodes("Alienation");
+        ChartActions.generateLinkedNodes("Alienation", false);
         break;
       }
   }

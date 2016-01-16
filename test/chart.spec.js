@@ -94,19 +94,6 @@ describe('GraphGenerator', function() {
     });
   });
 
-  describe('GraphGenerator#generateNodes', function() {
-    it('generates the given number of nodes', async function(done) {
-      try {
-        let articles = await graphGenerator.generateArticles(15);
-        let nodes = graphGenerator.generateNodes(15, articles);
-        assert.equal(nodes.length, 15);
-        done();
-      } catch (error) {
-        done(error)
-      }
-    });
-  });
-
   describe('GraphGenerator#generateLinkedNodes', function() {
     it('generates the given node', async function(done) {
       try {
@@ -228,6 +215,19 @@ describe('GraphGenerator', function() {
         done();
       } catch (error) {
         done(error);
+      }
+    });
+  });
+
+  describe('GraphGenerator#generateNodes', function() {
+    it('generates the given number of nodes', async function(done) {
+      try {
+        let articles = await graphGenerator.generateArticles(15);
+        let nodes = graphGenerator.generateNodes(15, articles);
+        assert.equal(nodes.length, 15);
+        done();
+      } catch (error) {
+        done(error)
       }
     });
   });

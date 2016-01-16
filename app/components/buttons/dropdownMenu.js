@@ -16,27 +16,22 @@ export default class DropdownMenu extends React.Component {
           width: 100%;
           padding: 5px;
         }
-
         & a:hover {
           cursor: pointer;
         }
-
         & .dropdown__content {
             display: none;
             position: absolute;
         }
-
         & .dropdown--active .dropdown__content {
             display: inline-block;
         }
-
         & .list {
          display: inline-block;
          position: absolute;
          width: 400px;
          margin-left: 4px;
         }
-
         & li {
          position: relative;
          width: 90px;

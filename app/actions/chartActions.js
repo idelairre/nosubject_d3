@@ -28,8 +28,8 @@ class ChartActions {
     return errorMessage;
   }
 
-  generateLinkedNodes(title) {
-    return linkedNodeGenerator.generateLinkedNodes(title)
+  generateLinkedNodes(title, backlinks) {
+    return linkedNodeGenerator.generateLinkedNodes(title, backlinks)
   }
 
   generatedLinkedNodes(nodes) {

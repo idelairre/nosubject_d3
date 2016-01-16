@@ -772,7 +772,7 @@
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 3114,
@@ -938,80 +938,7 @@
       "pageid": 3086,
       "ns": 0,
       "title": "Acting-out",
-      "links": [
-         {
-            "pageid": 1467,
-            "ns": 0,
-            "title": "Act"
-         },
-         {
-            "pageid": 1622,
-            "ns": 0,
-            "title": "Repetition"
-         },
-         {
-            "pageid": 1640,
-            "ns": 0,
-            "title": "Acting Out",
-            "redirect": ""
-         },
-         {
-            "pageid": 1644,
-            "ns": 0,
-            "title": "Anxiety"
-         },
-         {
-            "pageid": 1684,
-            "ns": 0,
-            "title": "Sinthome"
-         },
-         {
-            "pageid": 1707,
-            "ns": 0,
-            "title": "Passage to the Act"
-         },
-         {
-            "pageid": 1710,
-            "ns": 0,
-            "title": "Recollection"
-         },
-         {
-            "pageid": 1715,
-            "ns": 0,
-            "title": "Scene"
-         },
-         {
-            "pageid": 2037,
-            "ns": 0,
-            "title": "Seminar X"
-         },
-         {
-            "pageid": 3410,
-            "ns": 0,
-            "title": "Mourning"
-         },
-         {
-            "pageid": 3430,
-            "ns": 0,
-            "title": "Return of the Repressed"
-         },
-         {
-            "pageid": 3763,
-            "ns": 0,
-            "title": "Passage to the act"
-         },
-         {
-            "pageid": 5791,
-            "ns": 0,
-            "title": "Dictionary"
-         },
-         {
-            "pageid": 5837,
-            "ns": 0,
-            "title": "Agieren",
-            "redirect": ""
-         }
-      ]
+      "links": []
    },
    {
       "pageid": 3764,
@@ -1577,7 +1504,18 @@
       "pageid": 2761,
       "ns": 0,
       "title": "Against The Double Blackmail",
-      "links": []
+      "links": [
+         {
+            "pageid": 2354,
+            "ns": 0,
+            "title": "Against the Double Blackmail"
+         },
+         {
+            "pageid": 7737,
+            "ns": 0,
+            "title": "Articles by Slavoj Zizek"
+         }
+      ]
    },
    {
       "pageid": 2354,
@@ -1761,7 +1699,7 @@
          {
             "pageid": 2711,
             "ns": 0,
-            "title": "Today, Iraq. Tomorrow ... DemocracyÃ"
+            "title": "Today, Iraq. Tomorrow ... Democracy?"
          },
          {
             "pageid": 2717,
@@ -1985,7 +1923,7 @@
          {
             "pageid": 2711,
             "ns": 0,
-            "title": "Today, Iraq. Tomorrow ... DemocracyÃ"
+            "title": "Today, Iraq. Tomorrow ... Democracy?"
          }
       ]
    },
@@ -2725,7 +2663,162 @@
       "pageid": 1642,
       "ns": 0,
       "title": "Alienation",
-      "links": []
+      "links": [
+         {
+            "pageid": 1524,
+            "ns": 0,
+            "title": "Imaginary"
+         },
+         {
+            "pageid": 1575,
+            "ns": 0,
+            "title": "Mirror stage"
+         },
+         {
+            "pageid": 1610,
+            "ns": 0,
+            "title": "Identification"
+         },
+         {
+            "pageid": 1615,
+            "ns": 0,
+            "title": "Ego"
+         },
+         {
+            "pageid": 1620,
+            "ns": 0,
+            "title": "Repression"
+         },
+         {
+            "pageid": 1646,
+            "ns": 0,
+            "title": "Adaptation"
+         },
+         {
+            "pageid": 1648,
+            "ns": 0,
+            "title": "Aphanisis"
+         },
+         {
+            "pageid": 1679,
+            "ns": 0,
+            "title": "Split"
+         },
+         {
+            "pageid": 1719,
+            "ns": 0,
+            "title": "Paranoia"
+         },
+         {
+            "pageid": 2007,
+            "ns": 0,
+            "title": "Méconnaissance"
+         },
+         {
+            "pageid": 2478,
+            "ns": 0,
+            "title": "Nature"
+         },
+         {
+            "pageid": 2482,
+            "ns": 0,
+            "title": "Separation"
+         },
+         {
+            "pageid": 2679,
+            "ns": 0,
+            "title": "Gap"
+         },
+         {
+            "pageid": 3007,
+            "ns": 0,
+            "title": "Erich Fromm"
+         },
+         {
+            "pageid": 3310,
+            "ns": 0,
+            "title": "Death Instinct"
+         },
+         {
+            "pageid": 3326,
+            "ns": 0,
+            "title": "Cocaine"
+         },
+         {
+            "pageid": 3407,
+            "ns": 0,
+            "title": "Passion"
+         },
+         {
+            "pageid": 3567,
+            "ns": 0,
+            "title": "Ego-psychology"
+         },
+         {
+            "pageid": 4806,
+            "ns": 0,
+            "title": "Self-Consciousness"
+         },
+         {
+            "pageid": 5286,
+            "ns": 0,
+            "title": "Guy-Ernest Debord"
+         },
+         {
+            "pageid": 5791,
+            "ns": 0,
+            "title": "Dictionary"
+         },
+         {
+            "pageid": 6011,
+            "ns": 0,
+            "title": "Alienating",
+            "redirect": ""
+         },
+         {
+            "pageid": 6295,
+            "ns": 0,
+            "title": "Alienated",
+            "redirect": ""
+         },
+         {
+            "pageid": 6674,
+            "ns": 0,
+            "title": "Alienate",
+            "redirect": ""
+         },
+         {
+            "pageid": 6794,
+            "ns": 0,
+            "title": "Entfremdung",
+            "redirect": ""
+         },
+         {
+            "pageid": 6983,
+            "ns": 0,
+            "title": "The Four Fundamental Concepts of Psycho-Analysis"
+         },
+         {
+            "pageid": 7460,
+            "ns": 0,
+            "title": "Introduction: Imaginary"
+         },
+         {
+            "pageid": 7557,
+            "ns": 0,
+            "title": "Introducing Lacan"
+         },
+         {
+            "pageid": 7664,
+            "ns": 0,
+            "title": "A Compendium of Lacanian Terms"
+         },
+         {
+            "pageid": 8410,
+            "ns": 0,
+            "title": "Test Main Page"
+         }
+      ]
    },
    {
       "pageid": 3091,
@@ -4275,14 +4368,9 @@
       "title": "Anna O",
       "links": [
          {
-            "pageid": 2068,
+            "pageid": 1600,
             "ns": 0,
-            "title": "Studies on Hysteria"
-         },
-         {
-            "pageid": 2119,
-            "ns": 0,
-            "title": "Sigmund Freud"
+            "title": "Transference"
          }
       ]
    },
@@ -5628,7 +5716,7 @@
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 2716,
@@ -5638,7 +5726,7 @@
          {
             "pageid": 2719,
             "ns": 0,
-            "title": "Will You Laugh for Me, PleaseÃ"
+            "title": "Will You Laugh for Me, Please?"
          },
          {
             "pageid": 2823,
@@ -6079,7 +6167,13 @@
       "pageid": 2514,
       "ns": 0,
       "title": "Auto-Eroticism",
-      "links": []
+      "links": [
+         {
+            "pageid": 2469,
+            "ns": 0,
+            "title": "Eroticism"
+         }
+      ]
    },
    {
       "pageid": 5055,
@@ -6484,7 +6578,13 @@
       "pageid": 3109,
       "ns": 0,
       "title": "Barre",
-      "links": []
+      "links": [
+         {
+            "pageid": 1645,
+            "ns": 0,
+            "title": "Bar"
+         }
+      ]
    },
    {
       "pageid": 3110,
@@ -6569,31 +6669,9 @@
       "title": "Beautiful Soul",
       "links": [
          {
-            "pageid": 1696,
+            "pageid": 2306,
             "ns": 0,
-            "title": "Philosophy"
-         },
-         {
-            "pageid": 5791,
-            "ns": 0,
-            "title": "Dictionary"
-         },
-         {
-            "pageid": 6380,
-            "ns": 0,
-            "title": "Belle âme",
-            "redirect": ""
-         },
-         {
-            "pageid": 6436,
-            "ns": 0,
-            "title": "Schöne Seele",
-            "redirect": ""
-         },
-         {
-            "pageid": 8410,
-            "ns": 0,
-            "title": "Test Main Page"
+            "title": "Politics"
          }
       ]
    },
@@ -6964,12 +7042,12 @@
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 2719,
             "ns": 0,
-            "title": "Will You Laugh for Me, PleaseÃ"
+            "title": "Will You Laugh for Me, Please?"
          },
          {
             "pageid": 2721,
@@ -7185,9 +7263,64 @@
       "title": "Beyond the Pleasure Principle",
       "links": [
          {
-            "pageid": 3917,
+            "pageid": 1474,
             "ns": 0,
-            "title": "Index:Parallax View"
+            "title": "Death drive"
+         },
+         {
+            "pageid": 1525,
+            "ns": 0,
+            "title": "Jouissance"
+         },
+         {
+            "pageid": 1639,
+            "ns": 0,
+            "title": "Absence"
+         },
+         {
+            "pageid": 2022,
+            "ns": 0,
+            "title": "The ego in Freud's theory and in the technique of psychoanalysis"
+         },
+         {
+            "pageid": 2065,
+            "ns": 0,
+            "title": "Civilization and Its Discontents"
+         },
+         {
+            "pageid": 2069,
+            "ns": 0,
+            "title": "The Interpretation of Dreams"
+         },
+         {
+            "pageid": 2074,
+            "ns": 0,
+            "title": "Seminar II"
+         },
+         {
+            "pageid": 2092,
+            "ns": 0,
+            "title": "Eros"
+         },
+         {
+            "pageid": 2119,
+            "ns": 0,
+            "title": "Sigmund Freud"
+         },
+         {
+            "pageid": 2565,
+            "ns": 0,
+            "title": "No Subject - Articles"
+         },
+         {
+            "pageid": 4753,
+            "ns": 0,
+            "title": "Fort-Da"
+         },
+         {
+            "pageid": 4768,
+            "ns": 0,
+            "title": "Lost object"
          }
       ]
    },
@@ -7263,7 +7396,7 @@
          {
             "pageid": 2719,
             "ns": 0,
-            "title": "Will You Laugh for Me, PleaseÃ"
+            "title": "Will You Laugh for Me, Please?"
          },
          {
             "pageid": 3763,
@@ -8895,12 +9028,12 @@
          {
             "pageid": 2711,
             "ns": 0,
-            "title": "Today, Iraq. Tomorrow ... DemocracyÃ"
+            "title": "Today, Iraq. Tomorrow ... Democracy?"
          },
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 2717,
@@ -9342,13 +9475,7 @@
       "pageid": 5708,
       "ns": 0,
       "title": "Case Histories",
-      "links": [
-         {
-            "pageid": 2070,
-            "ns": 0,
-            "title": "The Seminar"
-         }
-      ]
+      "links": []
    },
    {
       "pageid": 6151,
@@ -9895,23 +10022,7 @@
       "pageid": 5691,
       "ns": 0,
       "title": "Cathartic Method",
-      "links": [
-         {
-            "pageid": 1439,
-            "ns": 0,
-            "title": "Translation"
-         },
-         {
-            "pageid": 3809,
-            "ns": 0,
-            "title": "Glossary2"
-         },
-         {
-            "pageid": 4878,
-            "ns": 0,
-            "title": "Discharge"
-         }
-      ]
+      "links": []
    },
    {
       "pageid": 3823,
@@ -11113,7 +11224,7 @@
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 2723,
@@ -11183,7 +11294,7 @@
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 2721,
@@ -11258,7 +11369,7 @@
          {
             "pageid": 2711,
             "ns": 0,
-            "title": "Today, Iraq. Tomorrow ... DemocracyÃ"
+            "title": "Today, Iraq. Tomorrow ... Democracy?"
          },
          {
             "pageid": 2717,
@@ -11305,23 +11416,7 @@
       "pageid": 3302,
       "ns": 0,
       "title": "Cinema and Psychoanalysis",
-      "links": [
-         {
-            "pageid": 4804,
-            "ns": 0,
-            "title": "Feminism and psychoanalysis"
-         },
-         {
-            "pageid": 4875,
-            "ns": 0,
-            "title": "Nightmare"
-         },
-         {
-            "pageid": 4907,
-            "ns": 0,
-            "title": "Dream-work"
-         }
-      ]
+      "links": []
    },
    {
       "pageid": 8738,
@@ -11387,7 +11482,7 @@
          {
             "pageid": 2711,
             "ns": 0,
-            "title": "Today, Iraq. Tomorrow ... DemocracyÃ"
+            "title": "Today, Iraq. Tomorrow ... Democracy?"
          }
       ]
    },
@@ -11629,33 +11724,7 @@
       "pageid": 2328,
       "ns": 0,
       "title": "Class Struggle",
-      "links": [
-         {
-            "pageid": 2185,
-            "ns": 0,
-            "title": "Ernesto Laclau"
-         },
-         {
-            "pageid": 2198,
-            "ns": 0,
-            "title": "Chantal Mouffe"
-         },
-         {
-            "pageid": 2415,
-            "ns": 0,
-            "title": "The Two Totalitarianisms"
-         },
-         {
-            "pageid": 2716,
-            "ns": 0,
-            "title": "The Free World ... of Slums"
-         },
-         {
-            "pageid": 4220,
-            "ns": 0,
-            "title": "Against the Populist Temptation"
-         }
-      ]
+      "links": []
    },
    {
       "pageid": 4392,
@@ -11732,16 +11801,14 @@
       "title": "Claude Levi-Strauss",
       "links": [
          {
-            "pageid": 7851,
+            "pageid": 2478,
             "ns": 0,
-            "title": "Lévi-Strauss",
-            "redirect": ""
+            "title": "Nature"
          },
          {
-            "pageid": 9257,
+            "pageid": 3917,
             "ns": 0,
-            "title": "Claude Lévi-Strauss",
-            "redirect": ""
+            "title": "Index:Parallax View"
          }
       ]
    },
@@ -12004,7 +12071,47 @@
       "pageid": 2914,
       "ns": 0,
       "title": "Cogito and The Unconscious",
-      "links": []
+      "links": [
+         {
+            "pageid": 2911,
+            "ns": 0,
+            "title": "Slavoj Zizek - Bibliography"
+         },
+         {
+            "pageid": 8099,
+            "ns": 0,
+            "title": "Miran Bozovic",
+            "redirect": ""
+         },
+         {
+            "pageid": 8100,
+            "ns": 0,
+            "title": "Alain Grosrichard",
+            "redirect": ""
+         },
+         {
+            "pageid": 8101,
+            "ns": 0,
+            "title": "Marc de Kessel",
+            "redirect": ""
+         },
+         {
+            "pageid": 8102,
+            "ns": 0,
+            "title": "Robert Pfaller",
+            "redirect": ""
+         },
+         {
+            "pageid": 8108,
+            "ns": 0,
+            "title": "Book Covers"
+         },
+         {
+            "pageid": 8134,
+            "ns": 0,
+            "title": "Slavoj Zizek:Covers of Books"
+         }
+      ]
    },
    {
       "pageid": 1822,
@@ -12265,18 +12372,7 @@
       "pageid": 2992,
       "ns": 0,
       "title": "Commodity Fetishism",
-      "links": [
-         {
-            "pageid": 1590,
-            "ns": 0,
-            "title": "Fetishism"
-         },
-         {
-            "pageid": 5282,
-            "ns": 0,
-            "title": "Baudrillard"
-         }
-      ]
+      "links": []
    },
    {
       "pageid": 5558,
@@ -12535,17 +12631,17 @@
          {
             "pageid": 2711,
             "ns": 0,
-            "title": "Today, Iraq. Tomorrow ... DemocracyÃ"
+            "title": "Today, Iraq. Tomorrow ... Democracy?"
          },
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 2719,
             "ns": 0,
-            "title": "Will You Laugh for Me, PleaseÃ"
+            "title": "Will You Laugh for Me, Please?"
          },
          {
             "pageid": 2721,
@@ -13472,7 +13568,7 @@
          {
             "pageid": 2719,
             "ns": 0,
-            "title": "Will You Laugh for Me, PleaseÃ"
+            "title": "Will You Laugh for Me, Please?"
          },
          {
             "pageid": 2722,
@@ -13965,29 +14061,9 @@
       "title": "Courtly Love",
       "links": [
          {
-            "pageid": 2245,
+            "pageid": 2652,
             "ns": 0,
-            "title": "Jacques Lacan:Sexual Difference"
-         },
-         {
-            "pageid": 2438,
-            "ns": 0,
-            "title": "Seminar VII"
-         },
-         {
-            "pageid": 2457,
-            "ns": 0,
-            "title": "Love"
-         },
-         {
-            "pageid": 5024,
-            "ns": 0,
-            "title": "Formulae of sexuation"
-         },
-         {
-            "pageid": 5413,
-            "ns": 0,
-            "title": "Working"
+            "title": "Lacan - iek"
          }
       ]
    },
@@ -14394,12 +14470,12 @@
          {
             "pageid": 2711,
             "ns": 0,
-            "title": "Today, Iraq. Tomorrow ... DemocracyÃ"
+            "title": "Today, Iraq. Tomorrow ... Democracy?"
          },
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 2716,
@@ -14484,9 +14560,9 @@
       "title": "Cunning of Reason",
       "links": [
          {
-            "pageid": 4220,
+            "pageid": 2387,
             "ns": 0,
-            "title": "Against the Populist Temptation"
+            "title": "The Obscenity of Human Rights: Violence as Symptom"
          }
       ]
    },
@@ -14811,13 +14887,7 @@
       "pageid": 5653,
       "ns": 0,
       "title": "Dark Continent",
-      "links": [
-         {
-            "pageid": 3488,
-            "ns": 0,
-            "title": "Feminism"
-         }
-      ]
+      "links": []
    },
    {
       "pageid": 4797,
@@ -15112,7 +15182,7 @@
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 2997,
@@ -15138,7 +15208,7 @@
          {
             "pageid": 4713,
             "ns": 0,
-            "title": "OrnicarÃ"
+            "title": "Ornicar?"
          },
          {
             "pageid": 4827,
@@ -15757,39 +15827,7 @@
       "pageid": 3307,
       "ns": 0,
       "title": "Deferred Action",
-      "links": [
-         {
-            "pageid": 1439,
-            "ns": 0,
-            "title": "Translation"
-         },
-         {
-            "pageid": 2010,
-            "ns": 0,
-            "title": "Metonymy"
-         },
-         {
-            "pageid": 3809,
-            "ns": 0,
-            "title": "Glossary2"
-         },
-         {
-            "pageid": 3869,
-            "ns": 0,
-            "title": "Primal scene"
-         },
-         {
-            "pageid": 4877,
-            "ns": 0,
-            "title": "Psychic Causality"
-         },
-         {
-            "pageid": 7001,
-            "ns": 0,
-            "title": "Nachträglich",
-            "redirect": ""
-         }
-      ]
+      "links": []
    },
    {
       "pageid": 3597,
@@ -16255,12 +16293,12 @@
          {
             "pageid": 2711,
             "ns": 0,
-            "title": "Today, Iraq. Tomorrow ... DemocracyÃ"
+            "title": "Today, Iraq. Tomorrow ... Democracy?"
          },
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 2716,
@@ -17154,13 +17192,7 @@
       "pageid": 2363,
       "ns": 0,
       "title": "Desire:Drive = Truth:Knowledge",
-      "links": [
-         {
-            "pageid": 7737,
-            "ns": 0,
-            "title": "Articles by Slavoj Zizek"
-         }
-      ]
+      "links": []
    },
    {
       "pageid": 2767,
@@ -18190,7 +18222,7 @@
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 4220,
@@ -18908,7 +18940,7 @@
          {
             "pageid": 2719,
             "ns": 0,
-            "title": "Will You Laugh for Me, PleaseÃ"
+            "title": "Will You Laugh for Me, Please?"
          },
          {
             "pageid": 3015,
@@ -19089,7 +19121,7 @@
          {
             "pageid": 2494,
             "ns": 0,
-            "title": "Father, can't you see I'm burningÃ"
+            "title": "Father, can't you see I'm burning?"
          },
          {
             "pageid": 2634,
@@ -21555,7 +21587,23 @@
       "pageid": 3703,
       "ns": 0,
       "title": "Emmanuel Levinas",
-      "links": []
+      "links": [
+         {
+            "pageid": 2144,
+            "ns": 0,
+            "title": "Simon Critchley"
+         },
+         {
+            "pageid": 2183,
+            "ns": 0,
+            "title": "Søren Kierkegaard"
+         },
+         {
+            "pageid": 3917,
+            "ns": 0,
+            "title": "Index:Parallax View"
+         }
+      ]
    },
    {
       "pageid": 2190,
@@ -21904,7 +21952,7 @@
          {
             "pageid": 2711,
             "ns": 0,
-            "title": "Today, Iraq. Tomorrow ... DemocracyÃ"
+            "title": "Today, Iraq. Tomorrow ... Democracy?"
          },
          {
             "pageid": 2717,
@@ -22235,7 +22283,7 @@
          {
             "pageid": 2711,
             "ns": 0,
-            "title": "Today, Iraq. Tomorrow ... DemocracyÃ"
+            "title": "Today, Iraq. Tomorrow ... Democracy?"
          },
          {
             "pageid": 5065,
@@ -22817,7 +22865,7 @@
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 3350,
@@ -23050,7 +23098,7 @@
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 2721,
@@ -23322,7 +23370,7 @@
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 3515,
@@ -24821,7 +24869,7 @@
          {
             "pageid": 2709,
             "ns": 0,
-            "title": "How Much Democracy Is Too MuchÃ"
+            "title": "How Much Democracy Is Too Much?"
          }
       ]
    },
@@ -24870,7 +24918,7 @@
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 2997,
@@ -25487,7 +25535,7 @@
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 2717,
@@ -25793,7 +25841,13 @@
       "pageid": 2755,
       "ns": 0,
       "title": "Femininity Between Goodness And Act",
-      "links": []
+      "links": [
+         {
+            "pageid": 7737,
+            "ns": 0,
+            "title": "Articles by Slavoj Zizek"
+         }
+      ]
    },
    {
       "pageid": 2352,
@@ -25853,18 +25907,7 @@
       "pageid": 3336,
       "ns": 0,
       "title": "Feminism and Psychoanalysis",
-      "links": [
-         {
-            "pageid": 3335,
-            "ns": 0,
-            "title": "Female Sexuality"
-         },
-         {
-            "pageid": 4797,
-            "ns": 0,
-            "title": "Dark continent"
-         }
-      ]
+      "links": []
    },
    {
       "pageid": 4804,
@@ -26128,9 +26171,9 @@
       "title": "Fetishism: The Symbolic, The Real and The Imaginary",
       "links": [
          {
-            "pageid": 3076,
+            "pageid": 7178,
             "ns": 0,
-            "title": "Jacques Lacan:Bibliography"
+            "title": "Jacques Lacan:Works"
          }
       ]
    },
@@ -26200,7 +26243,7 @@
          {
             "pageid": 2719,
             "ns": 0,
-            "title": "Will You Laugh for Me, PleaseÃ"
+            "title": "Will You Laugh for Me, Please?"
          },
          {
             "pageid": 2953,
@@ -27044,7 +27087,33 @@
       "pageid": 2095,
       "ns": 0,
       "title": "Forum",
-      "links": []
+      "links": [
+         {
+            "pageid": 2270,
+            "ns": 0,
+            "title": "Forum:Archive"
+         },
+         {
+            "pageid": 2271,
+            "ns": 0,
+            "title": "Forum:Main Page"
+         },
+         {
+            "pageid": 7076,
+            "ns": 0,
+            "title": "Fj"
+         },
+         {
+            "pageid": 8142,
+            "ns": 0,
+            "title": "New Forum"
+         },
+         {
+            "pageid": 8410,
+            "ns": 0,
+            "title": "Test Main Page"
+         }
+      ]
    },
    {
       "pageid": 8647,
@@ -27621,7 +27690,7 @@
          {
             "pageid": 4713,
             "ns": 0,
-            "title": "OrnicarÃ"
+            "title": "Ornicar?"
          },
          {
             "pageid": 4714,
@@ -29227,7 +29296,13 @@
       "pageid": 2777,
       "ns": 0,
       "title": "From \"Passionate Attachments\" to Dis-identification",
-      "links": []
+      "links": [
+         {
+            "pageid": 7737,
+            "ns": 0,
+            "title": "Articles by Slavoj Zizek"
+         }
+      ]
    },
    {
       "pageid": 2382,
@@ -29454,12 +29529,12 @@
          {
             "pageid": 2711,
             "ns": 0,
-            "title": "Today, Iraq. Tomorrow ... DemocracyÃ"
+            "title": "Today, Iraq. Tomorrow ... Democracy?"
          },
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 2716,
@@ -29538,7 +29613,13 @@
       "pageid": 2836,
       "ns": 0,
       "title": "G.K. Chesterton",
-      "links": []
+      "links": [
+         {
+            "pageid": 2385,
+            "ns": 0,
+            "title": "Hegel - Chesterton: German Idealism and Christianity"
+         }
+      ]
    },
    {
       "pageid": 6607,
@@ -29862,7 +29943,28 @@
       "pageid": 2912,
       "ns": 0,
       "title": "Gaze And Voice As Love Objects",
-      "links": []
+      "links": [
+         {
+            "pageid": 2911,
+            "ns": 0,
+            "title": "Slavoj Zizek - Bibliography"
+         },
+         {
+            "pageid": 8085,
+            "ns": 0,
+            "title": "Renata Salecl"
+         },
+         {
+            "pageid": 8108,
+            "ns": 0,
+            "title": "Book Covers"
+         },
+         {
+            "pageid": 8134,
+            "ns": 0,
+            "title": "Slavoj Zizek:Covers of Books"
+         }
+      ]
    },
    {
       "pageid": 1824,
@@ -29915,28 +30017,7 @@
       "pageid": 5682,
       "ns": 0,
       "title": "Gender Identity",
-      "links": [
-         {
-            "pageid": 1439,
-            "ns": 0,
-            "title": "Translation"
-         },
-         {
-            "pageid": 3335,
-            "ns": 0,
-            "title": "Female Sexuality"
-         },
-         {
-            "pageid": 3809,
-            "ns": 0,
-            "title": "Glossary2"
-         },
-         {
-            "pageid": 5801,
-            "ns": 0,
-            "title": "Sexual position"
-         }
-      ]
+      "links": []
    },
    {
       "pageid": 3845,
@@ -30279,7 +30360,7 @@
          {
             "pageid": 4713,
             "ns": 0,
-            "title": "OrnicarÃ"
+            "title": "Ornicar?"
          },
          {
             "pageid": 4723,
@@ -30434,7 +30515,7 @@
          {
             "pageid": 2711,
             "ns": 0,
-            "title": "Today, Iraq. Tomorrow ... DemocracyÃ"
+            "title": "Today, Iraq. Tomorrow ... Democracy?"
          },
          {
             "pageid": 2716,
@@ -30758,7 +30839,7 @@
          {
             "pageid": 2711,
             "ns": 0,
-            "title": "Today, Iraq. Tomorrow ... DemocracyÃ"
+            "title": "Today, Iraq. Tomorrow ... Democracy?"
          },
          {
             "pageid": 2717,
@@ -31870,7 +31951,7 @@
          {
             "pageid": 4713,
             "ns": 0,
-            "title": "OrnicarÃ"
+            "title": "Ornicar?"
          }
       ]
    },
@@ -32099,7 +32180,7 @@
          {
             "pageid": 2711,
             "ns": 0,
-            "title": "Today, Iraq. Tomorrow ... DemocracyÃ"
+            "title": "Today, Iraq. Tomorrow ... Democracy?"
          },
          {
             "pageid": 3384,
@@ -32618,7 +32699,13 @@
       "pageid": 2774,
       "ns": 0,
       "title": "Hidden Prohibitions And The Pleasure Principle",
-      "links": []
+      "links": [
+         {
+            "pageid": 7737,
+            "ns": 0,
+            "title": "Articles by Slavoj Zizek"
+         }
+      ]
    },
    {
       "pageid": 2356,
@@ -33490,7 +33577,13 @@
       "pageid": 2344,
       "ns": 0,
       "title": "Human Rights and Its Discontents",
-      "links": []
+      "links": [
+         {
+            "pageid": 7737,
+            "ns": 0,
+            "title": "Articles by Slavoj Zizek"
+         }
+      ]
    },
    {
       "pageid": 2770,
@@ -35175,7 +35268,7 @@
          {
             "pageid": 2711,
             "ns": 0,
-            "title": "Today, Iraq. Tomorrow ... DemocracyÃ"
+            "title": "Today, Iraq. Tomorrow ... Democracy?"
          },
          {
             "pageid": 2716,
@@ -35190,7 +35283,7 @@
          {
             "pageid": 2719,
             "ns": 0,
-            "title": "Will You Laugh for Me, PleaseÃ"
+            "title": "Will You Laugh for Me, Please?"
          },
          {
             "pageid": 2721,
@@ -36014,7 +36107,7 @@
          {
             "pageid": 2719,
             "ns": 0,
-            "title": "Will You Laugh for Me, PleaseÃ"
+            "title": "Will You Laugh for Me, Please?"
          },
          {
             "pageid": 2805,
@@ -36262,13 +36355,7 @@
       "pageid": 2549,
       "ns": 0,
       "title": "Imaginary Identification",
-      "links": [
-         {
-            "pageid": 4705,
-            "ns": 0,
-            "title": "Unary trait"
-         }
-      ]
+      "links": []
    },
    {
       "pageid": 4754,
@@ -36581,7 +36668,7 @@
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 4802,
@@ -36696,7 +36783,18 @@
       "pageid": 2775,
       "ns": 0,
       "title": "In His Bold Gaze My Ruin Is Writ Large",
-      "links": []
+      "links": [
+         {
+            "pageid": 2355,
+            "ns": 0,
+            "title": "In His Bold Gaze My Ruin is Writ Large"
+         },
+         {
+            "pageid": 7737,
+            "ns": 0,
+            "title": "Articles by Slavoj Zizek"
+         }
+      ]
    },
    {
       "pageid": 2355,
@@ -37755,7 +37853,7 @@
          {
             "pageid": 2711,
             "ns": 0,
-            "title": "Today, Iraq. Tomorrow ... DemocracyÃ"
+            "title": "Today, Iraq. Tomorrow ... Democracy?"
          },
          {
             "pageid": 2717,
@@ -37974,7 +38072,91 @@
       "pageid": 2541,
       "ns": 0,
       "title": "International Psycho-Analytical Association",
-      "links": []
+      "links": [
+         {
+            "pageid": 1579,
+            "ns": 0,
+            "title": "Jacques Lacan"
+         },
+         {
+            "pageid": 1629,
+            "ns": 0,
+            "title": "Return to Freud"
+         },
+         {
+            "pageid": 1668,
+            "ns": 0,
+            "title": "Cartel"
+         },
+         {
+            "pageid": 1677,
+            "ns": 0,
+            "title": "Time"
+         },
+         {
+            "pageid": 1709,
+            "ns": 0,
+            "title": "Psychoanalysis"
+         },
+         {
+            "pageid": 2054,
+            "ns": 0,
+            "title": "Société Française de Psychanalyse"
+         },
+         {
+            "pageid": 2633,
+            "ns": 0,
+            "title": "IPA",
+            "redirect": ""
+         },
+         {
+            "pageid": 3079,
+            "ns": 0,
+            "title": "Jacques Lacan:Index"
+         },
+         {
+            "pageid": 3527,
+            "ns": 0,
+            "title": "International Psychoanalytical Association",
+            "redirect": ""
+         },
+         {
+            "pageid": 3567,
+            "ns": 0,
+            "title": "Ego-psychology"
+         },
+         {
+            "pageid": 4578,
+            "ns": 0,
+            "title": "Société Parisienne de Psychanalyse"
+         },
+         {
+            "pageid": 5791,
+            "ns": 0,
+            "title": "Dictionary"
+         },
+         {
+            "pageid": 6761,
+            "ns": 0,
+            "title": "Chronology",
+            "redirect": ""
+         },
+         {
+            "pageid": 6766,
+            "ns": 0,
+            "title": "Jacques Lacan:Biography"
+         },
+         {
+            "pageid": 7186,
+            "ns": 0,
+            "title": "Le stade du miroir"
+         },
+         {
+            "pageid": 8410,
+            "ns": 0,
+            "title": "Test Main Page"
+         }
+      ]
    },
    {
       "pageid": 3293,
@@ -38285,9 +38467,19 @@
       "title": "Interpretation of Dreams",
       "links": [
          {
-            "pageid": 1617,
+            "pageid": 1709,
             "ns": 0,
-            "title": "Displacement"
+            "title": "Psychoanalysis"
+         },
+         {
+            "pageid": 3652,
+            "ns": 0,
+            "title": "Freud Lives!"
+         },
+         {
+            "pageid": 3824,
+            "ns": 0,
+            "title": "Censorship"
          }
       ]
    },
@@ -38913,7 +39105,7 @@
          {
             "pageid": 2711,
             "ns": 0,
-            "title": "Today, Iraq. Tomorrow ... DemocracyÃ"
+            "title": "Today, Iraq. Tomorrow ... Democracy?"
          },
          {
             "pageid": 2717,
@@ -38940,7 +39132,7 @@
          {
             "pageid": 2711,
             "ns": 0,
-            "title": "Today, Iraq. Tomorrow ... DemocracyÃ"
+            "title": "Today, Iraq. Tomorrow ... Democracy?"
          },
          {
             "pageid": 2716,
@@ -39134,7 +39326,7 @@
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 3524,
@@ -39201,7 +39393,13 @@
       "pageid": 2769,
       "ns": 0,
       "title": "It Doesn't Have to Be a Jew",
-      "links": []
+      "links": [
+         {
+            "pageid": 7737,
+            "ns": 0,
+            "title": "Articles by Slavoj Zizek"
+         }
+      ]
    },
    {
       "pageid": 2351,
@@ -39469,7 +39667,7 @@
          {
             "pageid": 4713,
             "ns": 0,
-            "title": "OrnicarÃ"
+            "title": "Ornicar?"
          },
          {
             "pageid": 4722,
@@ -40126,12 +40324,12 @@
          {
             "pageid": 2711,
             "ns": 0,
-            "title": "Today, Iraq. Tomorrow ... DemocracyÃ"
+            "title": "Today, Iraq. Tomorrow ... Democracy?"
          },
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 2721,
@@ -40221,7 +40419,7 @@
          {
             "pageid": 4713,
             "ns": 0,
-            "title": "OrnicarÃ"
+            "title": "Ornicar?"
          },
          {
             "pageid": 4725,
@@ -41503,7 +41701,28 @@
       "pageid": 4028,
       "ns": 0,
       "title": "Jacques Ranciere",
-      "links": []
+      "links": [
+         {
+            "pageid": 2387,
+            "ns": 0,
+            "title": "The Obscenity of Human Rights: Violence as Symptom"
+         },
+         {
+            "pageid": 2716,
+            "ns": 0,
+            "title": "The Free World ... of Slums"
+         },
+         {
+            "pageid": 3917,
+            "ns": 0,
+            "title": "Index:Parallax View"
+         },
+         {
+            "pageid": 4220,
+            "ns": 0,
+            "title": "Against the Populist Temptation"
+         }
+      ]
    },
    {
       "pageid": 2221,
@@ -41694,7 +41913,7 @@
          {
             "pageid": 2711,
             "ns": 0,
-            "title": "Today, Iraq. Tomorrow ... DemocracyÃ"
+            "title": "Today, Iraq. Tomorrow ... Democracy?"
          },
          {
             "pageid": 2721,
@@ -41938,7 +42157,7 @@
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 2721,
@@ -42007,7 +42226,7 @@
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 2722,
@@ -42190,7 +42409,7 @@
          {
             "pageid": 2719,
             "ns": 0,
-            "title": "Will You Laugh for Me, PleaseÃ"
+            "title": "Will You Laugh for Me, Please?"
          },
          {
             "pageid": 3652,
@@ -42967,7 +43186,13 @@
       "pageid": 2765,
       "ns": 0,
       "title": "Kant And Sade: The Ideal Couple",
-      "links": []
+      "links": [
+         {
+            "pageid": 7737,
+            "ns": 0,
+            "title": "Articles by Slavoj Zizek"
+         }
+      ]
    },
    {
       "pageid": 2347,
@@ -46083,7 +46308,7 @@
          {
             "pageid": 2719,
             "ns": 0,
-            "title": "Will You Laugh for Me, PleaseÃ"
+            "title": "Will You Laugh for Me, Please?"
          }
       ]
    },
@@ -46095,7 +46320,7 @@
          {
             "pageid": 4713,
             "ns": 0,
-            "title": "OrnicarÃ"
+            "title": "Ornicar?"
          },
          {
             "pageid": 4725,
@@ -46444,13 +46669,7 @@
       "pageid": 3359,
       "ns": 0,
       "title": "Law of the Father",
-      "links": [
-         {
-            "pageid": 4762,
-            "ns": 0,
-            "title": "Fatherhood"
-         }
-      ]
+      "links": []
    },
    {
       "pageid": 4757,
@@ -46480,34 +46699,7 @@
       "pageid": 3361,
       "ns": 0,
       "title": "Lay Analysis",
-      "links": [
-         {
-            "pageid": 3426,
-            "ns": 0,
-            "title": "The Question of Lay Analysis"
-         },
-         {
-            "pageid": 3564,
-            "ns": 0,
-            "title": "Training analysis",
-            "redirect": ""
-         },
-         {
-            "pageid": 4808,
-            "ns": 0,
-            "title": "Psychoanalytic Treatment"
-         },
-         {
-            "pageid": 4861,
-            "ns": 0,
-            "title": "Psychoanalytic treatment"
-         },
-         {
-            "pageid": 6766,
-            "ns": 0,
-            "title": "Jacques Lacan:Biography"
-         }
-      ]
+      "links": []
    },
    {
       "pageid": 4810,
@@ -46763,7 +46955,7 @@
          {
             "pageid": 2711,
             "ns": 0,
-            "title": "Today, Iraq. Tomorrow ... DemocracyÃ"
+            "title": "Today, Iraq. Tomorrow ... Democracy?"
          },
          {
             "pageid": 3477,
@@ -46916,14 +47108,16 @@
       "title": "Leonardo Da Vinci",
       "links": [
          {
-            "pageid": 5413,
+            "pageid": 4087,
             "ns": 0,
-            "title": "Working"
+            "title": "Davinci",
+            "redirect": ""
          },
          {
-            "pageid": 5414,
+            "pageid": 4088,
             "ns": 0,
-            "title": "Inversion"
+            "title": "Da Vinci",
+            "redirect": ""
          }
       ]
    },
@@ -47014,7 +47208,23 @@
       "pageid": 3064,
       "ns": 0,
       "title": "Les non-dupes errent",
-      "links": []
+      "links": [
+         {
+            "pageid": 3050,
+            "ns": 0,
+            "title": "Les non dupes errent"
+         },
+         {
+            "pageid": 3911,
+            "ns": 0,
+            "title": "Seminar XXI"
+         },
+         {
+            "pageid": 4711,
+            "ns": 0,
+            "title": "The Seminars"
+         }
+      ]
    },
    {
       "pageid": 3050,
@@ -47292,12 +47502,12 @@
          {
             "pageid": 2711,
             "ns": 0,
-            "title": "Today, Iraq. Tomorrow ... DemocracyÃ"
+            "title": "Today, Iraq. Tomorrow ... Democracy?"
          },
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 2721,
@@ -47385,7 +47595,7 @@
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 2716,
@@ -47424,7 +47634,7 @@
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 2717,
@@ -48052,13 +48262,7 @@
       "pageid": 3385,
       "ns": 0,
       "title": "Linguistics and Psychoanalysis",
-      "links": [
-         {
-            "pageid": 3371,
-            "ns": 0,
-            "title": "Weltanschauung"
-         }
-      ]
+      "links": []
    },
    {
       "pageid": 4783,
@@ -48161,28 +48365,7 @@
       "pageid": 5679,
       "ns": 0,
       "title": "Literary and Artistic Creation",
-      "links": [
-         {
-            "pageid": 2961,
-            "ns": 0,
-            "title": "Oedipus"
-         },
-         {
-            "pageid": 3456,
-            "ns": 0,
-            "title": "Visual Arts and Psychoanalysis"
-         },
-         {
-            "pageid": 4522,
-            "ns": 0,
-            "title": "Creativity"
-         },
-         {
-            "pageid": 4726,
-            "ns": 0,
-            "title": "Hamlet"
-         }
-      ]
+      "links": []
    },
    {
       "pageid": 4731,
@@ -48940,7 +49123,7 @@
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 2721,
@@ -50447,7 +50630,7 @@
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 3713,
@@ -51024,7 +51207,7 @@
          {
             "pageid": 2719,
             "ns": 0,
-            "title": "Will You Laugh for Me, PleaseÃ"
+            "title": "Will You Laugh for Me, Please?"
          },
          {
             "pageid": 2721,
@@ -51458,9 +51641,9 @@
       "title": "Merleau-Ponty: In Memoriam",
       "links": [
          {
-            "pageid": 3076,
+            "pageid": 7178,
             "ns": 0,
-            "title": "Jacques Lacan:Bibliography"
+            "title": "Jacques Lacan:Works"
          }
       ]
    },
@@ -52224,7 +52407,7 @@
          {
             "pageid": 2711,
             "ns": 0,
-            "title": "Today, Iraq. Tomorrow ... DemocracyÃ"
+            "title": "Today, Iraq. Tomorrow ... Democracy?"
          },
          {
             "pageid": 2716,
@@ -52263,7 +52446,7 @@
          {
             "pageid": 2711,
             "ns": 0,
-            "title": "Today, Iraq. Tomorrow ... DemocracyÃ"
+            "title": "Today, Iraq. Tomorrow ... Democracy?"
          }
       ]
    },
@@ -52764,7 +52947,7 @@
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 2716,
@@ -52888,28 +53071,7 @@
       "pageid": 3475,
       "ns": 0,
       "title": "Money and Psychoanalytic Treatment",
-      "links": [
-         {
-            "pageid": 4734,
-            "ns": 0,
-            "title": "Internal/external reality"
-         },
-         {
-            "pageid": 4808,
-            "ns": 0,
-            "title": "Psychoanalytic Treatment"
-         },
-         {
-            "pageid": 4811,
-            "ns": 0,
-            "title": "Framework of the psychoanalytic treatment"
-         },
-         {
-            "pageid": 4861,
-            "ns": 0,
-            "title": "Psychoanalytic treatment"
-         }
-      ]
+      "links": []
    },
    {
       "pageid": 4809,
@@ -53537,7 +53699,7 @@
          {
             "pageid": 2719,
             "ns": 0,
-            "title": "Will You Laugh for Me, PleaseÃ"
+            "title": "Will You Laugh for Me, Please?"
          },
          {
             "pageid": 3381,
@@ -53648,7 +53810,7 @@
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 2721,
@@ -53915,63 +54077,7 @@
       "pageid": 3389,
       "ns": 0,
       "title": "Myth of Origins",
-      "links": [
-         {
-            "pageid": 2252,
-            "ns": 0,
-            "title": "Jacques Lacan:Oedipus"
-         },
-         {
-            "pageid": 3350,
-            "ns": 0,
-            "title": "Incest"
-         },
-         {
-            "pageid": 3359,
-            "ns": 0,
-            "title": "Law of the Father"
-         },
-         {
-            "pageid": 3375,
-            "ns": 0,
-            "title": "Parricide"
-         },
-         {
-            "pageid": 3716,
-            "ns": 0,
-            "title": "Totemism"
-         },
-         {
-            "pageid": 4757,
-            "ns": 0,
-            "title": "Law of the father"
-         },
-         {
-            "pageid": 4762,
-            "ns": 0,
-            "title": "Fatherhood"
-         },
-         {
-            "pageid": 4790,
-            "ns": 0,
-            "title": "Rite"
-         },
-         {
-            "pageid": 4833,
-            "ns": 0,
-            "title": "Primitive horde"
-         },
-         {
-            "pageid": 4837,
-            "ns": 0,
-            "title": "Primitive"
-         },
-         {
-            "pageid": 4867,
-            "ns": 0,
-            "title": "Primal"
-         }
-      ]
+      "links": []
    },
    {
       "pageid": 4853,
@@ -54225,7 +54331,207 @@
       "pageid": 1580,
       "ns": 0,
       "title": "Name-of-the-Father",
-      "links": []
+      "links": [
+         {
+            "pageid": 1,
+            "ns": 0,
+            "title": "Plain"
+         },
+         {
+            "pageid": 1478,
+            "ns": 0,
+            "title": "Father"
+         },
+         {
+            "pageid": 1577,
+            "ns": 0,
+            "title": "Symbolic"
+         },
+         {
+            "pageid": 1594,
+            "ns": 0,
+            "title": "Perversion"
+         },
+         {
+            "pageid": 1595,
+            "ns": 0,
+            "title": "Psychosis"
+         },
+         {
+            "pageid": 1656,
+            "ns": 0,
+            "title": "Delusion"
+         },
+         {
+            "pageid": 1684,
+            "ns": 0,
+            "title": "Sinthome"
+         },
+         {
+            "pageid": 1714,
+            "ns": 0,
+            "title": "Signification"
+         },
+         {
+            "pageid": 2009,
+            "ns": 0,
+            "title": "Metaphor"
+         },
+         {
+            "pageid": 2012,
+            "ns": 0,
+            "title": "Law"
+         },
+         {
+            "pageid": 2025,
+            "ns": 0,
+            "title": "Seminar III"
+         },
+         {
+            "pageid": 2038,
+            "ns": 0,
+            "title": "The four fundamental concepts of psychoanalysis"
+         },
+         {
+            "pageid": 2252,
+            "ns": 0,
+            "title": "Jacques Lacan:Oedipus"
+         },
+         {
+            "pageid": 2442,
+            "ns": 0,
+            "title": "Mother"
+         },
+         {
+            "pageid": 2445,
+            "ns": 0,
+            "title": "Oedipus complex"
+         },
+         {
+            "pageid": 2478,
+            "ns": 0,
+            "title": "Nature"
+         },
+         {
+            "pageid": 2490,
+            "ns": 0,
+            "title": "Religion"
+         },
+         {
+            "pageid": 2498,
+            "ns": 0,
+            "title": "Castration"
+         },
+         {
+            "pageid": 2966,
+            "ns": 0,
+            "title": "Foreclosure"
+         },
+         {
+            "pageid": 3114,
+            "ns": 0,
+            "title": "Bejahung"
+         },
+         {
+            "pageid": 3359,
+            "ns": 0,
+            "title": "Law of the Father"
+         },
+         {
+            "pageid": 4733,
+            "ns": 0,
+            "title": "Real, Symbolic, and Imaginary Father"
+         },
+         {
+            "pageid": 4744,
+            "ns": 0,
+            "title": "Real, Imaginary, and Symbolic Father"
+         },
+         {
+            "pageid": 4748,
+            "ns": 0,
+            "title": "Parade of the signifier"
+         },
+         {
+            "pageid": 4757,
+            "ns": 0,
+            "title": "Law of the father"
+         },
+         {
+            "pageid": 4759,
+            "ns": 0,
+            "title": "Real, Imaginary, and Symbolic father"
+         },
+         {
+            "pageid": 4760,
+            "ns": 0,
+            "title": "Structuralism and psychoanalysis"
+         },
+         {
+            "pageid": 4928,
+            "ns": 0,
+            "title": "Paternal metaphor"
+         },
+         {
+            "pageid": 5246,
+            "ns": 0,
+            "title": "Hallucination"
+         },
+         {
+            "pageid": 5309,
+            "ns": 0,
+            "title": "Name-of-the-father",
+            "redirect": ""
+         },
+         {
+            "pageid": 5481,
+            "ns": 0,
+            "title": "Seminar XVII"
+         },
+         {
+            "pageid": 5744,
+            "ns": 0,
+            "title": "Kid A In Alphabet Land - Name"
+         },
+         {
+            "pageid": 5791,
+            "ns": 0,
+            "title": "Dictionary"
+         },
+         {
+            "pageid": 6068,
+            "ns": 0,
+            "title": "Name of the Father",
+            "redirect": ""
+         },
+         {
+            "pageid": 6070,
+            "ns": 0,
+            "title": "Nom-du-Père",
+            "redirect": ""
+         },
+         {
+            "pageid": 6137,
+            "ns": 0,
+            "title": "List of Algebraic Symbols"
+         },
+         {
+            "pageid": 7664,
+            "ns": 0,
+            "title": "A Compendium of Lacanian Terms"
+         },
+         {
+            "pageid": 8410,
+            "ns": 0,
+            "title": "Test Main Page"
+         },
+         {
+            "pageid": 8440,
+            "ns": 0,
+            "title": "Nom-du-Père",
+            "redirect": ""
+         }
+      ]
    },
    {
       "pageid": 3766,
@@ -54401,13 +54707,7 @@
       "pageid": 3377,
       "ns": 0,
       "title": "Narcissism of Minor Differences",
-      "links": [
-         {
-            "pageid": 3506,
-            "ns": 0,
-            "title": "Taboo"
-         }
-      ]
+      "links": []
    },
    {
       "pageid": 4836,
@@ -54565,7 +54865,7 @@
          {
             "pageid": 2711,
             "ns": 0,
-            "title": "Today, Iraq. Tomorrow ... DemocracyÃ"
+            "title": "Today, Iraq. Tomorrow ... Democracy?"
          },
          {
             "pageid": 2717,
@@ -55299,7 +55599,7 @@
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          }
       ]
    },
@@ -55714,28 +56014,7 @@
       "pageid": 3394,
       "ns": 0,
       "title": "Neurotic Defenses",
-      "links": [
-         {
-            "pageid": 1617,
-            "ns": 0,
-            "title": "Displacement"
-         },
-         {
-            "pageid": 3430,
-            "ns": 0,
-            "title": "Return of the Repressed"
-         },
-         {
-            "pageid": 4873,
-            "ns": 0,
-            "title": "Memories"
-         },
-         {
-            "pageid": 4907,
-            "ns": 0,
-            "title": "Dream-work"
-         }
-      ]
+      "links": []
    },
    {
       "pageid": 5507,
@@ -55777,7 +56056,7 @@
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 3809,
@@ -56645,7 +56924,7 @@
          {
             "pageid": 2719,
             "ns": 0,
-            "title": "Will You Laugh for Me, PleaseÃ"
+            "title": "Will You Laugh for Me, Please?"
          },
          {
             "pageid": 2721,
@@ -57152,7 +57431,7 @@
          {
             "pageid": 2719,
             "ns": 0,
-            "title": "Will You Laugh for Me, PleaseÃ"
+            "title": "Will You Laugh for Me, Please?"
          },
          {
             "pageid": 4220,
@@ -57182,7 +57461,55 @@
       "pageid": 6076,
       "ns": 0,
       "title": "Objet (petit) a",
-      "links": []
+      "links": [
+         {
+            "pageid": 1539,
+            "ns": 0,
+            "title": "Other"
+         },
+         {
+            "pageid": 1660,
+            "ns": 0,
+            "title": "Discourse"
+         },
+         {
+            "pageid": 1670,
+            "ns": 0,
+            "title": "Cause"
+         },
+         {
+            "pageid": 1682,
+            "ns": 0,
+            "title": "Specular image"
+         },
+         {
+            "pageid": 1703,
+            "ns": 0,
+            "title": "Sexual relationship"
+         },
+         {
+            "pageid": 2430,
+            "ns": 0,
+            "title": "Objet petit a",
+            "redirect": ""
+         },
+         {
+            "pageid": 4017,
+            "ns": 0,
+            "title": "Partial object"
+         },
+         {
+            "pageid": 6909,
+            "ns": 0,
+            "title": "Discourse of the analyst"
+         },
+         {
+            "pageid": 7098,
+            "ns": 0,
+            "title": "Object (petit) a",
+            "redirect": ""
+         }
+      ]
    },
    {
       "pageid": 8644,
@@ -57231,7 +57558,7 @@
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 2721,
@@ -57446,23 +57773,7 @@
       "pageid": 3395,
       "ns": 0,
       "title": "Oceanic Feeling",
-      "links": [
-         {
-            "pageid": 3406,
-            "ns": 0,
-            "title": "Primary Narcissism"
-         },
-         {
-            "pageid": 4837,
-            "ns": 0,
-            "title": "Primitive"
-         },
-         {
-            "pageid": 4867,
-            "ns": 0,
-            "title": "Primal"
-         }
-      ]
+      "links": []
    },
    {
       "pageid": 4870,
@@ -58008,14 +58319,10 @@
       "title": "Of Structure as an Inmixing of an Otherness Prerequisite to Any Subject Whatever",
       "links": [
          {
-            "pageid": 3076,
+            "pageid": 5289,
             "ns": 0,
-            "title": "Jacques Lacan:Bibliography"
-         },
-         {
-            "pageid": 7178,
-            "ns": 0,
-            "title": "Jacques Lacan:Works"
+            "title": "Lacan's Baltimore Lecture",
+            "redirect": ""
          }
       ]
    },
@@ -58044,7 +58351,7 @@
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 4220,
@@ -58849,17 +59156,17 @@
          {
             "pageid": 2711,
             "ns": 0,
-            "title": "Today, Iraq. Tomorrow ... DemocracyÃ"
+            "title": "Today, Iraq. Tomorrow ... Democracy?"
          },
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 2719,
             "ns": 0,
-            "title": "Will You Laugh for Me, PleaseÃ"
+            "title": "Will You Laugh for Me, Please?"
          },
          {
             "pageid": 2721,
@@ -59640,12 +59947,12 @@
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 2719,
             "ns": 0,
-            "title": "Will You Laugh for Me, PleaseÃ"
+            "title": "Will You Laugh for Me, Please?"
          },
          {
             "pageid": 2721,
@@ -60268,7 +60575,7 @@
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 2717,
@@ -60278,7 +60585,7 @@
          {
             "pageid": 2719,
             "ns": 0,
-            "title": "Will You Laugh for Me, PleaseÃ"
+            "title": "Will You Laugh for Me, Please?"
          },
          {
             "pageid": 2722,
@@ -60417,7 +60724,7 @@
          {
             "pageid": 2711,
             "ns": 0,
-            "title": "Today, Iraq. Tomorrow ... DemocracyÃ"
+            "title": "Today, Iraq. Tomorrow ... Democracy?"
          },
          {
             "pageid": 2805,
@@ -60981,66 +61288,7 @@
       "pageid": 1707,
       "ns": 0,
       "title": "Passage to the Act",
-      "links": [
-         {
-            "pageid": 1467,
-            "ns": 0,
-            "title": "Act"
-         },
-         {
-            "pageid": 1644,
-            "ns": 0,
-            "title": "Anxiety"
-         },
-         {
-            "pageid": 1707,
-            "ns": 0,
-            "title": "Passage to the Act"
-         },
-         {
-            "pageid": 1715,
-            "ns": 0,
-            "title": "Scene"
-         },
-         {
-            "pageid": 2037,
-            "ns": 0,
-            "title": "Seminar X"
-         },
-         {
-            "pageid": 3427,
-            "ns": 0,
-            "title": "Reality Testing"
-         },
-         {
-            "pageid": 5487,
-            "ns": 0,
-            "title": "Passage à lacte",
-            "redirect": ""
-         },
-         {
-            "pageid": 5791,
-            "ns": 0,
-            "title": "Dictionary"
-         },
-         {
-            "pageid": 6404,
-            "ns": 0,
-            "title": "Passage à l'acte",
-            "redirect": ""
-         },
-         {
-            "pageid": 7978,
-            "ns": 0,
-            "title": "Passage à l'acte",
-            "redirect": ""
-         },
-         {
-            "pageid": 8410,
-            "ns": 0,
-            "title": "Test Main Page"
-         }
-      ]
+      "links": []
    },
    {
       "pageid": 3763,
@@ -61142,7 +61390,7 @@
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 3392,
@@ -61176,13 +61424,7 @@
       "pageid": 2398,
       "ns": 0,
       "title": "Passion In The Era of Decaffeinated Belief",
-      "links": [
-         {
-            "pageid": 7737,
-            "ns": 0,
-            "title": "Articles by Slavoj Zizek"
-         }
-      ]
+      "links": []
    },
    {
       "pageid": 2741,
@@ -61338,7 +61580,7 @@
          {
             "pageid": 2711,
             "ns": 0,
-            "title": "Today, Iraq. Tomorrow ... DemocracyÃ"
+            "title": "Today, Iraq. Tomorrow ... Democracy?"
          },
          {
             "pageid": 2721,
@@ -61739,7 +61981,7 @@
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 2717,
@@ -63916,12 +64158,12 @@
          {
             "pageid": 2711,
             "ns": 0,
-            "title": "Today, Iraq. Tomorrow ... DemocracyÃ"
+            "title": "Today, Iraq. Tomorrow ... Democracy?"
          },
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 2717,
@@ -64073,7 +64315,7 @@
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 2716,
@@ -64096,33 +64338,7 @@
       "pageid": 4770,
       "ns": 0,
       "title": "Politics and Psychoanalysis",
-      "links": [
-         {
-            "pageid": 2066,
-            "ns": 0,
-            "title": "Moses and Monotheism"
-         },
-         {
-            "pageid": 2810,
-            "ns": 0,
-            "title": "Civilization"
-         },
-         {
-            "pageid": 3383,
-            "ns": 0,
-            "title": "Marxism and Psychoanalysis"
-         },
-         {
-            "pageid": 4781,
-            "ns": 0,
-            "title": "New Introductory Lectures on Psycho-Analysis"
-         },
-         {
-            "pageid": 4785,
-            "ns": 0,
-            "title": "Sociology and Psychoanalysis"
-         }
-      ]
+      "links": []
    },
    {
       "pageid": 4780,
@@ -64214,12 +64430,12 @@
          {
             "pageid": 2709,
             "ns": 0,
-            "title": "How Much Democracy Is Too MuchÃ"
+            "title": "How Much Democracy Is Too Much?"
          },
          {
             "pageid": 2711,
             "ns": 0,
-            "title": "Today, Iraq. Tomorrow ... DemocracyÃ"
+            "title": "Today, Iraq. Tomorrow ... Democracy?"
          },
          {
             "pageid": 2721,
@@ -64421,7 +64637,7 @@
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 2722,
@@ -64529,7 +64745,7 @@
          {
             "pageid": 2711,
             "ns": 0,
-            "title": "Today, Iraq. Tomorrow ... DemocracyÃ"
+            "title": "Today, Iraq. Tomorrow ... Democracy?"
          },
          {
             "pageid": 2717,
@@ -65055,7 +65271,7 @@
          {
             "pageid": 2719,
             "ns": 0,
-            "title": "Will You Laugh for Me, PleaseÃ"
+            "title": "Will You Laugh for Me, Please?"
          },
          {
             "pageid": 2721,
@@ -65093,63 +65309,7 @@
       "pageid": 3416,
       "ns": 0,
       "title": "Primitive Horde",
-      "links": [
-         {
-            "pageid": 2060,
-            "ns": 0,
-            "title": "Totem and Taboo"
-         },
-         {
-            "pageid": 2066,
-            "ns": 0,
-            "title": "Moses and Monotheism"
-         },
-         {
-            "pageid": 2810,
-            "ns": 0,
-            "title": "Civilization"
-         },
-         {
-            "pageid": 2811,
-            "ns": 0,
-            "title": "Transgression"
-         },
-         {
-            "pageid": 3375,
-            "ns": 0,
-            "title": "Parricide"
-         },
-         {
-            "pageid": 3716,
-            "ns": 0,
-            "title": "Totemism"
-         },
-         {
-            "pageid": 4762,
-            "ns": 0,
-            "title": "Fatherhood"
-         },
-         {
-            "pageid": 4827,
-            "ns": 0,
-            "title": "Rivalry"
-         },
-         {
-            "pageid": 4845,
-            "ns": 0,
-            "title": "Darwinism"
-         },
-         {
-            "pageid": 4853,
-            "ns": 0,
-            "title": "Myth of origins"
-         },
-         {
-            "pageid": 4998,
-            "ns": 0,
-            "title": "Father complex"
-         }
-      ]
+      "links": []
    },
    {
       "pageid": 4833,
@@ -65217,38 +65377,7 @@
       "pageid": 4879,
       "ns": 0,
       "title": "Principle of Constancy",
-      "links": [
-         {
-            "pageid": 1439,
-            "ns": 0,
-            "title": "Translation"
-         },
-         {
-            "pageid": 3809,
-            "ns": 0,
-            "title": "Glossary2"
-         },
-         {
-            "pageid": 4792,
-            "ns": 0,
-            "title": "Sum of excitation"
-         },
-         {
-            "pageid": 4871,
-            "ns": 0,
-            "title": "Excitation"
-         },
-         {
-            "pageid": 4876,
-            "ns": 0,
-            "title": "Nirvana"
-         },
-         {
-            "pageid": 4878,
-            "ns": 0,
-            "title": "Discharge"
-         }
-      ]
+      "links": []
    },
    {
       "pageid": 3870,
@@ -65677,7 +65806,7 @@
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 3350,
@@ -68115,68 +68244,7 @@
       "pageid": 3422,
       "ns": 0,
       "title": "Psychosexual Development",
-      "links": [
-         {
-            "pageid": 1724,
-            "ns": 0,
-            "title": "Preoedipal phase"
-         },
-         {
-            "pageid": 2059,
-            "ns": 0,
-            "title": "Three Essays on the Theory of Sexuality"
-         },
-         {
-            "pageid": 2119,
-            "ns": 0,
-            "title": "Sigmund Freud"
-         },
-         {
-            "pageid": 2690,
-            "ns": 0,
-            "title": "Jean Laplanche"
-         },
-         {
-            "pageid": 3335,
-            "ns": 0,
-            "title": "Female Sexuality"
-         },
-         {
-            "pageid": 3488,
-            "ns": 0,
-            "title": "Feminism"
-         },
-         {
-            "pageid": 3494,
-            "ns": 0,
-            "title": "Sergei Pankejeff"
-         },
-         {
-            "pageid": 3512,
-            "ns": 0,
-            "title": "Developmental psychology"
-         },
-         {
-            "pageid": 4546,
-            "ns": 0,
-            "title": "Weaning"
-         },
-         {
-            "pageid": 5185,
-            "ns": 0,
-            "title": "Chora"
-         },
-         {
-            "pageid": 5413,
-            "ns": 0,
-            "title": "Working"
-         },
-         {
-            "pageid": 5415,
-            "ns": 0,
-            "title": "Genital"
-         }
-      ]
+      "links": []
    },
    {
       "pageid": 3508,
@@ -68676,12 +68744,12 @@
          {
             "pageid": 2711,
             "ns": 0,
-            "title": "Today, Iraq. Tomorrow ... DemocracyÃ"
+            "title": "Today, Iraq. Tomorrow ... Democracy?"
          },
          {
             "pageid": 2719,
             "ns": 0,
-            "title": "Will You Laugh for Me, PleaseÃ"
+            "title": "Will You Laugh for Me, Please?"
          },
          {
             "pageid": 2721,
@@ -69831,7 +69899,14 @@
       "pageid": 4744,
       "ns": 0,
       "title": "Real, Imaginary, and Symbolic Father",
-      "links": []
+      "links": [
+         {
+            "pageid": 4743,
+            "ns": 0,
+            "title": "Real, imaginary, and symbolic Father",
+            "redirect": ""
+         }
+      ]
    },
    {
       "pageid": 4759,
@@ -69994,12 +70069,12 @@
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 2719,
             "ns": 0,
-            "title": "Will You Laugh for Me, PleaseÃ"
+            "title": "Will You Laugh for Me, Please?"
          },
          {
             "pageid": 2721,
@@ -70648,7 +70723,7 @@
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 2721,
@@ -72439,7 +72514,7 @@
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 3467,
@@ -72822,7 +72897,7 @@
          {
             "pageid": 2711,
             "ns": 0,
-            "title": "Today, Iraq. Tomorrow ... DemocracyÃ"
+            "title": "Today, Iraq. Tomorrow ... Democracy?"
          },
          {
             "pageid": 2717,
@@ -73003,7 +73078,24 @@
       "pageid": 3596,
       "ns": 0,
       "title": "Salvador Dali",
-      "links": []
+      "links": [
+         {
+            "pageid": 2523,
+            "ns": 0,
+            "title": "Surrealism"
+         },
+         {
+            "pageid": 3595,
+            "ns": 0,
+            "title": "Dali",
+            "redirect": ""
+         },
+         {
+            "pageid": 7557,
+            "ns": 0,
+            "title": "Introducing Lacan"
+         }
+      ]
    },
    {
       "pageid": 3721,
@@ -73123,7 +73215,7 @@
          {
             "pageid": 2719,
             "ns": 0,
-            "title": "Will You Laugh for Me, PleaseÃ"
+            "title": "Will You Laugh for Me, Please?"
          },
          {
             "pageid": 2721,
@@ -74086,23 +74178,7 @@
       "pageid": 3437,
       "ns": 0,
       "title": "Science and Psychoanalysis",
-      "links": [
-         {
-            "pageid": 3371,
-            "ns": 0,
-            "title": "Weltanschauung"
-         },
-         {
-            "pageid": 3467,
-            "ns": 0,
-            "title": "Overdetermination"
-         },
-         {
-            "pageid": 4781,
-            "ns": 0,
-            "title": "New Introductory Lectures on Psycho-Analysis"
-         }
-      ]
+      "links": []
    },
    {
       "pageid": 4782,
@@ -74196,7 +74272,7 @@
          {
             "pageid": 2719,
             "ns": 0,
-            "title": "Will You Laugh for Me, PleaseÃ"
+            "title": "Will You Laugh for Me, Please?"
          }
       ]
    },
@@ -74206,19 +74282,14 @@
       "title": "Screen-memory",
       "links": [
          {
-            "pageid": 3457,
+            "pageid": 1439,
             "ns": 0,
-            "title": "Visual"
+            "title": "Translation"
          },
          {
-            "pageid": 4775,
+            "pageid": 3809,
             "ns": 0,
-            "title": "Siegfried Bernfeld"
-         },
-         {
-            "pageid": 4873,
-            "ns": 0,
-            "title": "Memories"
+            "title": "Glossary2"
          }
       ]
    },
@@ -74226,23 +74297,7 @@
       "pageid": 3436,
       "ns": 0,
       "title": "Screen Memory",
-      "links": [
-         {
-            "pageid": 3457,
-            "ns": 0,
-            "title": "Visual"
-         },
-         {
-            "pageid": 4775,
-            "ns": 0,
-            "title": "Siegfried Bernfeld"
-         },
-         {
-            "pageid": 4873,
-            "ns": 0,
-            "title": "Memories"
-         }
-      ]
+      "links": []
    },
    {
       "pageid": 4904,
@@ -74445,13 +74500,7 @@
       "pageid": 2972,
       "ns": 0,
       "title": "Seduction Theory",
-      "links": [
-         {
-            "pageid": 2690,
-            "ns": 0,
-            "title": "Jean Laplanche"
-         }
-      ]
+      "links": []
    },
    {
       "pageid": 2971,
@@ -77114,7 +77163,7 @@
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 3335,
@@ -79255,179 +79304,14 @@
             "title": "Graph of desire"
          },
          {
-            "pageid": 1592,
-            "ns": 0,
-            "title": "Id"
-         },
-         {
-            "pageid": 1620,
-            "ns": 0,
-            "title": "Repression"
-         },
-         {
-            "pageid": 1622,
-            "ns": 0,
-            "title": "Repetition"
-         },
-         {
-            "pageid": 1627,
-            "ns": 0,
-            "title": "Master-Signifier"
-         },
-         {
-            "pageid": 1663,
-            "ns": 0,
-            "title": "Enunciation"
-         },
-         {
-            "pageid": 1676,
-            "ns": 0,
-            "title": "Unconscious"
-         },
-         {
             "pageid": 1685,
             "ns": 0,
             "title": "Signifier"
          },
          {
-            "pageid": 1686,
+            "pageid": 1705,
             "ns": 0,
-            "title": "Signifying Chain"
-         },
-         {
-            "pageid": 1698,
-            "ns": 0,
-            "title": "Punctuation"
-         },
-         {
-            "pageid": 1700,
-            "ns": 0,
-            "title": "Resistance"
-         },
-         {
-            "pageid": 1714,
-            "ns": 0,
-            "title": "Signification"
-         },
-         {
-            "pageid": 2010,
-            "ns": 0,
-            "title": "Metonymy"
-         },
-         {
-            "pageid": 2030,
-            "ns": 0,
-            "title": "Seminar V"
-         },
-         {
-            "pageid": 2295,
-            "ns": 0,
-            "title": "Matheme"
-         },
-         {
-            "pageid": 2482,
-            "ns": 0,
-            "title": "Separation"
-         },
-         {
-            "pageid": 2805,
-            "ns": 0,
-            "title": "Knowledge"
-         },
-         {
-            "pageid": 3387,
-            "ns": 0,
-            "title": "Memory"
-         },
-         {
-            "pageid": 3519,
-            "ns": 0,
-            "title": "Unconscious mind"
-         },
-         {
-            "pageid": 4748,
-            "ns": 0,
-            "title": "Parade of the signifier"
-         },
-         {
-            "pageid": 4877,
-            "ns": 0,
-            "title": "Psychic Causality"
-         },
-         {
-            "pageid": 4890,
-            "ns": 0,
-            "title": "Lack"
-         },
-         {
-            "pageid": 5008,
-            "ns": 0,
-            "title": "Chain",
-            "redirect": ""
-         },
-         {
-            "pageid": 5065,
-            "ns": 0,
-            "title": "Session"
-         },
-         {
-            "pageid": 5068,
-            "ns": 0,
-            "title": "Point de capiton"
-         },
-         {
-            "pageid": 5205,
-            "ns": 0,
-            "title": "Chaîne signifiante",
-            "redirect": ""
-         },
-         {
-            "pageid": 5206,
-            "ns": 0,
-            "title": "Chaîne du signifiant",
-            "redirect": ""
-         },
-         {
-            "pageid": 5791,
-            "ns": 0,
-            "title": "Dictionary"
-         },
-         {
-            "pageid": 5890,
-            "ns": 0,
-            "title": "OK"
-         },
-         {
-            "pageid": 6137,
-            "ns": 0,
-            "title": "List of Algebraic Symbols"
-         },
-         {
-            "pageid": 7083,
-            "ns": 0,
-            "title": "Signifyin chain",
-            "redirect": ""
-         },
-         {
-            "pageid": 7438,
-            "ns": 0,
-            "title": "Completed graph"
-         },
-         {
-            "pageid": 7557,
-            "ns": 0,
-            "title": "Introducing Lacan"
-         },
-         {
-            "pageid": 8410,
-            "ns": 0,
-            "title": "Test Main Page"
-         },
-         {
-            "pageid": 8429,
-            "ns": 0,
-            "title": "Signifying order",
-            "redirect": ""
+            "title": "Sign"
          }
       ]
    },
@@ -81193,7 +81077,7 @@
          {
             "pageid": 2711,
             "ns": 0,
-            "title": "Today, Iraq. Tomorrow ... DemocracyÃ"
+            "title": "Today, Iraq. Tomorrow ... Democracy?"
          },
          {
             "pageid": 3010,
@@ -81271,7 +81155,7 @@
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 2987,
@@ -84251,12 +84135,12 @@
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 2719,
             "ns": 0,
-            "title": "Will You Laugh for Me, PleaseÃ"
+            "title": "Will You Laugh for Me, Please?"
          },
          {
             "pageid": 2721,
@@ -84640,13 +84524,7 @@
       "pageid": 3448,
       "ns": 0,
       "title": "Subject's Desire",
-      "links": [
-         {
-            "pageid": 4748,
-            "ns": 0,
-            "title": "Parade of the signifier"
-         }
-      ]
+      "links": []
    },
    {
       "pageid": 4800,
@@ -85169,23 +85047,7 @@
       "pageid": 3446,
       "ns": 0,
       "title": "Substitutive Formation",
-      "links": [
-         {
-            "pageid": 1617,
-            "ns": 0,
-            "title": "Displacement"
-         },
-         {
-            "pageid": 3430,
-            "ns": 0,
-            "title": "Return of the Repressed"
-         },
-         {
-            "pageid": 3716,
-            "ns": 0,
-            "title": "Totemism"
-         }
-      ]
+      "links": []
    },
    {
       "pageid": 5502,
@@ -85337,7 +85199,7 @@
          {
             "pageid": 2711,
             "ns": 0,
-            "title": "Today, Iraq. Tomorrow ... DemocracyÃ"
+            "title": "Today, Iraq. Tomorrow ... Democracy?"
          }
       ]
    },
@@ -85799,7 +85661,7 @@
          {
             "pageid": 2719,
             "ns": 0,
-            "title": "Will You Laugh for Me, PleaseÃ"
+            "title": "Will You Laugh for Me, Please?"
          },
          {
             "pageid": 2723,
@@ -85959,13 +85821,7 @@
       "pageid": 3450,
       "ns": 0,
       "title": "Surrealism and Psychoanalysis",
-      "links": [
-         {
-            "pageid": 3383,
-            "ns": 0,
-            "title": "Marxism and Psychoanalysis"
-         }
-      ]
+      "links": []
    },
    {
       "pageid": 4778,
@@ -86054,7 +85910,7 @@
          {
             "pageid": 4713,
             "ns": 0,
-            "title": "OrnicarÃ"
+            "title": "Ornicar?"
          },
          {
             "pageid": 4723,
@@ -86906,7 +86762,7 @@
          {
             "pageid": 2719,
             "ns": 0,
-            "title": "Will You Laugh for Me, PleaseÃ"
+            "title": "Will You Laugh for Me, Please?"
          },
          {
             "pageid": 2723,
@@ -88197,9 +88053,29 @@
       "title": "Terror",
       "links": [
          {
-            "pageid": 2705,
+            "pageid": 2415,
             "ns": 0,
-            "title": "Give Iranian Nukes a Chance"
+            "title": "The Two Totalitarianisms"
+         },
+         {
+            "pageid": 2704,
+            "ns": 0,
+            "title": "Jack Bauer and the Ethics of Urgency"
+         },
+         {
+            "pageid": 2707,
+            "ns": 0,
+            "title": "The Pope's Failures"
+         },
+         {
+            "pageid": 2714,
+            "ns": 0,
+            "title": "Passion: Regular or Decaf?"
+         },
+         {
+            "pageid": 3917,
+            "ns": 0,
+            "title": "Index:Parallax View"
          }
       ]
    },
@@ -88312,7 +88188,13 @@
       "pageid": 2706,
       "ns": 0,
       "title": "Thanks, But We'll Do It Ourselves",
-      "links": []
+      "links": [
+         {
+            "pageid": 7737,
+            "ns": 0,
+            "title": "Articles by Slavoj Zizek"
+         }
+      ]
    },
    {
       "pageid": 2582,
@@ -89320,7 +89202,7 @@
          {
             "pageid": 2783,
             "ns": 0,
-            "title": "The Iraq War: Where is the True DangerÃ",
+            "title": "The Iraq War: Where is the True Danger?",
             "redirect": ""
          }
       ]
@@ -89805,13 +89687,7 @@
       "pageid": 2313,
       "ns": 0,
       "title": "The One Measure of True Love Is: You Can Insult the Other",
-      "links": [
-         {
-            "pageid": 7737,
-            "ns": 0,
-            "title": "Articles by Slavoj Zizek"
-         }
-      ]
+      "links": []
    },
    {
       "pageid": 2751,
@@ -90340,7 +90216,23 @@
       "pageid": 2771,
       "ns": 0,
       "title": "The Spectre Is Still Roaming Around",
-      "links": []
+      "links": [
+         {
+            "pageid": 2367,
+            "ns": 0,
+            "title": "The Spectre Is Still Roaming Around!"
+         },
+         {
+            "pageid": 2911,
+            "ns": 0,
+            "title": "Slavoj Zizek - Bibliography"
+         },
+         {
+            "pageid": 7737,
+            "ns": 0,
+            "title": "Articles by Slavoj Zizek"
+         }
+      ]
    },
    {
       "pageid": 2367,
@@ -91519,7 +91411,7 @@
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 2717,
@@ -91529,7 +91421,7 @@
          {
             "pageid": 2719,
             "ns": 0,
-            "title": "Will You Laugh for Me, PleaseÃ"
+            "title": "Will You Laugh for Me, Please?"
          },
          {
             "pageid": 4220,
@@ -92037,7 +91929,7 @@
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 2721,
@@ -92362,12 +92254,12 @@
          {
             "pageid": 2711,
             "ns": 0,
-            "title": "Today, Iraq. Tomorrow ... DemocracyÃ"
+            "title": "Today, Iraq. Tomorrow ... Democracy?"
          },
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 2716,
@@ -92501,7 +92393,123 @@
       "pageid": 2060,
       "ns": 0,
       "title": "Totem and Taboo",
-      "links": []
+      "links": [
+         {
+            "pageid": 1654,
+            "ns": 0,
+            "title": "Death"
+         },
+         {
+            "pageid": 1709,
+            "ns": 0,
+            "title": "Psychoanalysis"
+         },
+         {
+            "pageid": 2012,
+            "ns": 0,
+            "title": "Law"
+         },
+         {
+            "pageid": 2065,
+            "ns": 0,
+            "title": "Civilization and Its Discontents"
+         },
+         {
+            "pageid": 2119,
+            "ns": 0,
+            "title": "Sigmund Freud"
+         },
+         {
+            "pageid": 2245,
+            "ns": 0,
+            "title": "Jacques Lacan:Sexual Difference"
+         },
+         {
+            "pageid": 2252,
+            "ns": 0,
+            "title": "Jacques Lacan:Oedipus"
+         },
+         {
+            "pageid": 2438,
+            "ns": 0,
+            "title": "Seminar VII"
+         },
+         {
+            "pageid": 2565,
+            "ns": 0,
+            "title": "No Subject - Articles"
+         },
+         {
+            "pageid": 3350,
+            "ns": 0,
+            "title": "Incest"
+         },
+         {
+            "pageid": 3375,
+            "ns": 0,
+            "title": "Parricide"
+         },
+         {
+            "pageid": 3506,
+            "ns": 0,
+            "title": "Taboo"
+         },
+         {
+            "pageid": 3701,
+            "ns": 0,
+            "title": "Anthropology"
+         },
+         {
+            "pageid": 3716,
+            "ns": 0,
+            "title": "Totemism"
+         },
+         {
+            "pageid": 4567,
+            "ns": 0,
+            "title": "Formulas of Sexuation"
+         },
+         {
+            "pageid": 4762,
+            "ns": 0,
+            "title": "Fatherhood"
+         },
+         {
+            "pageid": 4785,
+            "ns": 0,
+            "title": "Sociology and Psychoanalysis"
+         },
+         {
+            "pageid": 4833,
+            "ns": 0,
+            "title": "Primitive horde"
+         },
+         {
+            "pageid": 4845,
+            "ns": 0,
+            "title": "Darwinism"
+         },
+         {
+            "pageid": 4998,
+            "ns": 0,
+            "title": "Father complex"
+         },
+         {
+            "pageid": 5024,
+            "ns": 0,
+            "title": "Formulae of sexuation"
+         },
+         {
+            "pageid": 5481,
+            "ns": 0,
+            "title": "Seminar XVII"
+         },
+         {
+            "pageid": 8628,
+            "ns": 0,
+            "title": "Graph of Sexuation"
+         }
+      ]
    },
    {
       "pageid": 8661,
@@ -93116,19 +93124,7 @@
       "pageid": 3372,
       "ns": 0,
       "title": "Transference Love",
-      "links": [
-         {
-            "pageid": 4825,
-            "ns": 0,
-            "title": "Transferencelove",
-            "redirect": ""
-         },
-         {
-            "pageid": 4859,
-            "ns": 0,
-            "title": "Boundary violations"
-         }
-      ]
+      "links": []
    },
    {
       "pageid": 4826,
@@ -93203,7 +93199,7 @@
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 2810,
@@ -93392,7 +93388,7 @@
          {
             "pageid": 2494,
             "ns": 0,
-            "title": "Father, can't you see I'm burningÃ"
+            "title": "Father, can't you see I'm burning?"
          },
          {
             "pageid": 2532,
@@ -94281,7 +94277,7 @@
          {
             "pageid": 2711,
             "ns": 0,
-            "title": "Today, Iraq. Tomorrow ... DemocracyÃ"
+            "title": "Today, Iraq. Tomorrow ... Democracy?"
          },
          {
             "pageid": 2721,
@@ -94433,7 +94429,7 @@
          {
             "pageid": 2711,
             "ns": 0,
-            "title": "Today, Iraq. Tomorrow ... DemocracyÃ"
+            "title": "Today, Iraq. Tomorrow ... Democracy?"
          },
          {
             "pageid": 4220,
@@ -94603,7 +94599,7 @@
          {
             "pageid": 2719,
             "ns": 0,
-            "title": "Will You Laugh for Me, PleaseÃ"
+            "title": "Will You Laugh for Me, Please?"
          },
          {
             "pageid": 2721,
@@ -95538,12 +95534,12 @@
          {
             "pageid": 2711,
             "ns": 0,
-            "title": "Today, Iraq. Tomorrow ... DemocracyÃ"
+            "title": "Today, Iraq. Tomorrow ... Democracy?"
          },
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 2716,
@@ -96353,7 +96349,7 @@
          {
             "pageid": 4713,
             "ns": 0,
-            "title": "OrnicarÃ"
+            "title": "Ornicar?"
          },
          {
             "pageid": 6766,
@@ -96410,7 +96406,7 @@
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 2721,
@@ -96490,12 +96486,12 @@
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 2719,
             "ns": 0,
-            "title": "Will You Laugh for Me, PleaseÃ"
+            "title": "Will You Laugh for Me, Please?"
          },
          {
             "pageid": 3652,
@@ -96566,7 +96562,7 @@
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 2722,
@@ -97067,12 +97063,12 @@
          {
             "pageid": 2711,
             "ns": 0,
-            "title": "Today, Iraq. Tomorrow ... DemocracyÃ"
+            "title": "Today, Iraq. Tomorrow ... Democracy?"
          },
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 2717,
@@ -97136,7 +97132,7 @@
          {
             "pageid": 2711,
             "ns": 0,
-            "title": "Today, Iraq. Tomorrow ... DemocracyÃ"
+            "title": "Today, Iraq. Tomorrow ... Democracy?"
          },
          {
             "pageid": 2723,
@@ -97450,7 +97446,7 @@
          {
             "pageid": 2711,
             "ns": 0,
-            "title": "Today, Iraq. Tomorrow ... DemocracyÃ"
+            "title": "Today, Iraq. Tomorrow ... Democracy?"
          }
       ]
    },
@@ -97924,7 +97920,7 @@
          {
             "pageid": 2719,
             "ns": 0,
-            "title": "Will You Laugh for Me, PleaseÃ"
+            "title": "Will You Laugh for Me, Please?"
          },
          {
             "pageid": 2721,
@@ -98551,28 +98547,7 @@
       "pageid": 3370,
       "ns": 0,
       "title": "Word-Presentation",
-      "links": [
-         {
-            "pageid": 3409,
-            "ns": 0,
-            "title": "Primal Repression"
-         },
-         {
-            "pageid": 3869,
-            "ns": 0,
-            "title": "Primal scene"
-         },
-         {
-            "pageid": 4753,
-            "ns": 0,
-            "title": "Fort-Da"
-         },
-         {
-            "pageid": 4869,
-            "ns": 0,
-            "title": "Primal repression"
-         }
-      ]
+      "links": []
    },
    {
       "pageid": 4767,
@@ -98900,7 +98875,7 @@
          {
             "pageid": 2714,
             "ns": 0,
-            "title": "Passion: Regular or DecafÃ"
+            "title": "Passion: Regular or Decaf?"
          },
          {
             "pageid": 3427,
@@ -99172,13 +99147,7 @@
       "pageid": 2383,
       "ns": 0,
       "title": "You May",
-      "links": [
-         {
-            "pageid": 7737,
-            "ns": 0,
-            "title": "Articles by Slavoj Zizek"
-         }
-      ]
+      "links": []
    },
    {
       "pageid": 2758,
@@ -99239,7 +99208,7 @@
          {
             "pageid": 2711,
             "ns": 0,
-            "title": "Today, Iraq. Tomorrow ... DemocracyÃ"
+            "title": "Today, Iraq. Tomorrow ... Democracy?"
          },
          {
             "pageid": 2997,

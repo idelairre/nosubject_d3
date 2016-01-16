@@ -65,6 +65,7 @@ export default class Utils {
 
     function fix(string, pattern) {
       for (let i = 0; i < 2; i += 1) {
+        string = format(string);
         string = string.replace(pattern, (result) => {
           return sub(result);
         });
@@ -73,9 +74,9 @@ export default class Utils {
     }
 
     function format(string) {
-      return string.replace(/[?]/g, 'Ã'); // the likelyhood of an article title including bizarre punctuation is slim
+      return string.replace(/\?(?!"|$)/g, 'Ã'); // the likelyhood of an article title including bizarre punctuation is slim
     }
 
-    return fix(format(string), pattern);
+    return fix(string, pattern);
   };
 }

@@ -31,6 +31,13 @@ export default class AddRandomNodes extends React.Component {
     }
   }
 
+  handleKeyDown(event) {
+    if (event.keyCode === 13) {
+      this.setState({ value: null });
+      ::this.handleAddNodes();
+    }
+  }
+
   render() {
     return (
       <InlineCss stylesheet={`
@@ -49,7 +56,6 @@ export default class AddRandomNodes extends React.Component {
         <input type="number" placeholder="nodes" onChange={::this.handleChangeNodeCount} />
         <input className="nodeInput" type="number" placeholder="links" onChange={::this.handleChangeLinkCount} />
         <button className="button" onClick={::this.handleChangeShuffle}>shuffle: {this.state.shuffleStatus}</button>
-        <button className="button" onClick={::this.handleAddNodes}>add nodes</button>
       </div>
       </InlineCss>
     );

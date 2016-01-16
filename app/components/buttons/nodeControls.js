@@ -7,6 +7,7 @@ import DropdownMenu from './dropdownMenu';
 import fuzzy from 'fuzzy';
 import graphGenerator from '../../source/graphGenerator';
 import InlineCss from 'react-inline-css';
+import ToggleBacklinks from './toggleBacklinks';
 import { memoize } from 'lodash';
 import { Typeahead } from 'react-typeahead';
 
@@ -15,6 +16,7 @@ export default class NodeControls extends React.Component {
     initialAddRandomNodesStatus: "nodeInput--disabled",
     initialData: articles,
     initialPlaceholder: "add node",
+    initialToggleBacklinks: false,
     initialToggleRemove: false,
     initialTypeaheadStatus: "typeahead--active",
     initialValue: ''
@@ -24,6 +26,7 @@ export default class NodeControls extends React.Component {
     addRandomNodesStatus: React.PropTypes.string,
     data: React.PropTypes.array,
     placeholder: React.PropTypes.string,
+    toggleBacklinks: React.PropTypes.bool,
     toggleRemove: React.PropTypes.bool,
     typeaheadStatus: React.PropTypes.string,
     value: React.PropTypes.string
@@ -35,6 +38,7 @@ export default class NodeControls extends React.Component {
       addRandomNodesStatus: this.props.initialAddRandomNodesStatus,
       data: this.props.initialData,
       placeholder: this.props.initialPlaceholder,
+      toggleBacklinks: this.props.initialToggleBacklinks,
       toggleRemove: this.props.initialToggleRemove,
       typeaheadStatus: this.props.initialTypeaheadStatus,
       value: this.props.initialValue
@@ -67,6 +71,10 @@ export default class NodeControls extends React.Component {
     }
   };
 
+  handleBacklinks(value) {
+    this.setState({ toggleBacklinks : value });
+  }
+
   handleToggle(val) {
     if (val === 'add node') {
       this.setState({ toggleRemove: false, addRandomNodesStatus: "nodeInput--disabled", data: articles, typeaheadStatus: "typeahead--active", placeholder: val });
@@ -88,7 +96,7 @@ export default class NodeControls extends React.Component {
 
   handleOptionSelected(article) {
     if (this.state.toggleRemove === false) {
-      ChartActions.generateLinkedNodes(article);
+      ChartActions.generateLinkedNodes(article, this.state.toggleBacklinks);
     } else {
       article.label ? article = article.label : null;
       ChartActions.removeNode(article); // returns a node not an article name
@@ -164,6 +172,7 @@ export default class NodeControls extends React.Component {
              results: "results",
              listItem: "listItem"
            }} />
+          <ToggleBacklinks className={this.state.typeaheadStatus} handleBacklinks={::this.handleBacklinks} />
           <AddRandomNodes className={this.state.addRandomNodesStatus} />
         <DropdownMenu className="dropdown" handleToggle={::this.handleToggle} />
       </InlineCss>
