@@ -1,6 +1,6 @@
 {
   "name": "no_subject_d3",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "data visualization for nosubject.com",
   "main": "index.js",
   "scripts": {
