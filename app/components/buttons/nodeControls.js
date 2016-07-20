@@ -72,16 +72,34 @@ export default class NodeControls extends React.Component {
   };
 
   handleBacklinks(value) {
-    this.setState({ toggleBacklinks : value });
+    this.setState({
+      toggleBacklinks : value
+    });
   }
 
   handleToggle(val) {
     if (val === 'add node') {
-      this.setState({ toggleRemove: false, addRandomNodesStatus: "nodeInput--disabled", data: articles, typeaheadStatus: "typeahead--active", placeholder: val });
+      this.setState({
+        toggleRemove: false,
+        addRandomNodesStatus: "nodeInput--disabled",
+        data: articles,
+        typeaheadStatus: "typeahead--active",
+        placeholder: val
+      });
     } else if (val === 'add random nodes') {
-      this.setState({ toggleRemove: false, typeaheadStatus: "typeahead--disabled", addRandomNodesStatus: "nodeInput--active" });
+      this.setState({
+        toggleRemove: false,
+        typeaheadStatus: "typeahead--disabled",
+        addRandomNodesStatus: "nodeInput--active"
+      });
     } else if (val === 'remove node') {
-      this.setState({ addRandomNodesStatus: "nodeInput--disabled", data: graphGenerator.storedNodes, toggleRemove: true, typeaheadStatus: "typeahead--active", placeholder: val });
+      this.setState({
+        addRandomNodesStatus: "nodeInput--disabled",
+        data: graphGenerator.storedNodes,
+        toggleRemove: true,
+        typeaheadStatus: "typeahead--active",
+        placeholder: val
+      });
     } else {
       ChartActions.clearGraph();
     }
@@ -95,11 +113,11 @@ export default class NodeControls extends React.Component {
   }
 
   handleOptionSelected(article) {
+    const title = article.label || article.title || article;
     if (this.state.toggleRemove === false) {
-      ChartActions.generateLinkedNodes(article, this.state.toggleBacklinks);
+      ChartActions.generateLinkedNodes(title, this.state.toggleBacklinks);
     } else {
-      article.label ? article = article.label : null;
-      ChartActions.removeNode(article); // returns a node not an article name
+      ChartActions.removeNode(title); // returns a node not an article name
     }
   }
 
@@ -164,9 +182,9 @@ export default class NodeControls extends React.Component {
             filterOption={::this.fuzzyMatch}
             options={this.state.data}
             maxVisible={30}
-            onOptionSelected={this.handleOptionSelected.bind(this)}
+            onOptionSelected={::this.handleOptionSelected}
             placeholder={this.state.placeholder}
-            onKeyDown={this.handleKeyDown.bind(this)}
+            onKeyDown={::this.handleKeyDown}
             customClasses={{
              input: "typeahead",
              results: "results",

@@ -123,6 +123,10 @@ class D3Chart {
   removeNode(label) {
     let node = this.findNode(label);
     let nodes = this.force.nodes();
+    if (!node) {
+      console.warn(`Node with label "${label}" not found on graph`);
+      return nodes;
+    }
     let labelAnchors = this.force2.nodes();
     // this is hideous but no other way works
     this.force2.nodes([]);

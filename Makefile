@@ -7,7 +7,16 @@ MOCHA_CMD = node_modules/mocha/bin/_mocha
 
 .PHONY: test test-cov
 
+install:
+	npm install && cd node_modules/alt-async && npm install && npm run build && cd ../..
+
 start:
+	gulp watch
+
+build:
+	gulp build
+
+scrape:
 	BABEL_ENV=development babel-node index.js
 
 test:

@@ -13,3 +13,23 @@ a quick and dirty scraper utility to create json to visualize articles and backl
 
 ## conclusion
 for more complicated force directed graphs, react does not yet play well with d3: http://stackoverflow.com/questions/30330646/how-to-create-a-d3-force-layout-graph-using-react/34485379#34485379
+
+## development
+
+      $ npm install
+
+Build alt-async
+
+      $ cd node_modules/alt-async && npm install && npm run build && cd ../..
+
+You can also just run this to do all of the above:
+
+    $ make install
+
+Run development server:
+
+      $ gulp watch
+
+## tests
+
+    $ make tests

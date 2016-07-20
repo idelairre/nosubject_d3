@@ -36,7 +36,6 @@ export default class Chart extends React.Component {
     }
 
     componentDidUpdate(prevProps, prevState) {
-      let element = ReactDOM.findDOMNode(this);
       d3Chart.addNodes(this.state.nodes);
     }
 
@@ -45,6 +44,6 @@ export default class Chart extends React.Component {
     }
 
     render() {
-      return (<div className="chart"> </div>);
+      return (<div className="chart"></div>);
       }
     }

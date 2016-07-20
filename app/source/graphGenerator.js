@@ -122,6 +122,9 @@ class GraphGenerator {
   async generateLinkedNodes(title, toggleBacklinkedNodes) {
     try {
       let article = await this.fetchArticle(title);
+      if (!article) {
+        throw new Error(`Article title "${JSON.stringify(title)}" not found`);
+      }
       let articles = [];
       articles.push(article);
       for (let i = 0; article.links.length > i; i += 1) {

@@ -4,7 +4,8 @@
   "description": "data visualization for nosubject.com",
   "main": "index.js",
   "scripts": {
-    "start": "make start",
+    "start": "gulp watch",
+    "scrape": "make scrape",
     "test": "make test",
     "coverage": "make test-cov"
   },
@@ -52,7 +53,7 @@
   },
   "dependencies": {
     "alt": "^0.18.1",
-    "alt-async": "git+https://github.com/altjs/async.git",
+    "alt-async": "*",
     "alt-container": "^1.0.0",
     "alt-resolver": "git+https://github.com/altjs/resolver.git",
     "alt-utils": "^1.0.0",
